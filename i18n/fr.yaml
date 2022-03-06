@@ -1,0 +1,24 @@
+table_of_content:
+    other: Table des matières
+
+footer_comment:
+    other: Ce blog n'héberge pas de section commentaires. Si vous souhaitez échanger au sujet d'un article, utilisez le lien 'Contact' dans le menu !
+
+translations:
+    other: 'Langues disponibles pour cet article'
+
+footer_license:
+    other: 'Sauf mention contraire, le contenu de ce site est proposé sous licence Creative Common BY-SA 4.0.'
+
+reading_time:
+    other: 'minutes de lecture'
+
+back_on_top:
+    other: 'Haut de Page'
+
+theme_url:
+    other: 'Sources du site disponibles sur '
+
+taxonomy_filled_under:
+    other: 'Articles classés dans  '
+

@@ -1,0 +1,157 @@
+body {
+    background-color: var(--MAIN-BG-color, #ffffff);
+    color: var(--MAIN-TEXT-color);
+}
+
+a,
+#toc-menu {
+    color: var(--MAIN-LINK-color);
+}
+
+a:hover,
+#toc-menu:hover,
+#body a.highlight:after {
+    color: var(--MAIN-LINK-HOVER-color);
+}
+
+#header-wrapper {
+    background-color: var(--MENU-HEADER-BG-color);
+    color: var(--MENU-SEARCH-color, #ffffff);
+    border-color: var(--MENU-HEADER-BORDER-color);
+}
+
+.searchbox {
+    border-color: var(--MENU-SEARCH-BOX-color);
+    background-color: var(--MENU-SEARCH-BG-color);
+}
+
+#sidebar {
+    background-color: var(--MENU-SECTIONS-BG-color);
+}
+
+#sidebar a {
+    color: var(--MENU-SECTIONS-LINK-color);
+}
+
+#sidebar a:hover {
+    color: var(--MENU-SECTIONS-LINK-HOVER-color);
+}
+
+#sidebar hr {
+    border-color: var(--MENU-SECTION-HR-color);
+}
+
+#sidebar ul.topics > li.parent,
+#sidebar ul.topics > li.active {
+    background-color: var(--MENU-SECTIONS-ACTIVE-BG-color);
+}
+
+#sidebar ul li.active > a {
+    background-color: var(--MENU-SECTION-ACTIVE-CATEGORY-BG-color);
+    color: var(--MENU-SECTION-ACTIVE-CATEGORY-color) !important;
+}
+
+#sidebar ul li.visited > a .read-icon {
+    color: var(--MENU-VISITED-color);
+}
+
+#sidebar .nav-title {
+    color: var(--MENU-SECTIONS-LINK-HOVER-color);
+}
+
+#footer {
+    color: var(--MENU-SECTIONS-LINK-color);
+}
+
+h2, h3, h4, h5, h6 {
+    color: var(--MAIN-TITLES-TEXT-color);
+}
+
+div.notices > div.label {
+    color: var(--MAIN-BG-color, #ffffff);
+}
+
+div.attachments > div.label {
+    color: var(--MAIN-BG-color, #ffffff);
+}
+
+div.attachments.neutral {
+    color: var(--MAIN-TEXT-color);
+}
+
+div.attachments.neutral > div.label {
+    color: var(--MAIN-TITLES-TEXT-color);
+}
+
+code {
+    background-color: var(--CODE-INLINE-BG-color, #fff7dd);
+    border-color: var(--CODE-INLINE-BORDER-color, #fbf0cb);
+    color: var(--CODE-INLINE-color, #5e5e5e);
+}
+
+pre {
+    background-color: var(--CODE-BLOCK-BG-color, var(--MAIN-CODE-BG-color, #282a36));
+    border-color: var(--CODE-BLOCK-BORDER-color, var(--MAIN-CODE-BG-color, #282a36));
+    color: var(--CODE-BLOCK-color, var(--MAIN-CODE-color, #e2e4e5));
+}
+
+div.featherlight .featherlight-content{
+    background-color: var(--MAIN-BG-color, #ffffff);
+}
+
+#top-bar {
+    background-color: var(--MAIN-BG-color, #ffffff);
+}
+
+.copy-to-clipboard {
+    background-color: var(--CODE-INLINE-BG-color, #fff7dd);
+    border-color: var(--CODE-INLINE-BORDER-color, #fbf0cb);
+    color: var(--CODE-INLINE-color, #5e5e5e);
+}
+
+.copy-to-clipboard:hover {
+    background-color: var(--CODE-INLINE-color, #5e5e5e);
+    color: var(--CODE-INLINE-BG-color, #fff7dd);
+}
+
+/* using our MAIN-TEXT and MAIN-BG colors here hopefully asserts for enough contrast */
+pre .copy-to-clipboard {
+    background-color: var(--MAIN-BG-color, #ffffff);
+    border-color: var(--MAIN-TEXT-color);
+    color: var(--MAIN-TEXT-color);
+}
+
+pre .copy-to-clipboard:hover {
+    background-color: var(--MAIN-TEXT-color);
+    color: var(--MAIN-BG-color, #ffffff);
+}
+
+#homelinks {
+    background-color: var(--MENU-HEADER-BORDER-color);
+    border-bottom-color: var(--MENU-HEADER-BORDER-color);
+}
+
+#homelinks a {
+    color: var(--MENU-HOME-LINK-color, #cccccc);
+}
+
+#homelinks a:hover {
+    color: var(--MENU-HOME-LINK-HOVER-color, var(--MENU-HOME-LINK-HOVERED-color, #e6e6e6));
+}
+
+.anchor {
+    color: var(--MAIN-ANCHOR-color);
+}
+
+#body .tags a.tag-link {
+    background-color: var(--MENU-HEADER-BG-color);
+    color: var(--MAIN-BG-color, #ffffff);
+}
+
+#body .tags a.tag-link:before {
+    border-right-color: var(--MENU-HEADER-BG-color);
+}
+
+#body .tags a.tag-link:after {
+    background-color: var(--MAIN-BG-color, #ffffff);
+}

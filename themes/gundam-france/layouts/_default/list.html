@@ -1,0 +1,18 @@
+{{ define "body_class" }} post-template {{ end }}
+
+{{ define "main" }}
+
+{{- partial "header-light.html" $ -}}
+    <main>
+        {{ .Content }}
+            <ul class="contents">
+            {{ range .Pages }}
+                <li>
+                    <div>
+                        {{ partial "summary.html" . }}
+                    </div>
+                </li>
+            {{ end }}
+            </ul>
+    </main>
+{{ end }}

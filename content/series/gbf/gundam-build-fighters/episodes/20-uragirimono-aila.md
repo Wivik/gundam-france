@@ -1,0 +1,37 @@
+---
+title: "20 - Uragirimono Aila"
+---
+
+20 - Uragirimono Aila
+---------------------
+
+
+* La trahison d'Aila
+* 24 février 2014
+
+
+
+![](/images/stories/saga/gundambf/episodes/20-1.jpg)
+![](/images/stories/saga/gundambf/episodes/20-2.jpg)
+![](/images/stories/saga/gundambf/episodes/20-3.jpg)
+
+
+
+Allan contacte la PPSE pour demander d'envoyer le modèle « A5 » malgré son état inachevé. Un Gundam Exia encore en montage stocké dans un Ptolemaios prétendu être le « plus puissant Gunpla jamais conçu »...
+
+
+Le président de la team Némésis arrive au Japon. Malgré les bons résultats de l'équipe, le président se montre ferme en rappelant l'argent qu'il a investi dans l'institut Flana et veut comme objectif unique la victoire de la mondiale. Le président est rejoint par son petit fils à qui il promet le trophée de la victoire en cadeau d'anniversaire. Après le départ du vieux, Barthes comprend alors pourquoi le président a investi dans leurs travaux, juste pour offre une victoire à son petit fils. Aila trouve tout cela idiot encore une fois. 
+
+
+Le lendemain, le président Mashita refait sa petite crise parce que Sei et Reiji sont toujours dans le tournois et essaye de demander des comptes à Baker qui s'est cachée pour éviter ça. Elle ne pensait pas qu'ils seraient capables de battre Nils. Pendant ce temps, Nils essaye d'hypnotiser Reiji pour avoir des résultats à ses interrogations sur les particules Plavsky, mais tout ce qu'il y gagne, c'est de l'endormir. Sei ne pense pas que Reiji sache quelque chose, Nils se tourne alors vers lui pour essayer de lui soutirer des informations. Sei pense que son père doit avoir des informations éventuellement car il a participé au développement du système de Gunpla Battle. Nils pense alors que Sei doit savoir quelque chose mais qu'il est trop jeune pour s'en rappeler. Il décide alors de l'hypnotiser à son tour pour réveiller les souvenirs de son passé. Mais dans la foulée, Mao revient en hurlant, toujours pas remis de sa peine de cœur. Le boucan engendré par le troupeau de sa chambre voisine agace Ricardo à la longue, surtout parce qu'il est nerveux pour son match de quart de finale. Il décide alors de partir faire un tour pour se préparer. En chemin, il croise M. Ral qui l'accompagne dehors. Il l'averti que son prochain adversaire, Aila Jyrkiänen sera extrêmement difficile à battre. Ricardo le sait mais il pense qu'il y a toujours un moyen pour ça, d'autant que Sei et Reiji l'attendent en demi finale pour terminer leur précédent combat. M. Ral souhaite bonne chance à Ricardo, ce qui l'amuse à entendre de la part de celui qu'on surnomme le « Géant Bleu ». Pendant ce temps, la team némésis étudie de comportement du Wing Fenice et Aila ne pense pas que ce combat sera une difficulté. Par contre, si elle gagne, elle sera opposée à Reiji... De retour dans la chambre de Sei, l'hypnose a eu un effet particulier sur le gamin. Il se met à raconter toutes les répliques de la série Mobile Suit Gundam qu'il connaît par cœur.   
+
+En préparation des prochains matchs, Kirara anime le spectacle en faisant une interview de China devant les caméras. Celle-ci est plus que gênée et timide devant le monde qui se trouve devant elle. Kirara lui demande comment ça se passe avec Sei à l'école, et elle bafouille que celui-ci passe son temps à dessiner des idées de Gunpla. Kirara commente en disant que c'est pas bon pour son éducation. La mère de Sei assiste à tout cela, horriblement gênée et agacée. Kirara remarque Ricardo qui est en route vers le grand stade. 
+
+
+Peu de temps après, le match de Ricardo contre Aila est sur le point de démarrer. La scène se met en place et le terrain se dessine pour former le champ 4 « Montagne » avec un décor enneigé. Les deux Gunpla partent alors à la rencontre mutuelle. Ricardo a repéré le Qubeley Papillon et engage directement les hostilités. Aila riposte en lâchant ses Funnels transparents, son arme qui a battu jusqu'ici tous ses adversaires. Néanmoins, la grande rapidité de la monture du Wing Fenice les empêche d'arriver à portée pour attaquer. Barthes pense également que l'état mental d'Aila n'est pas au mieux. En effet, celle-ci n'a de cesse de penser que son prochain combat l'opposera à Reiji. Le Wing se retourne et tire alors son Buster Rifle dans le tas qui détruit tous les Funnels transparents. Aila était encore déconcentrée et n'a pas fait attention à l'action, résultat, le Qubeley Papillon subit ses premiers vrais dégâts de combat à la surprise générale. Aila se reprend en sortant les autres Funnels qui cette fois ne sont pas transparents. Néanmoins la rapidité du Wing Fenice les empêche de le rattraper. Pendant ce temps, Kirara arrive sur place en se plaignant de son interview qui a duré trop longtemps. Ricardo élimine un à un les Funnels et tient réellement bien face au Qubeley Papillon. Assistant au combat, le petit fils du président remarque que le Gunpla de son grand père est en train de perdre. Il s'absente alors pour appeler Barthes au combat. Ce dernier remarque que les niveaux du système « Embody » d'Aila sont faibles. Le vieux ordonne alors d'augmenter la puissance, quitte à mettre en danger Aila. Barthes accepte alors et s'exécute, ce qui inflige de grandes douleurs à Aila qui ne comprend pas ce qui lui arrive. Le Qubeley est immobilisé le temps qu'Aila reprenne ses esprits. Ricardo profite de cela pour l'attaquer mais soudainement, le Qubeley Papillon se réactive et arrache le bras droit du Wing Fenice en un instant, puis l'attaque à nouveau à la surprise de Ricardo. Celui-ci ne comprend pas comment le Qubeley a pu gagner aussi vite en rapidité et réactivité. Pendant ce temps, le troupeau de Sei, Reiji, Mao et Nils courent vers l'arêne car ils ont manqué le début à cause de l'hypnose de Sei qui lui a fait raconter les 43 épisodes de la série Gundam. Arrivés, ils remarquent que le Wing Fenice est en très mauvaise posture face au Qubeley qui est à peine endommagé. Fellini essaye de comprendre comment elle peut lire aussi facilement les mouvements du Fenice puis il se relance à l'attaque mais se fait encore mettre à terre. Kirara l'appelle pour le supplier d'arrêter le combat mais Ricardo refuse. Fonçant contre le Qubeley, il se fait empaler par son arme et décide de tenter le tout pour le tout en lançant l'autodestruction du Wing Fenice, espérant l'emporter avec lui. Mais au moment de lancer son coup final, Kirara l'interrompt en le traitant de lâche juste pour déclencher un draw alors que son but est de gagner. Elle l'invite à laisser tomber pour continuer de faire de nouveaux combats avec son Fenice. Fellini accepte alors sa défaite et déclare forfait.   
+
+Cependant malgré l'arrêt du combat, le Qubeley Papillon continue de bouger et projette à terre le Wing Fenice. Aila a totalement perdu ses esprits et le Qubeley est contrôlé par le système Embody qui continue de s'acharner sur le Wing Fenice avec une rage animale. Reiji intervient avec son Beginning Gundam en s'opposant au Qubeley qui refuse de s'arrêter. Mais son intervention est de courte durée, il se fait explorer immédiatement par le Gunpla de Némésis. Reiji est encore plus furieux car il ne comprend pas comment son opposant peut produire de tels mouvements... 
+
+
+Le système combat est finalement arrêté et Aila s'écroule au sol. Reiji fonce vers la pilote de Némésis qui reprend peu à peu ses esprits mais soudain, il reconnaît au travers du casque cassé celle qu'il connaît sous le nom d'Aina...
+

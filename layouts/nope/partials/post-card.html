@@ -1,0 +1,28 @@
+<article class="post-card">
+        <a href="{{ .context.Permalink }}" class="post-card-feature-image">
+        {{ if .context.Param "feature_image" }}
+        <img class="post-card-img" src="{{ .context.Param "feature_image" }}" alt="{{ .context.Title }}" />
+        {{ end }}
+        </a>
+        <div class="post-card-content">
+            <a href="{{ .context.Permalink }}">
+            <p class="post-card-categories">
+                {{ with .context.Params.categories  }}
+                    {{ $primaryCat := (index . 0) }}
+                        {{ $primaryCat }} /
+                {{ end }}
+                {{ with .context.Params.series }}
+                    {{ $primarySerie := (index . 0) }}
+                        {{ $primarySerie }}
+                {{ end }}
+            </p>
+
+            <h3>{{ .context.Title }}</h3>
+
+            <p class="post-card-summary">{{ .context.Summary }}</p>
+
+            <p class="post-card-subdetails"><time datetime="{{ .context.Date | time.Format ":date_long" }}">{{ .context.Date | time.Format ":date_long" }}</time>
+                - {{ .context.ReadingTime }} {{ i18n "reading_time" }}</p>
+            </a>
+        </div>
+</article>

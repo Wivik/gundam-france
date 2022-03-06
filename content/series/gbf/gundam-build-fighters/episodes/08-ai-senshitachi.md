@@ -1,0 +1,44 @@
+---
+title: "08 - Ai Senshitachi"
+---
+
+08 - Ai Senshitachi
+-------------------
+
+
+* Rencontres entre guerriers
+* 25 novembre 2013
+
+
+
+![](/images/stories/saga/gundambf/episodes/08-1.jpg)
+![](/images/stories/saga/gundambf/episodes/08-2.jpg)
+![](/images/stories/saga/gundambf/episodes/08-3.jpg)
+
+
+
+Dans une université, un élève fait un exposé devant son enseignant sur ses recherches sur le fonctionnement des Particules Plavsky, créées par la Plavsky Particle System Engineering. Faisant une démonstration de son fonctionnement, il explique que ces particules interagissent avec le plastique des Gunpla pour permettre de les contrôler librement mais aussi pour reproduire les effets des armes, rayons et missiles. Le professeur est surpris de voir que son élève compte baser ses recherches sur des particules qui ne servent qu'à faire bouger des jouets et s'avère déçu de la part de celui qu'on surnomme le « génie précoce ». L'élève argumente en demandant à son professeur s'il savait que les particules plavsky fonctionnaient en mélangeant des antiparticules ensembles, ce qui surprend ce dernier. Il pense que la technologie des particules plavsky devrait être utilisée dans de nombreuses autres applications mais la PPSE ne s'en sert que pour animer des jouets. Mais la fabrication est maintenue secrète, probablement par peur de voir son application détournée ou pour d'autres raisons encore. Il annonce alors à son professeur que son objectif est de percer le secret de cette technologie... 
+
+
+Un mois s'est écoulé depuis les derniers événements. Ricardo Fellini rend visite à l'un de ses amis, Greco Logan, qui est également compétiteur dans le tournois mondial de Gunpla. Ricardo est venu l'encourager pour l'épreuve de qualification, là où lui est d'ores et déjà dans la liste des participants. Ricardo remarque le modèle de Greco, un Talgeese personnalisé, et admire la qualité de finition. Greco lui dit que c'est une vengeance pour lui avoir faire perdre les deux précédents championnats mondiaux. Ricardo lui demande alors qui est son prochain adversaire. Greco le décrit comme un gamin qui a commencé le Gunpla récemment, depuis seulement trois mois mais qui enchaîné les victoires, un certain Nils Nielsen. 
+Pendant ce temps, on retrouve Nils Nielsen, qui n'est autre que l'étudiant vu précédemment, en train d'analyser le profile de Greco Logan et les performances de son Talgeese Valkyrie. Il repense à sa conversation avec son professeur où il lui expliquait que le meilleur moyen de percer le secret des particules Plavsky est de participer au tournois de Gunpla. En tant que compétiteur, il devrait avoir accès aux éventuels galas et soirées organisés par la PPSE et donc de rencontrer ses représentants pour essayer de leur soutirer des informations. Regardant le Hyaku Shiki modifié qu'il a utilisé précédemment, il pense que celui-ci ne sera pas à la hauteur pour la prochaine bataille et se tourne vers un autre, un Astray mis en exposition à la méthode des anciens samouraïs qu'il réservait pour la mondiale.   
+
+A la PPSE, les essais du Kämpfer Amazing continuent avec une analyse de pointe sur ses performances sur tous les terrains. Le staff félicite Alan pour la qualité de conception mais celui-ci préfère féliciter toute l'équipe de la PPSE, mais également le pilote, Meijin Kawaguchi. Sortant du laboratoire, les assistants d'Alan disent qu'ils sont désormais fin prêts pour la compétition mondiale. Cependant, Alan est inquiet par l'équipe Némésis, fondée par un riche industriel de l'extraction du gaz qui est sujette à rumeurs sur une volonté de gagner le tournois mondial. 
+Dans une maison, le président de l'équipe Némésis reçoit justement Barthes, de l'institue Flana. Barthes lui présente la personne que le président attendait de voir, Aila Jyrkianen de l'institue Flana. Le président ne semble pas apprécier cette rencontre, espérant voir le meilleur Gunpla Fighter au monde pour lequel il a investi beaucoup d'argent et s'avère déçu du résultat en voyant Aila. Barthes justifie le fait qu'Aila est en réalité la meilleure de l'institution. Celle-ci invite alors à faire une démonstration de ses talents au président. Le vieil homme fait alors appel à Gawain pour faire faire un match entre eux. Barthes s'inquiète parce qu'Aila n'a pas son Gunpla avec elle, mais le président réplique qu'elle n'aura qu'à utiliser l'un des modèles d'exposition, ce qui ne devrait pas la déranger si c'est effectivement la meilleure... Aila acquiesce et dit même n'avoir jamais entendu parler de ce Gawain. Barthes lui explique qu'il s'agit de l'un des meilleurs de l'équipe Némésis.   
+
+Au magasin Iori, Reiji s'inquiète de voir que Sei est toujours enfermé dans son atelier. Sa mère lui dit qu'il est comme son père, une fois plongé dedans il n'en sort pas. A l'intérieur, Sei travaille sur la remise à niveau du Build Strike en repensant à toutes ses expériences passées et surtout les techniques découvertes au fil du temps. Il a compris que l'enjeu sera d'exploiter au maximum les particules plavsky pour pouvoir prétendre au niveau mondiale également.   
+
+De retour sur l 'équipe Némésis, Gawain qui pilote le Devil Gundam semble mis en difficulté par Aila qui ne contrôle qu'un simple Jegan. Celle-ci fini par mettre rapidement hors d'état le Devil Gundam et remporte la victoire à la surprise du président et de Gawain. Impressioné, le président décide de lui faire d'elle la pilote de l'équipe Némésis en lui mettant comme challenge de battre Carlos Kaiser, le précédent champion mondial. 
+
+
+Aux USA, le tournois de qualification américain pour la mondiale démarre dans le stade « La Vie en Rose ». Ce dernier round mettra en compétition Greco Logan contre Nils Neilsen. Ricardo assiste également au combat qui est organisé tel les matchs de boxe ou de catch. Greco fait son entrée en scène sous les hourras du public, suivi ensuite par Nils Neilsen, présenté comme un petit génie de 13 ans qui a déjà obtenu trois doctorats, fils d'un célèbre détective et d'une mère maitre en arts martiaux. Les deux adversaires se font face, Greco essaye d'impressionner Nils mais celui-ci aussi a une bonne raison de remporter l'épreuve. Les deux mettent alors leur Gunpla en place pour lancer le combat. Greco sort son Talgesse Valkyrie tandis que Nils sort le Sengoku Astray Gundam.   
+
+Greco constate que l'Astray est taillé pour le corps à corps et pense qu'il pourra le tenir à distance. Cependant, Nils parvient à esquiver toutes les attaques en un minimum de mouvement. L'Astray s'élance en l'air pour éviter les chutes de rochers provoquées par le Talgesse pendant que celui-ci charge le tir le plus puissant de son canon. L'Astray sort alors ses deux sabres et fait une attaque en croix qui découpe littéralement en quatre le rayon tiré par le Talgeese. Continuant cette attaque, le Talgeese fini enseveli sous des rochers. Cependant, la combativité de Greco l'emporte sur la raison là où Nils l'invite à laisser tomber. Chargeant avec le Talgeese, son sabre laser est une nouvelle fois bloqué par les lames de l'Astray qui fini par couper les deux bras de son adversaire. Greco attrape alors l'Astray et fonce de toute sa puissance vers une falaise en espérant l'écraser contre. Nils active à ce moment-là l'une des armes spéciales de l'Astray qui bloque littéralement la charge du Talgeese et l'immobilise ensuite. Quelques secondes après, une onde de choc pulvérise le Talgeese qui fini en pièces au sol sous les yeux ébahis de Greco qui ne parvient pas à comprendre ce qu'il vient de se passer, mettant un terme au combat. Nils Nielsen est alors consacré champion américain.
+Ricardo est également impressionné par la technicité de l'Astray et comprend que Nils a exploité au maximum les particules Plavsky. Constatant cela, il se dit que l'avenir de la compétition va se jouer sur ce facteur, avec des Builders sachant utiliser les particules à leur avantage. 
+On assiste à différents victoires en Thailande et en Argentine pour les qualifications mondiale, suivi d'un plan sur le Kämpfer Amazing et enfin, de Mao Yasaka qui travaille sur l'amélioration de son Gundam X Maoh.   
+
+Pendant ce temps, au magasin Iori, Reiji n'en peut plus d'attendre que Sei ait terminé le nouveau Gunpla, mais Sei fini par le jeter dehors car il a besoin de concentration sur son travail. 
+
+
+M. Ral s'est rendu en Finlande pour assister au tournois de Carlos Kaiser, le précédent champion mondial. En retard, il se précipite vers le stade mais lorsqu'il arrive, c'est déjà la fin du match. Surpris car pendant que le combat aurait du juste commencer, il constate avec effroi que l'Alpha Azieru de Carlos est en miettes sur la borne Gunpla et s'avère surpris de remarquer que le champion mondial a été battu aussi violemment. L'animatrice du tournois annonce alors qu'Aila Jyrkianen de l'équipe Némésis sera la représentante finlandaise du 7ième tournois mondial de Gunpla. M. Ral constate qu'il s'agit d'une jeune femme. 
+

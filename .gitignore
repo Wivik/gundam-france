@@ -1,0 +1,16 @@
+# ---> Hugo
+# Generated files by hugo
+/public/
+/resources/_gen/
+/temporaire/
+
+# Executable may be added to repository
+hugo.exe
+hugo.darwin
+hugo.linux
+.ztr-directory
+.hugo_build.lock
+
+## old PHP files
+*.php
+

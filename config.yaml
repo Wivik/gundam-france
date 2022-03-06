@@ -1,0 +1,28 @@
+baseURL: 'https://gundam-france.com/'
+languageCode: 'fr-FR'
+title: 'Gundam France'
+theme: "gundam-france"
+
+menu:
+  main:
+    - identifier: "saga-gundam"
+      name: "La Saga Gundam"
+      url: "/series/"
+      weight: 10
+    - identifier: "encyclopedie"
+      name: "Encyclopedie"
+      url: "/encyclopedie/"
+      weight: 20
+    - identifier: "jv"
+      name: "Jeux vidéo"
+      url: "/jv/"
+      weight: 30
+    - identifier: "a-propos"
+      name: "A Propos"
+      url: "/a-propos/"
+      weight: 40
+
+disableKinds:
+- taxonomy
+- term
+

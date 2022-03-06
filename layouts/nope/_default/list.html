@@ -1,0 +1,25 @@
+{{ define "body_class" }} post-template {{ end }}
+
+{{ define "main" }}
+
+{{- partial "header-light.html" $ -}}
+  <main>
+    <pre>
+      template = list.html
+      kind = {{ .Kind }}
+      sections = {{ .Sections }}
+      pages = {{ .Pages }}
+      file = {{ .File }}
+    </pre>
+      {{ .Content }}
+          <ul class="contents">
+          {{ range .Pages }}
+              <li>
+                  <div>
+                    {{ partial "summary.html" . }}
+                  </div>
+              </li>
+          {{ end }}
+          </ul>
+  </main>
+{{ end }}

@@ -1,0 +1,34 @@
+{{ define "body_class" }} post-template {{ end }}
+
+{{ define "main" }}
+
+{{- partial "header-light.html" $ -}}
+
+<main>
+    <article>
+
+            <h1>{{ .Title }}</h1>
+            {{ if .Params.subtitle  }}
+            <section class="post-page-subtitle">
+                {{ .Params.subtitle }}
+            </section>
+            {{ end }}
+                {{ if .TableOfContents }}
+                <details>
+                <summary>Table des matières</summary>
+                    <div class="post-page-contents">
+                    {{ .TableOfContents }}
+                    </div>
+                </details>
+                {{ end }}
+        <section>
+            <div class="post-content">
+            {{ .Content }}
+            </div>
+        </section>
+
+    </article>
+</main>
+
+
+{{ end }}

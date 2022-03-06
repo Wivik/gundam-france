@@ -1,0 +1,41 @@
+---
+title: Musiques
+---
+
+Musiques
+--------
+
+
+### Mobile Suit Gundam Thunderbolt Original Soundtrack Feat. Naruyoshi Kikuchi
+
+
+![cd_01.jpg](/images/mini/images-stories-saga-thunderbolt-cd-_tb_250x223_cd_01.jpg)
+
+
+* Référence : VRCL-30088
+* Type : BluSpec CD 2
+* Nombre de disques : 1
+* Prix 3100¥
+* Date de sortie : 15 juin 2016
+
+
+Liste des pistes
+
+
+1. THUNDERBOLT FOR MAIN THEME
+2. SENTO-CHU YO GEKISEN-JYOTAI
+3. SE 1 1950 NENDAI GIJI FULL ACOUSTIC
+4. SENTO-KAISHI YO
+5. SENTO-HAICHI YO
+6. SHUTSUGEKI YO
+7. SE 2 2050 NENDAI GIJI FULL ELECTRIC
+8. WHITE DAY IN THE BLUE / Geila Zilkha
+9. I'M YOUR BABY / I.C.I aka ICHIKAWA AI
+10. YES GIRL / Geila Zilkha
+11. THE DREAMING GIRL IN ME / SAKAMOTO YOSHIE
+12. I'M 60 / YAHABA AYUMU
+13. OH GOD. I'M ALONE / NAKAZAWA NOBUYOSHI
+14. MARTINI ON THE MOON / KIKUCHI NARUYOSHI
+15. WE'RE THE ONLY ONES HERE IN THIS WORLD / NAKAZAWA NOBUYOSHI
+16. FAN OF THE HAY / SAKAMOTO YOSHIE
+17. RONALD REAGAN OTHER SIDE

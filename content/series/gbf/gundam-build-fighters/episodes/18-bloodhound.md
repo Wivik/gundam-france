@@ -1,0 +1,46 @@
+---
+title: "18 - Bloodhounds"
+---
+
+18 - Bloodhounds
+----------------
+
+
+* Les limiers
+* 10 février 2014
+
+
+
+![](/images/stories/saga/gundambf/episodes/18-1.jpg)
+![](/images/stories/saga/gundambf/episodes/18-2.jpg)
+![](/images/stories/saga/gundambf/episodes/18-3.jpg)
+
+
+
+Flashback du match de Luang Dallara. Il patrouille à la recherche de son adversaire et fini par le remarquer suite au tir du GM Sniper K9 des frères Renato. Il engage ensuite le combat rapproché en espérant surpasser le GM dans ce mode mais le GM oppose une grande résistance. Mario demande à son frère de le tenir au moins 20 secondes. L'Abirgorbine fini par repousser le GM qui le harcèle alors de tirs léger qui ne parviennent pas à percer son armure. Mais soudain, les jointures du Gunpla de Luang explosent subitement, démembrant celui-ci qui se retrouve à la merci du GM K9 et l'achève, mettant fin au combat sans que Luang n'ait pu comprendre ce qui s'est passé. 
+
+
+Ricardo commente le combat de Luang en faisant remarquer à M. Ral que les frères Renato n'ont jamais fait été très remarqués durant les qualifications. M. Ral pense qu'ils ont du passer tout leur temps à aiguiser leurs griffes pour le jour de la finale. Cependant, Ricardo se dit qu'ils ne verront peut-être pas le bout vu que leur prochain adversaire n'est autre que Meijin Kawaguchi... Pendant ce temps, les Renato fêtent leur victoire et commence à se renseigner sur leur prochain adversaire. La popularité de Meijin est énorme sur les réseaux en ligne et ils se disent que ça pourra faire l'effet d'une bombe s'ils parviennent à le battre.   
+
+Mao est de retour, plus revigoré et motivé que jamais suite à son élimination du tournois. Celui-ci a décidé de rester avec Sei et Reiji pour le tournois et leur propose son aide si jamais ils en ont besoin. Mao leur apprend ensuite qu'il a un rencart avec Misaki et s'en va tout content. 
+Plus tard, devant un restaurant « Arc Angel », Sei apprend à China que Mao et Misaki sortent ensembles et celui-ci bafouille en disant qu'après le tournois ils pourraient faire quelque chose. Ils ont interrompus dans leur timidité par Aila qui arrive à ce moment-là pour baver devant les plats de la vitrine du restaurant. China se rappelle d'elle car ils l'ont vue avec Reiji la dernière fois mais Aila ne se souvient pas les avoir vu. Ils prennent alors un verre ensemble pour se présenter, et Aila manque de casser sa couverture et prétend alors s'appeler « Aina », ce qui emballe Sei vu qu'il s'agit du nom de l'héroïne de 08th MS Team. China lui demande si elle est venue aussi assister au tournois de Gunpla, Aina répond que oui mais Reiji lui rappelle qu'elle lui avait dit que le Gunpla ne l'intéressait pas. Elle se rattrape aux branches en disant qu'elle ne fait qu'accompagner un ami venu pour ça et Reiji la provoque en demandant si elle a vraiment des amis. Ils commencent alors à se disputer une nouvelle fois et China parvient à les calmer en commandant des glaces.   
+
+Pendant ce temps, Meijin et Allan étudient le combat entre l'Abigorbine et le GM Sniper K9. Allan ne comprend pas comment les articulations ont pu être détruites comme ça car la puissance des pistolets du GM ne suffisait pas. Il n'y a pas présence non plus de Funnels ou autres modules téléguidés. Meijin lui dit qu'il y a toujours un lien de cause à effet et qu'il suffit juste de trouver le truc. Ce qui le réjouit au final car il pourra enfin prendre part à un vrai combat à ses yeux. Du côté des Renato, Mario termine de préparer leur Gunpla pour le combat du lendemain et propose à Julio de sortir le grand jeu. Celui-ci trouve que le Meijin actuel n'est bien comparé au second et dit que ça ne sera pas nécessaire. Néanmoins, l'idée de le voir se faire humilier devant tout le monde leur donne une bonne motivation pour poursuivre leur « guerre ».   
+
+Toujours au restaurant, China et Sei s'amusent de voir combien Reiji et Aina ont en commun dès qu'il s'agit de nourriture. Ils sont interrompus par un Mao totalement dépité qui est revenu de son rendez-vous galant avec une joue enflée parce qu'il a été trop vite en besogne et celle-ci l'a rejeté. Aina observe le scène et semble apprécier ces moments entre amis, chose qu'elle n'a pas connu à dans son enfance.   
+
+Le match entre Meijin et les Renato est sur le point de commencer. Reiji s'installe dans les loges des participants pour observer le match et s'étonne de l'absence de Fellini. Sei lui dit qu'il compte voir le match en vidéo, persuadé de la victoire de Meijin. Dans le public, M. Ral demande où se trouve la mère de Sei. China lui dit qu'elle ne vient pas car Sei et Reiji ne participent pas. Devant l'a borne de combat, les deux participants se préparent... 
+
+
+La carte se dessine, « Champs 7 : Ruines », zone rappelant les ruines où le White Base s'est installé en Amérique du Nord pour échapper à l'assaut de Garma Zabi. Les deux Gunpla sont lancés et le match débute. Meijin est à la recherche de son adversaire et cherche à localiser les points où le GM Sniper K9 pourrait l'attaquer en tireur caché. Julio active alors le « Hound », le backpack du GM Sniper K9 se change alors en machine à quatre pattes qui se déploie automatiquement en drone. Le Hound étant en place, les frères passent à l'attaque et tirent sur le Kämpfer qui perd son arme longue portée. Repérant le GM, Meijin fonce contre lui et encaisse un tir direct du sniper à la surprise des Renato. Meijin est soudainement attaqué par en bas et perd un de ses containers d'armes. Ils découvrent alors la présence du drône Hound qui lui tire dessus. Ne pouvant voler, le Kämpfer sort les lance missiles pour faire sortir le GM de sa cachette, ce qu'il parvient à faire. Les deux unités continuent leur combat à distance et le Kämpfer déclenche alors un piège armé par un fil dans le décor, à la surprise de son équipe qui se demande comment ils ont pu piéger la zone aussi vite. Harcelé de part en part, le Kämpfer est dans l'obligation de fuir et esquiver les tirs du GM et du Hound. Tel le White Base dans la série originale, il fini par se cacher dans les ruines d'un stade pour repenser à leur stratégie. Profitant de cela, les Renato déploient alors leur équipe « Bloodhound ». Le Hound se sépare avec un deuxième drone volant qui s'envole et part à la recherche du Kämpfer.   
+
+Meijin et Allan se concertent et comprennent la supériorité des Renato en constatant la présence d'unité supplémentaires stockées dans le backpack. Allan pense que dans cette cachette ils ne pourront exploiter leurs drones pour l'attaquer mais Meijin se dit plutôt qu'ils ont fait exprès de les amener là. Pendant ce temps, le drone volant arrive au dessus d'eux et lâche un escadron de soldats Zeon au 1/144. Observant la scène, Reiji remarque la présence de petits objets et Allan est également alerté par cela. Les Renato déclenchent alors leur opération « Time Stop ». Les soldats se dirigent autour du Kämpfer et posent des bombes sur les jointures des articulations. Meijin a compris alors leur stratégie, mais apparemment bien trop tard car l'explosion est déclenchée. M. Ral commente ce qu'il voit en disant que les Renato ne jouent pas au Gunpla mais font une vraie guerre. 
+Le GM part en reconnaissance pour voir l'état du Kämpfer mais ils ont attaqués soudainement et ils perdent une arme. Le Kämpfer est toujours en un seul morceau et a survécu à l'explosion à la surprise des Renato. Ils constatent alors que les jointures du Kämpfer ont été lubrifiées par anticipation d'une attaque contre celles-ci. Il n'a eu qu'à tourner sur lui même pour éjecter les bombes posées. Le duel continue et les deux opposants commencent à en venir au corps à corps, mais la rapidité d'action du GM est étonnement élevée. Sei remarque cela et se demande s'il s'agit d'un système Trans-Am, mais M. Ral comprend qu'ils utilisent l'EXAM.   
+
+Profitant d'une rapidité accrue, le GM endommage quelques parties du Kämpfer et met à mal Meijin. Julio ouvre une communication à Meijin pour le provoquer et lui dire qu'un gamin né dans un pays en paix ne pourra jamais comprendre les enjeux d'une vraie guerre. Le GM détruit alors le dernier container d'armes du Kämpfer qui ne possède plus qu'un beam saber. Le Kämpfer est de plus en plus en difficulté car harcelé par le GM et ses drones, sa mobilité et son armure sont gravement réduits et cela devient difficile pour Meijin.   
+
+Alors que tous pensent que Meijin est sur le point de perdre, celui-ci joue sa dernière carte en fonçant vers l'endroit où son premier container est tombé pour prendre la gaitling qui était dedans et finalement retourner la situation à son avantage. Le GM fini par être détruit mais les Renato ont encore le Hound à disposition. Néanmoins, le Kämpfer a récupéré également un de ses Beam Rifles et anéantie son dernière adversaire en rappelant aux Renato que le Gunpla Battle n'a rien à voir avec la guerre. Le combat est terminé et la victoire de Meijin contre les Renato s'est faite à un cheveu. Allan félicite Kawaguchi mais celui-ci se désole de voir dans quel état le Kämpfer a fini et considère cette « victoire » comme un échec. 
+
+
+Baker est en liaison avec le Président pour lui dit que Sei et Reiji seront éliminés avant son retour. Elle pense qu'ils ne pourront gagner leur prochain match qui les opposera au « génie précoce », le « Samurai Boy » Nils Nielsen... 
+

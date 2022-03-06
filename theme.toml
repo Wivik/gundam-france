@@ -1,0 +1,15 @@
+# theme.toml template for a Hugo theme
+# See https://github.com/gohugoio/hugoThemes#themetoml for an example
+
+name = "Garbage Collector"
+license = "GPL V3.0"
+licenselink = "https://github.com/Wivik/garbage-collector-theme/blob/master/LICENSE"
+description = ""
+homepage = "https://blog.zedas.fr/"
+tags = []
+features = []
+min_version = "0.41.0"
+
+[author]
+  name = "Seb"
+  homepage = "https://blog.zedas.fr"
