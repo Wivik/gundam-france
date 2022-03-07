@@ -5,7 +5,7 @@ title: Leslie Arno
 Leslie Arno
 -----------
 
-![leslie](/images/stories/saga/F91/persos/civils/leslie.jpg)Leslie Arno  
+Leslie Arno  
 - Age : 47 ans  
 - Rôle : père de Seabook et Lise  
 - Voix japonaise : Mikio Terashima

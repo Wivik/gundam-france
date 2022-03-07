@@ -6,7 +6,7 @@ Goz Barl
 --------
 
 
-![Goz Barl](/images/stories/saga/vgundam/persos/goz-barl.png)
+
 * Rôle : Pilote de Mobile Suit
 * Origines : Zanscare
 * Voix Japonaise : Yukitoshi Hori

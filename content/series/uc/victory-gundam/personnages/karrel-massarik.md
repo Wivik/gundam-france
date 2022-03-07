@@ -6,7 +6,7 @@ Karrel Massarik
 ---------------
 
 
-![Karrel Massarik](/images/stories/saga/vgundam/persos/karrel-massarik.png)
+
 
 
 * Age : 14 ans

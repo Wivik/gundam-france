@@ -6,7 +6,7 @@ Nina Purpleton
 --------------
 
 
-![nina.jpg](/images/stories/saga/gundam0083/images/persos/nina.jpg)- Age : 21  
+- Age : 21  
 - Couleur de cheveux : Blond  
 - Couleur des yeux : Vert  
 - Rôle : Ingénieur en électronique  

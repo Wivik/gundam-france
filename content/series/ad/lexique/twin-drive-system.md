@@ -2,7 +2,7 @@
 title: "Twin Drive"
 ---
 
-![twindriveharmo.jpg](/images/stories/saga/gundam00/tech/twindriveharmo.jpg)
+
 Architecture mise au point par Celestial Being sur leur étude des GN-Drives selon des théories initialement prévues par Schenberg qui ont été transcrites dans la boite noire des GN-Drives. Le principe est de faire fonctionner deux réacteurs GN à taux d'émission identique et parfaitement régulé et harmonisé afin de doubler la puissance des Mobile Suit. Seulement les GN-Drives sont uniques, leur conception étant méconnue certains éléments font que le système ne réagira pas. La seule combinaison de GN-Drives viable a été Gundam 0 + Exia. Toutes les autres ont échoué.
 
 

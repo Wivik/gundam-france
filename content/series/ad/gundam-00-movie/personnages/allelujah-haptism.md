@@ -5,7 +5,7 @@ title: "Allelujah Haptism"
 Allelujah Haptism
 -----------------
 
-![allelujah](/images/stories/saga/gundam00film/persos/celestialbeing/allelujah.jpg)
+
 - Nom de code : Allelujah Haptism  
 - Nom véritable : Allelujah Haptism  
 - Age : 26  

@@ -5,7 +5,7 @@ title: "Fezarl Ezelcant"
 Fezarl Ezelcant
 ---------------
 
-![ezelcant](/images/stories/saga/gundamage/persos/ezelcant.png)
+
 - Rôle : Leader des Veigans  
 - Origines : Veigan  
 - Voix Japonaise : Ryuuzaburou Ootomo

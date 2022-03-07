@@ -9,7 +9,7 @@ GM III Beam Master
 
 
 
-![GM III Beam Master](/images/stories/saga/gundambd/mechas/gm-iii-beam-master.png)
+
 * [GM III Beam Master](javascript:change_image_m('images/stories/saga/gundambd/mechas/gm-iii-beam-master.png');)
 * [Vue de dos](javascript:change_image_m('images/stories/saga/gundambd/mechas/gm-iii-beam-master-dos.png');)
 

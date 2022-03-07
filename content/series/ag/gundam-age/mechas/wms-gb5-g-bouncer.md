@@ -5,7 +5,7 @@ title: "WMS-GB5 G-Bouncer"
 WMS-GB5 G-Bouncer
 -----------------
 
-![gbouncer](/images/stories/saga/gundamage/mechas/gbouncer.png) 
+ 
 
 
 ### Fiche Technique

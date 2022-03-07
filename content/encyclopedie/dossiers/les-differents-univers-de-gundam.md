@@ -139,7 +139,7 @@ Productions concernées par l'Anno Domini :
 ### L'Advanced Generation, une nouvelle franchise plus jeune
 
 
-![age](/images/stories/saga/gundamage/age.jpg)En 2011, la nouvelle série de Gundam fut une coproduction entre Sunrise et le studio Level-5, célèbre développeur de jeux vidéo mais ayant aussi adapté quelques unes de ses licences en animé par le passé. A l'origine, Mobile Suit Gundam AGE aurait du n'être qu'un jeu vidéo au scénario original, mais les producteurs décidèrent finalement de réaliser une nouvelle série d'animation.
+En 2011, la nouvelle série de Gundam fut une coproduction entre Sunrise et le studio Level-5, célèbre développeur de jeux vidéo mais ayant aussi adapté quelques unes de ses licences en animé par le passé. A l'origine, Mobile Suit Gundam AGE aurait du n'être qu'un jeu vidéo au scénario original, mais les producteurs décidèrent finalement de réaliser une nouvelle série d'animation.
 
 
 Gundam AGE est une série qui change beaucoup de choses et décide de renouveler son public en s'adresser cette fois-ci aux plus jeunes avec des personnages et une plastique majoritairement orientée jeune public, là où Gundam vise habituellement un public adolescent, AGE compte se retrouver parmi les pré-ado.

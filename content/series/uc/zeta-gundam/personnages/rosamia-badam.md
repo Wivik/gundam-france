@@ -6,7 +6,7 @@ Rosamia Badam
 -------------
 
 
-![Rosamia Badam](/images/stories/saga/zetagundam/persos/rosamia-badam.png)
+
 
 
 * Age : 17

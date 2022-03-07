@@ -7,7 +7,7 @@ LM312V06 Victory Gundam Hexa
 
 
 
-![LM312V06 Victory Gundam Hexa](/images/stories/saga/vgundam/mechas/ligue/lm312v06.png)
+
 
 [LM312V06 Victory Gundam Hexa](javascript:change_image_m('images/stories/saga/vgundam/mechas/ligue/lm312v06.png');)
 

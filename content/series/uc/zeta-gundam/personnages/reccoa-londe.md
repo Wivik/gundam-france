@@ -6,7 +6,7 @@ Reccoa Londe
 ------------
 
 
-![Reccoa Londe](/images/stories/saga/zetagundam/persos/reccoa-londe.png)
+
 
 
 * Age : 23

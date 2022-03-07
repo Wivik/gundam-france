@@ -10,7 +10,6 @@ title: "03 - Sono namae wa Gyanko"
 * 22 octobre 2014
 
 
-![](/images/stories/saga/gundambftry/episodes/03-1.jpg) ![](/images/stories/saga/gundambftry/episodes/03-2.jpg) ![](/images/stories/saga/gundambftry/episodes/03-3.jpg)
 
 
 Sekai fait son entraînement du matin tout en racontant une lettre qu'il écrit à son maitre, actuellement en tran de parfaire son art en Guyane. Il y explique les événements qui se sont déroulés dernièrement où il vit désormais avec sa sœur et raconte sa nouvelle passion pour le Gunpla et combien cela va dans le sens de son art martial.   

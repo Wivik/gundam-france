@@ -9,7 +9,7 @@ Musiques
 ### Mobile Suit Gundam 0080: War in the Pocket - Sound Sketch I
 
 
-![cd1.jpg](/images/stories/saga/gundam0080/images/cd1.jpg)
+
 
 
 * Ref : K30X-7158 (1è édition 21 mars 1989)
@@ -50,7 +50,7 @@ Cet OST de Gundam 0080 est en fait un étonnant cocktail de mélodies dynamiques
 ### Mobile Suit Gundam 0080: War in the Pocket - Sound Sketch II
 
 
-![cd2.jpg](/images/stories/saga/gundam0080/images/cd2.jpg)
+
 
 
 * Ref : K30X-7158 (1e édition 21 mars 1989)

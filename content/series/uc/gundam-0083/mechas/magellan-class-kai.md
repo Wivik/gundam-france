@@ -6,7 +6,7 @@ Magellan Class Kai
 ------------------
 
 
-![Magellan Class Kai](/images/stories/saga/gundam0083/ms/fed/magellan.png)
+
 
 
 ### Fiche Technique

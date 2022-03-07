@@ -5,7 +5,7 @@ title: "Feldt Grace"
 Feldt Grace
 -----------
 
-![feldt](/images/stories/saga/gundam00film/persos/celestialbeing/feldt.jpg)
+
 - Age : 21 ans  
 - Origines : ?  
 - Rôle : Opératrice du Ptolemaios.  

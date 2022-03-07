@@ -6,7 +6,7 @@ Mouar Pharaoh
 -------------
 
 
-![Mouar Pharaoh](/images/stories/saga/zetagundam/persos/mouar-pharaoh.png)
+
 
 
 * Fonction : Pilote de Mobile Suit

@@ -6,7 +6,7 @@ Yazan Gable
 -----------
 
 
-![Yazan Gable](/images/stories/saga/zetagundam/persos/yazan-gable.png)
+
 
 
 * Age : 27

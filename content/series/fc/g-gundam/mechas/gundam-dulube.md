@@ -8,7 +8,7 @@ Gundam d'Ulube
  
 
 
-![ulubesgundam.jpg](/images/stories/saga/ggundam/images/mechas/ulubesgundam.jpg)
+
 
 
 Fiche Technique   

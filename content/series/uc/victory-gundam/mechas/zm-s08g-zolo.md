@@ -83,7 +83,7 @@ Le Zolot a été conçu pour la campagne d'invasion terrestre de Zanscare et a �
 
 
 
-![Partie supérieure](/images/stories/saga/vgundam/mechas/zm-s08g-topterminal.png)
+
 
 [Partie supérieure](javascript:accessoires_m('images/stories/saga/vgundam/mechas/zm-s08g-topterminal.png');)
 [Partie inférieure](javascript:accessoires_m('images/stories/saga/vgundam/mechas/zm-s08g-bottomterminal.png');)

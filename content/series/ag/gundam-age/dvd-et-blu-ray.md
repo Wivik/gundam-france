@@ -12,43 +12,43 @@ Dans l'ordre : Blu-ray collector, Blu-ray normal, DVD.
 Les Blu-ray contiennent la piste de sous-titres anglais réalisée pour le simulcast de la série sur Youtube. Les DVD n'ont pas ce "bonus". A noter que les Blu-ray ne sont pas zonés.  
 
 
-![vol1c](/images/mini/images-stories-saga-gundamage-dvd-_tb_159x200_vol1c.jpg) ![vol1bd](/images/mini/images-stories-saga-gundamage-dvd-_tb_157x200_vol1bd.jpg) ![vol1dvd](/images/mini/images-stories-saga-gundamage-dvd-_tb_142x200_vol1dvd.jpg)
 
 
-![vol1c](/images/mini/images-stories-saga-gundamage-dvd-_tb_x200_vol2c.jpg) ![vol1bd](/images/mini/images-stories-saga-gundamage-dvd-_tb_x200_vol2bd.jpg) ![vol1dvd](/images/mini/images-stories-saga-gundamage-dvd-_tb_x200_vol2dvd.jpg)
 
 
-![vol1c](/images/mini/images-stories-saga-gundamage-dvd-_tb_x200_vol3c.jpg) ![vol1bd](/images/mini/images-stories-saga-gundamage-dvd-_tb_x200_vol3bd.jpg) ![vol1dvd](/images/mini/images-stories-saga-gundamage-dvd-_tb_x200_vol3dvd.jpg)
 
 
-![vol1c](/images/mini/images-stories-saga-gundamage-dvd-_tb_x200_vol4c.jpg) ![vol1bd](/images/mini/images-stories-saga-gundamage-dvd-_tb_x200_vol4bd.jpg) ![vol1dvd](/images/mini/images-stories-saga-gundamage-dvd-_tb_x200_vol4dvd.jpg)
 
 
-![vol1c](/images/mini/images-stories-saga-gundamage-dvd-_tb_x200_vol5c.jpg) ![vol1bd](/images/mini/images-stories-saga-gundamage-dvd-_tb_x200_vol5bd.jpg) ![vol1dvd](/images/mini/images-stories-saga-gundamage-dvd-_tb_x200_vol5dvd.jpg)
 
 
-![vol1c](/images/mini/images-stories-saga-gundamage-dvd-_tb_x200_vol6c.jpg) ![vol1bd](/images/mini/images-stories-saga-gundamage-dvd-_tb_x200_vol6bd.jpg) ![vol1dvd](/images/mini/images-stories-saga-gundamage-dvd-_tb_x200_vol6dvd.jpg)
 
 
-![vol1c](/images/mini/images-stories-saga-gundamage-dvd-_tb_x200_vol7c.jpg) ![vol1bd](/images/mini/images-stories-saga-gundamage-dvd-_tb_x200_vol7bd.jpg) ![vol1dvd](/images/mini/images-stories-saga-gundamage-dvd-_tb_x200_vol7dvd.jpg)
 
 
-![vol1c](/images/mini/images-stories-saga-gundamage-dvd-_tb_x200_vol8c.jpg) ![vol1bd](/images/mini/images-stories-saga-gundamage-dvd-_tb_x200_vol8bd.jpg) ![vol1dvd](/images/mini/images-stories-saga-gundamage-dvd-_tb_x200_vol8dvd.jpg)
 
 
-![vol1c](/images/mini/images-stories-saga-gundamage-dvd-_tb_x200_vol9c.jpg) ![vol1bd](/images/mini/images-stories-saga-gundamage-dvd-_tb_x200_vol9bd.jpg) ![vol1dvd](/images/mini/images-stories-saga-gundamage-dvd-_tb_x200_vol9dvd.jpg)
 
 
-![vol1c](/images/mini/images-stories-saga-gundamage-dvd-_tb_x200_vol10c.jpg) ![vol1bd](/images/mini/images-stories-saga-gundamage-dvd-_tb_x200_vol10bd.jpg) ![vol1dvd](/images/mini/images-stories-saga-gundamage-dvd-_tb_x200_vol10dvd.jpg)
 
 
-![vol1c](/images/mini/images-stories-saga-gundamage-dvd-_tb_x200_vol11c.jpg) ![vol1bd](/images/mini/images-stories-saga-gundamage-dvd-_tb_x200_vol11bd.jpg) ![vol1dvd](/images/mini/images-stories-saga-gundamage-dvd-_tb_x200_vol11dvd.jpg)
 
 
-![vol1c](/images/mini/images-stories-saga-gundamage-dvd-_tb_x200_vol12c.jpg) ![vol1bd](/images/mini/images-stories-saga-gundamage-dvd-_tb_x200_vol12bd.jpg) ![vol1dvd](/images/mini/images-stories-saga-gundamage-dvd-_tb_x200_vol12dvd.jpg)
 
 
-![vol1c](/images/mini/images-stories-saga-gundamage-dvd-_tb_x200_vol13c.jpg) ![vol1bd](/images/mini/images-stories-saga-gundamage-dvd-_tb_x200_vol13bd.jpg) ![vol1dvd](/images/mini/images-stories-saga-gundamage-dvd-_tb_x200_vol13dvd.jpg)
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ### Dates de sorties

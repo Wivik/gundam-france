@@ -6,7 +6,7 @@ Qubeley Papillon
 ----------------
 
 
-![Qubeley Papillon](/images/stories/saga/gundambf/mechas/qubeley_papillon.png)
+
 
 
 ### Fiche Technique

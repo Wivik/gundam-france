@@ -5,7 +5,7 @@ title: Rosemary Raspberry
 Rosemary Raspberry
 ------------------
 
-![rosemarie](/images/stories/manga/crossbone/persos/rosemarie.jpg)
+
 - Age : ??  
 - Origines : Empire de Jupiter  
 - Rôle : Pilote de MS  

@@ -5,7 +5,7 @@ title: "G-EXES Jackedge"
 G-EXES Jackedge
 ---------------
 
-![gexesjackedge](/images/stories/saga/gundamage/mechas/gexesjackedge.png) 
+ 
 
 
 ### Fiche Technique

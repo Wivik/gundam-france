@@ -6,7 +6,7 @@ Fuala Glifon
 ------------
 
 
-![Fuala Glifon](/images/stories/saga/vgundam/persos/fuala-glifon.png)
+
 
 
 * Rôle : Commandant de Lagaine

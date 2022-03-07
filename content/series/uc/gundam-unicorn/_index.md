@@ -7,7 +7,7 @@ Mobile Suit Gundam UC - Unicorn
 -------------------------------
 
 
-![index](/images/stories/saga/unicorn/index.jpg)
+
 
 
 En 2009, la Saga Gundam fêtait ses trente années d'existence, et pour l'évènement, Bandai organisa différents commémoratifs et produisit également des séquences animées. Parmi les annonces, l'une des plus espérées par les fans fut l'adaptation en série animée du best-seller Gundam Unicorn, roman écrit par Harutoshi Fukui qui s'est vendu à plus de 1.8 million d'exemplaires. Gundam UC a donc été annoncée au public en avril 2009, mais on ignorait encore à l'époque le format qui serait utilisé pour exploiter cette histoire. La confirmation eu lieu au milieu de l'année, les livres seront adaptés en 6 OVA de 55 minutes chacune. Initialement prévu à la fin de l'année 2009, le premier épisode sera retardé au printemps 2010. Gundam Unicorn fait suite au film La Contre-attaque de Char en se plaçant quelques années après... L'OVA est sortie mondialement dans 7 pays différents dont la France en Blu-ray uniquement à partir du 12 mars 2010. Cependant, l'édition française ne comptera pas plus d'un volume à cause du prix de vente élevé et par la suite de la disparition de l'éditeur Beez. La série ne sera plus disponible qu'en version dématérialisée sur les réseaux Xbox Vidéo et Playstation Network en vidéo à la demande dans notre cas.   
@@ -26,7 +26,7 @@ Universal Century 0001 : La colonisation spatiale commence et l'humanité entre 
 Universal Century 0096 : Trois années sont passées après l'ultime confrontation de Neo-Zeon dirigé par Char Aznable qui faillit faire tomber l'astéroïde Axis sur Terre. La colonie Industrial 7 est toujours en construction au point L1. Banagher Links est un jeune homme qui a grandit sans connaître son père au collège d'Anaheim Electronics, pris en charge par celui-ci après la mort de sa mère. Il est en voyage pour Industrial 7 à bord d'un vaisseau faisant office de collège mobile d'Anaheim avec les membres de sa promotion. Lors de la visite des installations de construction de la colonie, Banagher aperçoit au loin une jeune fille qui semble avoir chuté du pilier central de la Colonie. Voulant lui venir en aide, il décide de prendre un MS de maintenance pour la rattraper en vol. Néanmoins, en sauvant Audrey Burn et en voulant l'accompagner vers son but, Banagher ne se doute pas un instant du terrible drame qui se prépare dehors et des évènements qui vont bouleverser son existence...
 
 
-![Marida Cruz aux commandes du Kshatriya](/images/mini/images-stories-saga-unicorn-_tb_213x120_intro1.jpg) ![N'écoutant que son courage, Banagher sauve cette jeune inconnue.](/images/mini/images-stories-saga-unicorn-_tb_213x120_intro2.jpg) ![Le détail des cockpits est très poussé.](/images/mini/images-stories-saga-unicorn-_tb_213x120_intro3.jpg)
+
 
 
 ### Aperçu
@@ -35,7 +35,7 @@ Universal Century 0096 : Trois années sont passées après l'ultime confrontati
 Gundam Unicorn est l'adaptation d'un roman éponyme de 10 volumes dont le dernier est paru en août 2009, écrit par Harutoshi Fukui qui a déjà oeuvré sur d'autres best-seller. Le roman est d'ailleurs réédité à cette occasion. La série d'OVA a débuté le 12 mars 2010 et s'achèvera le 6 juin 2014 avec un septième et dernier épisode. La spécificité principale de cette série est qu'elle sort en simultané dans 7 pays différents sur disque Blu-ray contenant une version originale japonaise, une anglaise, et un sous-titrage français, anglais, espagnol et chinois. Il s'agit de la deuxième série animée de Gundam à être produite en Haute-définition après Mobile Suit Gundam 00. Selon Harutoshi Fukui, le premier épisode est d'une grande fidélité au roman original, il n'y eut que très peu de passages écartés. On regrettera juste que l'introduction du passage en UC 0001 ait été un peu trop brève par rapport au récit d'origine et laisse donc des points sombres sur cet attentat.
 
 
-![intro](/images/mini/images-stories-saga-unicorn-_tb_250x_uc2-2.jpg)
+
 
 
 Que dire si ce n'est que Gundam Unicorn met la barre très haute sur la qualité visuelle. En effet, le dessin est détaillé, l'animation d'une grande fluidité, les combats d'une dynamique rarement présentée dans la Saga. L'intégration de séquences ou d'éléments en 3D dans les scènes est correcte, elle saccade légèrement pour ne pas choquer entre la trop grande fluidité d'une animation 3D et la traditionnelle moins précise. Les décors sont profonds et variés, également très animés. On voit en arrière plan que la colonie est toujours en cours de construction malgré qu'elle soit habitée. La série impose un soucis du détail très élevé au niveau de l'image, que ce soit dans les décors, les personnages, ou les cockpits de Mobile Suit très riches en animations.
@@ -50,7 +50,7 @@ Le mecha-design de l'OVA est très réussi, il propose une évolution des modèl
 Enfin, nous abordons le thème de l'ambiance musicale. L'OST de Gundam UC est tout simplement magnifique. Les pistes gardent un thème principal donnant une sensation de grandeur ainsi qu'un renforcement de la dimension épique des batailles de Mobile Suit. Par inversement, il semble très effacé dans de nombreuses scènes, la réalisation visuelle suffisant à rendre la musique moins indispensable pour compléter l'ambiance de la scène ? Une idée à étudier pour les prochains épisodes afin de savoir quelle est la réelle place des musiques dans cette série. Le générique de fin est chanté par Chiaki Kuriyama, actrice de son état qui se lance dans la chanson. Elle apporte une touche de douceur sur le méchant cliffhanger qui clôt le premier épisode de Gundam UC.
 
 
-![banniere](/images/stories/saga/unicorn/banniere.jpg)
+
 
 
 ### Conclusion

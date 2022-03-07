@@ -5,7 +5,7 @@ title: JMA-0530 Walking Dome "WaDom"
 JMA-0530 Walking Dome "WaDom"
 -----------------------------
 
-![wodom](/images/stories/saga/turnagundam/ms/moonraces/wodom.png)
+
 
 
 JMA-0530 Walking Dome "WaDom"

@@ -6,7 +6,7 @@ Blex Forer
 ----------
 
 
-![Blex Forer](/images/stories/saga/zetagundam/persos/blex-forer.png)
+
 
 
 * Age : 58

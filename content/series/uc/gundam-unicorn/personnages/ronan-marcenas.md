@@ -6,7 +6,7 @@ Ronan Marcenas
 --------------
 
 
-![ronan.jpg](/images/stories/saga/unicorn/persos/ronan.jpg)
+
 - Age : 52 ans  
 - Fonction : Membre du parlement Fédéral
 

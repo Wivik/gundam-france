@@ -6,7 +6,7 @@ Char Aznable
 ------------
 
 
-![Char Aznable](/images/stories/saga/origin/persos/char-aznable-uc-0071.png)
+
 
 
 * Origines : Colonie Texas

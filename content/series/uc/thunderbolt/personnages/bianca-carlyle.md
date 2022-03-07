@@ -6,7 +6,7 @@ Bianca Carlyle
 --------------
 
 
-![Bianca Carlyle](/images/stories/saga/thunderbolt/persos/bianca-carlyle.png)
+
 
 
 * Fonction : Pilote de Mobile Suit

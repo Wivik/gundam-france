@@ -7,7 +7,7 @@ Impulse wktk Gundam
 
 
 
-![Impulse wktk Gundam](/images/stories/saga/gundambftiw/mechas/impulse-wktk-gundam.png)
+
 
 [Impulse wktk Gundam](javascript:change_image_m('images/stories/saga/gundambftiw/mechas/impulse-wktk-gundam.png');)
 [Vue de dos](javascript:change_image_m('images/stories/saga/gundambftiw/mechas/impulse-wktk-gundam-dos.png');)

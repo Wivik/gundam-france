@@ -6,7 +6,7 @@ Maheria Meril
 -------------
 
 
-![Maheria Meril](/images/stories/saga/vgundam/persos/maheria-meril.png)
+
 * Rôle : Pilote pour la Shrike Team
 * Voix Japonaise : Mari Maruta
 

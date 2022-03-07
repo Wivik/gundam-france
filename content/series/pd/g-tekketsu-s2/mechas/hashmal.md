@@ -7,7 +7,7 @@ Hashmal
 
 
 
-![Hashmal](/images/stories/saga/g-tekketsu-s2/mechas/hashmal.png)
+
 
 [Hashmal](javascript:change_image_m('images/stories/saga/g-tekketsu-s2/mechas/hashmal.png');)
 
@@ -72,7 +72,7 @@ L'Hashmal est accompagné de nombreuses sous-unités, les Plumas, eux aussi auto
 
 
 
-![Pluma](/images/stories/saga/g-tekketsu-s2/mechas/plumas.jpg)
+
 
 [Pluma](javascript:accessoires_m('images/stories/saga/g-tekketsu-s2/mechas/plumas.jpg');)
 [Pluma (Archives Gjalarhorn)](javascript:accessoires_m('images/stories/saga/g-tekketsu-s2/mechas/pluma2.png');)

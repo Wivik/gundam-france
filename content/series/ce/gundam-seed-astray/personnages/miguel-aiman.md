@@ -6,7 +6,7 @@ Miguel Aiman
 ------------
 
 
-![Miguel Aiman](/images/stories/manga/astray/persos/Aiman.jpg)
+
 * Rôle : Pilote
 * Voix Japonaise : Takanori Nishikawa
 

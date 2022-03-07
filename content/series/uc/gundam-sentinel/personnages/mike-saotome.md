@@ -6,7 +6,7 @@ Mike Saotome
 ------------
 
 
-![Mike Saotome](/images/stories/saga/sentinel/persos/mikesaotome.jpg)
+
 * Age : 32
 * Rôle : Agent de liaison
 * Origines : Side-3

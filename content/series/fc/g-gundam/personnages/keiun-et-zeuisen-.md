@@ -5,7 +5,7 @@ title: Keiun et Zeuisen
 Keiun et Zeuisen
 ----------------
 
-![moines.jpg](/images/stories/saga/ggundam/images/persos/moines.jpg)Keiun et Zeuisen   
+Keiun et Zeuisen   
 - Rôle : Moines Shaolin.   
 - Origine : Neo-China.   
   

@@ -6,7 +6,7 @@ Meran
 -----
 
 
-![Meran](/images/stories/saga/unicorn/persos/meran.jpg)
+
 * Age : 40
 * Rôle : Second de Bright Noa
 * Voix Japonaise : Unshou Ishizuka

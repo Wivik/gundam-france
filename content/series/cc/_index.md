@@ -7,7 +7,7 @@ Correct Century
 ---------------
 
 
-![uc](/images/mini/cc-_tb_400x_univers.jpg)Le Gundam moustachu, icône de la série
+Le Gundam moustachu, icône de la série
 
 
 Quatrième univers de la saga Gundam, celui-ci n'est pas aussi alternatif que l'on peut le croire. En effet, le Correct Century a été écrit par l'auteur original de la saga Gundam, Yoshiyuki Tomino. Cet univers avait pour objectif d'unifier Gundam et ses différentes chronologies parallèles, afin d'apporter une conclusion à la Saga. Racontés dans la série Turn A Gundam, les événements du Correct Century se situent 2345 ans après la destruction de toute forme de technologie sur Terre et la régression des survivants de l'humanité. Située dans un contexte proche du début du XXième siècle de notre ère, Turn A Gundam met en contact une Terre qui est repartie de zéro et une civilisation futuriste qui a vécu sur une colonie Lunaire durant toutes ces années. 

@@ -7,7 +7,7 @@ Aineias
 
 
 
-![Aineias](/images/stories/saga/vgundam/mechas/aineias.png)
+
 
 [Aineias](javascript:change_image_m('images/stories/saga/vgundam/mechas/aineias.png');)
 

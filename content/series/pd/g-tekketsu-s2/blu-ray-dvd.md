@@ -9,7 +9,6 @@ Blu-ray et DVD
 ### Visuels
 
 
-![](/images/stories/saga/g-tekketsu-s2/dvd/bd2nd01.jpg) ![](/images/stories/saga/g-tekketsu-s2/dvd/bd2nd02.jpg) ![](/images/stories/saga/g-tekketsu-s2/dvd/bd2nd03.jpg) ![](/images/stories/saga/g-tekketsu-s2/dvd/bd2nd04.jpg) ![](/images/stories/saga/g-tekketsu-s2/dvd/bd2nd05.jpg) ![](/images/stories/saga/g-tekketsu-s2/dvd/bd2nd06.jpg) ![](/images/stories/saga/g-tekketsu-s2/dvd/bd2nd07.jpg)
 
 
 ### Dates de sortie

@@ -7,7 +7,7 @@ Build Strike Galaxy Cosmos
 
 
 
-![Build Strike Galaxy Cosmos](/images/stories/saga/gundambfblg/mechas/build-strike-galaxy-cosmos.png)
+
 
 [Build Strike Galaxy Cosmos](javascript:change_image_m('images/stories/saga/gundambfblg/mechas/build-strike-galaxy-cosmos.png');)
 

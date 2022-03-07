@@ -9,7 +9,7 @@ Dozle Zabi
 
 
 
-![Dozle Zabi](/images/stories/saga/msgundam/persos/dozle-zabi.png)
+
 * [Dozle Zabi](javascript:change_image_m('images/stories/saga/msgundam/persos/dozle-zabi.png');)
 * [Dozle Zabi (UC 0068)](javascript:change_image_m('images/stories/saga/origin/persos/dozzle-zabi.png');)
 * [Dozle Zabi (UC 0071)](javascript:change_image_m('images/stories/saga/origin/persos/dozle-zabi-uc-0071.png');)

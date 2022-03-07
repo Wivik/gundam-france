@@ -5,7 +5,7 @@ title: Fran Doll
 Fran Doll
 ---------
 
-![fran](/images/stories/saga/turnagundam/persos/divers/fran.jpg)Fran Doll
+Fran Doll
 
 
 - Age : 17 ans  

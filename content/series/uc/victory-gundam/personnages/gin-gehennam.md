@@ -6,7 +6,7 @@ Gin Gehennam
 ------------
 
 
-![Gin Gehennam](/images/stories/saga/vgundam/persos/gin-gehennam.png)
+
 * Rôle : Leader de la Ligue Militaire
 * Voix Japonaise : Ginzou Matsuo
 

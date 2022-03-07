@@ -6,7 +6,7 @@ Gavane Madeleine
 ----------------
 
 
-![Gavane Madeleine](/images/stories/saga/gnoreconguista/persos/gavane-madeleine.png)
+
 * Rôle : Leader d'escadron
 * Origines : Towasanga
 

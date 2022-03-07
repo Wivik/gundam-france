@@ -87,7 +87,7 @@ Gouvernement unique fondé en AD 2311 à la suite des évènements de Celestial 
 ### Fereshte
 
 
-![Le logo de Fereshte](/images/stories/manga/gundam00f/fereshte.jpg)Organisation secondaire de Celestial Being fondée par Chall Acustica et approuvée par Veda, elle a pour but de soutenir les actions de Celestial Being tout en cachant sa propre existance à l'équipe du Ptolemaios et au public. Fereshte emploie trois Gundam Meisters, Fon Spaak, Eco Calore et Meister 874, ainsi que Sheryline Hyde dans son équipe technique. Ils utilisent quatre Gundam de seconde génération pour intervenir sur le terrain, mais ils n'ont à leur disposition qu'un seul GN-Drive, celui du 0 Gundam. L'organisation interviendra en soutien lors de certaines missions de Celestial Being puis aura ses propres missions lors de la période de transition entre les deux saisons de la série TV.  
+Organisation secondaire de Celestial Being fondée par Chall Acustica et approuvée par Veda, elle a pour but de soutenir les actions de Celestial Being tout en cachant sa propre existance à l'équipe du Ptolemaios et au public. Fereshte emploie trois Gundam Meisters, Fon Spaak, Eco Calore et Meister 874, ainsi que Sheryline Hyde dans son équipe technique. Ils utilisent quatre Gundam de seconde génération pour intervenir sur le terrain, mais ils n'ont à leur disposition qu'un seul GN-Drive, celui du 0 Gundam. L'organisation interviendra en soutien lors de certaines missions de Celestial Being puis aura ses propres missions lors de la période de transition entre les deux saisons de la série TV.  
 
 
 "Fereshte" signifie "Ange" en Persan.  

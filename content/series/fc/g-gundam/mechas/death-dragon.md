@@ -8,7 +8,7 @@ Death Dragon
  
 
 
-![deathdragon.png](/images/stories/saga/ggundam/mechas/deatharmy/deathdragon.png)
+
 
 
 Fiche Technique   

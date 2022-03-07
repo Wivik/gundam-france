@@ -6,7 +6,7 @@ Don Escargot
 ------------
 
 
-![donescargot](/images/stories/saga/msgundam/mechas/donescargot.png)
+
 
 
 - Type : Avion de combat.   

@@ -6,7 +6,7 @@ Fumina Hoshino
 --------------
 
 
-![Fumina Hoshino](/images/stories/saga/gundambftry/persos/fumina-hoshino.png)
+
 
 
 * Voix Japonaise : Yui Makino

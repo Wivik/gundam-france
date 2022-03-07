@@ -28,7 +28,7 @@ Gundam F-91 a été édité en France par Beez en DVD le 8 septembre 2005. Cette
 * Sous-titres : Français, Anglais, Allemand, Hollandais, Polonais.
 
 
-![dvd1.jpg](/images/mini/images-stories-saga-F91-images-dvd-_tb_x150_dvd1.jpg) ![galette1.jpg](/images/mini/images-stories-saga-F91-images-dvd-_tb_x150_galette1.jpg)
+
 
 
 
@@ -42,7 +42,7 @@ Gundam F-91 a été édité en France par Beez en DVD le 8 septembre 2005. Cette
 Après avoir passé le logo de Beez, nous avons une invite nous demandant le menu en Français, Anglais, Neérlandais, Allemand ou Polonais. Celle-ci est animée avec le F-91. Une fois la langue selectionnée, nous passons l'habituel avertissement légal puis le menu s'enchaine sur des séquences animées du film. Il y a différents menus permettant de régler le son et le sous titrage, ainsi que l'accès aux bandes annonces, chapitrage et enfin le film complet.
 
 
-![menu1_1.jpg](/images/mini/images-stories-saga-F91-images-dvd-_tb_x100_menu1_1.jpg)![menu1_3.jpg](/images/mini/images-stories-saga-F91-images-dvd-_tb_x100_menu1_3.jpg)![menu1_4.jpg](/images/mini/images-stories-saga-F91-images-dvd-_tb_x100_menu1_4.jpg) ![menu1_5.jpg](/images/mini/images-stories-saga-F91-images-dvd-_tb_x100_menu1_5.jpg)
+
 
 
 ### Suppléments
@@ -66,7 +66,7 @@ L'image est assez moyenne sur cette édition, les contours ont tendance à faire
 Côté son, nous avons une piste stéréo mélangeant bien les différents sons (voix, musique, bruits), mais celle-ci est assez fade comparé à un bon son 5.1. Néanmoins la qualité d'image reste agréable à regarder, le film bénéficiant tout de même d'une assez bonne réalisation pour l'époque.
 
 
-![sc1_1.jpg](/images/mini/images-stories-saga-F91-images-dvd-_tb_x100_sc1_1.jpg) ![sc1_2.jpg](/images/mini/images-stories-saga-F91-images-dvd-_tb_x100_sc1_2.jpg)![sc1_3.jpg](/images/mini/images-stories-saga-F91-images-dvd-_tb_x100_sc1_3.jpg)![sc1_4.jpg](/images/mini/images-stories-saga-F91-images-dvd-_tb_x100_sc1_4.jpg)
+
 
 
 ### Adaptation et traduction

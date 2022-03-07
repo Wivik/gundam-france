@@ -5,7 +5,7 @@ title: MS-06 Borjarnon
 MS-06 Borjarnon
 ---------------
 
-![borjanon](/images/stories/saga/turnagundam/ms/terriens/borjanon.png)
+
 
 
 MS-06 Borjarnon

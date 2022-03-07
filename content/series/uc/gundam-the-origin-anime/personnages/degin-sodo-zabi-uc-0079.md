@@ -6,7 +6,7 @@ Degin Sodo Zabi (UC 0079)
 -------------------------
 
 
-![Degin Sodo Zabi UC 0079](/images/stories/saga/origin/persos/degin-sodo-zabi-uc-0079.png)
+
 
 
 * Fonction : Président de la république autonome de Zeon

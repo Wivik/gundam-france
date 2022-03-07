@@ -9,7 +9,7 @@ Hamon Crowley
 
 
 
-![Hamon Crowley](/images/stories/saga/msgundam/persos/hamon-crowley.png)
+
 * [Hamon Crowley](javascript:change_image_m('images/stories/saga/msgundam/persos/hamon-crowley.png');)
 * [Hamon Crowley (UC 0068)](javascript:change_image_m('images/stories/saga/origin/persos/hamon-crowley.png');)
 * [Hamon Crowley (UC 0071)](javascript:change_image_m('images/stories/saga/origin/persos/hamon-crowley-uc-0071.png');)

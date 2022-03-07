@@ -5,7 +5,7 @@ title: Tobia Arronax
 Tobia Arronax
 -------------
 
-![tobia](/images/stories/manga/crossbone/persos/tobia.jpg)
+
 - Age : 15 ans (né en UC 0120)  
 - Origine : Terre  
 - Rôle : Pilote de Mobile Suit  

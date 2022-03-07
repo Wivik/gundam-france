@@ -6,7 +6,7 @@ Riddhe Marcenas
 ---------------
 
 
-![riddhe](/images/stories/saga/unicorn/persos/fed/riddhe.jpg)
+
 - Age : 23 ans
   
 - Rôle : Pilote de MS

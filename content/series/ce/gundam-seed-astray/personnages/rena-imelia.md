@@ -6,7 +6,7 @@ Rena Imelia
 -----------
 
 
-![Rena Imelia](/images/stories/manga/astray/persos/Rena_Imelia.png)
+
 
 Cet officier instructeur est l'un des rares Naturel doué d'une coordination œil-main telle qu'on la dit capable de piloter un MS paramétré pour un Coordinateur. De fait, elle fut très tôt associée au Projet G, chargée de la formation des pilotes des 5 premiers GAT-X sur Héliopolis.
 

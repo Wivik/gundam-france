@@ -21,7 +21,7 @@ Thèmes chantés
 Trois CD sont sortis sur le film Gundam F91 : la bande originale du film, une version symphonique et une version concert.
 
 
-![OST_F91.jpg](/images/mini/images-stories-saga-F91-images-cd-_tb_x150_OST_F91.jpg)
+
 
 
 * Mobile Suit Gundam F91 - Original Soundtrack

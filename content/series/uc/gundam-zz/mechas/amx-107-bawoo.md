@@ -6,7 +6,7 @@ AMX-107 Bawoo
 -------------
 
 
-[Bawoo Version Glemy Toto](javascript:change_image_m('images/stories/saga/gundamzz/mechas/neozeon/amx-107.png');) [Mode Mobile Armor, partie supérieure](javascript:change_image_m('images/stories/saga/gundamzz/mechas/neozeon/amx-107-bawooattacker.png');) [Version Production](javascript:change_image_m('images/stories/saga/gundamzz/mechas/neozeon/amx-107-production.png');)      ![Bawoo Version Glemy Toto](/images/stories/saga/gundamzz/mechas/neozeon/amx-107.png)    
+[Bawoo Version Glemy Toto](javascript:change_image_m('images/stories/saga/gundamzz/mechas/neozeon/amx-107.png');) [Mode Mobile Armor, partie supérieure](javascript:change_image_m('images/stories/saga/gundamzz/mechas/neozeon/amx-107-bawooattacker.png');) [Version Production](javascript:change_image_m('images/stories/saga/gundamzz/mechas/neozeon/amx-107-production.png');)          
 
 
 ### Fiche Technique

@@ -6,7 +6,7 @@ Jamitov Hymen
 -------------
 
 
-![Jamitov Hymen](/images/stories/saga/zetagundam/persos/jamitov-hymen.png)
+
 
 
 * Age : 60

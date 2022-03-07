@@ -6,7 +6,7 @@ Lightning Gundam Full Burnern
 -----------------------------
 
 
-![Lightning Gundam Full Burnern](/images/stories/saga/gundambftry/mechas/lightning-gundam-full-burnern.png)
+
 
 
 ### Fiche Technique

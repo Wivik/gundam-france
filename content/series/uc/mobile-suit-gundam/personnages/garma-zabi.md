@@ -9,7 +9,7 @@ Garma Zabi
 
 
 
-![Garma Zabi](/images/stories/saga/msgundam/persos/garma-zabi.png)
+
 * [Garma Zabi](javascript:change_image_m('images/stories/saga/msgundam/persos/garma-zabi.png');)
 * [Garma Zabi (UC 0068)](javascript:change_image_m('images/stories/saga/origin/persos/garma-zabi-uc-0068.png');)
 * [Garma Zabi (UC 0074)](javascript:change_image_m('images/stories/saga/origin/persos/garma-zabi.png');)

@@ -2,7 +2,7 @@
 title: Mobile Fighter G-Gundam
 ---
 
-![layer dossiers](/images/stories/saga/ggundam/layer_dossiers.jpg)
+
 ![index-3.jpg](/images/stories/saga/ggundam/index-3.jpg)Kidô Butoden G-Gundam (« Mobile Fighter G-Gundam » aux Etats-Unis) est en quelque sorte la série mal-aimée de la saga Gundam. Créée en 1994, et précédant respectivement Gundam Wing et Gundam X dune et deux années, elle est la première de ces trois séries commandées par Sunrise se déroulant dans un univers alternatif de lUniversal Century.  
   
 Le pari de créer un spin-off ne reprenant que de loin les bases de la série était très risqué, et le résultat na pas plu au public. Ou plutôt, le public ne sest pas senti intéressé par le début, très moyen, et a cessé de regarder. Le problème majeur vient des Gundam, en très grand nombre dans cette série, souffrant en majorité dun design peu attrayant. Le scénario tient la route, mais nétant pas à la hauteur des autres séries de Gundam, elle na pas motivé le public japonais, alors quelle devient pourtant beaucoup plus intéressante par la suite, pour peu que lon y prête attention.
@@ -36,7 +36,7 @@ Le pilotage des Gundam ne se fait plus par une série de joysticks et dindicateu
 Le scénario se décompose en trois parties plutôt homogènes, et même si les rebondissements sont assez prévisibles, ils nen sont pas moins agréables. La série nest pas spécialement « cérébrale » par son côté action, mais elle aborde des thèmes intéressantes, comme lamitié indéfectible, la fidélité à sa nation, la notion de secret dEtat, la régénération de la Terre. Mais ce qui vous enthousiasmera, cest surtout lextraordinaire dynamisme qui se dégage de la série et un lyrisme, qui peut paraître ridicule au 1er degré, mais qui prend une dimension dramatique lorsquon est bien dans le trip. Enfin, la série ne vous prendra pas la tête et toutes les questions trouveront leurs réponses à la fin. En bref, cest une série à voir si on na pas envie dassister à dix épisodes de blabla sur la légitimé des guerres : laction ne sarrête jamais, ici on se bat ! En plus dune animation correcte pour lépoque, le premier générique est très sympathique et les musiques de Kôhei Tanaka sont plutôt bien adaptées.
 
 
-![banniere](/images/stories/saga/ggundam/banniere.jpg)
+
 ### Conclusion
 
 
@@ -73,6 +73,6 @@ Dates de sortie
 ---
 
 
-![ggundam2.jpg](/images/stories/saga/ggundam/ggundam2.jpg)![G Gundam](/images/stories/saga/ggundam/ggundam3.jpg)![G Gundam](/images/stories/saga/ggundam/ggundam4.jpg)
+
 
 

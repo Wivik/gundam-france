@@ -3,8 +3,8 @@ title: 'Mobile Suit Gundam 0080 : War in the Pocket'
 weight: 1200
 ---
 
-![layer dossiers](/images/stories/saga/gundam0080/layer_dossiers.jpg)
-![intro1](/images/stories/saga/gundam0080/images/index.jpg)
+
+
 
 
 Gundam 0080 est la toute première série d'OVA de Gundam, et la première production animée à ne pas avoir été réalisée par l'auteur original de la Saga, Yoshiyuki Tomino. Débarquée à partir de 1989, cette très courte série de 6 épisodes seulement nous replonge à la fin de la Guerre d'Un An, en fin 0079. D'une réalisation assez moyenne pour l'époque, cette mini-série se distingue avant tout par une "innovation" pour Gundam, à savoir être quasi du côté de Zeon. Effectivement, Les premières séries de Gundam avaient tendance à nous présenter les soldats de Zeon comme des imbéciles fanatiques. Gundam 0080 nous fait découvrir l'amitié entre un soldat de Zeon et un enfant fan de Mobile-Suits. Mais malgré sa courte durée, l'histoire est bouleversante, mais voyons ça de plus près...
@@ -21,7 +21,7 @@ Après l'échec de la destruction de la navette, l'escadron Cyclops attaquera Li
 Les autres membres de l'escadron rejoindront Bernard pour planifier l'attaque du complexe abritant le prototype : le RX-78NT-1 Gundam Alex. Cependant, durant son court séjour sur Libot, Bernard entretiendra une relation avec une voisine d'Alfred, Christina MacKenzie. Ce que Bernard ignore cependant, tout comme Al, c'est que Christina est également pilote de test pour la Fédération...
 
 
-![Rencontre entre Alfred et Bernard](/images/mini/images-stories-saga-gundam0080-_tb_165x110_img1.jpg) ![Alfred aide ses nouveaux amis de Zeon sans en comprendre les conséquences.](/images/mini/images-stories-saga-gundam0080-_tb_165x110_img2.jpg) ![Le Kämpfer, Mobile Suit construit en secret sur Libot.](/images/mini/images-stories-saga-gundam0080-_tb_165x110_img3.jpg)
+
 ### Aperçu
 
 
@@ -29,7 +29,7 @@ Comme dit plus haut, l'histoire de 0080, malgré sa courte durée, met en scène
 Cette histoire est néanmoins intéressante. Elle n'est pas vite expédié, et tout son dénouement reste cohérent. Il serait difficile d'en parler plus sans risquer de vous spoiler, c'est ça l'inconvénient des séries courtes de ce type.
 
 
-![intro4](/images/stories/saga/gundam0080/intro4.jpg)Du point de vue réalisation, et bien ce n'est pas le point fort de cette OVA. Gundam 0080 n'est pas une production tape à l'oeil, ça se sent dans l'animation un peu saccadée par moments et son aspect général donnant une impression de série début 80. Mais bon, peut-être est-ce aussi un choix du réalisateur qui ne désirait pas choquer par une réalisation plus contemporaine par rapport à la chronologie de la série, la plaçant juste après MS Gundam de 1979. Il n'en reste pas moins que cette production est agréable à regarder et évoque la nostalgie par son graphisme vieillot.
+Du point de vue réalisation, et bien ce n'est pas le point fort de cette OVA. Gundam 0080 n'est pas une production tape à l'oeil, ça se sent dans l'animation un peu saccadée par moments et son aspect général donnant une impression de série début 80. Mais bon, peut-être est-ce aussi un choix du réalisateur qui ne désirait pas choquer par une réalisation plus contemporaine par rapport à la chronologie de la série, la plaçant juste après MS Gundam de 1979. Il n'en reste pas moins que cette production est agréable à regarder et évoque la nostalgie par son graphisme vieillot.
 
 
 Au niveau du design des personnages, c'est un artiste bien connu pour Macross, Megazone 23 épisode 1, ou encore le manga Ecole du Ciel pour rester dans Gundam. Il s'agit de Haruhiko Mikimoto. En retrouve déjà là son style si particulier qui donne plus de vie aux personnages de l'OVA.
@@ -44,7 +44,7 @@ Notons néanmoins que ceux qui aiment Gundam pour l'aspect mechas et batailles �
 Un dernier point avant de conclure pour parler de l'ambiance musicale de la série. Le générique est assez différent de ce qu'on a l'habitude d'entendre dans une série de Gundam. Il a un côté assez enfantin qui montre encore cette envie de nous faire vivre l'histoire par un enfant. L'ambiance en elle-même dans l'OVA est assez classique cependant. Il n'y a pas réellement de thèmes que l'on pourrait considérer comme cultes. L'OST souffre tout de même d'un mal de l'époque qui est l'abus de musique électronique et de synthétiseurs qui donnent un résultat très kitch.
 
 
-![banniere](/images/stories/saga/gundam0080/banniere.jpg)
+
 ### Conclusion
 
 

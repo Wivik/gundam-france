@@ -6,7 +6,7 @@ Zubroch Simonev
 ---------------
 
 
-![Zubroch Simonev](/images/stories/saga/vgundam/persos/zubroch-simonev.png)
+
 * Rôle : Industriel
 * Origines : Zanscare / Amelia
 * Voix Japonaise : Hiroshi Naka

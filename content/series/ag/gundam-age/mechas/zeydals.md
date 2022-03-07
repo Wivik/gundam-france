@@ -5,7 +5,7 @@ title: "Zeydals"
 Zeydals
 -------
 
-![zeydals](/images/stories/saga/gundamage/mechas/zeydals.png) 
+ 
 
 
 ### Fiche Technique

@@ -6,7 +6,7 @@ Kai Shiden
 ----------
 
 
-![Kai Shiden](/images/stories/saga/zetagundam/persos/kai-shiden.png)
+
 
 
 * Age : 26

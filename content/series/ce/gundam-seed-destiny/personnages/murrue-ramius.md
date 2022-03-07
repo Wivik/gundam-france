@@ -5,7 +5,7 @@ title: Murrue Ramius
 Murrue Ramius
 -------------
 
-![murrue](/images/stories/saga/gundamseeddestiny/persos/orb/murrue.jpg)Murrue Ramius
+Murrue Ramius
 
 
 - Age : 28 ans  

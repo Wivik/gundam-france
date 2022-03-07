@@ -5,7 +5,7 @@ title: Rey Za Burrel
 Rey Za Burrel
 -------------
 
-![rey](/images/stories/saga/gundamseeddestiny/persos/zaft/rey.jpg)Rey Za Burrel  
+Rey Za Burrel  
   
 - Rôle : Pilote de MS  
 - Origines : PLANT  

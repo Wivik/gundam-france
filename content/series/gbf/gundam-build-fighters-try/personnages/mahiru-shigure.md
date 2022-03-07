@@ -6,7 +6,7 @@ Mahiru Shigure
 --------------
 
 
-![Mahiru Shigure](/images/stories/saga/gundambftry/persos/mahiru-shigure.png)
+
 
 
 

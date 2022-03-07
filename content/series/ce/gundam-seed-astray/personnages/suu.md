@@ -6,7 +6,7 @@ Suu
 ---
 
 
-![Suu](/images/stories/manga/astray/persos/Suu.jpg)
+
 
 Pilote d'un rare ZGMF-1000 Kerberos ZAKU Warrior noir, ce Coordinateur portant un masque est envoyé en CE73 dans les jungles de la République d'Asie de l'Est en renfort des troupes de Leons Graves.
 

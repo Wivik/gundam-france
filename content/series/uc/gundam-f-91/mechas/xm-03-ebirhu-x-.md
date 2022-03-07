@@ -5,7 +5,7 @@ title: XM-03 Ebirhu-X
 XM-03 Ebirhu-X
 --------------
 
-![ebirhus](/images/stories/saga/F91/mechas/crossbone/ebirhus.gif)
+
 
 
 XM-03 Ebirhu-S  

@@ -6,7 +6,7 @@ Masahiro Altland
 ----------------
 
 
-![Masahiro Altland](/images/stories/saga/g-tekketsu/persos/masahiro-altland.png)
+
 
 
 * Rôle : Pilote de Mobile Suits

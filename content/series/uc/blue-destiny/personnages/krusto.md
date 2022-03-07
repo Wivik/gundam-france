@@ -6,7 +6,7 @@ Krusto Morse
 ------------
 
 
-![krusto.jpg](/images/stories/saga/bluedestiny/persos/krusto.jpg)
+
   
 Savant ayant travaillé pour Zeon, il a développé le système EXAM. 
   

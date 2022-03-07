@@ -7,7 +7,7 @@ La Guerre d'Un An
 
 
 
-![fedvszeon](/images/stories/dossiers/oyw/fedvszeon.png)La fameuse Guerre d'Un An présentée dans Mobile Suit Gundam contient bien plus d'évènements que l'on nous montre dans la série. Egalement, celle-ci est vaste et contient de nombreuses batailles. Cet article vous listera les points chronologiques importants de la Guerre d'Un An, ainsi que ses chapitres annexes.
+La fameuse Guerre d'Un An présentée dans Mobile Suit Gundam contient bien plus d'évènements que l'on nous montre dans la série. Egalement, celle-ci est vaste et contient de nombreuses batailles. Cet article vous listera les points chronologiques importants de la Guerre d'Un An, ainsi que ses chapitres annexes.
 
 
 Détail à savoir sur cette page : il ne sera pas retracé les aventures autour du White Base, le but de celui-ci étant plutôt de raconter ce qu'il s'est produit en parallèle. Leur histoire sera citée pour permettre de lier les évènements, mais il n'y aura pas de détails.
@@ -43,7 +43,7 @@ La Fédération met en place une flotte combinée de plusieurs de ses escadrons 
 ### 15 janvier UC 0079 : Bataille de Loum.
 
 
-![Le Zaku II Custom de Char Aznable lors de la Bataille de Loum où il gagnera son titre de ](/images/mini/images-stories-saga-msigloo-images-_tb_200x_index.jpg)Après avoir émis de fausses rumeurs, Zeon dirige les forces fédérales vers un piège. En effet, ceux-ci avaient prévu une autre chute de colonie avec un des blocs de Side-5. Le combat entrainera la destruction de la moitié de la flotte fédérale, ainsi que celle de la quasi totalité des colonies du bloc avec ses 2,5 milliards d'habitants. La seule colonie restante sera Texas, devenue un désert inhospitalier. La ceinture de débris créée par le conflit sera nommée « Zone Banc de Sable »
+Après avoir émis de fausses rumeurs, Zeon dirige les forces fédérales vers un piège. En effet, ceux-ci avaient prévu une autre chute de colonie avec un des blocs de Side-5. Le combat entrainera la destruction de la moitié de la flotte fédérale, ainsi que celle de la quasi totalité des colonies du bloc avec ses 2,5 milliards d'habitants. La seule colonie restante sera Texas, devenue un désert inhospitalier. La ceinture de débris créée par le conflit sera nommée « Zone Banc de Sable »
 
 
 * 11h20 : la 1ere flotte combinée de Zeon lance son attaque contre Side-5.
@@ -75,7 +75,7 @@ Lancement du premier assaut de la 1ere Division Mobile Suit Terrestre (DMST) de 
   
 5 mars : Discours victorieux de Gihren Zabi concernant la première phase de l'invasion Terrestre par Zeon.   
   
-![Gihren Zabi lors de son discours.](/images/mini/images-stories-dossiers-oyw-_tb_200x106_gihren.jpg)11 mars : largage de la 2eme et 3eme DMST de Zeon sur les côtes d'Amérique du Nord. Le lendemain les deux divisions capturent la base de Californie qui deviendra un poste de commandement de Zeon.  
+11 mars : largage de la 2eme et 3eme DMST de Zeon sur les côtes d'Amérique du Nord. Le lendemain les deux divisions capturent la base de Californie qui deviendra un poste de commandement de Zeon.  
   
 13 mars : un détachement est envoyé pour prendre la base d'Hawaï. La 3eme DMST capture Mayport (Pennsylvanie), Norfolk (Virginie) et Cap Canaveral (Floride).   
   
@@ -141,7 +141,7 @@ Operation Cactus menée par la Fédération pour intercepter les communications 
   
 Le Commandant des forces locales d'Amérique du Nord de Zeon, Garma Zabi, lance une attaque contre le White Base mais sera tué en combat.   
   
-![Funérailles de Garma Zabi](/images/mini/images-stories-dossiers-oyw-_tb_200x150_garma.jpg)Des funérailles retransmises mondialement à la télévision par Zeon seront organisées suite à la perte de ce membre de la famille Zabi, c'est à cette occasion qu'aura lieu le fameux discours de Gihren Zabi se terminant par un « Sieg Zeon ! » répété plusieurs fois.
+Des funérailles retransmises mondialement à la télévision par Zeon seront organisées suite à la perte de ce membre de la famille Zabi, c'est à cette occasion qu'aura lieu le fameux discours de Gihren Zabi se terminant par un « Sieg Zeon ! » répété plusieurs fois.
 
 
 9 octobre : Operation Dragon du désert lancé par Zeon à l'encontre de la base Fédérale en Asie centrale. Le camp sera perdu et évacué.   

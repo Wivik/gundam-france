@@ -5,7 +5,7 @@ title: "Billy Katagiri"
 Billy Katagiri
 --------------
 
-![billy](/images/stories/saga/gundam00film/persos/federation/billy.jpg)
+
 - Age : 38 ans  
 - Ingénieur pour la Fédération  
 - Voix japonaise : Yuji Ueda

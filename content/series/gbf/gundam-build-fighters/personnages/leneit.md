@@ -6,7 +6,7 @@ Mario et Julio Renato
 ---------------------
 
 
-![Mario et Furio Reneito](/images/stories/saga/gundambf/persos/leneit.png)
+
 * Rôle : Gunpla Builder et Fighter
 * Origines : Argentine
 * Voix japonaise : Yuji Ueda

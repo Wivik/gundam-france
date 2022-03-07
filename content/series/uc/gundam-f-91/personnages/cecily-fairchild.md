@@ -5,7 +5,7 @@ title: Cecily Fairchild
 Cecily Fairchild
 ----------------
 
-![cecily](/images/stories/saga/F91/persos/civils/cecily.jpg)Cecily Fairchild / Vera Ronah  
+Cecily Fairchild / Vera Ronah  
 - Age : 17 ans  
 - Rôle : Camarade de Seabook, héritière des Ronah  
 - Voix Japonaise : Yumi Touma

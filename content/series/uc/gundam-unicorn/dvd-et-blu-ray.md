@@ -12,7 +12,7 @@ Nous n'afficherons que les caractéristiques des Blu-ray sur cette page, celles 
 ### Visuels et spécifications
 
 
-![volume1face](/images/mini/images-stories-saga-unicorn-dvd-_tb_172x200_volume1face.jpg)
+
 Gundam UC Vol. 1 (Blu-ray)
 
 
@@ -28,7 +28,7 @@ Gundam UC Vol. 1 (Blu-ray)
  
 
 
-![BDvol2](/images/mini/images-stories-saga-unicorn-dvd-_tb_x200_BDvol2.jpg)
+
 Gundam UC Vol. 2 (Blu-ray)
 
 
@@ -44,7 +44,7 @@ Gundam UC Vol. 2 (Blu-ray)
  
 
 
-![vol3](/images/mini/images-stories-saga-unicorn-dvd-_tb_x200_vol3.jpg)
+
 Gundam UC Vol. 3 (Blu-ray)
 
 
@@ -60,7 +60,7 @@ Gundam UC Vol. 3 (Blu-ray)
  
 
 
-![bduc4](/images/mini/images-stories-saga-unicorn-dvd-_tb_157x200_bduc4.jpg)
+
 Gundam UC Vol. 4 (Blu-ray)
 
 
@@ -76,7 +76,7 @@ Gundam UC Vol. 4 (Blu-ray)
  
 
 
-![bduc5](/images/mini/images-stories-saga-unicorn-dvd-_tb_157x200_bduc5.jpg)
+
  Gundam UC Vol. 5 (Blu-ray)
 
 
@@ -92,7 +92,7 @@ Gundam UC Vol. 4 (Blu-ray)
  
 
 
-![bduc5](/images/mini/images-stories-saga-unicorn-dvd-_tb_157x200_bduc6.jpg)
+
 Gundam UC Vol.6 (Blu-ray)
 
 
@@ -108,7 +108,7 @@ Gundam UC Vol.6 (Blu-ray)
  
 
 
-![bduc5](/images/mini/images-stories-saga-unicorn-dvd-_tb_157x200_bduc7.jpg)
+
 Gundam UC Vol.7 (Blu-ray)
 
 
@@ -149,7 +149,7 @@ L'adaptation : Ici aussi on peut constater une grande rigueur dans la qualité d
 *Attention, ces images sont en résolution native de la vidéo, soit 1920x1080.* 
 
 
-![screen1](/images/mini/images-stories-saga-unicorn-editionfr-_tb_213x120_screen1.jpg) ![screen2](/images/mini/images-stories-saga-unicorn-editionfr-_tb_213x120_screen2.jpg)![screen3](/images/mini/images-stories-saga-unicorn-editionfr-_tb_213x120_screen3.jpg)
+
 ### Contenu du disque
 
 

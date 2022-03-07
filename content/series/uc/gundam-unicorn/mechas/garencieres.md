@@ -6,7 +6,7 @@ Garencières
 -----------
 
 
-[Garencières](javascript:change_image_m('images/stories/saga/unicorn/mechas/garencieres.png');) [Vue de dos](javascript:change_image_m('images/stories/saga/unicorn/mechas/garencieres-dos.png');)      ![Garencières](/images/stories/saga/unicorn/mechas/garencieres.png)    
+[Garencières](javascript:change_image_m('images/stories/saga/unicorn/mechas/garencieres.png');) [Vue de dos](javascript:change_image_m('images/stories/saga/unicorn/mechas/garencieres-dos.png');)          
 
 
 Garencières

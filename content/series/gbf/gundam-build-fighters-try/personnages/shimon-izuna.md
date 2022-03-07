@@ -6,7 +6,7 @@ Shimon Izuna
 ------------
 
 
-![Shimon Izuna](/images/stories/saga/gundambftry/persos/shimon-izuna.png)
+
 
 
 * Voix Japonaise : Masakazu Nishida

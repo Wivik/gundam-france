@@ -5,7 +5,7 @@ title: "HANAYO (Gundam Meister 874)"
 HANAYO (Gundam Meister 874)
 ---------------------------
 
-![hanayo](/images/stories/manga/gundam00f/persos/hanayo.jpg)
+
 - Âge inconnu  
 - Rôle : Terminal Veda / Gundam Meister
 

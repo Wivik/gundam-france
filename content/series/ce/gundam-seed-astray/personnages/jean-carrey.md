@@ -6,7 +6,7 @@ Jean Carrey
 -----------
 
 
-![Jean Carrey](/images/stories/manga/astray/persos/Jean_Carry.jpg)
+
 
 Fait exceptionnel, Jean Carrey est le seul à avoir appartenu à toutes les grandes factions de l’Ère Cosmique et piloté des MS de chacune.
 

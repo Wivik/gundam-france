@@ -6,7 +6,7 @@ MS-09G Dwadge
 -------------
 
 
-[Dwadge](javascript:change_image_m('images/stories/saga/gundamzz/mechas/neozeon/ms-09g.png');) [Version Unicorn](javascript:change_image_m('images/stories/saga/unicorn/mechas/zeon/dwadge.png');)      ![Dwadge](/images/stories/saga/gundamzz/mechas/neozeon/ms-09g.png)    
+[Dwadge](javascript:change_image_m('images/stories/saga/gundamzz/mechas/neozeon/ms-09g.png');) [Version Unicorn](javascript:change_image_m('images/stories/saga/unicorn/mechas/zeon/dwadge.png');)          
 
 
 ### Fiche Technique

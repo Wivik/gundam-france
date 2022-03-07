@@ -6,7 +6,7 @@ Liza Enza
 ---------
 
 
-![Liza Enza](/images/stories/saga/g-tekketsu-s2/persos/liza-enza.png)
+
 
 
 * Fonction : Officier pour Gjallahorn

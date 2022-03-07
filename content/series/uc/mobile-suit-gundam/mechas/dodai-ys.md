@@ -6,7 +6,7 @@ Dodai YS
 --------
 
 
-![dodaiys](/images/stories/saga/msgundam/mechas/dodaiys.png)
+
 
 
 ### Fiche Technique

@@ -5,7 +5,7 @@ title: "Farsia"
 Farsia
 ------
 
-![farsia](/images/stories/saga/gundamage/mechas/farsia.png) 
+ 
 
 
 ### Fiche Technique

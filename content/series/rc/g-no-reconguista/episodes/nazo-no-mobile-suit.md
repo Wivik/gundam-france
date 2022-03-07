@@ -10,7 +10,6 @@ title: "01 - Nazo no Mobile Suit"
 * 2 octobre 2014 (Japon / France)
 
 
-![](/images/stories/saga/gnoreconguista/episodes/01-1.jpg) ![](/images/stories/saga/gnoreconguista/episodes/01-2.jpg) ![](/images/stories/saga/gnoreconguista/episodes/01-3.jpg)
 
 
 En haute atmosphère, le G-Self est poursuivi par deux Grimoires des Pirates de l'Espace et par le capitaine Dellesen avec un escadron de Cathsiths. Au moment où le Grimoire de Cahill s'apprête à l'attraper, il éjecte son Back Pack atmosphérique pour le distraire. Cahill tire alors avec un grappin électrifié pour paralyser le G-Self. Cela perturbe les systèmes du Mobile Suit qui ouvre alors son cockpit et laisser échapper sa passagère, une jeune fille avec une combinaison parachute. Dellensen la remarque et part à sa rescousse tandis que le G-Self est récupéré par Cahill.   

@@ -5,7 +5,7 @@ title: "Andrei Smirnov"
 Andrei Smirnov
 --------------
 
-![andrei](/images/stories/saga/gundam00film/persos/federation/andrei.jpg)
+
 - Age : 26 ans  
 - Rôle : Pilote de la Fédération  
 - Voix japonaise : Tetsu Shiraton

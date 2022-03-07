@@ -6,7 +6,7 @@ Deago Lowell
 ------------
 
 
-![Deago Lowell](/images/stories/manga/astray/persos/Deago.jpg)
+
 
 Quand Lowe Guele et Kisato Yamabuki reviennent sur Terre en octobre CE73, Junius Seven est en train de chuter et Lowe se jette dans les débris pour en détruire un maximum. Juste après être remonté à bord, un passager clandestin vole le Red Frame Mars Jacket et se sert des débris pour arriver sur Terre. Deago Lowell vient de faire son entrée.
 

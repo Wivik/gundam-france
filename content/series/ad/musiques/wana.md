@@ -5,7 +5,7 @@ title: "Wana"
 Wana
 ----
 
-![alt](/images/stories/saga/gundam00/ost/Wana.jpg)
+
 * Interpretation : THE BACK HORN
 
 

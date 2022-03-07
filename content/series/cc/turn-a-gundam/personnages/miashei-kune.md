@@ -6,7 +6,7 @@ Miashei Kune
 ------------
 
 
-![Miashei Kune](/images/stories/saga/turnagundam/persos/terriens/mishia.jpg)
+
 * Rôle : Pilote
 * Origines : Terre
 * Voix Japonaise : Noriko Kito

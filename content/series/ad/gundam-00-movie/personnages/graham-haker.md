@@ -5,7 +5,7 @@ title: "Graham Haker"
 Graham Haker
 ------------
 
-![graham](/images/stories/saga/gundam00film/persos/federation/graham.jpg)
+
 - Age : 34 ans  
 - Fonction : Leader de l'escadron Sol Braves  
 - Voix japonaise : Yuuichi Nakamura

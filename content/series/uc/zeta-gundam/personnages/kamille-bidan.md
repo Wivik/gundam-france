@@ -6,7 +6,7 @@ Kamille Bidan
 -------------
 
 
-![Kamille Bidan](/images/stories/saga/zetagundam/persos/kamille-bidan.png)
+
 
 
 * Age : 17

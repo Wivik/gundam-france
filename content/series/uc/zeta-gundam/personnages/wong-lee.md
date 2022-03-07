@@ -6,7 +6,7 @@ Wong Lee
 --------
 
 
-![Wong Lee](/images/stories/saga/zetagundam/persos/wong-lee.png)
+
 
 
 * Age : 25

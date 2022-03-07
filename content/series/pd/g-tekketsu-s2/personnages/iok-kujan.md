@@ -6,7 +6,7 @@ Iok Kujan
 ---------
 
 
-![Iok Kujan](/images/stories/saga/g-tekketsu-s2/persos/ioch-kujan.png)
+
 
 
 * Fonction : Dirigeant de la famille Kujan

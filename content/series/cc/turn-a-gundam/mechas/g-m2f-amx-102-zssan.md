@@ -5,7 +5,7 @@ title: G-M2F (AMX-102) Zssan
 G-M2F (AMX-102) Zssan
 ---------------------
 
-![zssan](/images/stories/saga/turnagundam/ms/moonraces/zssan.png)
+
 
 
 G-M2F (AMX-102) Zssan

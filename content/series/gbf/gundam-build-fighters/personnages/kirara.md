@@ -6,7 +6,7 @@ Kirara
 ------
 
 
-![Kirara](/images/stories/saga/gundambf/persos/kirara.png)
+
 
 
 * Fonction : Chanteuse

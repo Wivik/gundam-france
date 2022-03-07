@@ -6,7 +6,7 @@ Vanfelt Ria Lindsay
 -------------------
 
 
-![Vanfelt Ria Lindsay](/images/stories/manga/astray/persos/vanfekdt.jpg)
+
 
 Nom de code : Panther 2 ; Striker Pack équipé : AQM/E-X01 Aile Striker 
 

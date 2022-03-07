@@ -5,7 +5,7 @@ title: Toniya Malme
 Toniya Malme
 ------------
 
-![toniya](/images/stories/saga/gundamx/persos/toniya.jpg)Toniya Malme  
+Toniya Malme  
 - Age : 17 ans  
 - Fonctions : Opératrice du Freeden
 

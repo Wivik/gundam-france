@@ -6,7 +6,7 @@ J.J. Sexton
 -----------
 
 
-![J.J. Sexton](/images/stories/saga/thunderbolt/persos/jj-sexton.png)
+
 
 
 * Rôle : Chercheur

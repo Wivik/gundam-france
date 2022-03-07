@@ -5,7 +5,7 @@ title: Gilbert Durandal
 Gilbert Durandal
 ----------------
 
-![durandal](/images/stories/saga/gundamseeddestiny/persos/zaft/durandal.jpg)Gilbert Durandal  
+Gilbert Durandal  
   
 - Age : 32  
 - Rôle : Chancelier Suprême de PLANT  

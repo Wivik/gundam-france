@@ -6,7 +6,7 @@ Ash Gray
 --------
 
 
-![Ash Gray](/images/stories/manga/astray/persos/Ash-grey.jpg)
+
 
 Au premier abord, ses tatouages et sa collection de petites poupées pourraient le faire passer pour un fou. Quand on se rend compte que chaque poupée est un ennemi abattu, on le prend tout de suite plus au sérieux.
 

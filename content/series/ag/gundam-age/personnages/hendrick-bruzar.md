@@ -5,7 +5,7 @@ title: "Hendrick Bruzar"
 Hendrick Bruzar
 ---------------
 
-![bruzar](/images/stories/saga/gundamage/persos/bruzar.png)
+
 - Age : 58 ans  
 - Rôle : Commandant de la base Ariston  
 - Voix japonaise : Ikuya Sawaki

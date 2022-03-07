@@ -7,7 +7,7 @@ Kamiki Burning Gundam
 
 
 
-![Kamiki Burning Gundam](/images/stories/saga/gundambftiw/mechas/kamiki-burning-gundam.png)
+
 
 [Kamiki Burning Gundam](javascript:change_image_m('images/stories/saga/gundambftiw/mechas/kamiki-burning-gundam.png');)
 [Vue de dos](javascript:change_image_m('images/stories/saga/gundambftiw/mechas/kamiki-burning-gundam-dos.png');)

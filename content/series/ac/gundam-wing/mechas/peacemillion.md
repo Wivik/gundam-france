@@ -5,7 +5,7 @@ title: Peacemillion
 Peacemillion
 ------------
 
-![peacemillion](/images/stories/saga/gundamwing/mechas/divers/peacemillion.jpg)
+
 
 
 Peacemillion

@@ -6,7 +6,7 @@ Ash Like Snow
 -------------
 
 
-![alt](/images/stories/saga/gundam00/ost/asklikesnow.jpg)
+
 * Musique : Shunsaku Okuda
 * Paroles : Tomoko Kawase
 * Interprete : The brilliant green

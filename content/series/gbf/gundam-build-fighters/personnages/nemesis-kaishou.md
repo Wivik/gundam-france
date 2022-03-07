@@ -6,7 +6,7 @@ Président Nemesis
 -----------------
 
 
-![Président Nemesis](/images/stories/saga/gundambf/persos/nemeis_kaichou.png)
+
 
 
 

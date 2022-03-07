@@ -5,7 +5,7 @@ title: CONCEPT-X 6-1-2 Turn X
 CONCEPT-X 6-1-2 Turn X
 ----------------------
 
-![turnx](/images/stories/saga/turnagundam/ms/moonraces/turnx.png)
+
 
 
 CONCEPT-X 6-1-2 Turn X

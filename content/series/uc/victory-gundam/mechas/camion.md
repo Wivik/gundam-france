@@ -7,7 +7,7 @@ Camion
 
 
 
-![Camion](/images/stories/saga/vgundam/mechas/camion.png)
+
 
 [Camion](javascript:change_image_m('images/stories/saga/vgundam/mechas/camion.png');)
 

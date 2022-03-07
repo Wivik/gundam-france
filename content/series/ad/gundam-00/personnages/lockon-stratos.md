@@ -5,7 +5,7 @@ title: "Lockon Stratos"
 Lockon Stratos
 --------------
 
-![lockon](/images/stories/saga/gundam00/persos/lockon.jpg)
+
 
 
 - Nom de code : Lockon Stratos  

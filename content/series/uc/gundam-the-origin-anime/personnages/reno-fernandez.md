@@ -6,7 +6,7 @@ Reno Fernandez
 --------------
 
 
-![Reno Fernandez](/images/stories/saga/origin/persos/reno-fernandez.png)
+
 * Rôle : Cadet de l'académie militaire de Zeon
 * Origines : Side-5
 

@@ -10,7 +10,7 @@ Kunio Okawara
 * Mechanical Designer
 
 
-![okawara](/images/stories/Encyclopedie/biographies/okawara.jpg)Kunio Okawara est le premier de l'animation Japonaise a avoir été crédité en tant que Mechanical Designer, il est célèbre pour avoir créé les robots de la saga Gundam, des Yuusha, ainsi qu'un impressionnant palmarès de robots aussi bien dans le réaliste que dans le super.
+Kunio Okawara est le premier de l'animation Japonaise a avoir été crédité en tant que Mechanical Designer, il est célèbre pour avoir créé les robots de la saga Gundam, des Yuusha, ainsi qu'un impressionnant palmarès de robots aussi bien dans le réaliste que dans le super.
 
 
 Etudiant diplomé de l'Université Zokei de Tokyo, il pratiqua le design graphique là bas avant de partir dans le domaine du textile lors de sa dernière année. Il travailla plus tard comme designer de mode pour la compagnie Onward Kashiyama pour qui il dessina également des décors de présentation.

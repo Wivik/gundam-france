@@ -5,7 +5,7 @@ title: "GN-010 Gundam Zabanya"
 GN-010 Gundam Zabanya
 ---------------------
 
-![zabanya](/images/stories/saga/gundam00film/MECHAS/CELESTIALBEING/zabanya.png)
+
 
 
 GN-010 Gundam Zabanya

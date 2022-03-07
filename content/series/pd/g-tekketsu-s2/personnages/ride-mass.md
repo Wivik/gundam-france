@@ -6,7 +6,7 @@ Ride Mass
 ---------
 
 
-![Ride Mass](/images/stories/saga/g-tekketsu-s2/persos/ride-mass.png)
+
 
 
 * Origine : Mars

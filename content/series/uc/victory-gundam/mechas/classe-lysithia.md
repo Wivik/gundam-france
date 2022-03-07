@@ -7,7 +7,7 @@ Classe Lysithia
 
 
 
-![Classe Lysithia](/images/stories/saga/vgundam/mechas/lysithea.png)
+
 
 [Classe Lysithia](javascript:change_image_m('images/stories/saga/vgundam/mechas/lysithea.png');)
 

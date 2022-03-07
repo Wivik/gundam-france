@@ -5,7 +5,7 @@ title: Libra
 Libra
 -----
 
-![libra](/images/stories/saga/gundamwing/mechas/oz/libra.jpg)
+
 
 
 Libra   

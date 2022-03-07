@@ -5,7 +5,7 @@ title: "Zamdolarg"
 Zamdolarg
 ---------
 
- ![zamdolarg](/images/stories/saga/gundamage/mechas/zamdolarg.png)
+ 
 
 
 ### Fiche Technique

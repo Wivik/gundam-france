@@ -6,7 +6,7 @@ Hasan
 -----
 
 
-![hasan](/images/stories/saga/unicorn/persos/fed/hasan.jpg)
+
 - Age : ??
   
 - Rôle : Physicien dans l'armée, affiliation Londo Bell

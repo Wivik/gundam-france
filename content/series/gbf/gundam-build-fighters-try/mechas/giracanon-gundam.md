@@ -6,7 +6,7 @@ Giracanon Gundam
 ----------------
 
 
-![Giracanon Gundam](/images/stories/saga/gundambftry/mechas/giracanon-gundam.png)
+
 
 
 ### Fiche Technique

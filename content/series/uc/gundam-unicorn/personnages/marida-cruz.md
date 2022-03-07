@@ -6,7 +6,7 @@ Marida Cruz
 -----------
 
 
-![marida](/images/stories/saga/unicorn/persos/neozeon/marida.jpg)
+
 - Age : 18 ans
   
 - Rôle : Pilote du Kshatriya

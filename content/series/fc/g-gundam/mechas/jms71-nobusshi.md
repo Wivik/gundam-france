@@ -5,7 +5,7 @@ title: JMS71 Nobusshi
 JMS71 Nobusshi
 --------------
 
-![jms71](/images/stories/saga/ggundam/mechas/neojapan/jms71.png)
+
 
 
 JMS71 Nobusshi   

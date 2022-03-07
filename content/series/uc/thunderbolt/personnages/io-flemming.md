@@ -9,7 +9,7 @@ Io Flemming
 
 
 
-![Io Flemming](/images/mini/images-stories-saga-thunderbolt-persos-_tb_x400_io-flemming.png)
+
 * [Io Flemming](javascript:change_image_m('images/stories/saga/thunderbolt/persos/io-flemming.png');)
 * [Combinaison pilotage](javascript:change_image_m('images/stories/saga/thunderbolt/persos/io-flemming-normalsuit.png');)
 

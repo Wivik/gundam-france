@@ -6,7 +6,7 @@ Will Game
 ---------
 
 
-![Will Game](/images/stories/saga/turnagundam/persos/moonrace/willgame.jpg)
+
 * Rôle : Descendant de Moonrace
 * Origines : Terre
 * Voix Japonaise : Kenichi Sakaguchi

@@ -5,7 +5,7 @@ title: Dekim Barton
 Dekim Barton
 ------------
 
-![dekim](/images/stories/saga/gundamwing/persos/dekim.jpg)Dekim Barton
+Dekim Barton
 
 
 Dirigeant de la Fondation Barton, une organisation privée des colonies, il fut l'un des principaux  supports politique et financier d'Heero Yuy. Lorsque ce dernier sera assassiné, il cultivera une revanche face à l'Alliance qu'il tient pour responsable. Il traquera de prime abord le tueur qui fut engagé et l'éliminera. Puis il mettra au point l'opération météore. Pour cela il capturera et obligera les 5 ingénieurs qui ont conçu le Tallgeese à fabriquer 5 Mobile Suit surpuissants qui seront ses outils de conquête, et de génocide.

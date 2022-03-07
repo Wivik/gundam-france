@@ -5,7 +5,7 @@ title: Kid Salsamille
 Kid Salsamille
 --------------
 
-![alt](/images/mini/images-stories-saga-gundamx-images-equipage-_tb_200x_gxshot066.jpg)Kid Salsamille  
+Kid Salsamille  
 - Age : 12 ans  
 - Fonctions : chef ingénieur du Freeden
 

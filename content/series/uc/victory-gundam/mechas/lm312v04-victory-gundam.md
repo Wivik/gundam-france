@@ -7,7 +7,7 @@ LM312V04 Victory Gundam
 
 
 
-![LM312V04 Victory Gundam](/images/stories/saga/vgundam/mechas/lm312v04.png)
+
 
 [LM312V04 Victory Gundam](javascript:change_image_m('images/stories/saga/vgundam/mechas/lm312v04.png');)
 [Core Fighter](javascript:change_image_m('images/stories/saga/vgundam/mechas/lm312v04-corefighter.png');)

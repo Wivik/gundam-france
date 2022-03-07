@@ -6,7 +6,7 @@ Mallygan
 --------
 
 
-![Mallygan](/images/stories/saga/turnagundam/persos/terriens/mallygan.jpg)
+
 * Rôle : Officier Militaire
 * Origines : Terre
 * Voix Japonaise : Hiroya Ishimaru

@@ -6,7 +6,7 @@ Eugene Seven Stark
 ------------------
 
 
-![Eugene Seven Stark](/images/stories/saga/g-tekketsu/persos/eugene-seven-stark.png)
+
 
 
 * Rôle : Membre du CGS

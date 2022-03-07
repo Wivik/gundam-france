@@ -6,7 +6,7 @@ Martina Kranskie
 ----------------
 
 
-![Martina Kranskie](/images/stories/saga/vgundam/persos/martina-kranskie.png)
+
 
 
 * Age : 14 ans

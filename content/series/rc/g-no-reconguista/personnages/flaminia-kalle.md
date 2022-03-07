@@ -6,7 +6,7 @@ Flaminia Kalle
 --------------
 
 
-![Flaminia Kalle](/images/stories/saga/gnoreconguista/persos/flaminia-kalle.png)
+
 
 
 * Origines : Towasanga

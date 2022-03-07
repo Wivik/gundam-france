@@ -7,7 +7,7 @@ Super Fumina Ver Titans Maid
 
 
 
-![Super Fumina Ver Titans Maid](/images/stories/saga/gundambftiw/mechas/super-fumina-ver-titans-maid.png)
+
 
 [Super Fumina Ver Titans Maid](javascript:change_image_m('images/stories/saga/gundambftiw/mechas/super-fumina-ver-titans-maid.png');)
 [Vue de dos](javascript:change_image_m('images/stories/saga/gundambftiw/mechas/super-fumina-ver-titans-maid-dos.png');)

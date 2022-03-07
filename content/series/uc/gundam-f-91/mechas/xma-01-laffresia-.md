@@ -6,7 +6,7 @@ XMA-01 Laffresia
 ----------------
 
 
-![raflessia](/images/stories/saga/F91/mechas/crossbone/raflessia.gif)
+
 
 
 XMA-01 Laffresia   

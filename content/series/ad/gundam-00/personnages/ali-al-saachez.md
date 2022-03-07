@@ -5,7 +5,7 @@ title: "Ali Al-Saachez"
 Ali Al-Saachez
 --------------
 
-![ali.jpg](/images/stories/saga/gundam00/persos/ali.jpg "ali.jpg")![](/images/stories/saga/gundam00/persos/s2/ali.jpg)Ali Al-Saachez
+Ali Al-Saachez
 
 
 - Age : 35 ans  

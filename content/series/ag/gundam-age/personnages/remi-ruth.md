@@ -5,7 +5,7 @@ title: "Remi Ruth"
 Remi Ruth
 ---------
 
-![remi](/images/stories/saga/gundamage/persos/remi.png)
+
 - Age : 23  
 - Rôle : Mécanicienne du Diva  
 - Voix Japonaise : Ayane Sakura

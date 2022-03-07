@@ -5,7 +5,7 @@ title: Classe Hannibal
 Classe Hannibal
 ---------------
 
-![hannibal](/images/stories/saga/gundamseeddestiny/mechas/alliance/hannibal.png)
+
 
 
 Classe Hannibal   

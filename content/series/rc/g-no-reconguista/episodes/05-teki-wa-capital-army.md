@@ -10,7 +10,6 @@ title: "05 - Teki wa Capital Army"
 * 24 octobre 2014 (Japon / France)
 
 
-![](/images/stories/saga/gnoreconguista/episodes/05-1.jpg) ![](/images/stories/saga/gnoreconguista/episodes/05-2.jpg) ![](/images/stories/saga/gnoreconguista/episodes/05-3.jpg)
 
 
 A Capital Tower, Wilmit Zenam se désole de voir que les tabous sont brisés par la Capital Army. Pendant ce temps, la nouvelle armée présente son nouveau Mobile Suit, l'Elf Bullock, basé sur les données de l'Elf Bull de Dellensen. Celui-ci est piloté par un personnage masqué qui salue le colonel Cumpa Rusita ainsi que Jugan Mainstrom. Belleck Shadam explique à Dellensen que ce masque fait aussi d'écran et possède plusieurs autres fonctionnalités. Jugan ajoute qu'il s'agit d'un prototype basé sur les données obtenues par le Département d'Investigation qui possède le document appelé Le Plan des Roses d'Hermès contenant des technologies du Siècle Universel. Cumpa indique qu'il lui faudra plus de ressources si l'armée veut qu'il continue de briser les tabous. Ils sont rejoints par Wilmit Zenam qui leur demande d'arrêter de débaucher le personnel de la Capital Guard, mais Rusita lui répond que l'armée fait tout pour délivrer son fils des pirates.   

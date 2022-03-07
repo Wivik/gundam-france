@@ -5,7 +5,7 @@ title: Crux Dogatie
 Crux Dogatie
 ------------
 
-![crux](/images/stories/manga/crossbone/persos/crux.jpg)
+
 - Age : ??  
 - Origines : Terre  
 - Rôle : Leader de l'Empire de Jupiter  

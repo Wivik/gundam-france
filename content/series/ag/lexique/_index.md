@@ -30,7 +30,7 @@ Lexique
 ### AGE Device
 
 
-![agedevice](/images/stories/saga/gundamage/agedevice.jpg)Appareil transmis de générations en générations dans la famille Asuno. Il possède le savoir de nombreuses années et de précédentes sociétés. Cédé à Flit Asuno à la mort de sa mère lors de l'attaque des UE contre la colonie Ovan, il contient entre autres les plans du Gundam, un Mobile Suit mythique des anciens temps. Il servira de clé d'authentification pour le pilotage du Gundam AGE-1 et reccueille ses données de combat pour le faire évoluer via le Système AGE.
+Appareil transmis de générations en générations dans la famille Asuno. Il possède le savoir de nombreuses années et de précédentes sociétés. Cédé à Flit Asuno à la mort de sa mère lors de l'attaque des UE contre la colonie Ovan, il contient entre autres les plans du Gundam, un Mobile Suit mythique des anciens temps. Il servira de clé d'authentification pour le pilotage du Gundam AGE-1 et reccueille ses données de combat pour le faire évoluer via le Système AGE.
 
 
 ### Destructeur de Colonies
@@ -69,7 +69,7 @@ Le Système AGE est une machine mise au point par Flit qui est capable de tirer 
 La première création du Système AGE sera le DODS Rifle, un Beam Rifle tirant une décharge transperçant les blindages grâce à un tir rotatif. La machine de construction est appelée AGE Builder.
 
 
-![systemage](/images/stories/saga/gundamage/tech/systemage.jpg) ![systemage3](/images/stories/saga/gundamage/tech/systemage3.jpg) ![systemage2](/images/stories/saga/gundamage/tech/systemage2.jpg) ![systemage4](/images/stories/saga/gundamage/tech/systemage4.jpg)
+
 
 
 ### Système Everse

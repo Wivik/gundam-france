@@ -5,7 +5,7 @@ title: RAS-96 Ankusha
 RAS-96 Ankusha
 --------------
 
-![ankusha](/images/stories/saga/unicorn/mechas/federation/ankusha.png) 
+ 
 
 
 ### Fiche Technique

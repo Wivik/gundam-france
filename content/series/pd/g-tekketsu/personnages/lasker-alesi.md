@@ -6,7 +6,7 @@ Lasker Alesi
 ------------
 
 
-![Lasker Alesi](/images/stories/saga/g-tekketsu/persos/lasker-alesi.png)
+
 
 
 * Rôle : Parlementaire

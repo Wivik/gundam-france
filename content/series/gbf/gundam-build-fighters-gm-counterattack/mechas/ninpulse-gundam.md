@@ -7,7 +7,7 @@ Ninpulse Gundam
 
 
 
-![Ninpulse Gundam](/images/stories/saga/gundambfgmc/mechas/ninpulse-gundam.png)
+
 
 [Ninpulse Gundam](javascript:change_image_m('images/stories/saga/gundambfgmc/mechas/ninpulse-gundam.png');)
 

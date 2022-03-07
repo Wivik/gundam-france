@@ -64,7 +64,7 @@ Le deuxième coffret propose en supplément un artbook de 45 pages avec des illu
 Passé le logo de l'éditeur et les mentions légales anglaises puis françaises, le menu très simple se compose du logo de la série, de la Terre en arrière plan, et de deux superbes illustrations du MSN-0100 Hyaku-Shiki et MSZ-006 Zêta Gundam. Les menus vont à l'essentiel sans fioriture ni animation interminable : lire tout, choix des épisodes, choix de la langue, les crédits, et pour le troisième disque, les suppléments avec les génériques sans crédits. Le chapitrage des épisodes est classique : générique d'ouverture, première partie, seconde partie, générique de fin, aperçu du prochain.
 
 
-![menu-1.png](/images/mini/images-stories-saga-zetagundam-edition-fr-_tb_264x150_menu-1.png) ![credits.png](/images/mini/images-stories-saga-zetagundam-edition-fr-_tb_264x150_credits.png)
+![menu-1.png](/images/mini/images-stories-saga-zetagundam-edition-fr-_tb_264x150_menu-1.png) 
 
 
 ### Image et Son
@@ -77,7 +77,7 @@ Si on pouvait craindre des pertes avec autant d'épisodes par disques, il n'en e
 Le format d'image reste en 4/3 pour éviter de rogner les bords supérieurs et inférieurs de l'écran, procédé habituel des remasterisations HD. 
 
 
-![generique.png](/images/mini/images-stories-saga-zetagundam-edition-fr-_tb_176x100_generique.png) ![ep1-1.png](/images/mini/images-stories-saga-zetagundam-edition-fr-_tb_176x100_ep1-1.png) ![ep1-2.png](/images/mini/images-stories-saga-zetagundam-edition-fr-_tb_176x100_ep1-2.png) ![ep1-3.png](/images/mini/images-stories-saga-zetagundam-edition-fr-_tb_176x100_ep1-3.png) 
+ 
 
 
 Côté Audio, nous sommes sur une piste Stéréo japonaise qui a elle aussi bénéficié de traitements d'amélioration modernes. La lecture sur un ensemble audio home cinéma est de qualité et ne présente aucun défaut.

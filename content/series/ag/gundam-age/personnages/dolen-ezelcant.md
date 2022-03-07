@@ -5,7 +5,7 @@ title: "Dolen Ezelcant"
 Dolen Ezelcant
 --------------
 
-![dolen](/images/stories/saga/gundamage/persos/dolen.png)
+
 - Rôle : Epouse de Ferzal Ezelcant  
 - Origines : Veigan  
 - Voix Japonaise : Mie Sonozaki

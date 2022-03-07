@@ -5,7 +5,7 @@ title: JMS60 Busshi
 JMS60 Busshi
 ------------
 
-![jms60](/images/stories/saga/ggundam/mechas/neojapan/jms60.png)
+
 
 
 JMS60 Busshi   

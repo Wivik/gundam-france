@@ -5,7 +5,7 @@ title: "Hixar Fermi"
 Hixar Fermi
 -----------
 
-![hixar](/images/stories/manga/gundam00f/persos/hixar.jpg)
+
 - Âge : inconnu  
 - Rôle : Observateur de Veda, Gundam Meister
 
@@ -16,7 +16,7 @@ Hixar Fermi n'apparaît qu'après 2308 A.D. Portant un grand manteau pour masque
 Son passé restant inconnu, les premières mentions d'Hixar Fermi au sein de Celestial Being remontent à 2302 A.D., lors de la campagne de test du GN-XXX + GNR-000 Sefer Rasiel et recrutement des Meisters de la troisième génération. Pilote talentueux du GNR-000 Sefer, il affichait un tempérament ouvert et jovial, contrastant nettement avec son partenaire et ami Grave Violento, se liait facilement d'amitié avec tous et égayait l'atmosphère de ses plaisanteries, déclarant par exemple qu'il faudrait plus de femmes à Krung Thep pour améliorer le moral et les performances du personnel masculin.
 
 
-![La mort de Grave Violento](/images/stories/manga/gundam00f/persos/mortdegrave.jpg)Courant 2307 A.D., l'Innovade Beside Pain assaillit Krung Thep, embusqué à bord d'un CB-001 1 Gundam. Disposant d'une capacité spéciale (Install), lui permettant de prendre le contrôle des personnes liées à Veda, voire de se télécharger en lieu et place de leur esprit, il fait abattre Grave Violento par Hixar Fermi. Celui-ci, se " réveillant " devant son ami à l'agonie avec dans les mains l'arme du crime, subit un choc psychologique majeur le laissant atone pour un long moment. En plus de porter le poids de la culpabilité de ce meurtre inexplicable, il doit assumer le fait que cette prise de contrôle implique qu'à son insu, lui-même est lié d'une manière ou d'une autre à Veda, bien que ses données le mentionnent comme simple humain.   
+Courant 2307 A.D., l'Innovade Beside Pain assaillit Krung Thep, embusqué à bord d'un CB-001 1 Gundam. Disposant d'une capacité spéciale (Install), lui permettant de prendre le contrôle des personnes liées à Veda, voire de se télécharger en lieu et place de leur esprit, il fait abattre Grave Violento par Hixar Fermi. Celui-ci, se " réveillant " devant son ami à l'agonie avec dans les mains l'arme du crime, subit un choc psychologique majeur le laissant atone pour un long moment. En plus de porter le poids de la culpabilité de ce meurtre inexplicable, il doit assumer le fait que cette prise de contrôle implique qu'à son insu, lui-même est lié d'une manière ou d'une autre à Veda, bien que ses données le mentionnent comme simple humain.   
 Afin de s'assurer sa loyauté, Veda ordonne pour lui le port d'un collier explosif. Pleinement interfacé avec l'ordinateur quantique de Celestial Being, il sera désormais l' " il de Veda ", chargé de parcourir le monde pour fournir des témoignages précis et directs des effets de l'application du Plan. On perd la trace d'Hixar jusqu'en 2308 A.D., après la destruction de Celestial Being, quand il vole le GNY-002F Sadalsuud Type F du hangar de Fereshte. Le fait qu'il puisse le piloter implique qu'il a entretemps été enregistré comme Gundam Meister par Veda.
 
 

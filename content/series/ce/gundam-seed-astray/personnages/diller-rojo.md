@@ -6,7 +6,7 @@ Diller Rojo
 -----------
 
 
-![Diller Rojo](/images/stories/manga/astray/persos/pp_plant1.gif)
+
 
 Un jeune civil Coordinateur que Lowe et son équipe rencontrent sur Mendel, pilotant un prototype d'UTA/TE-6 GOOhN spécialisé dans le déplacement souterrain.
 

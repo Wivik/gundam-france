@@ -6,7 +6,7 @@ Sayla Mass
 ----------
 
 
-![Seila Mass](/images/stories/saga/origin/persos/seila-mass.png)
+
 
 
 * Origines : République Autonome de Munzo

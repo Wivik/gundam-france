@@ -5,7 +5,7 @@ title: Talia Gladys
 Talia Gladys
 ------------
 
-![talya](/images/stories/saga/gundamseeddestiny/persos/zaft/talya.jpg)Talia Gladys  
+Talia Gladys  
   
 - Age : 29  
 - Rôle : Capitaine du Minerva  

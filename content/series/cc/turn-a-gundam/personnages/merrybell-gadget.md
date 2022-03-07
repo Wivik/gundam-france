@@ -6,7 +6,7 @@ Merrybell Gadget
 ----------------
 
 
-![Merrybell Gadget](/images/stories/saga/turnagundam/persos/moonrace/merrybell.jpg)
+
 * Rôle : Pilote de Mobile Suit
 * Origines : Lune
 * Voix Japonaise : Rio Natsuki

@@ -15,7 +15,6 @@ La traduction des titres est officielle.
 * 5 octobre 2002
 
 
-![01-1](/images/stories/saga/gundamseed/episodes/01-1.jpg) ![01-2](/images/stories/saga/gundamseed/episodes/01-2.jpg) ![01-3](/images/stories/saga/gundamseed/episodes/01-3.jpg)
 
 
 
@@ -25,41 +24,32 @@ La traduction des titres est officielle.
 * 12 octobre 2002
 
 
-![02-1](/images/stories/saga/gundamseed/episodes/02-1.jpg) ![02-2](/images/stories/saga/gundamseed/episodes/02-2.jpg) ![02-3](/images/stories/saga/gundamseed/episodes/02-3.jpg)
-
 
 
 ### PHASE-03 : Houkai no Daichi
 
 * Terre de destruction
 * 19 octobre 2002.
-
-
-![03-1](/images/stories/saga/gundamseed/episodes/03-1.jpg) ![03-2](/images/stories/saga/gundamseed/episodes/03-2.jpg) ![03-3](/images/stories/saga/gundamseed/episodes/03-3.jpg)### PHASE-04 : Silent Run
+### PHASE-04 : Silent Run
 
 * A pas de loup
 * 26 octobre 2002
-
-
-![04-1](/images/stories/saga/gundamseed/episodes/04-1.jpg) ![04-2](/images/stories/saga/gundamseed/episodes/04-2.jpg) ![04-3](/images/stories/saga/gundamseed/episodes/04-3.jpg)### PHASE-05 : Phase Shift Down
+### PHASE-05 : Phase Shift Down
 
 * Phase shift désactivé
 * 2 novembre 2002
 
-
-![05-1](/images/stories/saga/gundamseed/episodes/05-1.jpg) ![05-2](/images/stories/saga/gundamseed/episodes/05-2.jpg) ![05-3](/images/stories/saga/gundamseed/episodes/05-3.jpg)### PHASE-06 : Kieru Gundam
+### PHASE-06 : Kieru Gundam
 
 * Le Gundam qui disparaît
 * 9 novembre 2002
 
-
-![06-1](/images/stories/saga/gundamseed/episodes/06-1.jpg) ![06-2](/images/stories/saga/gundamseed/episodes/06-2.jpg) ![06-3](/images/stories/saga/gundamseed/episodes/06-3.jpg)### PHASE-07 : Uchuu no Kizuato
+### PHASE-07 : Uchuu no Kizuato
 
 * Une cicatrice dans l'espace
 * 16 novembre 2002
 
 
-![07-1](/images/stories/saga/gundamseed/episodes/07-1.jpg) ![07-2](/images/stories/saga/gundamseed/episodes/07-2.jpg) ![07-3](/images/stories/saga/gundamseed/episodes/07-3.jpg)
 
 
 
@@ -69,8 +59,6 @@ La traduction des titres est officielle.
 * 23 novembre 2002
 
 
-![08-2](/images/stories/saga/gundamseed/episodes/08-2.jpg) ![08-1](/images/stories/saga/gundamseed/episodes/08-1.jpg) ![08-3](/images/stories/saga/gundamseed/episodes/08-3.jpg)
-
 
 
 ### PHASE-09 : Kieteiku Hikari
@@ -78,8 +66,6 @@ La traduction des titres est officielle.
 * Lueurs vacillantes
 * 30 novembre 2002
 
-
-![09-1](/images/stories/saga/gundamseed/episodes/09-1.jpg) ![09-2](/images/stories/saga/gundamseed/episodes/09-2.jpg) ![09-3](/images/stories/saga/gundamseed/episodes/09-3.jpg)
 
 
 

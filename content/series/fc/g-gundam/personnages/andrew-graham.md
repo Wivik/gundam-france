@@ -5,7 +5,7 @@ title: Andrew Graham
 Andrew Graham
 -------------
 
-![andrewgraham_1.jpg](/images/stories/saga/ggundam/images/persos/andrewgraham_1.jpg)Andrew Graham   
+Andrew Graham   
 - Age : ?? ans   
 - Rôle : Réprésentant de Neo-Canada   
 - Mobile Fighter : Lumber Gundam   

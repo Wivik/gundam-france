@@ -5,7 +5,7 @@ title: Sala Tyrrell
 Sala Tyrrell
 ------------
 
-![sala](/images/stories/saga/gundamx/persos/sala.jpg)Sala Tyrrell  
+Sala Tyrrell  
 - Age : 19 ans  
 - Fonctions : Capitaine en second du Freeden
 

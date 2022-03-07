@@ -5,7 +5,7 @@ title: Neo Roanoke
 Neo Roanoke
 -----------
 
-![neo](/images/stories/saga/gundamseeddestiny/persos/alliance/neo.jpg)Neo Roanoke
+Neo Roanoke
 
 
 - Age : 31 ans  

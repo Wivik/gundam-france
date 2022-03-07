@@ -7,7 +7,7 @@ Ballistic Zaku
 
 
 
-![Ballistic Zaku](/images/stories/saga/gundambfblg/mechas/ballistic-zaku.png)
+
 
 [Ballistic Zaku](javascript:change_image_m('images/stories/saga/gundambfblg/mechas/ballistic-zaku.png');)
 

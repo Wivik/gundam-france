@@ -5,7 +5,7 @@ title: RGM-89J Jegan
 RGM-89J Jegan
 -------------
 
-![jegan](/images/stories/saga/F91/mechas/fed/jegan.gif)
+
 
 
 RGM-89J Jegan   

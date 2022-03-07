@@ -5,7 +5,7 @@ title: Stalker
 Stalker
 -------
 
-![stalker.jpg](/images/stories/saga/ggundam/images/persos/stalker.jpg)Stalker   
+Stalker   
 - Rôle : Narrateur.   
   
 Stalker est un personnage qui n'apparaît pas dans la série.   

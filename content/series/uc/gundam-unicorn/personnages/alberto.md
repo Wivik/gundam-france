@@ -5,7 +5,7 @@ title: Alberto Vist
 Alberto Vist
 ------------
 
-![alberto](/images/stories/saga/unicorn/persos/anaheim/alberto.jpg)
+
 - Age : 33 ans  
 - Fonction : Employé d'Anaheim Electronics  
 - Voix Japonaise : Wataru Takagi

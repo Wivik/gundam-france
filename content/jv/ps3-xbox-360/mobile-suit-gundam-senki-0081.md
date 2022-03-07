@@ -24,19 +24,19 @@ Gundam Senki 0081, ou Gundam : Battlefield Record UC 0081, est un jeu sorti sur 
 Gundam Senki 0081 raconte l'histoire d'un escadron d'élite de la Fédération, le Phantom Sweep, commandé par Hughes Courand, chargé de traquer et éliminer les derniers résistants de Zeon. Hughes Courand est un vétéran de la Guerre d'Un An qui a vu son escadron périre durant la bataille d'A Baoa Qu et en garde toujours des séquelles. Dans le camp opposé, nous suivons l'histoire d'Erik Blanque, un pilote de Zeon qui lui aussi a survécu à la bataille d'A Baoa Qu et aura vu ses camarades disparaître également. Combattant toujours la Fédération, il dirige une équipe appelée les Invisible Knights et a pour but de punir la Fédération pour ses actes de cruauté. 
 
 
-![senki1](/images/stories/jv/senki0081/senki1.jpg) ![senki3](/images/stories/jv/senki0081/senki3.jpg) ![senki2](/images/stories/jv/senki0081/senki2.jpg)
+
 
 
 ### Aperçu
 
 
-![senki4](/images/stories/jv/senki0081/senki4.jpg)Dans Gundam Senki 0081, vous jouez des deux côtés. En effet, le scénario est orienté pour être fait des deux points de vue, celui du Phantom Sweep et celui des Invisible Knights. Le mode histoire est entrecoupé de cinématiques exploitant le moteur du jeu avec en surcouche les personnages en animation 2D. Le rendu est du plus bel effet, nous avons réellement l'impression de suivre un animé intéractif.  
+Dans Gundam Senki 0081, vous jouez des deux côtés. En effet, le scénario est orienté pour être fait des deux points de vue, celui du Phantom Sweep et celui des Invisible Knights. Le mode histoire est entrecoupé de cinématiques exploitant le moteur du jeu avec en surcouche les personnages en animation 2D. Le rendu est du plus bel effet, nous avons réellement l'impression de suivre un animé intéractif.  
 
 
 Du point de vue esthétique, le jeu est très beau et bien animé, le rendu est dynamique et les combats sont saisissants. On notera tout de même un aliasing très présent sur les modèles 3D qui gâche un peu leur modélisation pourtant exemplaire. Les mechas ne cherchent pas non plus un photoréalisme à tout prix, ils gardent un rendu proche du dessin animé sans pour autant virer au cell shadding.
 
 
-![senki5](/images/stories/jv/senki0081/senki5.jpg)L'action se passe majoritairement sur Terre et l'histoire permet de jouer au globe trotter. En effet, celle-ci passe par de nombreux décors divers et variés, allant de la contrée désertique à la jungle luxuriante en passant par les marécages et les cartes sous marines. Il y a également des derniers niveaux sur la Lune.  
+L'action se passe majoritairement sur Terre et l'histoire permet de jouer au globe trotter. En effet, celle-ci passe par de nombreux décors divers et variés, allant de la contrée désertique à la jungle luxuriante en passant par les marécages et les cartes sous marines. Il y a également des derniers niveaux sur la Lune.  
 
 
 L'ambiance musicale du jeu est quant à elle excellente, elle donne un côté épique aux affrontements et nous immerge encore plus dans l'histoire ! 
@@ -48,7 +48,7 @@ L'ambiance musicale du jeu est quant à elle excellente, elle donne un côté é
 Gundam Senki 0081 propose deux modes majeurs : le mode scénario qui permet de suivre l'histoire du côté du Phantom Sweep ou des Invisibles Knights, agrémenté de cinématiques et au choix des MS à piloter souvent restreint, voire forcé.
 
 
-![senki6](/images/stories/jv/senki0081/senki6.jpg)  ![senki9](/images/stories/jv/senki0081/senki9.jpg) ![senki14](/images/stories/jv/senki0081/senki14.jpg)
+
 
 
 Puis le mode libre qui permet de jouer des missions avec objectifs divers mais souvent identiques qui peuvent se jouer en solo, avec des IA, ou à plusieurs en ligne.  
@@ -66,7 +66,7 @@ Le gameplay change du tout au plus en fonction du terrain. En effet, comme dit d
 Les Mobile Suits ne sont pas personnalisables esthétiquement. On peut par contre les équiper de différentes manières pour améliorer des capacités (souvent au détriment d'autres) et personnaliser l'armement. Attention, il n'est pas possible de supprimer l'armement intégré ! Certaines pièces optionnelles constituent quant à elles un kit de développement. Appliquées à l'unité qui requiert les conditions adequats, la machine sera convertie en une nouvelle unité. Par exemple, il est possible de convertir un RX-78-1 Gundam en FA-78-3 Full Armor Gundam. Il n'est cependant pas possible de retourner en arrière !
 
 
-![senki8](/images/stories/jv/senki0081/senki8.jpg) ![senki10](/images/stories/jv/senki0081/senki10.jpg)
+
 
 
 Les Mobile Suits, pièces détachées et armes s'achètent via des points que l'on gagne au court des missions, on peut également en récupérer en cadeau de fin de mission (sauf les MS évidemment !). Ici nous trouvons une des premières faiblesses du jeu : les missions en solo rapportent très très peu de points ! Si le mode histoire n'est pas trop contraint par ça, le mode libre est quand à lui un vrai calvaire, acheter un nouveau MS coûte beaucoup de points et les missions "farm" ne sont pas nombreuses. Il s'agit cependant un pseudo encouragement pour pousser les joueurs vers le mode en ligne du jeu libre qui est clairement plus profitable. 
@@ -75,13 +75,13 @@ Les Mobile Suits, pièces détachées et armes s'achètent via des points que l'
 Les personnages sont très peu évolutifs, ils peuvent principalement gagner de l'expérience et améliorer ainsi leurs compétences (pilotage, tir, combat rapproché...). 
 
 
-![senki11](/images/stories/jv/senki0081/senki11.jpg)La difficulté du jeu est moyenne mais tend vite vers l'élevé. Les armes sont dévastatrices et l'armure des MS n'est pas à toute épreuve. Celle-ci encaisse trois palliers de dégâts qui représentent son intégrité. Si l'armure est calculée en "Armor Point", AP, le joueur la verra toujours en pourcentage lors du combat qui descend au fur et à mesure des dégâts (par exemple : 80%). Cependant, en cas de coup très violent (bazooka, sniper, missile...), l'intégrité totale de l'armure peut se retrouver amoindrie par palliers de 25% ! Ainsi si votre armure atteint 50% d'intégrité maximale, il ne sera pas possible de la régénérer au delà durant la mission ! Des points de ravitaillement permettent de restaurer rapidement l'armure (jusqu'au seuil limite, toujours) et les armes. Notez que l'armure se régénère lors que le MS s'accroupie (mais devient très vulnérable). 
+La difficulté du jeu est moyenne mais tend vite vers l'élevé. Les armes sont dévastatrices et l'armure des MS n'est pas à toute épreuve. Celle-ci encaisse trois palliers de dégâts qui représentent son intégrité. Si l'armure est calculée en "Armor Point", AP, le joueur la verra toujours en pourcentage lors du combat qui descend au fur et à mesure des dégâts (par exemple : 80%). Cependant, en cas de coup très violent (bazooka, sniper, missile...), l'intégrité totale de l'armure peut se retrouver amoindrie par palliers de 25% ! Ainsi si votre armure atteint 50% d'intégrité maximale, il ne sera pas possible de la régénérer au delà durant la mission ! Des points de ravitaillement permettent de restaurer rapidement l'armure (jusqu'au seuil limite, toujours) et les armes. Notez que l'armure se régénère lors que le MS s'accroupie (mais devient très vulnérable). 
 
 
 ### Des alliés agents doubles
 
 
-![senki7](/images/stories/jv/senki0081/senki7.jpg)Dans Senki 0081, nous ne combattons pas seul. En effet, le joueur est assisté par deux alliés maximum qui sont contrôlés par une IA à laquelle on peut donner des ordres. Et voilà le deuxième grave défaut du jeu, l'IA est votre ennemi ! Votre escadron suit très mal les ordres, il se contente majoritairement de vous suivre et attaquer des cibles. Jouer tactique avec l'IA est impossible. Pire encore, certaines missions du mode libre ne peuvent tout simplement pas être faites avec les IA en alliés. Je pense par exemple à une mission sur laquelle il faut rejoindre des points stratégique dans un temps impartis. Tous les joueurs de la carte doivent le rejoindre, mais jamais l'IA n'a dédaigné le faire, obligeant ainsi à jouer cette carte en solo. 
+Dans Senki 0081, nous ne combattons pas seul. En effet, le joueur est assisté par deux alliés maximum qui sont contrôlés par une IA à laquelle on peut donner des ordres. Et voilà le deuxième grave défaut du jeu, l'IA est votre ennemi ! Votre escadron suit très mal les ordres, il se contente majoritairement de vous suivre et attaquer des cibles. Jouer tactique avec l'IA est impossible. Pire encore, certaines missions du mode libre ne peuvent tout simplement pas être faites avec les IA en alliés. Je pense par exemple à une mission sur laquelle il faut rejoindre des points stratégique dans un temps impartis. Tous les joueurs de la carte doivent le rejoindre, mais jamais l'IA n'a dédaigné le faire, obligeant ainsi à jouer cette carte en solo. 
 
 
 ### Un système de combat bien géré
@@ -90,7 +90,7 @@ Les personnages sont très peu évolutifs, ils peuvent principalement gagner de 
 Au delà des quelques défauts cités, le système de combat dans Senki 0081 est bien géré. Comme expliqué précédemment, les MS ont des déplacements réalistes et sont affectés par leur propre lourdeur et les améliorations qu'on peut leur donner. Il faut noter qu'en général il est recommandé de miser sur le combat rapproché dans ce jeu. En effet, les armes de tir sont souvent peu précises et ont des munitions très limitées, en particulier les Beam Rifles. En cas de perte du point de ravitaillement (qui peut être détruit, hé oui !), miser tout sur des armes à munition limité est un suicide. Deuxième raison, les armes de corps à corps sont d'une puissance redoutable, les Beam Saber tranchent l'armure des MS comme du beurre.
 
 
-![senki13](/images/stories/jv/senki0081/senki13.jpg) ![senki9](/images/stories/jv/senki0081/senki9.jpg)
+
 
 
 Il y a la possibilité dans ce jeu de charger ses attaques. En maintenant le bouton d'action de l'arme choisie, le cercle de ciblage affiche une barre de chargement. A partir d'un certain seuil, le MS chargera tout seul au corps à corps sans utiliser les propulseurs (intéressant !) ou le tir sera un critique. Attention, la moindre attaque ou déclenchement des propulseurs en urgence pour de l'esquive fait perdre la charge.

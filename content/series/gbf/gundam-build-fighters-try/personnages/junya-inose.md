@@ -6,7 +6,7 @@ Junya Inose
 -----------
 
 
-![Junya Inose](/images/stories/saga/gundambftry/persos/junya-inose.png)
+
 
 
 

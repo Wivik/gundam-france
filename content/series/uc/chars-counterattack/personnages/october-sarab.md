@@ -5,7 +5,7 @@ title: October Sarab
 October Sarab
 -------------
 
-![october.jpg](/images/mini/images-stories-saga-charcontreattaque-persos-_tb_150x188_october.jpg)
+
 Age : ?? ans  
 Rôle : Ingénieur  
   

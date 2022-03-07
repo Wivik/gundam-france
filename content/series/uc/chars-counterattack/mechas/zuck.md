@@ -6,7 +6,7 @@ Zuck
 ----
 
 
-![zuck](/images/stories/saga/charcontreattaque/ms/zuck.png)
+
 
 
 ### Fiche Technique

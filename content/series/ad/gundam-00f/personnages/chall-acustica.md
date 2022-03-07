@@ -5,7 +5,7 @@ title: "Chall Acustica"
 Chall Acustica
 --------------
 
-![challacusita](/images/stories/manga/gundam00f/persos/challacusita.jpg)
+
 - Âge : 31 ans  née en 2276 A.D.  
 - Rôle : Chef de Fereshte
 
@@ -19,7 +19,7 @@ Chall Acustica est la fondatrice et chef de Fereshte. D'abord froid et plutôt a
 Malheureusement, en 2295, alors que Ruido, Marlène, Meister 874 et Chall essaient, malgré l'interdiction de Veda, de contrecarrer un attentat sur l'ascenseur orbital de la HRL, le réacteur solaire du Plutone s'emballe et son Core Fighter refuse de s'éjecter. Pour sauver Chall, Ruido et Marlène se sacrifient et périssent de l'exposition à une quantité démesurée de particules GN.
 
 
-![challpast](/images/stories/manga/gundam00f/persos/challpast.jpg)Lévénement laisse Chall Acustica profondément traumatisée. Physiquement son il gauche est perdu, la moitié gauche de son corps est couverte de cicatrices et ses cheveux ont blanchi. L'overdose de particules GN a provoqué une dégénérescence cellulaire aiguë la condamnant à des soins médicaux lourds et constants. Il lui faudra attendre 2302 la conception d'un traitement fiable par nanomachines, qui ne la dispensera cependant pas de visites régulières au docteur Joyce Moreno.  
+Lévénement laisse Chall Acustica profondément traumatisée. Physiquement son il gauche est perdu, la moitié gauche de son corps est couverte de cicatrices et ses cheveux ont blanchi. L'overdose de particules GN a provoqué une dégénérescence cellulaire aiguë la condamnant à des soins médicaux lourds et constants. Il lui faudra attendre 2302 la conception d'un traitement fiable par nanomachines, qui ne la dispensera cependant pas de visites régulières au docteur Joyce Moreno.  
 Psychologiquement, elle reste torturée par le sacrifice de ses amis, dont elle se sent responsable. Cherchant un sens à sa souffrance et à sa vie, elle décide de se consacrer entièrement au Plan, espérant qu'ainsi plus jamais ce genre d'événement n'aura lieu et fuyant sa détresse dans le travail.
 
 

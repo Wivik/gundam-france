@@ -6,7 +6,7 @@ Guin Sard Lineford
 ------------------
 
 
-![Guin Sard Lineford](/images/stories/saga/turnagundam/persos/terriens/guin.jpg)
+
 * Age : 19 ans
 * Rôle : Politicien
 * Origines : Terre

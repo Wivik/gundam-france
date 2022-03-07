@@ -6,7 +6,7 @@ Shia Kijima
 -----------
 
 
-![Shia Kijima](/images/stories/saga/gundambftry/persos/shia-kijima.png)
+
 
 
 

@@ -6,7 +6,7 @@ Dragonagel Gundam
 -----------------
 
 
-![Dragonagel Gundam](/images/stories/saga/gundambftry/mechas/dragonagel-gundam.png)
+
 
 
 ### Fiche Technique

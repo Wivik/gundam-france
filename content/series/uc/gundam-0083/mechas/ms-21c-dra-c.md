@@ -6,7 +6,7 @@ MS-21C Dra-C
 ------------
 
 
-[UC 0083 version Delaz](javascript:change_image_m('images/stories/saga/gundam0083/ms/delaz/ms-21c.jpg');) [UC 0083 version Axis](javascript:change_image_m('images/stories/saga/gundam0083/ms/delaz/ms-21c-axis.jpg ');)  [UC 0096](javascript:change_image_m('images/stories/saga/unicorn/mechas/neozeon/drac.png');)      ![UC 0083 version Delaz](/images/stories/saga/gundam0083/ms/delaz/ms-21c.jpg)    
+[UC 0083 version Delaz](javascript:change_image_m('images/stories/saga/gundam0083/ms/delaz/ms-21c.jpg');) [UC 0083 version Axis](javascript:change_image_m('images/stories/saga/gundam0083/ms/delaz/ms-21c-axis.jpg ');)  [UC 0096](javascript:change_image_m('images/stories/saga/unicorn/mechas/neozeon/drac.png');)          
 
 
 ### Fiche Technique
@@ -27,5 +27,5 @@ Le Dra-C est un Mobile suit conçu exclusivement pour le combat spatial par la F
 En Uc 0096, quelques Dra-C seront utilisés par Neo Zeon dans la défense de Palau.
 
 
-[Beam Saber intégré au bouclier](javascript:accessoires_m('images/stories/saga/gundam0083/ms/delaz/ms-21c-beamsaber.jpg');)[Mitrailleuse](javascript:accessoires_m('images/stories/saga/gundam0083/ms/delaz/ms-21c-vulcangun.jpg');)![Beam Saber intégré au bouclier](/images/stories/saga/gundam0083/ms/delaz/ms-21c-beamsaber.jpg) 
+[Beam Saber intégré au bouclier](javascript:accessoires_m('images/stories/saga/gundam0083/ms/delaz/ms-21c-beamsaber.jpg');)[Mitrailleuse](javascript:accessoires_m('images/stories/saga/gundam0083/ms/delaz/ms-21c-vulcangun.jpg');) 
 

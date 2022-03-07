@@ -5,7 +5,7 @@ title: Takemikazuchi
 Takemikazuchi
 -------------
 
-![takemikazuchi](/images/stories/saga/gundamseeddestiny/mechas/orb/takemikazuchi.png)
+
 
 
 Takemikazuchi   

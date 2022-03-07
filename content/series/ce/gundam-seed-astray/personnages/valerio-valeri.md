@@ -6,7 +6,7 @@ Valerio Valeri
 --------------
 
 
-![Valerio Valeri](/images/stories/manga/astray/persos/ValVal.jpg)
+
 
 Chef ingénieur en CE73 chez Actaeon, ce jeune Coordinateur surnommé "V.V." a quitté PLANT à la recherche de meilleures opportunités de carrière. D'un orgueil sans borne face aux Naturels, il est affecté d'un très mauvais goût vestimentaire.
 

@@ -6,7 +6,7 @@ Maria Pure Armonia
 ------------------
 
 
-![Maria Pure Armonia](/images/stories/saga/vgundam/persos/maria-pure-armonia.png)
+
 * Age : 29 ans (née en UC 0124)
 * Rôle : Reine de Zanscare
 * Origines : Albania, Side-1

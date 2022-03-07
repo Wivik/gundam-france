@@ -6,7 +6,7 @@ Hoskin Gira Sakato
 ------------------
 
 
-![Hoskin Gira Sakato](/images/stories/manga/astray/persos/hoskin.jpg)
+
 
 Nom de code : Cougar 4 ; Striker Pack équipé: AQM/E-X02 Sword Striker 
 

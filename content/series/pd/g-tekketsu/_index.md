@@ -22,7 +22,7 @@ Post Disaster 323, 300 ans après un grand conflit entre la Terre et la colonie 
 Alors qu'ils préparaient la mission d'escorte de Kudelia, la base du CGS est attaquée par le Gjallarhorn, le despotique mouvement de maintien de la paix terrien. Abandonnés par les adultes du CGS qui ont préféré prendre pour la fuite, Orga profitera de cette occasion pour se rebeller contre eux et monter sa propre organisation. Aidé par Mikazuki et tous les jeunes du CGS, le Tekkadan nouvellement créé aura pour première mission d'escorter Kudelia sur Terre. Mais avec le Gjallarhorn à leurs basques et des industriels peu scrupuleux, leur aventure ne sera pas de tout repos… Pour se défendre, ils devront compter sur l'aide d'un antique Mobile Suit datant de la Guerre des Calamités, le Gundam Barbatos, face aux modèles dernier cri dont le Gjallarhorn dispose.
 
 
-![Les conditions de vie sur Mars sont difficiles](/images/stories/saga/g-tekketsu/intro-1.jpg) ![Mikazuki et Akihiro s'entraînent régulièrement](/images/stories/saga/g-tekketsu/intro-2.jpg) ![Le Gundam Barbatos, vestige des anciens temps, contraint de reprendre du service](/images/stories/saga/g-tekketsu/intro-3.jpg)
+
 
 
 ### Aperçu

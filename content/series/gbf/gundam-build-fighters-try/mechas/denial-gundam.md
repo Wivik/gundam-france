@@ -6,7 +6,7 @@ Denial Gundam
 -------------
 
 
-![Denial Gundam](/images/stories/saga/gundambftry/mechas/denial-gundam.png)
+
 
 
 ### Fiche Technique

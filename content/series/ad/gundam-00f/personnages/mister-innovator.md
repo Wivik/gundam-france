@@ -5,7 +5,7 @@ title: "Mister Innovator"
 Mister Innovator
 ----------------
 
-![bring](/images/stories/manga/gundam00f/persos/bring.jpg)
+
 - Âge : inconnu  
 - Rôle : Gundam Meister
 

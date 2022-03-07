@@ -6,7 +6,7 @@ Merribit Stapleton
 ------------------
 
 
-![Merribit Stapleton](/images/stories/saga/g-tekketsu-s2/persos/merribit-stapleton.png)
+
 
 
 * Origine : Teiwaz

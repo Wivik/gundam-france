@@ -6,7 +6,7 @@ Helen Jackson
 -------------
 
 
-![Helen Jackson](/images/stories/saga/vgundam/persos/helen-jackson.png)
+
 * Rôle : Pi
 * Voix Japonaise : Rika Fukami
 

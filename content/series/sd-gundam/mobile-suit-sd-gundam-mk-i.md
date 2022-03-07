@@ -22,14 +22,14 @@ Titre traduisible par "Episode Bataille féroce ! Est-ce que Gundam va se lever 
 "Episode vacances ! La menace de l'Hotel Zeon ? Détruisez la pension Gundam !!", ici le titre fait aussi un rapprochement avec celui d'une paire d'épisodes de la série originale : "Détruisez le Gundam !". Dans cet épisode, Amuro, Kamille et Judau sont des propriétaires d'hotels à effigie de leurs Gundam respectifs (Gundam, Zêta et ZZ Gundam). La concurrence est rude pour accueillir les clientes toutes aussi charmantes les unes que les autres, et ce n'est pas sans compter derrière l'Hotel Zeon dirigé par Char qui souhaite à tous prix leur voler de la clientèle !
 
 
-![Les gérants accueillent leurs charmantes pensionnaires](/images/stories/saga/sdgundam/mk1-2-1.jpg) ![Et Char observe attentivement la chose... ](/images/stories/saga/sdgundam/mk1-2-2.jpg)![L'adversaire est assez intimidant... ](/images/stories/saga/sdgundam/mk1-2-3.jpg)
+
 ### Partie 3 : Kessenhen SD Olympic !! Stadium warai no somete !
 
 
 "Bataille Finale SD Olympic !! Le stade est saturé de rires !". Ce dernier épisode met en scène les différents personnages et mobiles suits des premières séries Gundam qui s'affrontent lors des épreuves sportives des Jeux Olympiques. Humains et MS participent aux mêmes épreuves, avec chacun leurs méthodes qu'elles soient loyales, ou non ! Le tout commenté par Char et Judau. Au programme, le 100 mètres, le lancer de Ball puis de Haro, le marathon, la GRS, le 100 mètres nage libre féminin et le saut en longueur.
 
 
-![](/images/stories/saga/sdgundam/mk1-3-1.jpg) ![Seila ne laisse pas le public indifférent](/images/stories/saga/sdgundam/mk1-3-2.jpg)![](/images/stories/saga/sdgundam/mk1-3-3.jpg)
+![](/images/stories/saga/sdgundam/mk1-3-1.jpg) 
 
 
 ---

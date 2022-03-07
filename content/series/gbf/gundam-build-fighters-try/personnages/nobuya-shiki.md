@@ -6,7 +6,7 @@ Nobuya Shiki
 ------------
 
 
-![Nobuya Shiki](/images/stories/saga/gundambftry/persos/nobuya-shiki.png)
+
 
 
 

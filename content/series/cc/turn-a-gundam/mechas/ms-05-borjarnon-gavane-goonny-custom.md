@@ -5,7 +5,7 @@ title: MS-05 Borjarnon Gavane Goonny Custom
 MS-05 Borjarnon Gavane Goonny Custom
 ------------------------------------
 
-![gavaneborjanon](/images/stories/saga/turnagundam/ms/terriens/gavaneborjanon.png)
+
 
 
 MS-05 Borjarnon Gavane Goonny Custom

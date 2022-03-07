@@ -19,9 +19,9 @@ Arrivés sur l'île paradisiaque qui héberge le laboratoire en question, ils se
 
 
 
-![Gundam Build Fighters Try Island Wars](/images/stories/saga/gundambftiw/episodes/01-1.jpg)
-![Gundam Build Fighters Try Island Wars](/images/stories/saga/gundambftiw/episodes/01-2.jpg)
-![Gundam Build Fighters Try Island Wars](/images/stories/saga/gundambftiw/episodes/01-3.jpg)
+
+
+
 
 
 

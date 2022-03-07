@@ -6,7 +6,7 @@ Yukio Okamoto
 -------------
 
 
-![Yukio Okamoto](/images/stories/saga/gundambftry/persos/yukio-okamoto.png)
+
 
 
 * Fonction : Membre du département des sciences du collège Naruneri

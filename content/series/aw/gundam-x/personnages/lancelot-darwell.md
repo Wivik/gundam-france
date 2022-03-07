@@ -5,7 +5,7 @@ title: Lancelot Darwell
 Lancelot Darwell
 ----------------
 
-![lancelot](/images/stories/saga/gundamx/persos/lancelot.jpg)Lancelot Darwell
+Lancelot Darwell
 
 
 - Age : 34 ans  

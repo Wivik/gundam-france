@@ -5,7 +5,7 @@ title: Cagalli Yula Attha
 Cagalli Yula Attha
 ------------------
 
-![cagalli](/images/stories/saga/gundamseeddestiny/persos/orb/cagalli.jpg)Cagalli Yula Attha
+Cagalli Yula Attha
 
 
 - Age : 18  

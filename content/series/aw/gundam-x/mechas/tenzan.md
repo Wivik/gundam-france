@@ -5,7 +5,7 @@ title: Tenzan
 Tenzan
 ------
 
-![tenzan](/images/stories/saga/gundamx/mechas/tenzan.png)
+
 
 
 - Nom : Tenzan  

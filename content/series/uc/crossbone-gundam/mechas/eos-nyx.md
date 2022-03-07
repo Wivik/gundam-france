@@ -5,7 +5,7 @@ title: Eos Nyx
 Eos Nyx
 -------
 
-![eosnyx](/images/stories/manga/crossbone/ms/eosnyx.jpg)
+
 
 
 ### Fiche Technique

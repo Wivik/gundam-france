@@ -5,7 +5,7 @@ title: Ricardo Marcenas
 Ricardo Marcenas
 ----------------
 
-![ricardo](/images/stories/saga/unicorn/persos/federation/ricardo.jpg)
+
 - Age : 62 ans  
 - Fonction : Premier ministre de la Fédération
 

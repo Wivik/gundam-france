@@ -6,7 +6,7 @@ Tosh Cray
 ---------
 
 
-![Tosh Cray](/images/stories/saga/sentinel/persos/toshcray.jpg)
+
 * Age : 35
 * Rôle : Pilote de Mobile Suits
 * Origines : Terre

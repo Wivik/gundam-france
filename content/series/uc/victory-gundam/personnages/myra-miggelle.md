@@ -6,7 +6,7 @@ Myra Miggelle
 -------------
 
 
-![Myra Miggelle](/images/stories/saga/vgundam/persos/myra-miggelle.png)
+
 
 
 * Rôle : Ingénieure

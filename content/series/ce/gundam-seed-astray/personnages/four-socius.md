@@ -6,7 +6,7 @@ Four Socius
 -----------
 
 
-![Four Socius](/images/stories/manga/astray/persos/13soc.jpg)
+
 
 L'un des Socius standards ayant subit le traitement dépersonnalisant. 
 

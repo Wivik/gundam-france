@@ -6,7 +6,7 @@ Norman Berstein
 ---------------
 
 
-![Norman Berstein](/images/stories/saga/g-tekketsu/persos/norman-berstein.png)
+
 
 
 * Rôle : Réprésentant de Chryse

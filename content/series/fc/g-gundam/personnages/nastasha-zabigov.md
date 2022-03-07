@@ -5,7 +5,7 @@ title: Nastasha Zabigov
 Nastasha Zabigov
 ----------------
 
-![natasha.jpg](/images/stories/saga/ggundam/images/persos/natasha.jpg)Nastasha Zabigov   
+Nastasha Zabigov   
 - Age : 25 ans (née le 14 décembre FC 34)   
 - Rôle : Superviseur de Neo-Russia.   
 - Origines : Neo-Russia.   

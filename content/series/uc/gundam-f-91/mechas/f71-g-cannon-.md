@@ -5,7 +5,7 @@ title: F71 G-Cannon
 F71 G-Cannon
 ------------
 
-![gcannon](/images/stories/saga/F91/mechas/fed/gcannon.gif)
+
 
 
 F71 G-Cannon   

@@ -6,7 +6,7 @@ Classe Musaka
 -------------
 
 
-![musaka](/images/stories/saga/charcontreattaque/ms/musaka.png)
+
 
 
 ### Fiche Technique

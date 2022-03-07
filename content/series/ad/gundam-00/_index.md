@@ -3,8 +3,8 @@ title: "Mobile Suit Gundam 00"
 weight: 10
 ---
 
-![layer dossiers](/images/stories/saga/gundam00/layer_dossiers.jpg)
-![alt](/images/stories/saga/gundam00/gundam00-1.jpg)
+
+
 C'est le 6 octobre 2007 que Gundam 00 fit son arrivée sur la chaîne Japonaise MBS. Contrairement aux deux séries précédentes, SEED et sa suite, Gundam 00 est réalisée par une équipe différente, et par conséquent se place dans un univers différent, et diablement proche de la réalité. La série se dote d'un atout principal qui est un riche background géopolitique permettant au spectateur de comprendre au mieux possible la situation chaotique qu'est l'Anno Domini. La diffusion de Gundam 00 est scindée en deux saisons (une première dans la saga). A l'image de Code Geass, seuls les 25 premiers épisodes furent diffusés, la suite ayant été diffusée en fin d'année 2008. Notons que c'est aussi la première série Gundam a avoir été réalisée et proposée en Haute-Définition.
 
 
@@ -19,15 +19,13 @@ Dans cette situation incertaine, des conflits naissent, de l'acte terroriste à 
 
 Celestial Being intervient sans distinction de race, de nation, ou de religion, leur unique but étant de stopper un conflit. Seulement, leurs motivations attireront toute la haine envers eux ainsi que les suspicions les plus douteuses. Mais est-ce la leur unique ambition ? Quel est le véritable but de Celestial Being ? Et qui sont-ils ?
 
-
-![Une intervention proche du divin pour ce gamin plein d'avenir](/images/stories/saga/gundam00/intro1.jpg "intro1.jpg") ![Les MS de Celestial Being surclassent les modèles les plus récents](/images/stories/saga/gundam00/intro2.jpg "intro2.jpg") ![Celestial Being révèle officiellement son existence et sa croisade](/images/stories/saga/gundam00/intro3.jpg "intro3.jpg")
 ### Aperçu
 
 
 Gundam 00 est une série au background complexe et chaotique, son histoire n'est pas sans rappeler les bases de Gundam Wing avec une situations différente. La série présente beaucoup de passages narrant les relations entre les nations, parfois houleuses, mais également une évolution du monde depuis un certain temps. Ceci entraînant parfois des remarques sur une certaine lenteur de développement du scénario. Il s'agit d'une série avec soucis du détail aussi bien sur son contexte politique que technologique. En effet, il y a beaucoup d'explications techniques et de justification sur le pourquoi du comment, mais par inversement, une certaine aura de mystère plane autour de nos héros et de leurs origines.
 
 
-![alt](/images/stories/saga/gundam00/l_gundam00mecha.jpg)Concernant l'aspect réalisation, c'est du tout bon. On sent le gros budget à la SEED pour cette série qui présente une très belle qualité d'image. Décors soignés, personnages tous bien différents de part leur physique et leur caractère, mecha-design détaillé. Par ailleurs, un des points forts de cette série est son souci du détail. Tant sur le plan scénaristique comme dit précédemment que sur l'image.
+Concernant l'aspect réalisation, c'est du tout bon. On sent le gros budget à la SEED pour cette série qui présente une très belle qualité d'image. Décors soignés, personnages tous bien différents de part leur physique et leur caractère, mecha-design détaillé. Par ailleurs, un des points forts de cette série est son souci du détail. Tant sur le plan scénaristique comme dit précédemment que sur l'image.
 
 
 Les MS ne sont pas briqués/cirés/flambant neufs après une bataille. On peut constater dans les scènes où ils servent de décor qu'ils sont abîmés, éraflés, on voit bien qu'ils servent au combat. La série intègre également de nombreuses scènes en 3D qui bénéficient d'un très beau rendu ainsi que d'une intégration quasi parfaite. L'utilisation de ces scènes est principalement pour les vaisseaux, ou même pour les décors en mouvements (deux personnages qui discutent dans un couloir en marchant). La réalisation de Gundam 00 est très dynamique lors de ses scènes d'action. On remarquera les mouvements de caméra durant des scènes de bataille qui font penser à un reporter cherchant à cadrer dans la panique.  
@@ -42,7 +40,7 @@ Les musiques d'arrière-plan correspondent bien aux scènes, parfois discrètes.
 Haro's Counterattack! En effet, celle-ci reprend ce mythique petit robot rond ô combien insupportable par ses braillements. Contrairement à SEED, bien que ceux-ci soient en plusieurs exemplaires, ils conservent la taille originale (~celle d'un ballon de basket). Néanmoins le rôle d'Haro dans cette histoire est bien plus que celui d'un simple jouet débile. A l'image de l'idée présentée dans V Gundam, Haro possède une interface spécifique sur le Gundam Dynames lui permettant d'effectuer quelques actions. En somme un copilote pour Lockon. Il est également capable de s'occuper de la maintenance du Gundam de son maître en se connectant à un robot équipé de jambes et de bras. Une première dans la saga : avoir fait de Haro un véritable "personnage", et non plus un simple punchingball ou casse-bonbons à vocation humoristique.
 
 
-![banniere](/images/stories/saga/gundam00/banniere.jpg)
+
 ### Conclusion
 
 

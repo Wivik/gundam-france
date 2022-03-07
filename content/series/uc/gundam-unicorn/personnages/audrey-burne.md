@@ -6,7 +6,7 @@ Audrey Burne
 ------------
 
 
-![audrey](/images/stories/saga/unicorn/persos/civils/audrey.jpg)
+
 - Age : 16 ans
   
 - Voix Japonaise : Ayumi Fujimura 

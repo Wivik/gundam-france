@@ -7,7 +7,7 @@ Classe Squid
 
 
 
-![Classe Squid](/images/stories/saga/vgundam/mechas/squid.png)
+
 
 [Classe Squid](javascript:change_image_m('images/stories/saga/vgundam/mechas/squid.png');)
 

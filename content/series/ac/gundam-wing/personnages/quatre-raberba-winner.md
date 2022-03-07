@@ -5,7 +5,7 @@ title: Quatre Raberba Winner
 Quatre Raberba Winner
 ---------------------
 
-![quatre](/images/stories/saga/gundamwing/persos/quatre.jpg)Quatre Raberba Winner  
+Quatre Raberba Winner  
   
 Age : 15  
 Couleur de cheveux : Blond  

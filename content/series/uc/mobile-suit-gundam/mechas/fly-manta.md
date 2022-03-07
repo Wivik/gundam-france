@@ -6,7 +6,7 @@ Fly Manta
 ---------
 
 
-![flymanta](/images/stories/saga/msgundam/mechas/flymanta.png)
+
 
 
 - Type : Bombardier   

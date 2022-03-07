@@ -5,7 +5,7 @@ title: Zamouth Jeth
 Zamouth Jeth
 ------------
 
-![zamouthgess](/images/stories/saga/F91/mechas/crossbone/zamouthgess.gif)
+
 
 
 Zamouth Jeth  

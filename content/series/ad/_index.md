@@ -7,7 +7,7 @@ Anno Domini
 -----------
 
 
-![uc](/images/stories/saga/gundam00/encylo/positiondespilliers.jpg)Le positionnement des trois Ascenseurs Orbitaux de la série
+Le positionnement des trois Ascenseurs Orbitaux de la série
 
 
 Sixième univers alternatif de la Saga Gundam, l'Anno Domini a la particuliraté d'exploiter le calendrier grégorien. En effet, cet univers se positionne 300 ans dans le futur selon notre ère. L'AD met en scène une version de la Terre où les ressources fossiles ont fini par s'épuiser. En construisant d'immenses ascenseurs orbitaux reliés à deux ceintures de panneaux solaires, la civilisation a pu continuer de prospérer. Cependant, des conflits éclatent régulièrement car les grandes puissances mondiales qui ont construit ces ascenseurs orbitaux ne partagent pas forcément avec ceux qui n'ont pas contribué à l'effort. 

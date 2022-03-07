@@ -5,7 +5,7 @@ title: "XVM-DGC Khronos"
 XVM-DGC Khronos
 ---------------
 
-![khronos](/images/stories/saga/gundamage/mechas/khronos.png) 
+ 
 
 
 ### Fiche Technique

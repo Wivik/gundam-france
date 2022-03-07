@@ -5,7 +5,7 @@ title: Barge
 Barge
 -----
 
-![barge](/images/stories/saga/gundamwing/mechas/oz/barge.jpg)
+
 
 
 Barge   

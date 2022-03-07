@@ -5,7 +5,7 @@ title: "Emily Asuno"
 Emily Asuno
 -----------
 
-![emily2](/images/stories/saga/gundamage/persos/emily_adulte.png)
+
 - Age : 39  
 - Rôle : Epouse de Flit et mère d'Asem  
 - Origines : Colonie Nova  

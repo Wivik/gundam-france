@@ -6,7 +6,7 @@ Aims
 ----
 
 
-![Aims](/images/stories/saga/turnagundam/persos/terriens/aims.jpg)
+
 * Rôle : Pilote de l'Escadron Suicide
 * Origines : Terre
 * Voix Japonaise : Hiroshi Matsumoto

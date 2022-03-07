@@ -5,7 +5,7 @@ title: Chang Wu-Fei
 Chang Wu-Fei
 ------------
 
-![wufei](/images/stories/saga/gundamwing/persos/wufei.jpg)Chang Wu-Fei  
+Chang Wu-Fei  
   
 Age : 15  
 Couleur de cheveux : Noir  

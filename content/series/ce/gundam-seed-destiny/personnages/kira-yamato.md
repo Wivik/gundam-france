@@ -5,7 +5,7 @@ title: Kira Yamato
 Kira Yamato
 -----------
 
-![kira](/images/stories/saga/gundamseeddestiny/persos/civils/kira.jpg)Kira Yamato
+Kira Yamato
 
 
 - Age : 18 ans  

@@ -5,7 +5,7 @@ title: "Louise Halevy"
 Louise Halevy
 -------------
 
-![louise](/images/stories/saga/gundam00film/persos/autres/louise.jpg)
+
 - Age : 24 ans  
 - Origines : Espagne  
 - Voix japonaise : Chiwa Saitou

@@ -6,7 +6,7 @@ Merribit Stapleton
 ------------------
 
 
-![Merribit Stapleton](/images/stories/saga/g-tekketsu/persos/merribit-stapleton.png)
+
 
 
 * Rôle : Superviseur

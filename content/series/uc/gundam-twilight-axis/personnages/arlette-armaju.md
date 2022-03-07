@@ -6,7 +6,7 @@ Arlette Armaju
 --------------
 
 
-![Arlette Armaju](/images/stories/saga/twilightaxis/persos/arlette-armaju.png)
+
 
 
 * Origine : Zeon

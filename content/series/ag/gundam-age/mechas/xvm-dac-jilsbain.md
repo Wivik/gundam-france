@@ -5,7 +5,7 @@ title: "XVM-DAC Jilsbain"
 XVM-DAC Jilsbain
 ----------------
 
-![gilsbein](/images/stories/saga/gundamage/mechas/gilsbein.png) 
+ 
 
 
 ### Fiche Technique

@@ -5,7 +5,7 @@ title: Fllay Allster
 Fllay Allster
 -------------
 
-![flay](/images/stories/saga/gundamseed/persos/flay.jpg)Fllay Allster   
+Fllay Allster   
 - Age : 15 ans (née le 15 mars CE56)   
 - Fonctions : fille du Ministre Allster   
 - Origines : Heliopolis   

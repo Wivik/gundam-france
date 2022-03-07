@@ -5,7 +5,7 @@ title: Ulube Ishikawa
 Ulube Ishikawa
 --------------
 
-![ulubeishikawa_1.jpg](/images/stories/saga/ggundam/images/persos/ulubeishikawa_1.jpg)Ulube Ishikawa   
+Ulube Ishikawa   
 - Age : ? ans   
 - Rôle : Membre du Gouvernement Neo-Japonais   
 - Mobile Fighter : Rising Gundam, Grand Master Gundam.   

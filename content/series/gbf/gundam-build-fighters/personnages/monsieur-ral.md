@@ -6,7 +6,7 @@ Monsieur Ral
 ------------
 
 
-![Monsieur Ral](/images/stories/saga/gundambf/persos/ral.png)
+
 
 
 * Age : 35

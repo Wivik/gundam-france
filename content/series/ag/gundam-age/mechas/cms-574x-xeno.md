@@ -5,7 +5,7 @@ title: "CMS-574X Xeno"
 CMS-574X Xeno
 -------------
 
-![xeno](/images/stories/saga/gundamage/mechas/xeno.png) 
+ 
 ### Fiche Technique
 
 

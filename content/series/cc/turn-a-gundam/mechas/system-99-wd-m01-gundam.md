@@ -5,7 +5,7 @@ title: SYSTEM ∀-99 (WD-M01) ∀ Gundam
 SYSTEM ∀-99 (WD-M01) ∀ Gundam
 -----------------------------
 
-![turna](/images/stories/saga/turnagundam/ms/terriens/turna.png)
+
 
 
 SYSTEM ∀-99 (WD-M01) ∀ Gundam

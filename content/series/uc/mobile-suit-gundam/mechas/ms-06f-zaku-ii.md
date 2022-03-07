@@ -6,7 +6,7 @@ MS-06F Zaku II
 --------------
 
 
-[Zaku II](javascript:change_image_m('images/stories/saga/msgundam/mechas/ms-06f.png');) [Version 08th MS team](javascript:change_image_m('images/stories/saga/msgundam/mechas/ms-06j08thc.png');) [Version Thunderbolt](javascript:change_image_m('images/stories/saga/thunderbolt/mechas/ms-06-zaku-ii.png');)      ![Zaku II](/images/stories/saga/msgundam/mechas/ms-06f.png)    
+[Zaku II](javascript:change_image_m('images/stories/saga/msgundam/mechas/ms-06f.png');) [Version 08th MS team](javascript:change_image_m('images/stories/saga/msgundam/mechas/ms-06j08thc.png');) [Version Thunderbolt](javascript:change_image_m('images/stories/saga/thunderbolt/mechas/ms-06-zaku-ii.png');)          
 
 
 ### Fiche Technique

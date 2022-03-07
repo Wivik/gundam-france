@@ -7,7 +7,7 @@ Reinforce Junior
 
 
 
-![Reinforce Junior](/images/stories/saga/vgundam/mechas/reinforce-junior.png)
+
 
 [Reinforce Junior](javascript:change_image_m('images/stories/saga/vgundam/mechas/reinforce-junior.png');)
 

@@ -6,7 +6,7 @@ Kaoruko Sazaki
 --------------
 
 
-![Kaoruko Sazaki](/images/stories/saga/gundambftry/persos/kaoruko-sazaki.png)
+
 
 
 

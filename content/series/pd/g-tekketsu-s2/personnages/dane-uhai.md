@@ -6,7 +6,7 @@ Dane Uhai
 ---------
 
 
-![Dane Uhai](/images/stories/saga/g-tekketsu-s2/persos/dayne-uhai.png)
+
 
 
 * Origine : Mars

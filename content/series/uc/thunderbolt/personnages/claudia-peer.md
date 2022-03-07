@@ -6,7 +6,7 @@ Claudia Peer
 ------------
 
 
-![Claudia Peer](/images/stories/saga/thunderbolt/persos/claudia-peer.png)
+
 
 
 * Rôle : Capitaine de la Fraternité de Moore

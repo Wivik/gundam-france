@@ -9,13 +9,10 @@ Blu-ray et DVD
 ### Visuels édition limitée
 
 
-![](/images/stories/saga/g-tekketsu/dvd/bddvd01.jpg) ![](/images/stories/saga/g-tekketsu/dvd/bddvd02.jpg) ![](/images/stories/saga/g-tekketsu/dvd/bddvd03.jpg) ![](/images/stories/saga/g-tekketsu/dvd/bddvd04.jpg) ![](/images/stories/saga/g-tekketsu/dvd/bddvd05.jpg)
-
 
 ### Visuels éditions standard (Blu-ray et DVD)
 
 
-![](/images/stories/saga/g-tekketsu/dvd/bddvd01d.jpg) ![](/images/stories/saga/g-tekketsu/dvd/bddvd02c.jpg) ![](/images/stories/saga/g-tekketsu/dvd/bddvd03a.jpg) ![](/images/stories/saga/g-tekketsu/dvd/bddvd04a.jpg)
 
 
 ### Dates de sortie

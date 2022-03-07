@@ -5,7 +5,7 @@ title: Duo Maxwell
 Duo Maxwell
 -----------
 
-![duo](/images/stories/saga/gundamwing/persos/duo.jpg)Duo Maxwell
+Duo Maxwell
 
 
 Age : 15  

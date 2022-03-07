@@ -6,7 +6,7 @@ Chuck Keith
 -----------
 
 
-![chuck.jpg](/images/stories/saga/gundam0083/images/persos/chuck.jpg)- Age : 20   
+- Age : 20   
 - Rôle : Pilote d'essai pour la Fédération   
 - Mobile-Suit : MS-06F2 Zaku II, GM Cannon II   
 - Doubleur Japonais : Yoshiharu Yamada   

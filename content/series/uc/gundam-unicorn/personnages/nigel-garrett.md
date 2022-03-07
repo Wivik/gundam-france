@@ -6,7 +6,7 @@ Nigel Garrett
 -------------
 
 
-![Nigel Garrett](/images/stories/saga/unicorn/persos/nigel.jpg)
+
 * Age : 27
 * Rôle : Pilote de Mobile Suit
 * Voix Japonaise : Yuuichi Nakamura

@@ -6,7 +6,7 @@ Wattary Gilla
 -------------
 
 
-![Wattary Gilla](/images/stories/saga/vgundam/persos/wattary-gilla.png)
+
 * Rôle : Pilote de Mobile Suit
 * Origines : Zanscare
 * Voix Japonaise : Tachiki Fumihiko

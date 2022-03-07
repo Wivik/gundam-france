@@ -6,7 +6,7 @@ Nils Neilsen
 ------------
 
 
-![Nils Neilsen](/images/stories/saga/gundambf/persos/nils.png)
+
 
 
 * Age : 20

@@ -5,7 +5,7 @@ title: Arthur Trine
 Arthur Trine
 ------------
 
-![arthur](/images/stories/saga/gundamseeddestiny/persos/zaft/arthur.jpg)Arthur Trine  
+Arthur Trine  
   
 - Age : 26  
 - Rôle : Officier Executif du Minerva  

@@ -5,7 +5,7 @@ title: "GNX-704T Ahead"
 GNX-704T Ahead
 --------------
 
-![ahead](/images/stories/saga/gundam00/mechas/s2/federation/ahead.png)
+
 
 
 GNX-704T Ahead

@@ -9,7 +9,7 @@ Jupitris
  
 
 
-![jupitoris](/images/stories/saga/zetagundam/mechas/titans/jupitoris.png)
+
 
 
 ### Fiche Technique

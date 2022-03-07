@@ -6,7 +6,7 @@ Masami Kodera
 -------------
 
 
-![Masami Kodera](/images/stories/saga/gundambftry/persos/masami-kodera.png)
+
 
 
 

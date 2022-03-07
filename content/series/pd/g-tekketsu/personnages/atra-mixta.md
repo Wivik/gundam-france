@@ -6,7 +6,7 @@ Atra Mixta
 ----------
 
 
-![Atra Mixta](/images/stories/saga/g-tekketsu/persos/atra-mixta.png)
+
 
 
 * Rôle : Commerçante

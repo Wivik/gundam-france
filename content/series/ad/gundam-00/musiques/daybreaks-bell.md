@@ -5,7 +5,7 @@ title: "Daybreak's Bell"
 Daybreak's Bell
 ---------------
 
-![alt](/images/stories/saga/gundam00/ost/daybreak.jpg)Daybreak's Bell
+Daybreak's Bell
 
 
 * Musique : Ken

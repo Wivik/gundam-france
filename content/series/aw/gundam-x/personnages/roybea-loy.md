@@ -5,7 +5,7 @@ title: Roybea Loy
 Roybea Loy
 ----------
 
-![roabie1.jpg](/images/mini/images-stories-saga-gundamx-images-roby-_tb_200x_roabie1.jpg)Roybea Loy  
+Roybea Loy  
 - Age : 18 ans  
 - Couleur de cheveux : chatain  
 - Fonction : Pilote du Leopard

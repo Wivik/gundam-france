@@ -6,7 +6,7 @@ Sasro Zabi
 ----------
 
 
-![Sasuro Zabi](/images/stories/saga/origin/persos/sasuro-zabi.png)
+
 
 
 * Rôle : Politicien

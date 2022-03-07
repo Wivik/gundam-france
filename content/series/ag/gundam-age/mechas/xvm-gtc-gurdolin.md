@@ -5,7 +5,7 @@ title: "XVM-GTC Gurdolin"
 XVM-GTC Gurdolin
 ----------------
 
-![gurdolin](/images/stories/saga/gundamage/mechas/gurdolin.png) 
+ 
 
 
 ### Fiche Technique

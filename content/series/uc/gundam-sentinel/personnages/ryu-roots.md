@@ -6,7 +6,7 @@ Ryu Roots
 ---------
 
 
-![Ryu Roots](/images/stories/saga/sentinel/persos/ryuroots.jpg)
+
 
 
 * Age : 22

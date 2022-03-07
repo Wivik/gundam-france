@@ -6,7 +6,7 @@ Henken Bekkener
 ---------------
 
 
-![Henken Bekkener](/images/stories/saga/zetagundam/persos/henken-bekkener.png)
+
 
 
 * Fonction : Capitaine du Radish

@@ -22,7 +22,7 @@ Rapidement, ils seront rejoints par Zero, le Chevalier Ailé et le samurai Bakun
 La Gundam Force et la Super Dimensional Force feront tout pour repousser le Dark Axis. 
 
 
-![Shute, le jeune héros de la série](/images/stories/saga/sd-gundam-force/sdgf1.jpg) ![Le Dark Axis](/images/stories/saga/sd-gundam-force/sdgf2.jpg) ![Captain Gundam à la rescousse !](/images/stories/saga/sd-gundam-force/sdgf3.jpg)
+![Shute, le jeune héros de la série](/images/stories/saga/sd-gundam-force/sdgf1.jpg) 
 
 
 ### Aperçu

@@ -9,7 +9,7 @@ Sayla Mass
 
 
 
-![Sayla Mass](/images/stories/saga/msgundam/persos/sayla-mass.png)
+
 * [Sayla Mass](javascript:change_image_m('images/stories/saga/msgundam/persos/sayla-mass.png');)
 * [Artesia (UC 0068)](javascript:change_image_m('images/stories/saga/origin/persos/altecia-som-daikun.png');)
 * [Sayla Mass (UC 0071)](javascript:change_image_m('images/stories/saga/origin/persos/sayla-mass.png');)

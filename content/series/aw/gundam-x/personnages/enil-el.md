@@ -5,7 +5,7 @@ title: Enil El
 Enil El
 -------
 
-![ennil](/images/stories/saga/gundamx/persos/ennil.jpg)Enil El
+Enil El
 
 
 - Age : 19  

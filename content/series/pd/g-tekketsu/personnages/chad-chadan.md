@@ -6,7 +6,7 @@ Chad Chadan
 -----------
 
 
-![Chad Chadan](/images/stories/saga/g-tekketsu/persos/chad-chadan.png)
+
 * Rôle : Membre du CGS
 * Voix Japonaise : Haruki Ishiya
 

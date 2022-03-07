@@ -6,7 +6,7 @@ Rosenthale Kobashi
 ------------------
 
 
-![Rosenthale Kobashi](/images/stories/saga/gnoreconguista/persos/rosenthale-kobashi.png)
+
 * Rôle : Pilote de Mobile Suit
 * Origines : Venus Globe
 

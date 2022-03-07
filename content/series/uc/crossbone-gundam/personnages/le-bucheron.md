@@ -5,7 +5,7 @@ title: Le Bûcheron
 Le Bûcheron
 -----------
 
-![bucheron](/images/stories/manga/crossbone/persos/bucheron.jpg)
+
 - Age : ??  
 - Rôle : Garde forestier
 

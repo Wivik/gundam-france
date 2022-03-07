@@ -5,7 +5,7 @@ title: "Shirin Bakhtiar"
 Shirin Bakhtiar
 ---------------
 
-![sirin](/images/stories/saga/gundam00film/persos/autres/sirin.jpg)
+
 - Age : 34 ans  
 - Rôle : Conseiller politique  
 - Origines : Azadistan  

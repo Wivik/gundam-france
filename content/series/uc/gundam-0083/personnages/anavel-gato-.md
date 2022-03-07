@@ -6,7 +6,7 @@ Anavel Gato
 -----------
 
 
-![gato.jpg](/images/stories/saga/gundam0083/images/persos/gato.jpg)- Age : 25   
+- Age : 25   
 - Rôle : Pilote d'élite de Zeon   
 - Doubleur Japonais : Akio Ohtsuka   
 Gato est un idéaliste confirmé, fanatique sur les bords. Il a voué sa vie entière aux idéaux de Zeon et sera prêt à se sacrifier pour que ceux-ci perdurent.   

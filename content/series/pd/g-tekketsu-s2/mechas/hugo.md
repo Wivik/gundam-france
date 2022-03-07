@@ -7,7 +7,7 @@ Hugo
 
 
 
-![Hugo](/images/stories/saga/g-tekketsu-s2/mechas/yugo.png)
+
 
 [Hugo](javascript:change_image_m('images/stories/saga/g-tekketsu-s2/mechas/yugo.png');)
 [Vue de dos](javascript:change_image_m('images/stories/saga/g-tekketsu-s2/mechas/yugo-dos.png');)

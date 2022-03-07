@@ -6,7 +6,7 @@ Gorou Masuda
 ------------
 
 
-![Gorou Masuda](/images/stories/saga/gundambftry/persos/gorou-masuda.png)
+
 
 
 * Voix Japonaise : Yūya Murakami

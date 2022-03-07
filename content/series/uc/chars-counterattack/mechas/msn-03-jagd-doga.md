@@ -6,7 +6,7 @@ MSN-03 Jagd Doga
 ----------------
 
 
-[Jagd Doga Gyunei Guss](javascript:change_image_m('images/stories/saga/charcontreattaque/ms/msn-03-gyunei.png');) [Jagd Doga Quess Paraya](javascript:change_image_m('images/stories/saga/charcontreattaque/ms/msn-03-quess.png');) [Version UC 0096](javascript:change_image_m('images/stories/saga/unicorn/mechas/neozeon/msn-03.png');)      ![Jagd Doga Gyunei Guss](/images/stories/saga/charcontreattaque/ms/msn-03-gyunei.png)    
+[Jagd Doga Gyunei Guss](javascript:change_image_m('images/stories/saga/charcontreattaque/ms/msn-03-gyunei.png');) [Jagd Doga Quess Paraya](javascript:change_image_m('images/stories/saga/charcontreattaque/ms/msn-03-quess.png');) [Version UC 0096](javascript:change_image_m('images/stories/saga/unicorn/mechas/neozeon/msn-03.png');)          
 
 
 ### Fiche Technique

@@ -6,7 +6,7 @@ Mime Midgard
 ------------
 
 
-![Mime Midgard](/images/stories/saga/turnagundam/persos/moonrace/mime.jpg)
+
 * Rôle : Secrétaire général d'Agrippa
 * Origines : Lune
 * Voix Japonaise : Ryuji Mizuno

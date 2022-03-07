@@ -6,7 +6,7 @@ Bernard Wiseman
 ---------------
 
 
-![bernard](/images/stories/saga/gundam0080/persos/zeon/bernard.jpg)Bernard Wiseman    
+Bernard Wiseman    
 - Age : 19  
 - Couleur de cheveux : Blond  
 - Couleur des yeux : Vert  

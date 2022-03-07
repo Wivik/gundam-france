@@ -5,7 +5,7 @@ title: Techcs Farzenbarg
 Techcs Farzenbarg
 -----------------
 
-![techcs](/images/stories/saga/gundamx/persos/techcs.jpg)Techcs Farzenbarg  
+Techcs Farzenbarg  
 - Age : 36 ans  
 - Fonction : médecin à bord du Freeden
 

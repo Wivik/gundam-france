@@ -6,7 +6,7 @@ Rudolf Wittgenstein
 -------------------
 
 
-![Rudolf Wittgenstein](/images/stories/manga/astray/persos/rudolf.jpg)
+
 
 Stationné en République d'Asie de l'Est, ce pilote d'un ZGMF-2000 GOUF Ignited doré, blanc et noir affronte en CE73 l'Alliance, la Serpent Tail, les rebelles indépendantistes et les mercenaires de la Fujiyama Company aux côtés de son supérieur et ami Alec Ladd, rejoint plus tard par Leons Graves.
 

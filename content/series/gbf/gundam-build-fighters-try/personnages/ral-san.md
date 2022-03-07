@@ -6,7 +6,7 @@ M. Ral
 ------
 
 
-![M. Ral](/images/stories/saga/gundambftry/persos/m-ral.png)
+
 
 
 * Rôle : Entraineur

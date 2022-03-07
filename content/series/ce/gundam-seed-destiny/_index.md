@@ -53,7 +53,7 @@ L'aspect mecha-design de la série est quant à lui assez déroutant. Outre la r
 Côté musiques, les bandes originales de la série sont composées à nouveau par Toshihiko Sahashi, qui reste dans la même qualité de travail qu'il a fourni pour Gundam SEED. On notera un aspect bien plus tourné vers le mystère et le mélancolisme dans les musiques que celles de son aînée, mais également des pistes épiques lors de certaines scènes de combat qui donnent une dimension bien plus agréable à la série. Les génériques de la série sont cette fois au nombre de 4 ouvertures et 4 fermetures. Différents artistes de la scène J-POP sont encore une fois à l'honneur pour ces chansons, avec à nouveau TM Revolution ou encore Tanaka Rie qu'on a déjà entendus. On regrettera certaines chansons hautement criardes (3ème générique) ou alors hors contexte par leur style musicale (4ème générique) qui donnent plus envie de zapper le générique que de l'apprécier. Au niveau des chansons d'ambiance de la série, Nishikawa signe également Vestige, et Fiction Juncton Feat Yuuka nous gratifie d'un autre titre de grande beauté. Dans la catégorie "erreur de casting", on gardera en mémoire la version Pop de "Shizukana Yoru Ni" qui dénature sa version originale, mais correspondant au personnage qui la chante dans la série.
 
 
-![banniere](/images/stories/saga/gundamgundamseeddestinyestiny/banniere.jpg)
+
 ### Conclusion
 
 

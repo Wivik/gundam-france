@@ -7,7 +7,7 @@ After War
 ---------
 
 
-![uc](/images/mini/aw-_tb_400x_univers.jpg)Le Gundam X, mobile suit éponyme de la série
+Le Gundam X, mobile suit éponyme de la série
 
 
 L'After War est le troisième univers alternatif autonome de la saga Gundam. Créé en 1996 avec la série Gundam X, ce calendrier trouve son point de démarrage après la fin de la 7ème Guerre Spatiale entre la Terre et ses Colonies. Conflit qui a provoqué la perte de 99% de l'humanité vivant sur le globe terrestre.

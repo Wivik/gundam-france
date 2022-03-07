@@ -6,7 +6,7 @@ Roberto
 -------
 
 
-![Roberto](/images/stories/saga/zetagundam/persos/roberto.png)
+
 
 
 * Origine : Principauté de Zeon

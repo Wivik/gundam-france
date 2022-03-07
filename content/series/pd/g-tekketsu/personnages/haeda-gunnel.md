@@ -6,7 +6,7 @@ Haeda Gunnel
 ------------
 
 
-![Haeda Gunnel](/images/stories/saga/g-tekketsu/persos/haeda-gunnel.png)
+
 * Origines : Capitaine du CGS
 * Voix Japonaise : Tarou Yamaguchi
 

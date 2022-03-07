@@ -7,7 +7,7 @@ MS-06R1A Zaku II High Mobility Type
 
 
 
-![Vue principale](/images/stories/saga/origin/mechas/ms-06r-1a-zaku-ii-high-maneuvrability.png)
+
 Vue principale
  
 

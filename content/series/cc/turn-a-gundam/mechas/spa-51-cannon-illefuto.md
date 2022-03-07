@@ -5,7 +5,7 @@ title: SPA-51 Cannon Illefuto
 SPA-51 Cannon Illefuto
 ----------------------
 
-![cannon](/images/stories/saga/turnagundam/ms/terriens/cannon.png)
+
 
 
 SPA-51 Cannon Illefuto

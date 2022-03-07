@@ -5,7 +5,7 @@ title: "Vargas Dyson (AG 140)"
 Vargas Dyson (AG 140)
 ---------------------
 
-![vargas2](/images/stories/saga/gundamage/persos/vargas_ag140.png)
+
 - Age : 80  
 - Rôle : Grand père d'Emily  
 - Voix Japonaise : Naoki Bandou

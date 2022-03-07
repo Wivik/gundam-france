@@ -5,7 +5,7 @@ title: "GNZ-003 Gadessa"
 GNZ-003 Gadessa
 ---------------
 
-![gadessa](/images/stories/saga/gundam00/mechas/s2/federation/gadessa.png)
+
 
 
 GNZ-003 Gadessa

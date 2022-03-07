@@ -6,7 +6,7 @@ Atra Mixta
 ----------
 
 
-![Atra Mixta](/images/stories/saga/g-tekketsu-s2/persos/atra-mixta.png)
+
 
 
 * Origine : Mars

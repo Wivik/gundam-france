@@ -6,7 +6,7 @@ Chung Yung
 ----------
 
 
-![Chung Yung](/images/stories/saga/sentinel/persos/chungyung.jpg)
+
 * Age : 30
 * Rôle : Commandant d'escadron Mobile Suit
 

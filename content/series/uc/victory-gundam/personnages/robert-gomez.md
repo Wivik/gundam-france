@@ -6,7 +6,7 @@ Robert Gomez
 ------------
 
 
-![Robert Gomez](/images/stories/saga/vgundam/persos/robert-gomez.png)
+
 * Age : 55 ans
 * Rôle : Capitaine du Reinforce
 

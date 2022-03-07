@@ -5,7 +5,7 @@ title: Marie Albertia
 Marie Albertia
 --------------
 
-![marie](/images/stories/manga/ecoleduciel/persos/marie.jpg)Marie Albertia
+Marie Albertia
 
 
 - Origines : Zeon

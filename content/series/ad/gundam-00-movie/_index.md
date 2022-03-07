@@ -3,10 +3,9 @@ title: "Mobile Suit Gundam 00 - A Wakening of the Traiblazer -"
 weight: 40
 ---
 
-![layer dossiers](/images/stories/saga/gundam00film/layer_dossiers.jpg) 
+ 
 
-
-![Quand Gundam rencontre Gurren-Lagann ? ](/images/stories/saga/gundam00film/index2.jpg)Annoncé à la fin de la Seconde Saison de Mobile Suit Gundam 00, ce film est le premier scénario original au cinéma depuis Mobile Suit Gundam F91 sorti en 1991. Toujours réalisé par Seiji Mizushima avec la même équipe, "A Wakening of the Trailblazer" est la conclusion de l'Anno Domini et se déroule deux ans après les évènements finaux de la série TV. Le film est sorti au cinéma le 18 septembre 2010 et bénéficia d'une projection en avant-première en version originale sous-titrée anglais lors du New York Anime Fair en octobre 2010. Gundam 00 the Movie aura fait un pari audacieux qui est d'être la première production animée de la Saga à mettre en place une confrontation entre l'humanité et une race extra-terrestre.
+Annoncé à la fin de la Seconde Saison de Mobile Suit Gundam 00, ce film est le premier scénario original au cinéma depuis Mobile Suit Gundam F91 sorti en 1991. Toujours réalisé par Seiji Mizushima avec la même équipe, "A Wakening of the Trailblazer" est la conclusion de l'Anno Domini et se déroule deux ans après les évènements finaux de la série TV. Le film est sorti au cinéma le 18 septembre 2010 et bénéficia d'une projection en avant-première en version originale sous-titrée anglais lors du New York Anime Fair en octobre 2010. Gundam 00 the Movie aura fait un pari audacieux qui est d'être la première production animée de la Saga à mettre en place une confrontation entre l'humanité et une race extra-terrestre.
 
 
 **Attention, le résumé de l'histoire est susceptible de contenir des révélations majeures du scénario de la série TV.**
@@ -30,14 +29,13 @@ Peu de temps après, un vaisseau délabré fait son approche de l'orbite terrest
 Une nouvelle crise sans précédent est sur le point de débuter pour l'humanité et ce coup-ci, elle devra l'affronter en unissant toutes ses forces...
 
 
-![Le 00-QAN[T]](/images/stories/saga/gundam00film/intro1.jpg) ![Un vaisseau délabré s'approche vers la Terre de manière inquiétante.](/images/stories/saga/gundam00film/intro2.jpg) ![D'étranges évènements se produisent sur Terre](/images/stories/saga/gundam00film/intro3.jpg)
 ### Aperçu
 
 
 Comme dit précédemment, Gundam 00 The Movie est le premier film original de la Saga depuis Gundam F 91. Son but est, comme à l'époque de Char-Contre-attaque, de conclure dignement la Saga qui fut commencée avec la première saison de la série. Gundam 00 The Movie a réussi cet objectif et apporte un épilogue en grande relation avec le thème principal de la série axé sur la volonté de paix via la compréhension mutuelle.
 
 
-![intro](/images/stories/saga/gundam00film/intro.jpg)Avant de commencer cet aperçu, un petit avertissement quant à l'image proposée en haut de l'article. Le film n'est aucunement ainsi ! Il s'agit uniquement d'un petit clin d'oeil amusant à des séries de Super-Robot telles que Gurren-Lagann dont il s'inspire du style graphique, à travers un film dans un film, à savoir une fiction sur les évènements liés à la guerre entre les nations Terrestres et Celestial Being lors de la première saison intitulée "Celestial Being". Cette scène présentée en début du film aura de quoi surprendre plus d'un !  Au-delà de cette boutade offerte par le réalisateur, le film est réalisé avec la même ambiance que la série TV.
+Avant de commencer cet aperçu, un petit avertissement quant à l'image proposée en haut de l'article. Le film n'est aucunement ainsi ! Il s'agit uniquement d'un petit clin d'oeil amusant à des séries de Super-Robot telles que Gurren-Lagann dont il s'inspire du style graphique, à travers un film dans un film, à savoir une fiction sur les évènements liés à la guerre entre les nations Terrestres et Celestial Being lors de la première saison intitulée "Celestial Being". Cette scène présentée en début du film aura de quoi surprendre plus d'un !  Au-delà de cette boutade offerte par le réalisateur, le film est réalisé avec la même ambiance que la série TV.
 
 
 Le scénario du film propose une idée qui ne fut jamais exploitée dans la Saga Gundam, à savoir confronter l'humanité à une race alien venue du fin fond du cosmos aux volontés obscures si ce n'est qu'ils ne semblent pas très amicaux au premier abord. Mais qu'en est-il vraiment ? L'histoire apporte quelques rebondissements, bien qu'elle ne dévoile plus rien de nouveaux sur les personnages que nous avons connu, ceux-ci étaient déjà bien développés par la Saison 2 de la série. Les ELS, pour Extraterrestrial Livingmetal Shapeshifter sont des entités métaliques pouvant se déplacer et vivre dans le vide spatial sans assistance. Ils sont capables d'assimiler des personnes ou des machines pour apprendre d'elles et revêtir également leur apparence.

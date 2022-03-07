@@ -7,7 +7,7 @@ Command Fumina
 
 
 
-![Command Fumina](/images/stories/saga/gundambfblg/mechas/command-fumina.png)
+
 
 [Command Fumina](javascript:change_image_m('images/stories/saga/gundambfblg/mechas/command-fumina.png');)
 

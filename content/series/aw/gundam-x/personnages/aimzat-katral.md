@@ -5,7 +5,7 @@ title: Aimzat Katral
 Aimzat Katral
 -------------
 
-![aimzat](/images/stories/saga/gundamx/persos/aimzat.jpg)Aimzat Katral  
+Aimzat Katral  
 - Age : 32 ans  
 - Fonction : haut gradé de la Nouvelle Fédération
 

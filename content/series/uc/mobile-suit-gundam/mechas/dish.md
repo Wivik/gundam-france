@@ -6,7 +6,7 @@ Dish
 ----
 
 
-![dish](/images/stories/saga/msgundam/mechas/dish.png)
+
 
 
   

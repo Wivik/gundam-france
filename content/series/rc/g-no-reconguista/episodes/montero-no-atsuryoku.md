@@ -10,7 +10,6 @@ title: "03 - Montero no Atsuryoku"
 * 9 octobre 2014 (Japon / France)
 
 
-![](/images/stories/saga/gnoreconguista/episodes/03-1.jpg) ![](/images/stories/saga/gnoreconguista/episodes/03-2.jpg) ![](/images/stories/saga/gnoreconguista/episodes/03-3.jpg)
 
 
 Après l'attaque des pirates, le colonel Cumpa convoque Bellri au Département d'investigation pour l'interroger le lendemain. Aida est de nouveau faite prisonnière et celle-ci conteste le traitement qu'on lui impose. Mais Cumpa lui dit qu'elle n'a aucun droit vu qu'elle a nié faire partie de l'armée d'Améria. Pendant ce temps, une discussion oppose Capital Guard et Capital Army car ceux-ci prétendent que le Backpack du G-Self a été fabriqué par Améria. Néanmoins, aucune plaque d'identification n'est présente dessus donc impossible de le prouver. Cumpa rappelle qu'ils ont toujours été incapables de faire marcher le G-Self et que c'est désormais le Département d'Investigations qui se chargera de l'étudier. Pendant ce temps, Dellensen présente Luin Lee à son supérieur de la Capital Army.   

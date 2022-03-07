@@ -6,7 +6,7 @@ Vincent Pike
 ------------
 
 
-![Vincent Pike](/images/stories/saga/thunderbolt/persos/vincent-pike.png)
+
 
 
 * Fonction : Capitaine du Spartan

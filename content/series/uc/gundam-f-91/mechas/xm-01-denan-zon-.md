@@ -6,7 +6,7 @@ XM-01 Den'an Zon
 ----------------
 
 
-![denanzon](/images/stories/saga/F91/mechas/crossbone/denanzon.gif)
+
 
 
 XM-01 Den'an Zon   

@@ -6,7 +6,7 @@ AMX-009 Dreissen
 ----------------
 
 
-[Dreissen](javascript:change_image_m('images/stories/saga/gundamzz/mechas/neozeon/amx-009.png');) [Couleurs de Glemy Toto](javascript:change_image_m('images/stories/saga/gundamzz/mechas/neozeon/amx-009-glemy.png');) [Couleurs des "Manchettes" (UC 0096)](javascript:change_image_m('images/stories/saga/unicorn/mechas/neozeon/dreissen0096.png');)      ![Dreissen](/images/stories/saga/gundamzz/mechas/neozeon/amx-009.png)    
+[Dreissen](javascript:change_image_m('images/stories/saga/gundamzz/mechas/neozeon/amx-009.png');) [Couleurs de Glemy Toto](javascript:change_image_m('images/stories/saga/gundamzz/mechas/neozeon/amx-009-glemy.png');) [Couleurs des "Manchettes" (UC 0096)](javascript:change_image_m('images/stories/saga/unicorn/mechas/neozeon/dreissen0096.png');)          
 
 
 ### Fiche Technique

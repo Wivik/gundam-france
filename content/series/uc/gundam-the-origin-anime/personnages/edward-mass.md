@@ -6,7 +6,7 @@ Edouard Mass
 ------------
 
 
-![Edward Mass](/images/stories/saga/origin/persos/edward-mass.png)
+
 
 
 * Origines : République Autonome de Munzo

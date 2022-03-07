@@ -9,7 +9,7 @@ Amuro Ray
 
 
 
-![Amuro Ray](/images/stories/saga/msgundam/persos/amuro-ray.png)
+
 * [Amuro Ray](javascript:change_image_m('images/stories/saga/msgundam/persos/amuro-ray.png');)
 * [Amuro Ray (7 ans, UC 0071)](javascript:change_image_m('images/stories/saga/origin/persos/amuro-ray.png');)
 * [Aurmo Ray (11 ans, UC 0074)](javascript:change_image_m('images/stories/saga/origin/persos/amuro-ray-uc-0074.png');)

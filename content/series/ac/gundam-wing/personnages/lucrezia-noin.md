@@ -5,7 +5,7 @@ title: Lucrezia Noin
 Lucrezia Noin
 -------------
 
-![noin](/images/stories/saga/gundamwing/persos/noin.jpg)Lucrezia Noin  
+Lucrezia Noin  
   
 Age : 19  
 Couleur de cheveux : Noirs  

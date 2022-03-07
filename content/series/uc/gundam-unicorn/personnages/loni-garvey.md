@@ -5,7 +5,7 @@ title: Loni Garvey
 Loni Garvey
 -----------
 
-![loni](/images/mini/images-stories-saga-unicorn-persos-zeon-_tb_157x217_loni.jpg)
+
 - Age : 18 ans  
 - Rôle : Pilote de l'AMX-07 Shamblo  
 - Origines :   

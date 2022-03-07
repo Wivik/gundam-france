@@ -5,7 +5,7 @@ title: NRS-P701 Gozzo
 NRS-P701 Gozzo
 --------------
 
-![gozzo](/images/stories/saga/turnagundam/ms/moonraces/gozzo.png)
+
 
 
 NRS-P701 Gozzo

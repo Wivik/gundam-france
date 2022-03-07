@@ -16,7 +16,7 @@ Il convient de dire que cette page contiendra de nombreux spoilers.
 ### UC 0083 : La formation des Titans
 
 
-![Création des Titans](/images/mini/images-stories-saga-zetagundam-gryps-_tb_x150_titans.jpg)
+
 
 
 Le 4 décembre UC 0083, à la suite de l'Opération Stardust Memory commanditée par un groupe de résistants de Zeon lors du [Le Conflit Delaz](uc/gundam-0083/le-conflit-delaz.html), la Fédération, sous la pression de [Jamitov Hymen](uc/zeta-gundam/jamitov-hymen.html), décide de mettre en place un nouveau corps d'élite : les Titans. Leur but : traquer et éliminer toute forme d'opposition au gouvernement Fédéral, pour cela ils disposent d'un équipement de pointe et leurs méthodes sont radicales.
@@ -25,7 +25,7 @@ Le 4 décembre UC 0083, à la suite de l'Opération Stardust Memory commanditée
 ### UC 0085 : Incident du Bloc 30
 
 
-![Bloc 30 de Side 1 ravagé](/images/mini/images-stories-saga-zetagundam-gryps-_tb_225x150_side1.jpg) Le 31 juillet UC 0085, pour contrer un moment de population, les Titans projettent le gaz GGG dans l'atmosphère du Bloc 30 de Side-1 tuant tous ses habitants.  En réponse à cet acte, des mouvements anti gouvernementaux commencent à se former pour protester contre le despotisme des Titans.
+ Le 31 juillet UC 0085, pour contrer un moment de population, les Titans projettent le gaz GGG dans l'atmosphère du Bloc 30 de Side-1 tuant tous ses habitants.  En réponse à cet acte, des mouvements anti gouvernementaux commencent à se former pour protester contre le despotisme des Titans.
 
 
 L'Anti-Earth Union Group (AEUG), sera formé par des membres de la Fédération et soutenue par des groupes industriels influents. 
@@ -37,7 +37,7 @@ En 0087, un incident similaire aura lieu en Alaska sur Terre, l'organisation Kar
 ### 2 mars UC 0087 : Début du Conflit de Gryps
 
 
-![Vol des Mark II](/images/mini/images-stories-saga-zetagundam-gryps-_tb_225x150_volmk2.jpg)
+
 
 
 L'AEUG infiltre les installations Titans de la colonie Gryps et parvient à voler trois prototypes de Mobiles Suits, les [RX-178 Gundam Mark II](uc/zeta-gundam/rx-178-gundam-mark-ii.html). Ce sera le premier acte de guerre à l'encontre des Titans. Plusieurs batailles se livreront entre le vaisseau Argama et les Titans pour tenter de récupérer, ou de détruire, les trois prototypes volés. Deux RX-178 sur trois seront détruits, l'AEUG parviendra à conserver le dernier.
@@ -52,7 +52,7 @@ L'AEUG décide d'attaquer la base principale de la Fédération, Jaburo, mais la
 ### Juin UC 0087 : Les Titans s'organisent
 
 
-![Destruction de la Base de Jaburo](/images/mini/images-stories-saga-zetagundam-gryps-_tb_225x150_jaburo.jpg)
+
 
 
 Les Titans font déplacer le Bloc 2 (Gryps) de Side 7 vers l'astéroïde Luna 2. Durant la même période, la République de Zeon leur cède la base d'A Baoa Qu, renommée Porte de Zedan. [Paptimus Scirocco](uc/zeta-gundam/paptimus-scirocco.html), dirigeant le vaisseau Jupitris en provenance de Jupiter prête allégeance aux Titans.
@@ -77,7 +77,7 @@ La Fédération vote une augmentation des pouvoirs des Titans, ces derniers lanc
 ### Octobre UC 0087 : Axis entre dans la bataille
 
 
-![Axis](/images/mini/images-stories-saga-zetagundam-gryps-_tb_225x150_axis.jpg)
+
 
 
 L'astéroïde Axis est revenu près de la Terre et ses occupants, mouvement Neo-Zeon dirigé par [Haman Kahn](uc/zeta-gundam/haman-kahn.html), prennent part au conflit. L'AEUG échoue dans ses négociations avec Axis, les Titans forment une alliance avec eux.

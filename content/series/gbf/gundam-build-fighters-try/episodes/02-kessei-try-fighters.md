@@ -10,8 +10,6 @@ title: "02 - Kessei ! Try Fighters"
 * 15 octobre 2014
 
 
-![](/images/stories/saga/gundambftry/episodes/02-1.jpg) ![](/images/stories/saga/gundambftry/episodes/02-2.jpg) ![](/images/stories/saga/gundambftry/episodes/02-3.jpg)
-
 
 Flashback. Yuuma est en embuscade avec un Airmaster pour attaquer en sniper. Il se fait alors repérer par son adversaire et il est obligé de s'enfuir. Cependant, son adversaire déploie des Fangs pour l'attaquer et immobilise complètement son Airmaster puis le détruit de manière sadique en démoralisant Yuuma en lui disant qu'il n'a aucun talent pour le Gunpla Battle.   
   

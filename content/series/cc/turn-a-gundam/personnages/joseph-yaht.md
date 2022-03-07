@@ -6,7 +6,7 @@ Joseph Yaht
 -----------
 
 
-![Joseph Yaht](/images/stories/saga/turnagundam/persos/terriens/joseph.jpg)
+
 * Rôle : Archéologue, pilote
 * Origines : Terre
 * Voix Japonaise : Setsuji Sato

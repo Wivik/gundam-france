@@ -6,7 +6,7 @@ Mask
 ----
 
 
-![Mask](/images/stories/saga/gnoreconguista/persos/mask.png)
+
 
 
 Mystérieux membre de la Capital Army qui porte un masque.Il s'agit de l'un des premiers pilotes de l'{lien:db:1024:Elf Bullock:rc/g-no-reconguista/elf-bulluck.html:lien}, le second Mobile Suit de masse de la Capital Army. Son masque est un moniteur équipé de diverses fonctionnalités pour l'aider au combat. 

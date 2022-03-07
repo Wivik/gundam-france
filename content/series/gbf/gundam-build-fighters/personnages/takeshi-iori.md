@@ -6,7 +6,7 @@ Takeshi Iori
 ------------
 
 
-![Takeshi Iori](/images/stories/saga/gundambf/persos/takeshi.png)
+
 
 
 * Voix Japonaise : Tokuyoshi Kawashima

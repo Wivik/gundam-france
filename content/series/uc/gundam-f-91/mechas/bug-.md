@@ -6,7 +6,7 @@ Bug
 ---
 
 
-![bug](/images/stories/saga/F91/mechas/crossbone/bug.gif)
+
 
 
 Bug   

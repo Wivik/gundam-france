@@ -5,7 +5,7 @@ title: Professeur Karas
 Professeur Karas
 ----------------
 
-![karas](/images/stories/manga/crossbone/persos/karas.jpg)
+
 - Age : ??  
 - Rôle : Entraineur  
 - Voix japonaise : Chafurin (Jeux SD Gundam G Generation)

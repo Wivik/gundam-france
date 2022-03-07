@@ -5,7 +5,7 @@ title: "Dynasty Warriors : Gundam 3"
 Dynasty Warriors : Gundam 3
 ---------------------------
 
-![dynasty-warriors-gundam-3](/images/stories/jv/dwg3/dynasty-warriors-gundam-3.jpg)
+
 * Genre : Beat'em all
 * Année : 12 décembre 2010 au Japon, 1er juillet 2011 en France
 * Console : Xbox 360, Playstation 3
@@ -31,8 +31,6 @@ L'une des premières grosses nouveautés du jeu est que le mode histoire possèd
 Côté Gameplay, celui-ci n'a guère changé et s'est vu enrichi de quelques options supplémentaires. Le pilotage des unités est toujours le même, nous avons deux attaques principales (le corps à corps et le distant) et des combos/enchainements qui déclenchent des attaques plus puissantes. L'unité dispose toujours d'une attaque dite "SP" qui se déclenche quand la jauge concernée est pleine. Nouveauté : l'équipe du joueur est désormais composée de trois membres : Le joueur et son unité, un partenaire et son unité, et l'opérateur. Le partenaire est en fait un allié que vous allez pouvoir appeler au combat pour vous aider lorsque la jauge Partenaire est remplie. Celui-ci débarque et fait une attaque SP sur le terrain puis s'en va. L'opérateur est, quant à lui, le coordinateur de l'équipe de votre groupe (joueur et PNJ alliés). Il donne des indications sur la situation, la commente, mais donne aussi les ordres que votre escadron suivra.
 
 
-![Des unités comme le 00 Raiser restent en Trans-Am quelques secondes après avoir fait leur SP](/images/stories/jv/dwg3/dynasty-warriors-gundam-3-xbox-360-134.jpg) ![Appelez un partenaire à la rescousse ! ](/images/stories/jv/dwg3/dynasty-warriors-gundam-3-xbox-360-056.jpg) ![Affrontez des hordes de MS !](/images/stories/jv/dwg3/dynasty-warriors-gundam-3-xbox-360-013.jpg)
-
 
 Les cartes ont changé et, comme dit plus tôt, donnent désormais un aspect stratégique au jeu. Tout d'abord, il n'y a plus de carte se passant dans le vide spatial. Le développeur préfère ne laisser que des zones semi-spatiales telles que des bases, la lune, ou des astéroïdes. On regrettera néanmoins de voir que les cartes présentent des chemins très sinueux et bourrés d'obstacles qui rendent les déplacements rapides frustrants. Les cartes sont toujours divisées en champs, mais les champs ont dorénavant un enjeu tactique. En effet, l'interface dispose d'une nouvelle barre indiquant le niveau de combativité des unités sur le terrain (amies et ennemies). Lorsque l'un des camps gagne des champs ou affaiblie un adversaire (en abattant un pilote d'élite ou capturant un point stratégique), la combativité de lui-ci augmente tout en diminuant celle de son opposant. Une fois la jauge de combativité suffisamment basse, le QG ennemi est vulnérable. Le QG fait partie des nouveaux points stratégiques qui se déclinent ainsi :
 
@@ -47,14 +45,13 @@ Les cartes ont changé et, comme dit plus tôt, donnent désormais un aspect str
 * Usine de Mobile suits : Capturer ce champ permet de restaurer une partie de l'armure de ses alliés.
 * Hangar de Réparations : restaure la jauge d'armure des alliés.
 
-
-![Des combats épiques !](/images/stories/jv/dwg3/dynasty-warriors-gundam-3-xbox-360-001.jpg) ![Un moteur graphique revu à la hausse](/images/stories/jv/dwg3/dynasty-warriors-gundam-3-xbox-360-036.jpg) ![La catapulte, un des nouveauxp oints stratégiques](/images/stories/jv/dwg3/dynasty-warriors-gundam-3-xbox-360-044.jpg)
+ 
 
 
 La partie Développement Mobile Suit a également subit une petite refonte et son fonctionnement a grandement changé. Auparavant nous récupérions des pièces au combat qui permettaient d'améliorer les stats des MS. Désormais, les MS évoluent grâce à des plans récupérés au combat qui possèdent des statistiques de base (et varient selon les plans et leur rang). Le joueur peut ensuite personnaliser son MS en ajoutant des accessoires dessus (comme dans l'ancien système) et en boostant certaines statistiques selon le nombre d'emplacement d'améliorations possibles. Vous pouvez disposer de plusieurs exemplaires d'un MS pour faire des variantes !
 
 
-![Le développement des MS se fait par plans](/images/stories/jv/dwg3/dynasty-warriors-gundam-3-playstation-3-ps3-1309533479-207.jpg) ![Les relations d'amitiés avec les personnages](/images/stories/jv/dwg3/dynasty-warriors-gundam-3-playstation-3-ps3-1309533479-220.jpg) ![Séquences dialogue du mode histoire](/images/stories/jv/dwg3/dynasty-warriors-gundam-3-playstation-3-ps3-1309533479-211.jpg)
+
 
 
 ### Les différents modes de jeu
@@ -123,7 +120,7 @@ Il y a également quelques MS génériques nouveaux en provenance de différente
 Globalement, DWG3 ne varie pas beaucoup du deuxième opus. Le but est toujours de conquérir des champs sur la carte pour affaiblir l'ennemi et vaincre le commandant adverse. L'ajout de points stratégiques rend le jeu un peu plus tactique et des petites quêtes au cours des missions les rendent plus excitantes. Par exemple, on vous demandera d'aller protéger un allié, d'empêcher qu'un ennemi rejoigne un point, etc. Si ces objectifs sont atteints, la jauge de combativité ennemie en prendra un coup. A l'inverse, si vous ratez, c'est la votre qui prendra !
 
 
-![Les enchainements toujours aussi dévastateurs](/images/stories/jv/dwg3/dynasty-warriors-gundam-3-xbox-360-024.jpg) ![Des séquences vidéos qui enrichissent l'histoire](/images/stories/jv/dwg3/dynasty-warriors-gundam-3-xbox-360-042.jpg) ![](/images/stories/jv/dwg3/dynasty-warriors-gundam-3-playstation-3-ps3-1309533479-209.jpg)
+
 
 
 Les champs ne sont plus systématiquement défendus par des élites. Ceux-ci explorent la carte comme vous et vos alliés et prennent aussi des champs. Néanmoins, battre un adversaire ne le fera pas disparaître définitivement ! En effet, désormais les Mobile Suits peuvent revenir au combat tant que la jauge de combativité le permet (perdre un élite fait naturellement baisser la jauge). C'est le cas des alliés et des ennemis. Notez que la prise d'un QG Allié ou Ennemi bloque la réapparition. Par contre, si le joueur est détruit et sa jauge à zéro, la mission est un échec.
@@ -151,7 +148,7 @@ Terminée l'affreuse carte de relations personnages qui vous détestent et dont 
 Le déblocage de missions dépend du niveau d'amitié avec le personnage, certaines requièrent un niveau particulier.
 
 
-![Les relations personnages sont simplifiées](/images/stories/jv/dwg3/dynasty-warriors-gundam-3-playstation-3-ps3-1309533479-213.jpg)
+
 
 
 Terminé également l'horrible hasard permettant de débloquer une compétence ! Désormais les personnages gagnent uniquement de l'expérience pour monter en niveau et des points pilotes (appelés G). Ces crédits permettent de faire des achats dans la boutique qui propose : Les brevets de pilotage (on débloque un MS lorsqu'il est piloté au moins 4 fois), Les compétences (appelées Talents), et des kits d'entrainement permettant d'acquérir de l'expérience. Ils sont aussi utilisés pour construire les MS à partir des plans trouvés au combat et les améliorer.
@@ -165,8 +162,6 @@ Le pilote détermine désormais le rang d'attaques SP. Avant son niveau détermi
 
 Pour conclure cette présentation de Dynasty Warriors : Gundam 3, nous pouvons affirmer que Tecmo Koei a effectué un très beau travail d'amélioration de son jeu. Il ne s'agit pas d'une banale version 3 ajoutant 2 pilotes, 3 MS et 4 cartes mais bel et bien une refonte du système. Une durée de vie qui rentabilisera l'achat pour longtemps, un rendu graphique agréable, une excellente ambiance entraînante, il a tout pour plaire, à quelques exceptions près. On regrettera que la version française ait une traduction hasardeuse, voire malheureuse sur plusieurs points (traduction de noms propres tels que Waverider en Chevaucheur des Ondes, relations personnages ambigües car vouvoiement permanent...) mais aussi l'absence des OST originales de la Saga. Néanmoins, nous avons cette fois-ci le choix d'avoir les voix originales japonaises, ce qui est déjà très bien et nous a manqué dans le deuxième !
 
-
-![](/images/stories/jv/dwg3/dynasty-warriors-gundam-3-xbox-360-1304931456-177.jpg) ![](/images/stories/jv/dwg3/dynasty-warriors-gundam-3-playstation-3-ps3-1309533479-215.jpg) ![](/images/stories/jv/dwg3/dynasty-warriors-gundam-3-xbox-360-043.jpg)
 
 
 **Les plus**

@@ -5,7 +5,7 @@ title: "Edmond Du Clos"
 Edmond Du Clos
 --------------
 
-![Edmond Du Clos](/images/stories/saga/stargazer/persos/edmond.jpg)* Age : 37
+* Age : 37
 * Rôle : Garde du Corps
 * Origines : Terre
 * Voix Japonaise : Jouji Nakata

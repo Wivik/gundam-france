@@ -6,7 +6,7 @@ Katejina Loos
 -------------
 
 
-![Katejina Loos](/images/stories/saga/vgundam/persos/katejina-loos.png)
+
 
 
 * Age : 17 ans

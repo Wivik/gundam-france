@@ -6,7 +6,7 @@ Nein Barthes
 ------------
 
 
-![Nein Barthes](/images/stories/saga/gundambf/persos/nein.png)
+
 
 
 

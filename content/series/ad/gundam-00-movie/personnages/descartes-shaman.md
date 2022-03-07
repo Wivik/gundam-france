@@ -5,7 +5,7 @@ title: "Descartes Shaman"
 Descartes Shaman
 ----------------
 
-![descartes](/images/stories/saga/gundam00film/persos/federation/descartes.jpg)
+
 - Age : ?  
 - Origines : ?  
 - Rôle : Innovator  

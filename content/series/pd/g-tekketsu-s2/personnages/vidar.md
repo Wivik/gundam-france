@@ -6,7 +6,7 @@ Vidar
 -----
 
 
-![Vidar](/images/stories/saga/g-tekketsu-s2/persos/vidar.png)
+
 
 
 * Fonction : Pilote de Mobile Suit

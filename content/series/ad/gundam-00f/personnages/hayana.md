@@ -5,7 +5,7 @@ title: "Hayana (Gundam Meister 887)"
 Hayana (Gundam Meister 887)
 ---------------------------
 
-![hayana](/images/stories/manga/gundam00f/persos/hayana.jpg)
+
 - Âge : inconnu  
 - Rôle : Gundam Meister
 

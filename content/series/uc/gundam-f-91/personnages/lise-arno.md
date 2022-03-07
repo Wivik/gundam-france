@@ -5,7 +5,7 @@ title: Lise Arno
 Lise Arno
 ---------
 
-![reese](/images/stories/saga/F91/persos/civils/reese.jpg)Lise Arno  
+Lise Arno  
 - Age : 10 ans  
 - Rôle : Soeur de Seabook  
 - Voix Japonaise : Sayuri Ikemoto

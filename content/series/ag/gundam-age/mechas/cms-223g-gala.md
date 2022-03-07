@@ -5,7 +5,7 @@ title: "CMS-223G Gala"
 CMS-223G Gala
 -------------
 
-![gala](/images/stories/saga/gundamage/mechas/gala.png) 
+ 
 ### Fiche Technique
 
 

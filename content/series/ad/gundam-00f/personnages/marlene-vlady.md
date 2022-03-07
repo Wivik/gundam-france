@@ -5,7 +5,7 @@ title: "Marlene Vlady"
 Marlene Vlady
 -------------
 
-![marlene](/images/stories/manga/gundam00f/persos/marlene.jpg)
+
 - Rôle : Gundam Meister de seconde génération  
 - Née en 2267 A.D., décédée en 2295 A.D.
 

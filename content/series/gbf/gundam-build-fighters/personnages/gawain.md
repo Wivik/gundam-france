@@ -6,7 +6,7 @@ Gawain
 ------
 
 
-![Gawain](/images/stories/saga/gundambf/persos/gaouen.png)
+
 
 
 * Origine : Finlande

@@ -5,7 +5,7 @@ title: Loran Cehack
 Loran Cehack
 ------------
 
-![loran](/images/stories/saga/turnagundam/persos/terriens/loran.jpg)Loran Cehack
+Loran Cehack
 
 
 - Age : 17 ans (né le 7 novembre CC 2328)  

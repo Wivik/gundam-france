@@ -21,9 +21,9 @@ La compagnie de sécurité privée de la ville martienne de Chryse, le CGS, est 
 
 
 
-![Tetsu to Chi to](/images/stories/saga/g-tekketsu/episodes/01-1.jpg)
-![Tetsu to Chi to](/images/stories/saga/g-tekketsu/episodes/01-2.jpg)
-![Tetsu to Chi to](/images/stories/saga/g-tekketsu/episodes/01-3.jpg)
+
+
+
 
 
 
@@ -38,9 +38,9 @@ Alors que leur base était attaquée par le Gjallarhorn, les adultes du CGS se s
 
 
 
-![Barbatos](/images/stories/saga/g-tekketsu/episodes/02-1.jpg)
-![Barbatos](/images/stories/saga/g-tekketsu/episodes/02-2.jpg)
-![Barbatos](/images/stories/saga/g-tekketsu/episodes/02-3.jpg)
+
+
+
 
 
 
@@ -56,9 +56,9 @@ Orga prend les commandes du CGS par la force à cause des agissements des adulte
 
 
 
-![Sange](/images/stories/saga/g-tekketsu/episodes/03-1.jpg)
-![Sange](/images/stories/saga/g-tekketsu/episodes/03-2.jpg)
-![Sange](/images/stories/saga/g-tekketsu/episodes/03-3.jpg)
+
+
+
 
 
 
@@ -74,9 +74,9 @@ Alors que le Tekkadan nouvellement formé prépare sa première mission, Mikazuk
 
 
 
-![Inochi no Nedan](/images/stories/saga/g-tekketsu/episodes/04-1.jpg)
-![Inochi no Nedan](/images/stories/saga/g-tekketsu/episodes/04-2.jpg)
-![Inochi no Nedan](/images/stories/saga/g-tekketsu/episodes/04-3.jpg)
+
+
+
 
 
 
@@ -92,9 +92,9 @@ Le Tekkadan peut enfin faire partir Kudelia de Mars en direction de la Terre. Ma
 
 
 
-![Akai Sora no Mukou](/images/stories/saga/g-tekketsu/episodes/05-1.jpg)
-![Akai Sora no Mukou](/images/stories/saga/g-tekketsu/episodes/05-2.jpg)
-![Akai Sora no Mukou](/images/stories/saga/g-tekketsu/episodes/05-3.jpg)
+
+
+
 
 
 
@@ -110,9 +110,9 @@ Les Tekkadan ont besoin d'un guide pour aller sur Terre en évitant la surveilla
 
 
 
-![Karera ni Tsuite](/images/stories/saga/g-tekketsu/episodes/06-1.jpg)
-![Karera ni Tsuite](/images/stories/saga/g-tekketsu/episodes/06-2.jpg)
-![Karera ni Tsuite](/images/stories/saga/g-tekketsu/episodes/06-3.jpg)
+
+
+
 
 
 
@@ -128,9 +128,9 @@ Le Tekkadan se retrouve face à Turbines, la division transport de Teiwaz. Mais 
 
 
 
-![Isanatori](/images/stories/saga/g-tekketsu/episodes/07-1.jpg)
-![Isanatori](/images/stories/saga/g-tekketsu/episodes/07-2.jpg)
-![Isanatori](/images/stories/saga/g-tekketsu/episodes/07-3.jpg)
+
+
+
 
 
 
@@ -146,9 +146,9 @@ Après avoir montré que les forces et les intentions du Tekkadan sont à la hau
 
 
 
-![Yorisou Katachi](/images/stories/saga/g-tekketsu/episodes/08-1.jpg)
-![Yorisou Katachi](/images/stories/saga/g-tekketsu/episodes/08-2.jpg)
-![Yorisou Katachi](/images/stories/saga/g-tekketsu/episodes/08-3.jpg)
+
+
+
 
 
 
@@ -166,9 +166,9 @@ Les Tekkadan rencontrent enfin le dirigeant de Teiwaz. Le Teiwaz fera alors une 
 
 
 
-![Sakazuki](/images/stories/saga/g-tekketsu/episodes/09-1.jpg)
-![Sakazuki](/images/stories/saga/g-tekketsu/episodes/09-2.jpg)
-![Sakazuki](/images/stories/saga/g-tekketsu/episodes/09-3.jpg)
+
+
+
 
 
 
@@ -184,9 +184,9 @@ Le Tekkadan et les Turbines décollent vers la Terre en laissant à bord du Sais
 
 
 
-![Ashita Kara no Tegami](/images/stories/saga/g-tekketsu/episodes/10-1.jpg)
-![Ashita Kara no Tegami](/images/stories/saga/g-tekketsu/episodes/10-2.jpg)
-![Ashita Kara no Tegami](/images/stories/saga/g-tekketsu/episodes/10-3.jpg)
+
+
+
 
 
 
@@ -202,9 +202,9 @@ Lors d'un tour de garde, Akihiro et Takaki sont attaqués par les Brewers. Le gr
 
 
 
-![Human Debris](/images/stories/saga/g-tekketsu/episodes/11-1.jpg)
-![Human Debris](/images/stories/saga/g-tekketsu/episodes/11-2.jpg)
-![Human Debris](/images/stories/saga/g-tekketsu/episodes/11-3.jpg)
+
+
+
 
 
 
@@ -220,9 +220,9 @@ Suite à leur altercation avec le groupe de pirates Brewers, les Tekkadan appren
 
 
 
-![Anshou](/images/stories/saga/g-tekketsu/episodes/12-1.jpg)
-![Anshou](/images/stories/saga/g-tekketsu/episodes/12-2.jpg)
-![Anshou](/images/stories/saga/g-tekketsu/episodes/12-3.jpg)
+
+
+
 
 
 
@@ -238,9 +238,9 @@ Après un combat difficile contre les Brewers, les gars du Tekkadan découvrent 
 
 
 
-![Sôsô](/images/stories/saga/g-tekketsu/episodes/13-1.jpg)
-![Sôsô](/images/stories/saga/g-tekketsu/episodes/13-2.jpg)
-![Sôsô](/images/stories/saga/g-tekketsu/episodes/13-3.jpg)
+
+
+
 
 
 
@@ -256,9 +256,9 @@ Les Tekkadan sont proches de la Terre. Ils font une halte aux colonies Dort pour
 
 
 
-![Kibou o Hakobu Fune](/images/stories/saga/g-tekketsu/episodes/14-1.jpg)
-![Kibou o Hakobu Fune](/images/stories/saga/g-tekketsu/episodes/14-2.jpg)
-![Kibou o Hakobu Fune](/images/stories/saga/g-tekketsu/episodes/14-3.jpg)
+
+
+
 
 
 
@@ -274,9 +274,9 @@ Les Tekkadans découvrent que les conditions de vie des colonies sont comme Mars
 
 
 
-![Ashiato no Yukue](/images/stories/saga/g-tekketsu/episodes/15-1.jpg)
-![Ashiato no Yukue](/images/stories/saga/g-tekketsu/episodes/15-2.jpg)
-![Ashiato no Yukue](/images/stories/saga/g-tekketsu/episodes/15-3.jpg)
+
+
+
 
 
 
@@ -291,9 +291,9 @@ La révolte ouvrière des colonies Dort est sur le point d'éclater et Kudelia s
 
 
 
-![Fumitan Admoss](/images/stories/saga/g-tekketsu/episodes/16-1.jpg)
-![Fumitan Admoss](/images/stories/saga/g-tekketsu/episodes/16-2.jpg)
-![Fumitan Admoss](/images/stories/saga/g-tekketsu/episodes/16-3.jpg)
+
+
+
 
 
 
@@ -309,9 +309,9 @@ Devant la brutalité avec laquelle le Gjallarhorn réprime le soulèvement des t
 
 
 
-![Kudelia no Ketsui](/images/stories/saga/g-tekketsu/episodes/17-1.jpg)
-![Kudelia no Ketsui](/images/stories/saga/g-tekketsu/episodes/17-2.jpg)
-![Kudelia no Ketsui](/images/stories/saga/g-tekketsu/episodes/17-3.jpg)
+
+
+
 
 
 
@@ -327,9 +327,9 @@ Les Tekkadan parviennent à quitter le système colonial Dort grâce à l'allocu
 
 
 
-![Koe](/images/stories/saga/g-tekketsu/episodes/18-1.jpg)
-![Koe](/images/stories/saga/g-tekketsu/episodes/18-2.jpg)
-![Koe](/images/stories/saga/g-tekketsu/episodes/18-3.jpg)
+
+
+
 
 
 
@@ -345,9 +345,9 @@ Les Tekkadan sont désormais en passe de faire leur rentrée atmosphérique sur 
 
 
 
-![Negai no Juuryoku](/images/stories/saga/g-tekketsu/episodes/19-1.jpg)
-![Negai no Juuryoku](/images/stories/saga/g-tekketsu/episodes/19-2.jpg)
-![Negai no Juuryoku](/images/stories/saga/g-tekketsu/episodes/19-3.jpg)
+
+
+
 
 
 
@@ -363,9 +363,9 @@ Après une arrivée mouvementée sur Terre, les Tekkadans et Kudelia rencontrent
 
 
 
-![Aibou](/images/stories/saga/g-tekketsu/episodes/20-1.jpg)
-![Aibou](/images/stories/saga/g-tekketsu/episodes/20-2.jpg)
-![Aibou](/images/stories/saga/g-tekketsu/episodes/20-3.jpg)
+
+
+
 
 
 
@@ -381,9 +381,9 @@ Préparant leur départ, les Tekkadans se retrouvent confrontés au Gjallarhorn.
 
 
 
-![Kaeru beki Basho e](/images/stories/saga/g-tekketsu/episodes/21-1.jpg)
-![Kaeru beki Basho e](/images/stories/saga/g-tekketsu/episodes/21-2.jpg)
-![Kaeru beki Basho e](/images/stories/saga/g-tekketsu/episodes/21-3.jpg)
+
+
+
 
 
 
@@ -399,9 +399,9 @@ Après une bataille épuisante, les Tekkadans doivent aller de l'avant malgré l
 
 
 
-![Mada kaerenai](/images/stories/saga/g-tekketsu/episodes/22-1.jpg)
-![Mada kaerenai](/images/stories/saga/g-tekketsu/episodes/22-2.jpg)
-![Mada kaerenai](/images/stories/saga/g-tekketsu/episodes/22-3.jpg)
+
+
+
 
 
 
@@ -417,9 +417,9 @@ En train pour Edmonton, les Tekkadans se retrouvent bloqués par Carta Issue qui
 
 
 
-![Saigo no Uso](/images/stories/saga/g-tekketsu/episodes/23-1.jpg)
-![Saigo no Uso](/images/stories/saga/g-tekketsu/episodes/23-2.jpg)
-![Saigo no Uso](/images/stories/saga/g-tekketsu/episodes/23-3.jpg)
+
+
+
 
 
 
@@ -435,9 +435,9 @@ Les Tekkadans sont finalement aux portes d'Edmonton pour permettre à Makanai d'
 
 
 
-![Mirai no Houshuu](/images/stories/saga/g-tekketsu/episodes/24-1.jpg)
-![Mirai no Houshuu](/images/stories/saga/g-tekketsu/episodes/24-2.jpg)
-![Mirai no Houshuu](/images/stories/saga/g-tekketsu/episodes/24-3.jpg)
+
+
+
 
 
 
@@ -452,9 +452,9 @@ Arrivés à Edmonton, Kudelia et Makanai sont sur la dernière ligne droite pour
 
 
 
-![Tekkadan](/images/stories/saga/g-tekketsu/episodes/25-1.jpg)
-![Tekkadan](/images/stories/saga/g-tekketsu/episodes/25-2.jpg)
-![Tekkadan](/images/stories/saga/g-tekketsu/episodes/25-3.jpg)
+
+
+
 
 
 

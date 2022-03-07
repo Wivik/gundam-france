@@ -6,7 +6,7 @@ Shin Crypt
 ----------
 
 
-![Shin Crypt](/images/stories/saga/sentinel/persos/shincrypt.jpg)
+
 * Age : 22
 * Rôle : Pilote de Mobile Suit
 * Origines : Terre

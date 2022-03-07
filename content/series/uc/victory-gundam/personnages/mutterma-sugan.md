@@ -6,7 +6,7 @@ Mutterma Sugan
 --------------
 
 
-![Mutterma Sugan](/images/stories/saga/vgundam/persos/mutterma-sugan.png)
+
 
 
 * Rôle : Commandant en second de la BESPA

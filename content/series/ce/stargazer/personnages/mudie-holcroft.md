@@ -5,7 +5,7 @@ title: "Mudie Holcroft"
 Mudie Holcroft
 --------------
 
-![Mudie Holcroft](/images/stories/saga/stargazer/persos/mudie.jpg)* Age : 18
+* Age : 18
 * Rôle : Pilote du Blu Duel
 * Origines : Terre
 * Voix Japonaise : Rina Satou

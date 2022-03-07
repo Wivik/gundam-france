@@ -6,7 +6,7 @@ Rainer Cziommer
 ---------------
 
 
-![Rainer Cziommer](/images/stories/saga/gundambf/persos/reiner.png)
+
 
 
 * Origine : Allemagne

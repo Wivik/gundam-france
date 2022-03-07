@@ -6,7 +6,7 @@ Ocean Cargo
 -----------
 
 
-![Ocean Cargo](/images/stories/saga/origin/mechas/ocean-cargo.png)
+
 
 
 ### Fiche Technique

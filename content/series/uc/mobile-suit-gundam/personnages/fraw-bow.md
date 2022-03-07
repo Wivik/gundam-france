@@ -9,7 +9,7 @@ Fraw Bow
 
 
 
-![Fraw Bow](/images/stories/saga/msgundam/persos/fraw-bow.png)
+
 * [Fraw Bow](javascript:change_image_m('images/stories/saga/msgundam/persos/fraw-bow.png');)
 * [Fraw Bow (UC 0079, Civil)](javascript:change_image_m('images/stories/saga/origin/persos/frau-bow-uc-0079.png');)
 * [Fraw Kobayashi (UC 0087)](javascript:change_image_m('images/stories/saga/zetagundam/persos/fraw-kobayashi.png');)

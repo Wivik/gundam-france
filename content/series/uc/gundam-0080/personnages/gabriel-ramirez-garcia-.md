@@ -6,7 +6,7 @@ Gabriel Ramirez Garcia
 ----------------------
 
 
-![ramirez](/images/stories/saga/gundam0080/persos/zeon/ramirez.jpg)Gabriel Ramirez Garcia  
+Gabriel Ramirez Garcia  
 - Age : 28  
 - Couleur de cheveux : Noir  
 - Couleur des yeux : Marron  

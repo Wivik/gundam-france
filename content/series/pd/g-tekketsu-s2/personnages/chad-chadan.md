@@ -6,7 +6,7 @@ Chad Chadan
 -----------
 
 
-![Chad Chadan](/images/stories/saga/g-tekketsu-s2/persos/chad-chadan.png)
+
 
 
 * Voix Japonaise : Haruki Ishiya

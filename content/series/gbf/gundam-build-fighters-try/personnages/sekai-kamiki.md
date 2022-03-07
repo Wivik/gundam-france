@@ -6,7 +6,7 @@ Sekai Kamiki
 ------------
 
 
-![Sekai Kamiki](/images/stories/saga/gundambftry/persos/sekai-kamiki.png)
+
 
 
 * Voix Japonaise : Kazumi Togashi

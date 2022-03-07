@@ -6,7 +6,7 @@ Classe Garuda
 -------------
 
 
-[Audomura](javascript:change_image_m('images/stories/saga/zetagundam/mechas/karaba/audomura.png');) [Garuda](javascript:change_image_m('images/stories/saga/unicorn/mechas/federation/garuda.png');)      ![Audomura](/images/stories/saga/zetagundam/mechas/karaba/audomura.png)    
+[Audomura](javascript:change_image_m('images/stories/saga/zetagundam/mechas/karaba/audomura.png');) [Garuda](javascript:change_image_m('images/stories/saga/unicorn/mechas/federation/garuda.png');)          
 
 
 ### Fiche Technique

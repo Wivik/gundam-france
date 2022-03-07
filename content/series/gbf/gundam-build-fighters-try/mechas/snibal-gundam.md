@@ -6,7 +6,7 @@ Snibal Gundam
 -------------
 
 
-![Snibal Gundam](/images/stories/saga/gundambftry/mechas/snibal-gundam.png)
+
 
 
 ### Fiche Technique

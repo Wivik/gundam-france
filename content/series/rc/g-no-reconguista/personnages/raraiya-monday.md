@@ -6,7 +6,7 @@ Raraiya Monday
 --------------
 
 
-![Lalaiya Mandy](/images/stories/saga/gnoreconguista/persos/lalaiya-mandy.png)
+
 
 
 * Véritable nom : Raraiya Akuparl

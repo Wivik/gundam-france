@@ -5,7 +5,7 @@ title: Tsubarov
 Tsubarov
 --------
 
-![tsubarov](/images/stories/saga/gundamwing/persos/tsubarov.jpg)Tsubarov
+Tsubarov
 
 
 Ingénieur en Chef de la Fondation Romefeller, Tsubarov est connu pour avoir réalisé les terrifiants Mobile Dolls. Depuis il a considéré que ses créations étaient purement invincibles, le plongeant dans une auto-satisfaction et un sentiment d'invincibilité lui-même. Il sera ensuite le dirigeant du projet Libra dans le but de construire un vaisseau spatial géant symbole de la domination de la Fondation.

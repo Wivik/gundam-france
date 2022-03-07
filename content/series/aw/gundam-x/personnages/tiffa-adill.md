@@ -5,7 +5,7 @@ title: Tiffa Adill
 Tiffa Adill
 -----------
 
-![tifa.jpg](/images/stories/saga/gundamx/images/tifa/tifa.jpg)Tiffa Adill  
+Tiffa Adill  
 - Age : 15 ans   
 - Fonctions : NewType   
 - Origines : Inconnues   

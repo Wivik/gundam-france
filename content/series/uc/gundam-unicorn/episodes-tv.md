@@ -7,7 +7,7 @@ Episodes
 
 
 
-![ucre0096.jpg](/images/mini/images-stories-saga-unicorn-_tb_x200_ucre0096.jpg)Gundam UC RE:0096 est la version remontée en série TV de l'OVA sorti presque dix ans avant.   
+Gundam UC RE:0096 est la version remontée en série TV de l'OVA sorti presque dix ans avant.   
 
 La série rajoute de nouvelles séquences et se dote de génériques d'ouverture et de fermeture inédits. Ceux-ci ont réanimé pour l'occasion une ancienne vidéo promotionnelle du roman montrant le Gundam Unicorn et le Khsatriya s'affronter. 
 
@@ -27,10 +27,6 @@ Le jour de la cérémonie marquant le passage du calendrier grégorien au Siècl
 Après presque un siècle, cette mystérieuse Boîte va faire l'objet d'une convoitise acharnée entre différents puissants groupes...
 
 
-
-![96-nenme no tabidachi](/images/mini/images-stories-saga-unicorn-episodes-_tb_x100_01-1.jpg)
-![96-nenme no tabidachi](/images/mini/images-stories-saga-unicorn-episodes-_tb_x100_01-2.jpg)
-![96-nenme no tabidachi](/images/mini/images-stories-saga-unicorn-episodes-_tb_x100_01-3.jpg)
 
 
 
@@ -54,9 +50,9 @@ Mais cet objectif est aussi partagé par les Forces Fédérales qui n'hésiteron
 
 
 
-![Saisho no Chi](/images/mini/images-stories-saga-unicorn-episodes-_tb_x100_02-1.jpg)
-![Saisho no Chi](/images/mini/images-stories-saga-unicorn-episodes-_tb_x100_02-2.jpg)
-![Saisho no Chi](/images/mini/images-stories-saga-unicorn-episodes-_tb_x100_02-3.jpg)
+
+
+
 
 
 
@@ -80,9 +76,9 @@ A l'article de la mort après avoir été blessé par la trahison de la Fondatio
 
 
 
-![Sore wa Gundam to Yobareta](/images/mini/images-stories-saga-unicorn-episodes-_tb_x100_03-1.jpg)
-![Sore wa Gundam to Yobareta](/images/mini/images-stories-saga-unicorn-episodes-_tb_x100_03-2.jpg)
-![Sore wa Gundam to Yobareta](/images/mini/images-stories-saga-unicorn-episodes-_tb_x100_03-3.jpg)
+
+
+
 
 
 
@@ -100,9 +96,9 @@ Son leader charismatique, Full Frontal, se lance personnellement au combat avec 
 
 
 
-![Full Frontal Shutsugeki](/images/mini/images-stories-saga-unicorn-episodes-_tb_x100_04-1.jpg)
-![Full Frontal Shutsugeki](/images/mini/images-stories-saga-unicorn-episodes-_tb_x100_04-2.jpg)
-![Full Frontal Shutsugeki](/images/mini/images-stories-saga-unicorn-episodes-_tb_x100_04-3.jpg)
+
+
+
 
 
 
@@ -118,9 +114,6 @@ Daguza a pris en otage Audrey, qui n'est autre que Mineva Lao Zabi, la Princesse
 
 
 
-![Gekitotsu, Akai Suisei](/images/mini/images-stories-saga-unicorn-episodes-_tb_x100_05-1.jpg)
-![Gekitotsu, Akai Suisei](/images/mini/images-stories-saga-unicorn-episodes-_tb_x100_05-2.jpg)
-![Gekitotsu, Akai Suisei](/images/mini/images-stories-saga-unicorn-episodes-_tb_x100_05-3.jpg)
 
 
 
@@ -138,9 +131,9 @@ Pendant ce temps, Londo Bell met au point une opération de récupération du je
 
 
 
-![Sono Kamen no Shita ni](/images/mini/images-stories-saga-unicorn-episodes-_tb_x100_06-1.jpg)
-![Sono Kamen no Shita ni](/images/mini/images-stories-saga-unicorn-episodes-_tb_x100_06-2.jpg)
-![Sono Kamen no Shita ni](/images/mini/images-stories-saga-unicorn-episodes-_tb_x100_06-3.jpg)
+
+
+
 
 
 
@@ -156,9 +149,9 @@ Londo Bell lance une opération conjointe avec l'ECOAS pour délivrer Banagher d
 
 
 
-![Palau Kouryaku Sen](/images/mini/images-stories-saga-unicorn-episodes-_tb_x100_07-1.jpg)
-![Palau Kouryaku Sen](/images/mini/images-stories-saga-unicorn-episodes-_tb_x100_07-2.jpg)
-![Palau Kouryaku Sen](/images/mini/images-stories-saga-unicorn-episodes-_tb_x100_07-3.jpg)
+
+
+
 
 
 
@@ -176,9 +169,6 @@ Pendant ce temps, Neo-Zeon et Londo Bell se préparent à aller aux prochaines c
 
 
 
-![Laplace, hajimari no chi](/images/mini/images-stories-saga-unicorn-episodes-_tb_x100_08-1.jpg)
-![Laplace, hajimari no chi](/images/mini/images-stories-saga-unicorn-episodes-_tb_x100_08-2.jpg)
-![Laplace, hajimari no chi](/images/mini/images-stories-saga-unicorn-episodes-_tb_x100_08-3.jpg)
 
 
 
@@ -194,9 +184,9 @@ L'Unicorn a atteint l'emplacement indiqué par le programme La+, les ruines de l
 
 
 
-![Retribution](/images/mini/images-stories-saga-unicorn-episodes-_tb_x100_09-1.jpg)
-![Retribution](/images/mini/images-stories-saga-unicorn-episodes-_tb_x100_09-2.jpg)
-![Retribution](/images/mini/images-stories-saga-unicorn-episodes-_tb_x100_09-3.jpg)
+
+
+
 
 
 
@@ -212,9 +202,9 @@ Après avoir sauvé Banagher et l'Unicorn de sa chute dans l'atmosphère terrest
 
 
 
-![Shakunetsu no Daichi kara](/images/mini/images-stories-saga-unicorn-episodes-_tb_x100_10-1.jpg)
-![Shakunetsu no Daichi kara](/images/mini/images-stories-saga-unicorn-episodes-_tb_x100_10-2.jpg)
-![Shakunetsu no Daichi kara](/images/mini/images-stories-saga-unicorn-episodes-_tb_x100_10-3.jpg)
+
+
+
 
 
 
@@ -230,9 +220,9 @@ Alors qu'ils traversent le désert à la recherche d'assistance, Banagher en app
 
 
 
-![Torrington Kōbō](/images/mini/images-stories-saga-unicorn-episodes-_tb_x100_11-1.jpg)
-![Torrington Kōbō](/images/mini/images-stories-saga-unicorn-episodes-_tb_x100_11-2.jpg)
-![Torrington Kōbō](/images/mini/images-stories-saga-unicorn-episodes-_tb_x100_11-3.jpg)
+
+
+
 
 
 
@@ -248,9 +238,9 @@ La bataille de Torrington est un véritable massacre sur fond de vendetta des re
 
 
 
-![Kojin no Sensou](/images/mini/images-stories-saga-unicorn-episodes-_tb_x100_12-1.jpg)
-![Kojin no Sensou](/images/mini/images-stories-saga-unicorn-episodes-_tb_x100_12-2.jpg)
-![Kojin no Sensou](/images/mini/images-stories-saga-unicorn-episodes-_tb_x100_12-3.jpg)
+
+
+
 
 
 
@@ -266,10 +256,6 @@ Attaqué par le [Banshee](uc/gundam-unicorn/rx-0-unicorn-gundam-02-banshee.html)
 
 
 
-![Senshi, Banagher Links](/images/mini/images-stories-saga-unicorn-episodes-_tb_x100_13-1.jpg)
-![Senshi, Banagher Links](/images/mini/images-stories-saga-unicorn-episodes-_tb_x100_13-2.jpg)
-![Senshi, Banagher Links](/images/mini/images-stories-saga-unicorn-episodes-_tb_x100_13-3.jpg)
-
 
 
 ### 14 - Shitou, ni-ki no Unicorn
@@ -284,9 +270,6 @@ Le Garencières monte une opération de sauvetage de Mineva et Marida, mais Albe
 
 
 
-![Shitou, ni-ki no Unicorn](/images/mini/images-stories-saga-unicorn-episodes-_tb_x100_14-1.jpg)
-![Shitou, ni-ki no Unicorn](/images/mini/images-stories-saga-unicorn-episodes-_tb_x100_14-2.jpg)
-![Shitou, ni-ki no Unicorn](/images/mini/images-stories-saga-unicorn-episodes-_tb_x100_14-3.jpg)
 
 
 
@@ -302,9 +285,9 @@ Retournant dans l'espace, le Garencières subit une avarie et ses moteurs ne par
 
 
 
-![Sora de Matsu mono](/images/mini/images-stories-saga-unicorn-episodes-_tb_x100_15-1.jpg)
-![Sora de Matsu mono](/images/mini/images-stories-saga-unicorn-episodes-_tb_x100_15-2.jpg)
-![Sora de Matsu mono](/images/mini/images-stories-saga-unicorn-episodes-_tb_x100_15-3.jpg)
+
+
+
 
 
 
@@ -320,9 +303,6 @@ A la suite de la destruction du Garencières qui servit de leurre pour la Fédé
 
 
 
-![Side Kyouei-ken](/images/mini/images-stories-saga-unicorn-episodes-_tb_x100_16-1.jpg)
-![Side Kyouei-ken](/images/mini/images-stories-saga-unicorn-episodes-_tb_x100_16-2.jpg)
-![Side Kyouei-ken](/images/mini/images-stories-saga-unicorn-episodes-_tb_x100_16-3.jpg)
 
 
 
@@ -338,10 +318,6 @@ Maintenant que Neo Zeon connaît les ultimes coordonnées de la Boîte, les tens
 
 
 
-![Dakkan! Nahel Argama](/images/mini/images-stories-saga-unicorn-episodes-_tb_x100_17-1.jpg)
-![Dakkan! Nahel Argama](/images/mini/images-stories-saga-unicorn-episodes-_tb_x100_17-2.jpg)
-![Dakkan! Nahel Argama](/images/mini/images-stories-saga-unicorn-episodes-_tb_x100_17-3.jpg)
-
 
 
 ### 18 - Shukumei no Tatakai
@@ -356,9 +332,9 @@ En route pour Industrial 7, le Nahel Argama se retrouve bloqué par les Manchett
 
 
 
-![Shukumei no Tatakai](/images/mini/images-stories-saga-unicorn-episodes-_tb_x100_18-1.jpg)
-![Shukumei no Tatakai](/images/mini/images-stories-saga-unicorn-episodes-_tb_x100_18-2.jpg)
-![Shukumei no Tatakai](/images/mini/images-stories-saga-unicorn-episodes-_tb_x100_18-3.jpg)
+
+
+
 
 
 
@@ -374,9 +350,9 @@ Banagher est en proie au Psycho-jammer d'Angelo et l'Unicorn se voit immobilisé
 
 
 
-![Futatabi Hikaru Uchuu](/images/mini/images-stories-saga-unicorn-episodes-_tb_x100_19-1.jpg)
-![Futatabi Hikaru Uchuu](/images/mini/images-stories-saga-unicorn-episodes-_tb_x100_19-2.jpg)
-![Futatabi Hikaru Uchuu](/images/mini/images-stories-saga-unicorn-episodes-_tb_x100_19-3.jpg)
+
+
+
 
 
 
@@ -392,9 +368,9 @@ Banagher et Mineva sont arrivés dans le Magallanica où les attendait Syam Vist
 
 
 
-![Laplace no Hako](/images/mini/images-stories-saga-unicorn-episodes-_tb_x100_20-1.jpg)
-![Laplace no Hako](/images/mini/images-stories-saga-unicorn-episodes-_tb_x100_20-2.jpg)
-![Laplace no Hako](/images/mini/images-stories-saga-unicorn-episodes-_tb_x100_20-3.jpg)
+
+
+
 
 
 
@@ -410,9 +386,9 @@ Après avoir essuyé le refus d'obtenir la Boîte Laplace, Full Frontal décide 
 
 
 
-![Kono Yono Hate e](/images/mini/images-stories-saga-unicorn-episodes-_tb_x100_21-1.jpg)
-![Kono Yono Hate e](/images/mini/images-stories-saga-unicorn-episodes-_tb_x100_21-2.jpg)
-![Kono Yono Hate e](/images/mini/images-stories-saga-unicorn-episodes-_tb_x100_21-3.jpg)
+
+
+
 
 
 
@@ -428,9 +404,9 @@ Le Colony Laser Gryps 2 a été activé et désormais tout repose entre les main
 
 
 
-![Kikan](/images/mini/images-stories-saga-unicorn-episodes-_tb_x100_22-1.jpg)
-![Kikan](/images/mini/images-stories-saga-unicorn-episodes-_tb_x100_22-2.jpg)
-![Kikan](/images/mini/images-stories-saga-unicorn-episodes-_tb_x100_22-3.jpg)
+
+
+
 
 
 

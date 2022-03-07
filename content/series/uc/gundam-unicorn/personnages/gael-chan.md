@@ -5,7 +5,7 @@ title: Gael Chan
 Gael Chan
 ---------
 
-![gael](/images/stories/saga/unicorn/persos/vist/gael.jpg)
+
 - Age : ??  
 - Rôle : Secrétaire de Cardeas
 

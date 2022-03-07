@@ -65,7 +65,7 @@ Mobile Armor principalement développé pour le combat atmosphérique, son armem
 
 
 
-![Cockpit](/images/stories/saga/vgundam/mechas/zm-a05g-cockpit.jpg)
+
 
 [Cockpit](javascript:accessoires_m('images/stories/saga/vgundam/mechas/zm-a05g-cockpit.jpg');)
 

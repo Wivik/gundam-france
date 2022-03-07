@@ -5,7 +5,7 @@ title: Shagia Frost
 Shagia Frost
 ------------
 
-![shagia](/images/stories/saga/gundamx/persos/shagia.jpg)Shagia Frost  
+Shagia Frost  
 - Age : 19 ans  
 - Fonctions : Pilote du Gundam Visargo puis Visargo Chest Break.
 

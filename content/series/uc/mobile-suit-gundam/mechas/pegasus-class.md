@@ -6,7 +6,7 @@ SCV-70 White Base (Classe Pegasus)
 ----------------------------------
 
 
-![pegasus](/images/stories/saga/msgundam/mechas/pegasus.png)
+
 
 
 - Type : vaisseau de combat classe Pegasus (White Base, Albion)   

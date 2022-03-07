@@ -5,7 +5,7 @@ title: Witz Sou
 Witz Sou
 --------
 
-![witz1.jpg](/images/mini/images-stories-saga-gundamx-images-witts-_tb_200x_witz1.jpg)Witz Sou  
+Witz Sou  
 - Age : 17 ans  
 - Couleur de cheveux : blonds  
 - Fonction : Pilote du G9800 AirMaster  

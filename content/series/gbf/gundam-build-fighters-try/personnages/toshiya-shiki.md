@@ -6,7 +6,7 @@ Toshiya Shiki
 -------------
 
 
-![Toshiya Shiki](/images/stories/saga/gundambftry/persos/toshiya-shiki.png)
+
 
 
 

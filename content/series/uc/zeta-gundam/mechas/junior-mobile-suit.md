@@ -8,7 +8,7 @@ Junior Mobile Suit
  
 
 
-![juniorms.jpg](/images/stories/saga/zetagundam/images/aeug/juniorms.jpg)
+
 
 
 Junior Mobile Suit  

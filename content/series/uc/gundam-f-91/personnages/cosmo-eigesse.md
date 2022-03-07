@@ -5,7 +5,7 @@ title: Cozmo Eigesse
 Cozmo Eigesse
 -------------
 
-![cosmo](/images/stories/saga/F91/persos/civils/cosmo.jpg)Cozmo Eigesse  
+Cozmo Eigesse  
 - Age : 58  
 - Rôle : ancien colonel de la Fédération  
 - Voix Japonaise : Takeshi Wakabe

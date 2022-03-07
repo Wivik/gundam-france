@@ -5,7 +5,7 @@ title: Diona
 Diona
 -----
 
-![diona](/images/stories/manga/crossbone/ms/diona.jpg) 
+ 
 
 
 ### Fiche Technique

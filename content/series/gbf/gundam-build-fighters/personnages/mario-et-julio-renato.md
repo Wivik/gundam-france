@@ -6,7 +6,7 @@ Mario et Julio Renato
 ---------------------
 
 
-![Mario et Julio Renato](/images/stories/saga/gundambf/persos/leneit.png)
+
 
 
 * Origine : Argentine

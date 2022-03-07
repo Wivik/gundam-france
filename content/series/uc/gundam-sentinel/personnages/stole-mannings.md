@@ -6,7 +6,7 @@ Stole Mannings
 --------------
 
 
-![Stole Mannings](/images/stories/saga/sentinel/persos/stolemannings.jpg)
+
 
 
 * Age : 36

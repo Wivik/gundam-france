@@ -58,7 +58,7 @@ L'armement de ReZEL est standard par rapport aux Mobile Suits de cette époque. 
 Malgré des performances au rendez-vous, il n'y aura que 8 Re-ZEL produits plus une version Commander.
 
 
-[Beam Rifle](javascript:accessoires_m('images/stories/saga/unicorn/mechas/accessoires/rgz-95-beamrifle.jpg');)[Mega Beam Launcher](javascript:accessoires_m('images/stories/saga/unicorn/mechas/accessoires/rgz-95-megabeamlauncher.jpg');)[Bouclier](javascript:accessoires_m('images/stories/saga/unicorn/mechas/accessoires/rgz-95-shield.jpg');)[Cockpit](javascript:accessoires_m('images/stories/saga/unicorn/mechas/accessoires/rgz-95-cockpit.jpg');)![Beam Rifle](/images/stories/saga/unicorn/mechas/accessoires/rgz-95-beamrifle.jpg) 
+[Beam Rifle](javascript:accessoires_m('images/stories/saga/unicorn/mechas/accessoires/rgz-95-beamrifle.jpg');)[Mega Beam Launcher](javascript:accessoires_m('images/stories/saga/unicorn/mechas/accessoires/rgz-95-megabeamlauncher.jpg');)[Bouclier](javascript:accessoires_m('images/stories/saga/unicorn/mechas/accessoires/rgz-95-shield.jpg');)[Cockpit](javascript:accessoires_m('images/stories/saga/unicorn/mechas/accessoires/rgz-95-cockpit.jpg');) 
 
 
 ### Histoire

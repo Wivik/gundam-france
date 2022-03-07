@@ -6,7 +6,7 @@ Wilfrid Kijima
 --------------
 
 
-![Wilfrid Kijima](/images/stories/saga/gundambftry/persos/wilfrid-kijima.png)
+
 
 
 * Fonction : Membre de l'académie Gunpla

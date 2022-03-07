@@ -6,7 +6,7 @@ Clamp
 -----
 
 
-![Clamp](/images/stories/saga/origin/persos/clamp.png)
+
 * Origines : Munzo
 
 

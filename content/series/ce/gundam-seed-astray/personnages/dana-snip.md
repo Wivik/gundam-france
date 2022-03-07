@@ -6,7 +6,7 @@ Dana Snip
 ---------
 
 
-![Dana Snip](/images/stories/manga/astray/persos/Dana-snip.jpg)
+
 
 Né en CE 51, il pilote le GAT-X207SR Nero Blitz. Avec son ailier Emilio Bloderick, il est envoyé assassiner Ergnes Brahe en CE73.
 

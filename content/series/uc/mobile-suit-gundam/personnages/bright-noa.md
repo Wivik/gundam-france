@@ -9,7 +9,7 @@ Bright Noa
 
 
 
-![Bright Noa](/images/stories/saga/msgundam/persos/bright-noa.png)
+
 * [Bright Noa](javascript:change_image_m('images/stories/saga/msgundam/persos/bright-noa.png');)
 * [Bright Noa (UC 0079)](javascript:change_image_m('images/stories/saga/msgundam/images/bright/bright.jpg');)
 * [Bright Noa (UC 0087)](javascript:change_image_m('images/stories/saga/zetagundam/persos/bright-noa.png');)

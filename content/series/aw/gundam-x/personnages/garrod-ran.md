@@ -5,7 +5,7 @@ title: Garrod Ran
 Garrod Ran
 ----------
 
-![Garrod04.jpg](/images/mini/images-stories-saga-gundamx-images-garoad-_tb_200x133_Garrod04.jpg)Garrod Ran  
+Garrod Ran  
 - Age : 15 ans  
 - Couleur de cheveux : noirs  
 - Fonction : Pilote du GX9900, GX9900dev et G Double X  

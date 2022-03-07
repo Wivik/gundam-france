@@ -6,7 +6,7 @@ Mikhaïl Kaminsky
 ----------------
 
 
-![mikhail](/images/stories/saga/gundam0080/persos/zeon/mikhail.jpg)Mikhaïl Kaminsky  
+Mikhaïl Kaminsky  
 - Age : 48 ans  
 - Couleur de cheveux : Brun  
 - Couleur des yeux : Marron  

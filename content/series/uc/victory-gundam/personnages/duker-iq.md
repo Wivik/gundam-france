@@ -6,7 +6,7 @@ Duker Iq
 --------
 
 
-![Duker Iq](/images/stories/saga/vgundam/persos/duker-iq.png)
+
 
 
 * Rôle : Capitaine du Motorad

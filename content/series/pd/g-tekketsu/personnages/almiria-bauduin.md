@@ -6,7 +6,7 @@ Almiria Bauduin
 ---------------
 
 
-![Almiria Bauduin](/images/stories/saga/g-tekketsu/persos/almiria-bauduin.png)
+
 
 
 * Origines : Terre

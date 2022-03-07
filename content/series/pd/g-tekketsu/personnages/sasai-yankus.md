@@ -6,7 +6,7 @@ Sasai Yankus
 ------------
 
 
-![Sasai Yankus](/images/stories/saga/g-tekketsu/persos/sasai-yankus.png)
+
 
 
 * Rôle : Soldat du CGS

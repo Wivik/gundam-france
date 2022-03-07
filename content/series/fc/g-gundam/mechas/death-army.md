@@ -8,7 +8,7 @@ Death Army
  
 
 
-![deatharmy.png](/images/stories/saga/ggundam/mechas/deatharmy/deatharmy.png)
+
 
 
 Fiche Technique   

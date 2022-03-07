@@ -5,7 +5,7 @@ title: "Flit Asuno (AG 140)"
 Flit Asuno (AG 140)
 -------------------
 
-![flit2](/images/stories/saga/gundamage/persos/flit_adulte.png)
+
 - Age : 40  
 - Rôle : Commandant Fédéral  
 - Origines : Colonir Orvan  

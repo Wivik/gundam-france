@@ -5,7 +5,7 @@ title: "Meena Carmine"
 Meena Carmine
 -------------
 
-![meena](/images/stories/saga/gundam00film/persos/federation/meena.jpg)
+
 - Age : ?  
 - Rôle : Assistance et petite amie de Billy Katagiri  
 - Voix Japonaise : Rie Kugimiya

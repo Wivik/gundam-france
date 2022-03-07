@@ -6,7 +6,7 @@ Sakura Pretzel
 --------------
 
 
-![Sakura Pretzel](/images/stories/saga/g-tekketsu/persos/sakura-pretzel.png)
+
 * Rôle : Fermière
 * Voix Japonaise : Reiko Suzuki
 

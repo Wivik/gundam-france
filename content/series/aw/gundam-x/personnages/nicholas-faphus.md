@@ -5,7 +5,7 @@ title: Nicholas Faphus
 Nicholas Faphus
 ---------------
 
-![nicholas](/images/stories/saga/gundamx/persos/nicholas.jpg)Nicholas Faphus
+Nicholas Faphus
 
 
 - Age : ?  

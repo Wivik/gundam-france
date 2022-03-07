@@ -6,7 +6,7 @@ Killing
 -------
 
 
-![killing](/images/stories/saga/gundam0080/persos/zeon/killing.jpg)Killing  
+Killing  
 - Age : Inconnu  
 - Couleur de cheveux : Blond  
 - Couleur des yeux : Marron  

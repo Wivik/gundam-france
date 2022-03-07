@@ -6,7 +6,7 @@ Kenshyou Matsunaga
 ------------------
 
 
-![Kenshyou Matsunaga](/images/stories/saga/gundambftry/persos/kenshyo-matsunaga.png)
+
 
 
 * Fonction : Chef de l'équipe White Wolf

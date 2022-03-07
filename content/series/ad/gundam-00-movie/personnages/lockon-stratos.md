@@ -6,7 +6,7 @@ Lockon Stratos
 --------------
 
 
-![lockon](/images/stories/saga/gundam00film/persos/celestialbeing/lockon.jpg)
+
 - Nom de code : Lockon Stratos  
 - Nom véritable : Lyle Dylandy  
 - Age : 31  

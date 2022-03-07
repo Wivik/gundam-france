@@ -6,7 +6,7 @@ Shinta et Qum
 -------------
 
 
-![Shinta et Qum](/images/stories/saga/zetagundam/persos/shinta-et-qum.png)
+
 
 
 * Fonction : Gamins turbulents

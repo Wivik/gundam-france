@@ -5,7 +5,7 @@ title: Classe Spengler
 Classe Spengler
 ---------------
 
-![spengler](/images/stories/saga/gundamseeddestiny/mechas/alliance/spengler.jpg)
+
 
 
 Classe Spengler   

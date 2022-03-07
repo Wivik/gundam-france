@@ -22,7 +22,7 @@ Deux ans après les événements d'Arbrau, Tekkadan est désormais une entrepris
 La cliente historique de Tekkadan, Kudelia Aina Bernstein, refait alors appel à leurs services pour l'escorter durant la visite d'une des mines de semi-métal régie par la société Admoss qu'elle dirige. La jeune femme est en effet de nouveau la cible d'opposants politique. Et comme ils pouvaient s'y attendre, au moment des préparatifs, la base des Tekkadans est attaquée par un groupe de pirates... 
 
 
-![Les nouvelles recrues à l'entraînement](/images/stories/saga/g-tekketsu-s2/intro-1.jpg) ![Mikazuki et Orga toujours aussi proches](/images/stories/saga/g-tekketsu-s2/intro-2.jpg) ![Le nouveau Barbatos](/images/stories/saga/g-tekketsu-s2/intro-3.jpg)
+![Les nouvelles recrues à l'entraînement](/images/stories/saga/g-tekketsu-s2/intro-1.jpg) 
 
 
 ### Aperçu

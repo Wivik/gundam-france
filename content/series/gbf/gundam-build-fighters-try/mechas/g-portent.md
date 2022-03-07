@@ -6,7 +6,7 @@ G Portent
 ---------
 
 
-![G Portent](/images/stories/saga/gundambftry/mechas/g-portent.png)
+
 
 
 ### Fiche Technique

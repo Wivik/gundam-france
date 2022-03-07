@@ -6,7 +6,7 @@ Henri Fleurs
 ------------
 
 
-![Henri Fleurs](/images/stories/saga/g-tekketsu/persos/henri-fleurs.png)
+
 
 
 * Rôle : Membre du Congrès

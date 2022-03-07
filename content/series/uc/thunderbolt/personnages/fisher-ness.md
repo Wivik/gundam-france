@@ -6,7 +6,7 @@ Fisher Ness
 -----------
 
 
-![Fisher Ness](/images/stories/saga/thunderbolt/persos/fisher-ness.png)
+
 
 
 * Origine : Zeon
@@ -26,7 +26,7 @@ Après avoir survécu à la bataille de Moore, il intégrera l'escadron de Daryl
 
 
 
-![Nouvelles jambes](/images/mini/images-stories-saga-thunderbolt-persos-_tb_x400_fisher-ness-2.png)
+
 
 
 

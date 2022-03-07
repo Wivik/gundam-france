@@ -5,7 +5,7 @@ title: "Baqto"
 Baqto
 -----
 
-![baqto](/images/stories/saga/gundamage/mechas/baqto.png) 
+ 
 ### Fiche Technique
 
 

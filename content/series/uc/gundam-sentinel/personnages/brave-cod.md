@@ -6,7 +6,7 @@ Brave Cod
 ---------
 
 
-![Brave Cod](/images/stories/saga/sentinel/persos/bravecod.jpg)
+
 
 
 * Age : 39

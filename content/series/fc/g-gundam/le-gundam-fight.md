@@ -6,7 +6,7 @@ Le Gundam Fight
 ---------------
 
 
-![gf1.jpg](/images/mini/images-stories-saga-ggundam-images-gf-_tb_x150_gf1.jpg)Instauré en FC 06, le Gundam Fight est un tournois mondial, façon Jeux Olymiques, dont les enjeux sont plus importants. Afin d'éviter les guerres de conquêtes et de prises de pouvoirs, le Gundam Fight a pour but, après un tournois éliminatoire, de déterminer qui sera le dirigeant des autres nations pour les quatre années à venir.   
+Instauré en FC 06, le Gundam Fight est un tournois mondial, façon Jeux Olymiques, dont les enjeux sont plus importants. Afin d'éviter les guerres de conquêtes et de prises de pouvoirs, le Gundam Fight a pour but, après un tournois éliminatoire, de déterminer qui sera le dirigeant des autres nations pour les quatre années à venir.   
 L'idée du Gundam Fight fut lancée par le professeur E.C Ducer. Le premier Gundam Fight eu lieu en FC 08. Je vous invite à regarder dans la Chronologie pour en connaître les différentes années et participants, et gagnants.
 
 
@@ -30,7 +30,7 @@ Le Gundam Fight est animé cependant par des règles. Tout contrevenant s'expose
  
 
 
-![gf2.jpg](/images/stories/saga/ggundam/images/gf/gf2.jpg) ![gf3.jpg](/images/stories/saga/ggundam/images/gf/gf3.jpg) ![gf4.jpg](/images/stories/saga/ggundam/images/gf/gf4.jpg)
+
 
 
  
@@ -73,7 +73,7 @@ Etant donné que chaque nation gagnante a le droit de stipuler ses propres règl
  
 
 
-![gf5.jpg](/images/stories/saga/ggundam/images/gf/gf5.jpg)
+
  
 
 

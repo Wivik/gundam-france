@@ -6,7 +6,7 @@ MS-09F/trop Dom Tropen
 ----------------------
 
 
-[Dom Tropen](javascript:change_image_m('images/stories/saga/gundam0083/images/mechas/ms-09ftrop.jpg');) [Version UC 0096](javascript:change_image_m('images/stories/saga/unicorn/mechas/zeon/domtropen.png');)      ![Dom Tropen](/images/stories/saga/gundam0083/images/mechas/ms-09ftrop.jpg)    
+[Dom Tropen](javascript:change_image_m('images/stories/saga/gundam0083/images/mechas/ms-09ftrop.jpg');) [Version UC 0096](javascript:change_image_m('images/stories/saga/unicorn/mechas/zeon/domtropen.png');)          
 
 
 ### Fiche Technique

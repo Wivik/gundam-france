@@ -5,7 +5,7 @@ title: "Marina Ismail"
 Marina Ismail
 -------------
 
-![marina](/images/stories/saga/gundam00film/persos/autres/marina.jpg)
+
 - Age : 31 ans  
 - Origines : Azadistan  
 - Rôle : Princesse d'Azadistan  

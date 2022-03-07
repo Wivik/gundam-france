@@ -6,7 +6,7 @@ Paptimus Scirocco
 -----------------
 
 
-![Paptimus Scirocco](/images/stories/saga/zetagundam/persos/paptimus-scirocco.png)
+
 
 
 * Age : 26

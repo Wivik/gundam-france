@@ -6,7 +6,7 @@ Kudal Cadel
 -----------
 
 
-![Kudal Cadel](/images/stories/saga/g-tekketsu/persos/kudal-cadel.png)
+
 
 
 * Rôle : Pilote de Mobile Suit

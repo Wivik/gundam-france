@@ -6,7 +6,7 @@ Mihiro Oiwakken
 ---------------
 
 
-![mihiro](/images/stories/saga/unicorn/persos/fed/mihiro.jpg)
+
 - Age : 22 ans
   
 - Rôle : Opératrice du Nahel Argama

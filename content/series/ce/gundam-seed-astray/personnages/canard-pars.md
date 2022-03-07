@@ -6,7 +6,7 @@ Canard Pars
 -----------
 
 
-![Canard Pars](/images/stories/manga/astray/persos/CP.jpg)
+
 
 Ce jeune Coordinateur est un as parmi les pilotes des Forces Spéciales de la Fédération Eurasienne. A partir de septembre CE71, il pilote le CAT1-X1/3 Hypérion, premier prototype de MS eurasien. D'un naturel irascible et violent, il n'hésite pas à massacrer tous ceux qui voient l'Hypérion, après leur avoir demandé s'ils connaissent Kira Yamato.
 

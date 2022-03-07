@@ -6,7 +6,7 @@ Meguta Yasu
 -----------
 
 
-![Meguta Yasu](/images/stories/saga/gundambftry/persos/meguta-yasu.png)
+
 
 
 * Fonction : Membre de l'équipe G Masters

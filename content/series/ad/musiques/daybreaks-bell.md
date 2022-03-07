@@ -6,7 +6,7 @@ Daybreak's Bell
 ---------------
 
 
-![alt](/images/stories/saga/gundam00/ost/daybreak.jpg)
+
 * Musique : Ken
 * Paroles : Hyde
 * Interpretation : L'Arc~en~ciel

@@ -6,7 +6,7 @@ Yuuma Kousaka
 -------------
 
 
-![Yuuma Kousaka](/images/stories/saga/gundambftry/persos/yuma-kousaka.png)
+
 
 
 * Voix Japonaise : Osuma Uchida

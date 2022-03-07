@@ -6,7 +6,7 @@ Amuro Ray (UC 0074)
 -------------------
 
 
-![Amuro Ray UC 0074](/images/stories/saga/origin/persos/amuro-ray-uc-0074.png)
+
 
 
 * Age : 11

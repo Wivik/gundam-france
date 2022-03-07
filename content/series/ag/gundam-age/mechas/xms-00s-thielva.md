@@ -5,7 +5,7 @@ title: "XMS-00S Thielva"
 XMS-00S Thielva
 ---------------
 
-![thielva](/images/stories/saga/gundamage/mechas/thielva.png) 
+ 
 
 
 ### Fiche Technique

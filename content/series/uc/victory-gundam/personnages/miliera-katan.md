@@ -6,7 +6,7 @@ Miliera Katan
 -------------
 
 
-![Miliera Katan](/images/stories/saga/vgundam/persos/miliera-katan.png)
+
 * Rôle : Pilote pour la Shrike Team
 * Voix Japonaise : Narumi Hidaka
 

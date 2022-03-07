@@ -9,7 +9,7 @@ Albion (Classe Pegasus)
  
 
 
-![albion.jpg](/images/stories/saga/gundam0083/images/mechas/albion.jpg)
+
 
 
 ### Fiche Technique

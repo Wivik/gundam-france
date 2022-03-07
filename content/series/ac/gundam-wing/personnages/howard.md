@@ -5,7 +5,7 @@ title: Howard
 Howard
 ------
 
-![howard](/images/stories/saga/gundamwing/persos/howard.jpg)Howard  
+Howard  
   
 Age : ??  
   

@@ -6,7 +6,7 @@ Hoover Aisla
 ------------
 
 
-![Hoover Aisla](/images/stories/saga/thunderbolt/persos/hoover-aisla.png)
+
 
 
 L'un des membres de l'équipe de snipers de Daryl Lorenz. Il pilote un Rick Dom et a une prothèse complète du bras gauche. Il a une relation avec Karla également.   

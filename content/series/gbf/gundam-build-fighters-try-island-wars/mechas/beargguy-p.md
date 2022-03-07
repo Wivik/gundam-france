@@ -7,7 +7,7 @@ Beargguy P
 
 
 
-![Beargguy P](/images/stories/saga/gundambftiw/mechas/beargguy-p.png)
+
 
 [Beargguy P](javascript:change_image_m('images/stories/saga/gundambftiw/mechas/beargguy-p.png');)
 [Vue de dos](javascript:change_image_m('images/stories/saga/gundambftiw/mechas/beargguy-p-dos.png');)

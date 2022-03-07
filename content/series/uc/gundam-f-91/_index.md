@@ -3,8 +3,8 @@ title: Mobile Suit Gundam F-91
 weight: 1300
 ---
 
-![layer dossiers](/images/stories/saga/F91/layer_dossiers.jpg)
-![index.jpg](/images/mini/images-stories-saga-F91-images-_tb_x150_index.jpg)Sorti en mars 1991 sur les écrans de cinéma japonais, trois mois après les premiers épisodes de Gundam 0083, Gundam F-91 ne connut pas le même succès. Gundam F-91 se fixait pour but de renouveler le fandom en présentant de nouveaux héros et nouveaux antagonistes, tout en conservant le concept de base de Gundam, c'est-à-dire l'affrontement entre la Fédération terrestre et les colonies spatiales, et l'utilisation des robots géants comme machines de guerre au même titre que les avions de chasse et les chars d'assaut.
+
+Sorti en mars 1991 sur les écrans de cinéma japonais, trois mois après les premiers épisodes de Gundam 0083, Gundam F-91 ne connut pas le même succès. Gundam F-91 se fixait pour but de renouveler le fandom en présentant de nouveaux héros et nouveaux antagonistes, tout en conservant le concept de base de Gundam, c'est-à-dire l'affrontement entre la Fédération terrestre et les colonies spatiales, et l'utilisation des robots géants comme machines de guerre au même titre que les avions de chasse et les chars d'assaut.
 
 
 ### Histoire
@@ -19,14 +19,14 @@ Le Crossbone Vangard attaquera par surprise la colonie Frontier 4 pour marquer s
 Durant les affrontements, Cecily se fera enlever par un pilote de Crossbone Vangard, celle-ci découvrira alors qu'elle est en fait une des héritières de la famille Ronah. De leur côté, Seabook et ses amis seront rescapés par un vaisseau de la Fédération qui transportait le Gundam F-91, un Mobile Suit développé par la mère de Seabook, ingénieur pour la Fédération.
 
 
-![img1.jpg](/images/mini/images-stories-saga-F91-_tb_x110_img1.jpg)![img2.jpg](/images/mini/images-stories-saga-F91-_tb_x110_img2.jpg)![img3.jpg](/images/mini/images-stories-saga-F91-_tb_x110_img3.jpg)
+
 ### Aperçu
 
 
 C'est sur ces bases que commence l'histoire de Gundam F-91. A l'origine, Gundam F-91 devait être une série TV d'une cinquantaine d'épisodes, hélas le projet fut avorté et au final seul un film en est ressorti. Et cela se sent dans le montage de l'histoire...
 
 
-![intro.jpg](/images/stories/saga/F91/images/intro.jpg)Un des reproches que l'on peut faire à F-91 est que son histoire manque cruellement d'originalité pour la Saga Gundam. En effet, Seabook n'est pas sans rappeler Amuro, qui se retrouve enrôlé et amené à piloter un Mobile Suit dans des conditions similaires (mis à par le fait que Seabook est forcé de le faire), et la conception du F-91 est issue des travaux de sa mère. La famille Ronah a des grands airs de famille Zabi, sans compter les autres rapprochements qu'on peut faire encore avec certains personnages.
+Un des reproches que l'on peut faire à F-91 est que son histoire manque cruellement d'originalité pour la Saga Gundam. En effet, Seabook n'est pas sans rappeler Amuro, qui se retrouve enrôlé et amené à piloter un Mobile Suit dans des conditions similaires (mis à par le fait que Seabook est forcé de le faire), et la conception du F-91 est issue des travaux de sa mère. La famille Ronah a des grands airs de famille Zabi, sans compter les autres rapprochements qu'on peut faire encore avec certains personnages.
 
 
 Côté narration, comme dit plus tôt, le fait que ce film soit une série TV avortée se ressent dans le dénouement de l'histoire. Par exemple un personnage peut être brièvement introduit, il fini par déserter une raison non exposée au spectateur, puis il disparait dans les 5 minutes qui suivent. Bref, un montage réalisé à la tronçonneuse sur l'enchainement de plans qui donnent l'impression que l'histoire a avancée de plusieurs jours juste en une séquence. Très déroutant, il faut l'avouer.

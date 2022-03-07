@@ -7,7 +7,7 @@ Abirgorbine
 
 
 
-![Abirgorbine](/images/stories/saga/gundambf/mechas/abigolbein.png)
+
 
 [Abirgorbine](javascript:change_image_m('images/stories/saga/gundambf/mechas/abigolbein.png');)
 [Vue de dos](javascript:change_image_m('images/stories/saga/gundambf/mechas/abigolbein_dos.png');)

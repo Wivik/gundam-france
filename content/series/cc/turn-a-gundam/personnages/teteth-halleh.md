@@ -6,7 +6,7 @@ Teteth Halleh
 -------------
 
 
-![Teteth Halleh](/images/stories/saga/turnagundam/persos/moonrace/teteh.jpg)
+
 * Rôle : Espion
 * Origines : Lune
 * Voix Japonaise : Yumi Touma

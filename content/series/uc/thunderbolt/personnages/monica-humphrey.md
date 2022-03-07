@@ -6,7 +6,7 @@ Monica Humphrey
 ---------------
 
 
-![Monica Humphrey](/images/stories/saga/thunderbolt/persos/monica-humphrey.png)
+
 
 
 * Fonction : Planificatrice stratégique

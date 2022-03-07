@@ -6,7 +6,7 @@ McGillis Fareed
 ---------------
 
 
-php include("data/rgrp\_persos/mcgillis-fareed.html"); ?![McGillis Fareed](/images/stories/saga/g-tekketsu-s2/persos/mcgillis-fareed.png)
+php include("data/rgrp\_persos/mcgillis-fareed.html"); ?
 
 
 * Fonction : Chef de la flotte de défense de l'orbite terrestre, dirigeant de la famille Fareed

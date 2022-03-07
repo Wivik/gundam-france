@@ -5,7 +5,7 @@ title: Kyoji Kasshu
 Kyoji Kasshu
 ------------
 
-![kyoji.jpg](/images/stories/saga/ggundam/images/persos/kyoji.jpg)Kyoji Kasshu   
+Kyoji Kasshu   
 - Age : ? ans   
 - Rôle : Scientifique   
 - Mobile Fighter : Devil Gundam.   

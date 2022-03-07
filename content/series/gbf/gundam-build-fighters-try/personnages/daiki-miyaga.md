@@ -6,7 +6,7 @@ Daiki Miyaga
 ------------
 
 
-![Daiki Miyaga](/images/stories/saga/gundambftry/persos/daiki-miyaga.png)
+
 
 
 

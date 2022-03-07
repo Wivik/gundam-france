@@ -6,7 +6,7 @@ Keiko Sano
 ----------
 
 
-![Keiko Sano](/images/stories/saga/gundambftry/persos/keiko-sano.png)
+
 
 
 

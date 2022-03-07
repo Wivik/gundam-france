@@ -6,7 +6,7 @@ Nouto Dorette
 -------------
 
 
-![Nouto Dorette](/images/stories/saga/gnoreconguista/persos/nouto-dorette.png)
+
 
 
 Chef d'une des plus grandes familles de Towasanga, général possédant sa propre flotte.

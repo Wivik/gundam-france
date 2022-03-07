@@ -7,7 +7,7 @@ Gyancelot
 
 
 
-![Gyancelot](/images/stories/saga/gundambftiw/mechas/gyancelot.png)
+
 
 [Gyancelot](javascript:change_image_m('images/stories/saga/gundambftiw/mechas/gyancelot.png');)
 [Vue de dos](javascript:change_image_m('images/stories/saga/gundambftiw/mechas/gyancelot-dos.png');)

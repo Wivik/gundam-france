@@ -6,7 +6,7 @@ Angelo Sauper
 -------------
 
 
-![angelo](/images/stories/saga/unicorn/persos/neozeon/angelo.jpg)
+
 - Age : 19 ans
   
 - Fonction : Lieutenant de Neo-Zeon

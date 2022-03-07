@@ -6,7 +6,7 @@ Warren Trace
 ------------
 
 
-![Warren Trace](/images/stories/saga/vgundam/persos/warren-trace.png)
+
 
 
 * Age : 13 ans

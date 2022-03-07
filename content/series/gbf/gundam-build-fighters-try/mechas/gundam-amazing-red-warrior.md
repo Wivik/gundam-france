@@ -6,7 +6,7 @@ Gundam Amazing Red Warrior
 --------------------------
 
 
-![Gundam Amazing Red Warrior](/images/stories/saga/gundambftry/mechas/gundam-amazing-red-warrior.png)
+
 
 
 ### Fiche Technique

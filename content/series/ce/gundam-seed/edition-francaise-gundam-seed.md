@@ -15,7 +15,7 @@ Gundam SEED est sortie en France depuis le 16 juin 2006. Retrouvez sur cette pag
 Gundam SEED demi-intégrale, volume 1/2
 
 
-![coffret1](/images/stories/saga/gundamseed/editionfr/coffret1.jpg)
+
 * Durée totale : 625 minutes environ
 * Nombre de DVD : 5 (volumes 1 à 5)
 * Langues : Français, Anglais, Japonais
@@ -51,7 +51,7 @@ Gundam SEED demi-intégrale, volume 2/2
 ### Le Pack Découverte
 
 
-![decouverte](/images/stories/saga/gundamseed/editionfr/decouverte.gif)
+
 * Nombre de DVD : 2 (volumes 1 et 2)
 * Langues : Français, Anglais, Japonais
 * Sous-titres : Français, Anglais
@@ -72,7 +72,7 @@ Gundam SEED demi-intégrale, volume 2/2
 Gundam SEED vol. 1
 
 
-![alt](/images/stories/boutique/dvd/gundamseed/dvd1.gif)
+
 * Durée : 125 min environ
 * Nombre de DVD : 1
 * Langues : FRançais, Japonais, Anglais, Allemand
@@ -93,7 +93,7 @@ Gundam SEED vol. 1
 Gundam SEED vol. 2
 
 
-![alt](/images/stories/boutique/dvd/gundamseed/dvd2.gif)
+
 * Durée : 125 min environ
 * Nombre de DVD : 1
 * Langues : FRançais, Anglais, Allemand, Japonais
@@ -111,7 +111,7 @@ Gundam SEED vol. 2
 Gundam SEED vol. 3
 
 
-![alt](/images/stories/boutique/dvd/gundamseed/dvd3.gif)
+
 * Durée : 125 min environ
 * Nombre de DVD : 1
 * Langues : Français, Anglais, Allemand, Japonais
@@ -132,7 +132,7 @@ Gundam SEED vol. 3
 Gundam SEED vol. 4
 
 
-![alt](/images/stories/boutique/dvd/gundamseed/dvd4.gif)
+
 * Durée : 125 min environ
 * Nombre de DVD : 1
 * Langues : Français, Anglais, Allemand, Japonais
@@ -153,7 +153,7 @@ Gundam SEED vol. 4
 Gundam SEED vol. 5
 
 
-![alt](/images/stories/boutique/dvd/gundamseed/dvd5.gif)
+
 * Durée : 125 min environ
 * Nombre de DVD : 1
 * Langues : Français, Anglais, Allemand, Japonais
@@ -174,7 +174,7 @@ Gundam SEED vol. 5
 Gundam SEED vol. 6
 
 
-![alt](/images/stories/boutique/dvd/gundamseed/dvd6.gif)
+
 * Durée : 125 min environ
 * Nombre de DVD : 1
 * Langues :  Français, Anglais, Allemand, Japonais
@@ -195,7 +195,7 @@ Gundam SEED vol. 6
 Gundam SEED vol. 7
 
 
-![alt](/images/stories/boutique/dvd/gundamseed/dvd7.gif)
+
 * Durée : 125 min environ
 * Nombre de DVD : 1
 * Langues : Français, Anglais, Allemand, Japonais
@@ -216,7 +216,7 @@ Gundam SEED vol. 7
 Gundam SEED vol. 8
 
 
-![alt](/images/stories/boutique/dvd/gundamseed/dvd8.gif)
+
 * Durée : 125 min environ
 * Nombre de DVD : 1
 * Langues : Français, Anglais, Japonais, Allemand
@@ -237,7 +237,7 @@ Gundam SEED vol. 8
 Gundam SEED vol. 9
 
 
-![alt](/images/stories/boutique/dvd/gundamseed/dvd9.gif)
+
 * Durée : 125 min environ
 * Nombre de DVD : 1
 * Langues : Français, Anglais, Allemand, Japonais
@@ -258,7 +258,7 @@ Gundam SEED vol. 9
 Gundam SEED vol. 10
 
 
-![alt](/images/stories/boutique/dvd/gundamseed/dvd10.gif)
+
 * Durée : 125 min environ
 * Nombre de DVD : 1
 * Langues : Français, Anglais, Japonais, Allemand

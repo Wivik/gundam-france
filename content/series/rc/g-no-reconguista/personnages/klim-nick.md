@@ -6,7 +6,7 @@ Klim Nick
 ---------
 
 
-![Beruri Zenamu](/images/stories/saga/gnoreconguista/persos/krim-nick.png)
+
 
 
 * Voix Japonaise : Ryota Ohsaka

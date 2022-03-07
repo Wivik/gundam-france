@@ -6,7 +6,7 @@ Fonse Kagatie
 -------------
 
 
-![Fonse Kagatie](/images/stories/saga/vgundam/persos/fonse-kagatie.png)
+
 
 
 * Age : 65 ans

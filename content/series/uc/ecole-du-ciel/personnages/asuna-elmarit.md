@@ -5,7 +5,7 @@ title: Asuna Elmarit
 Asuna Elmarit
 -------------
 
-![asuna](/images/stories/manga/ecoleduciel/persos/asuna.jpg)Asuna Elmarit
+Asuna Elmarit
 
 
 - Origines : Side-3  

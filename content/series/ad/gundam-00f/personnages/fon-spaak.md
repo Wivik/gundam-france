@@ -5,7 +5,7 @@ title: "Fon Spaak"
 Fon Spaak
 ---------
 
-![fonspaak](/images/stories/manga/gundam00f/persos/fonspaak.jpg)
+
 - Nom de code : Fon Spaak  
 - Nom véritable : Robert Stad Jr  
 - Âge : 18 ans  né en 2289 A.D.  

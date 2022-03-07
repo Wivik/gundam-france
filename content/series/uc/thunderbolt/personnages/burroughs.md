@@ -6,7 +6,7 @@ Burroughs
 ---------
 
 
-![Burroughs](/images/stories/saga/thunderbolt/persos/burroughs.png)
+
 
 
 * Voix Japonaise : Mutsumi Sasaki

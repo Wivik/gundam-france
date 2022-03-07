@@ -5,7 +5,7 @@ title: "Ian Vashti"
 Ian Vashti
 ----------
 
-![Ian Vashti en AD 2292](/images/stories/manga/gundam00f/persos/ian.jpg)
+
 - Rôle : Ingénieur en chef de Celestial Being  
 - Âge : 52 ans  né en 2255 A.D.
 

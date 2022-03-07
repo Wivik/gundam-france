@@ -5,7 +5,7 @@ title: Gilboa Sant
 Gilboa Sant
 -----------
 
-![gilboa](/images/stories/saga/unicorn/persos/neozeon/gilboa.jpg)
+
 - Age : 30 ans
 
 

@@ -13,8 +13,8 @@ Gundam Build Fighters est éditée au Japon sous la forme de box Blu-ray et DVD 
 
 
 
-![Volume 1](/images/stories/saga/gundambf/dvd/br1.jpg)
-![Volume 2](/images/stories/saga/gundambf/dvd/br2.jpg)
+
+
 
 
 
@@ -26,15 +26,15 @@ Gundam Build Fighters est éditée au Japon sous la forme de box Blu-ray et DVD 
 
 
 
-![Volume 1](/images/stories/saga/gundambf/dvd/dvd1.jpg)
-![Volume 2](/images/stories/saga/gundambf/dvd/dvd2.jpg)
-![Volume 3](/images/stories/saga/gundambf/dvd/dvd3.jpg)
-![Volume 4](/images/stories/saga/gundambf/dvd/dvd4.jpg)
-![Volume 5](/images/stories/saga/gundambf/dvd/dvd5.jpg)
-![Volume 6](/images/stories/saga/gundambf/dvd/dvd6.jpg)
-![Volume 7](/images/stories/saga/gundambf/dvd/dvd7.jpg)
-![Volume 8](/images/stories/saga/gundambf/dvd/dvd8.jpg)
-![Volume 9](/images/stories/saga/gundambf/dvd/dvd9.jpg)
+
+
+
+
+
+
+
+
+
 
 
 

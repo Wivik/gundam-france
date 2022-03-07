@@ -6,7 +6,7 @@ Tatsuzo
 -------
 
 
-![Tatsuzo](/images/stories/saga/gundambf/persos/tatsuzo.png)
+
 
 
 * Fonction : Ex builder

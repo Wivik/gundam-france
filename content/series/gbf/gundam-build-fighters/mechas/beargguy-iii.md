@@ -7,7 +7,7 @@ Bearguy III
 
 
 
-![Bearguy III](/images/stories/saga/gundambf/mechas/beacguy_3.png)
+
 
 [Bearguy III](javascript:change_image_m('images/stories/saga/gundambf/mechas/beacguy_3.png');)
 [Vue de dos](javascript:change_image_m('images/stories/saga/gundambf/mechas/beacguy_3_dos.png');)

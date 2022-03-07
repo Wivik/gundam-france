@@ -6,7 +6,7 @@ Donovan Matgloss
 ----------------
 
 
-![Donovan Matglos](/images/stories/saga/origin/persos/donovan-matglos.png)
+
 
 
 * Origines : Munzo

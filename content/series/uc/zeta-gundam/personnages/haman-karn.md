@@ -6,7 +6,7 @@ Haman Karn
 ----------
 
 
-![Haman Karn](/images/stories/saga/zetagundam/persos/haman-karn.png)
+
 
 
 * Age : 20

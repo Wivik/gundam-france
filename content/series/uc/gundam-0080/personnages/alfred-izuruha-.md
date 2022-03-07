@@ -6,7 +6,7 @@ Alfred Izuruha
 --------------
 
 
-![Al1.jpg](/images/stories/saga/gundam0080/images/persos/Al1.jpg)Alfred Izuruha   
+Alfred Izuruha   
 - Age : 11  
 - Rôle : écolier  
 - Né en 0068 sur Libot (Side-6, Bloc 35)  

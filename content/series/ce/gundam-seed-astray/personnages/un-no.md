@@ -6,7 +6,7 @@ Un No
 -----
 
 
-![Un No](/images/stories/manga/astray/persos/pp_other1.gif)
+
 
 Pilote d'un GINN personnalisé avec des épées de type katana, Un No était le maître en kenjutsu de Lowe Guele, et le créateur de la Gerbera Straight.
 

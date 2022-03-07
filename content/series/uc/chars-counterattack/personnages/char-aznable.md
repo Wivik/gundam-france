@@ -6,7 +6,7 @@ Char Aznable
 ------------
 
 
-![char.jpg](/images/stories/saga/charcontreattaque/persos/char.jpg)
+
 
 
 - Age : 33 ans  

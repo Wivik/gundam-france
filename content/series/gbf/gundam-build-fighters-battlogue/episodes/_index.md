@@ -16,9 +16,9 @@ Meijin Kawaguchi III et Allan Adams visitent le centre de recherches Yajima. Ils
 
 
 
-![AI Battlogue](/images/stories/saga/gundambfblg/episodes/01-1.jpg)
-![AI Battlogue](/images/stories/saga/gundambfblg/episodes/01-2.jpg)
-![AI Battlogue](/images/stories/saga/gundambfblg/episodes/01-3.jpg)
+
+
+
 
 
 
@@ -50,9 +50,9 @@ Super Fumina et Hyper Gyanko sont à la recherche du maléfique Miyaga. En chemi
 
 
 
-![Fumina to Gyanko no Daibōken](/images/stories/saga/gundambfblg/episodes/03-1.jpg)
-![Fumina to Gyanko no Daibōken](/images/stories/saga/gundambfblg/episodes/03-2.jpg)
-![Fumina to Gyanko no Daibōken](/images/stories/saga/gundambfblg/episodes/03-3.jpg)
+
+
+
 
 
 
@@ -67,9 +67,9 @@ La fratrie Renato se retrouve dans une mission où l'adversaire est de taille...
 
 
 
-![Oretachi no Sensou](/images/stories/saga/gundambfblg/episodes/04-1.jpg)
-![Oretachi no Sensou](/images/stories/saga/gundambfblg/episodes/04-2.jpg)
-![Oretachi no Sensou](/images/stories/saga/gundambfblg/episodes/04-3.jpg)
+
+
+
 
 
 

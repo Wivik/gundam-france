@@ -7,7 +7,7 @@ After Colony
 ------------
 
 
-![ac](/images/mini/ac-_tb_400x_univers.jpg)Le Wing Gundam Zero, l'un des mechas emblématiques de l'univers.
+Le Wing Gundam Zero, l'un des mechas emblématiques de l'univers.
 
 
 L'After Colony est le second univers alternatif autonome de la licence Gundam. Créé en 1995 avec la série Gundam Wing, il se sera vu complété par une OVA l'année suivante, elle-même remontée sous forme de film cinéma peu de temps après. Cet univers est celui qui aura fait découvrir les principes de Gundam aux autres pays que le Japon car il s'agira de la première série à avoir été exportée aux USA et en Europe. En effet, là où son aînée G Gundam a tranché net avec les préceptes de la Saga, Gundam WIng reprend les fondamentaux et propose une histoire indépendante accessible à tous.

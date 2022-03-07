@@ -6,7 +6,7 @@ Jacop
 -----
 
 
-![Jacop](/images/stories/saga/turnagundam/persos/moonrace/jacop.jpg)
+
 * Rôle : Pilote de Mobile Suit
 * Origines : Lune
 * Voix Japonaise : Hidenari Ugaki

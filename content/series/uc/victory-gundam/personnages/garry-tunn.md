@@ -6,7 +6,7 @@ Garry Tunn
 ----------
 
 
-![Garry Tunn](/images/stories/saga/vgundam/persos/garry-tunn.png)
+
 * Age : 30 ans
 * Rôle : Pilote de Mobile Suit
 * Origines : Zanscare

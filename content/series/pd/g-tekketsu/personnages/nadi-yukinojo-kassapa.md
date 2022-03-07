@@ -6,7 +6,7 @@ Nadi Yukinojo Kassapa
 ---------------------
 
 
-![Nadi Yukinojo Kassapa](/images/stories/saga/g-tekketsu/persos/nadi-yukinojo-kassapa.png)
+
 
 
 * Rôle : Mécanicien au CGS

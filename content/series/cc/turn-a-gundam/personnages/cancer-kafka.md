@@ -6,7 +6,7 @@ Cancer Kafka
 ------------
 
 
-![Cancer Kafka](/images/stories/saga/turnagundam/persos/redteam/cancer.jpg)
+
 * Rôle : Membre de la Red Team
 * Origines : Terre
 * Voix Japonaise : Urara Takano

@@ -6,7 +6,7 @@ Garma Zabi
 ----------
 
 
-![Garma Zabi](/images/stories/saga/origin/persos/garma-zabi-uc-0074.png)
+
 
 
 * Rôle : Cadet de l'académie militaire de Zeon

@@ -5,7 +5,7 @@ title: "BMS-003 Shaldoll Rogue"
 BMS-003 Shaldoll Rogue
 ----------------------
 
-![shaldollrogue](/images/stories/saga/gundamage/mechas/shaldollrogue.png) 
+ 
 
 
 ### Fiche Technique

@@ -6,7 +6,7 @@ Goud Veia
 ---------
 
 
-![Goud Veia](/images/stories/manga/astray/persos/Goud_Veia.png)
+
 
 Ce Coordinateur est un des premiers grands as de ZAFT, le premier à porter l'uniforme rouge. Durant la Guerre de Onze Mois, ses incroyables talents permettent à ZAFT de renverser le cours de nombre de batailles face aux forces plus nombreuses de l'OMNI Enforcers. Surnommé le "Héros de ZAFT", il fait de son GINN rouge la terreur des flottes adverses.
 

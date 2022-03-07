@@ -8,7 +8,7 @@ AMX-109 Kapool
  
 
 
-![kapool](/images/stories/saga/turnagundam/ms/terriens/kapool.png)
+
 
 
 AMX-109 Kapool  

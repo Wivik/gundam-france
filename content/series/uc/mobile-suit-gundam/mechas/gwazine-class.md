@@ -6,7 +6,7 @@ Classe Gwazine
 --------------
 
 
-![gwazine](/images/stories/saga/msgundam/mechas/gwazine.png)
+
 
 
 ### Fiche Technique

@@ -6,7 +6,7 @@ Matias Adukurf
 --------------
 
 
-![Matias Adukurf](/images/stories/manga/astray/persos/Matias.jpg)
+
 
 Riche et mystérieux industriel Naturel aux manières efféminées, il clame n'avoir aucune emprise sur l'Histoire et engage le photojournaliste Jess Rabble pour qu'il fixe un témoignage du déroulement des événements dont ils sont contemporains.
 

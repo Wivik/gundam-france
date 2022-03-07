@@ -6,7 +6,7 @@ Takaki Uno
 ----------
 
 
-![Takaki Uno](/images/stories/saga/g-tekketsu-s2/persos/takaki-uno.png)
+
 
 
 * Origine : Mars

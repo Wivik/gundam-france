@@ -46,7 +46,7 @@ Le Zaku Marine a été développé dans le cadre de la conquête terrestre par l
 L'armement principal du Zaku Marine est un lance roquettes spécifiquement développé pour le combat marin.
 
 
-[SUBROC](javascript:accessoires_m('images/stories/saga/zetagundam/mechas/accessoires/ms-06m-subrocgun.jpg');)![SUBROC](/images/stories/saga/zetagundam/mechas/accessoires/ms-06m-subrocgun.jpg) 
+[SUBROC](javascript:accessoires_m('images/stories/saga/zetagundam/mechas/accessoires/ms-06m-subrocgun.jpg');) 
 
 
 ### Histoire

@@ -5,7 +5,7 @@ title: "Ewark Bria"
 Ewark Bria
 ----------
 
-![ewark](/images/stories/saga/gundamage/persos/iwark.png)
+
 - Age : 38  
 - Rôle : Habitant de Fardain  
 - Voix japonaise : Kenji Nomura

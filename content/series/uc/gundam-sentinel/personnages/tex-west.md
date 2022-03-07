@@ -6,7 +6,7 @@ Tex West
 --------
 
 
-![Tex West](/images/stories/saga/sentinel/persos/texwest.jpg)
+
 * Age : 25
 * Rôle : Pilote de Mobile Suit
 * Origines : Terre

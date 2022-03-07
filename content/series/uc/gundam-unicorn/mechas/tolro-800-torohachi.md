@@ -8,7 +8,7 @@ TOLRO-800 Torohachi
  
 
 
-![torohachi](/images/stories/saga/unicorn/mechas/civils/torohachi.png)
+
 
 
 TOLRO-800 Torohachi

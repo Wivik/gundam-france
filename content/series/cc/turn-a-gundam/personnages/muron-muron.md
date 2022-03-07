@@ -6,7 +6,7 @@ Muron Muron
 -----------
 
 
-![Muron Muron](/images/stories/saga/turnagundam/persos/redteam/muron.jpg)
+
 * Rôle : Membre de la Red Team
 * Origines : Terre
 * Voix Japonaise : Fumihiko Tachiki

@@ -6,7 +6,7 @@ Otis Arkins
 -----------
 
 
-![Otis Arkins](/images/stories/saga/vgundam/persos/otis-arkins.png)
+
 * Age : 75 ans
 * Rôle : Ingénieur
 

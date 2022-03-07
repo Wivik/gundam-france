@@ -6,7 +6,7 @@ Dozle Zabi
 ----------
 
 
-![Dozzle Zabi](/images/stories/saga/origin/persos/dozzle-zabi.png)
+
 
 
 * Rôle : Chef de la Défense de Munzo

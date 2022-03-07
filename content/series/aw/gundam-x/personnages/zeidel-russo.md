@@ -5,7 +5,7 @@ title: Zeidel Russo
 Zeidel Russo
 ------------
 
-![zeidel](/images/stories/saga/gundamx/persos/zeidel.jpg)Zeidel Russo
+Zeidel Russo
 
 
 - Age : 55 ans  

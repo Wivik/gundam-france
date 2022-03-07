@@ -10,7 +10,6 @@ title: "06 - Kyouteki, Dellensen !"
 * 30 octobre 2014 (Japon / France)
 
 
-![](/images/stories/saga/gnoreconguista/episodes/06-1.jpg) ![](/images/stories/saga/gnoreconguista/episodes/06-2.jpg) ![](/images/stories/saga/gnoreconguista/episodes/06-3.jpg)
 
 
 Le Megafauna a atteint sa destination dans l'orbite terrestre et se prépare à être attaqué par la Capital Army. Pendant ce temps-là, Bellri et Noredo planifient leur plan d'évasion. Bellri attend d'avoir pu compter le nombre de vaisseaux d'Améria avant de partir. Aida arrive et leur demande s'ils auraient l'intention de s'enfuir, mais Bellri répond qu'il se met en attente si jamais Happa leur demande d'aller au combat. Sur Terre, Wilmit Zenam constate encore avec effroi que la Capital Army se renforce de plus en plus sur son armement. Sur l'Under Nut, Dellensen est arrivé avec son Elf Bull en vue de participer à la prochaine opération d'attaque contre Améria. Celui-ci a pour objectif de délivrer son élève Bellri Zenam des pirates. A leur arrivée dans leur base d'opération, ils sont reçus par une communication de Wilmit qui se plaint qu'ils ont transformé l'Under Nut en base militaire. Becker lui fait remarquer cependant qu'Améria a des années d'expérience au combat à cause de leur guerre contre Gondwan. La communication est ensuite interrompu avec l'arrivée de Mainstrom dans le bureau de Zenam qui coupe alors le son et les deux personnes se disputent alors en silence.   

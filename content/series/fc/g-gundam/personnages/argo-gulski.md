@@ -5,7 +5,7 @@ title: Argo Gulski
 Argo Gulski
 -----------
 
-![argogulskii_1.jpg](/images/stories/saga/ggundam/images/persos/argogulskii_1.jpg)Argo Gulskii   
+Argo Gulskii   
 - Age : 26 ans   
 - Rôle : Réprésentant de Neo-Russia   
 - Mobile Fighter : Bolt Gundam   

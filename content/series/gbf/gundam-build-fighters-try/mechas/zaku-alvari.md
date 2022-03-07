@@ -6,7 +6,7 @@ Zaku Avaldi
 -----------
 
 
-![Zaku Alvari](/images/stories/saga/gundambftry/mechas/zaku-alvari.png)
+
 
 
 ### Fiche Technique

@@ -5,7 +5,7 @@ title: "Classe Darwin"
 Classe Darwin
 -------------
 
-![darwin](/images/stories/saga/gundamage/mechas/darwin.png) 
+ 
 
 
 ### Fiche Technique

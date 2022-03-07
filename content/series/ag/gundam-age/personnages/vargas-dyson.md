@@ -5,7 +5,7 @@ title: "Vargas Dyson"
 Vargas Dyson
 ------------
 
-![vargas](/images/stories/saga/gundamage/persos/vargas.png)
+
 - Age : 55 ans  
 - Rôle : Chef mécanicien  
 - Voix japonaise : Naoki Bandou

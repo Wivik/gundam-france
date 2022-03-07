@@ -5,7 +5,7 @@ title: Garbera
 Garbera
 -------
 
-![garbera](/images/stories/saga/gundamx/mechas/garbera.png)
+
 
 
 Garbera

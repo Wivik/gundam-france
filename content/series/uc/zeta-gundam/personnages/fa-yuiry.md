@@ -6,7 +6,7 @@ Fa Yuiry
 --------
 
 
-![Fa Yuiry](/images/stories/saga/zetagundam/persos/fa-yuiry.png)
+
 
 
 * Age : 17

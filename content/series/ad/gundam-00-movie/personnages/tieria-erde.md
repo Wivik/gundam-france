@@ -5,7 +5,7 @@ title: "Tieria Erde"
 Tieria Erde
 -----------
 
-![tieria](/images/stories/saga/gundam00film/persos/celestialbeing/tieria.jpg)
+
 - Nom de code : Tieria Erde  
 - Nom véritable : ?  
 - Age : ?  

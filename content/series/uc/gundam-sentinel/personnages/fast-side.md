@@ -6,7 +6,7 @@ Fast Side
 ---------
 
 
-![Fast Side](/images/stories/saga/sentinel/persos/fastside.jpg)
+
 * Age : 28
 * Rôle : Pilote de Mobile Suits
 * Voix Japonaise : Tomokazu Seki (jeux SD Gundam G Generation)

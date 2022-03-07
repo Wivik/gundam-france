@@ -6,7 +6,7 @@ Haruto Satou
 ------------
 
 
-![Haruto Satou](/images/stories/saga/gundambftry/persos/haruto-satou.png)
+
 
 
 

@@ -5,7 +5,7 @@ title: Umon Salmon
 Umon Salmon
 -----------
 
-![umon](/images/stories/manga/crossbone/persos/umon.jpg)
+
 - Age : ??  
 - Rôle : Pilote du Crossbone Vanguard
 

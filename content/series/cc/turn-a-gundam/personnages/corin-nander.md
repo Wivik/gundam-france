@@ -6,7 +6,7 @@ Corin Nander
 ------------
 
 
-![Corin Nander](/images/stories/saga/turnagundam/persos/moonrace/coren.jpg)
+
 * Rôle : Pilote de Mobile Suit
 * Origines : Lune
 * Voix Japonaise : Yasuhiko Kawazu

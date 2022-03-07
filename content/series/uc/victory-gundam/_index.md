@@ -7,7 +7,7 @@ Mobile Suit Victory Gundam
 --------------------------
 
 
-![index.jpg](/images/stories/saga/vgundam/images/index.jpg)
+
 
 
 Mobile Suit V Gundam est la dernière série TV originale à utiliser l'Universal Century comme contexte scénaristique. 6 ans après ZZ Gundam, V Gundam se passe exactement 60 ans après le dernier conflit Fédération contre Neo-Zeon qui eu lieu en 0093 (film Char's Counterattack). Comme il l'avait fait pour F-91, Yoshiyuki Tomino souhaitait voir plus loin l'UC. F91 racontait le conflit entre la Fédération et Crossbone Vanguard, V Gundam nous raconte une guerre 30 ans après qui est celle entre la Fédération et l'Empire de Zanscare. Néanmoins, comme le pouvoir de la Fédération s'affaiblit de plus en plus, c'est la Ligue Militaire qui prend les armes face à l'envahisseur. 
@@ -24,11 +24,11 @@ UC 0153. Le pouvoir de la Fédération Terrestre devient de plus en plus faible.
 Devant la nonchalance de la Fédération à réagir, des groupes de résistants composés de vétérans de l'armée, ou même de simples civils formeront un mouvement de résistance : la Ligue Militaire, groupe qui luttera contre l'invasion des Yellow Jacket. Dans une contrée perdue d'Europe située entre l'Allemagne et la République Tchèque, un jeune garçon, Üso Ewin et son amie Shahkti Kareen vivaient une paisible existence quand un camion de la Ligue Militaire traversa leur pays, transportant le prototype d'une nouvelle arme destinée à repousser l'invasion de Zanscare : le V Gundam... Les combats qui se dérouleront en ces lieux détruiront la vie des deux enfants, et Üso se verra par un grand hasard devenir le pilote du prototype V Gundam... Le jeune garçon devra vivre de cruels moments et penser à retrouver ses parents, dont il sait qu'ils sont des membres actifs de la Fédération Terrestre...
 
 
-![img1](/images/mini/images-stories-saga-vgundam-_tb_x150_img1.jpg)![img2](/images/mini/images-stories-saga-vgundam-_tb_200x150_img2.jpg)![img3](/images/mini/images-stories-saga-vgundam-_tb_200x150_img3.jpg)
+
 ### Aperçu
 
 
-![intro.jpg](/images/stories/saga/vgundam/images/intro.jpg)V Gundam est une série qui est hélas très longue à démarrer. En effet, les premiers épisodes sont très déroutants, nous commençons en plein dans une baston pour ensuite vivre un flashback sur 2 ou 3 épisodes. D'après certaines sources, cette narration en mode "2, 1, 3" est causée par le fait que le quatrième épisode de la série a été posé comme premier pour montrer le Gundam dès le début de la série (seul le Core Fighter apparaît durant le flashback). En effet, nous sommes à l'époque où Sunrise a rejoint le groupe Bandai et l'entreprise misait beaucoup sur la vente de produits dérivés.
+V Gundam est une série qui est hélas très longue à démarrer. En effet, les premiers épisodes sont très déroutants, nous commençons en plein dans une baston pour ensuite vivre un flashback sur 2 ou 3 épisodes. D'après certaines sources, cette narration en mode "2, 1, 3" est causée par le fait que le quatrième épisode de la série a été posé comme premier pour montrer le Gundam dès le début de la série (seul le Core Fighter apparaît durant le flashback). En effet, nous sommes à l'époque où Sunrise a rejoint le groupe Bandai et l'entreprise misait beaucoup sur la vente de produits dérivés.
 
 
 A cause de ces choix mercantiles il en résultat un début assez difficile à suivre. De plus l'histoire ne commence à avancer qu'à partir des épisodes 6 ou 7 avec entre autre l'apparition de la Shrike Team. Au tout début, le spectateur est plongé au coeur de l'action et n'a quasi aucun répit. Après l'arrivée de ces nouveaux personnages, nous commencerons à voir ce qui fait l'une des grandes forces de cette série, un scénario sombre et très tragique. Le fait que le héros soit très jeune permet de faire passer des émotions très fortes vis à vis des scènes. De plus, la série bénéficie d'une ambiance musicale tout aussi sombre. Le scénario quant à lui est très bien ficelé, son histoire est complexe, l'intrigue devient de plus en plus prenante, et la série se laisse suivre sans soucis. Par contre, la réalisation est très loin d'être le point fort de cette série hélas... L'animation est vieillotte, elle fait plus penser à une série des années 80 qu'une série de début 90... C'est assez regrettable, mais ça a son charme. On remarquera tout de même que sa remasterisation aidera à faire passer ses quelques défauts visuels. 
@@ -43,7 +43,7 @@ Le mecha design de V Gundam est assez déroutant également. Evidemment, la sér
 Passons maintenant à l'ambiance de sa série. C'est sombre, très sombre, comme Zeta Gundam le fit à son époque. Il s'agit d'une série signée par la personnalité "Tuez les tous" de Yoshiyuki Tomino et celle-ci provoquera une grande hécatombe dans ses personnages. Le tout vu des yeux d'un très jeune protagoniste renforce la mélancolie et horreur ambiante d'une guerre de génocide. D'après différentes interviews, le réalisateur fut en conflit avec Sunrise pour la conception de la série et il fut également victime d'une dépression. Cette ambiance est renforcée par la musique qui elle même n'est pas très gaie et accentue des scènes parfois très fortes en émotion. Cependant, l'ambiance musicale est relativement peu présente. Contrairement à d'autres séries Gundam où celle-ci se fait entendre, dans V Gundam les musiques semblent passer timidement, sans vraiment marquer. 
 
 
-![banniere](/images/stories/saga/vgundam/banniere.jpg)
+
 ### Conclusion
 
 

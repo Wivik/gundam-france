@@ -5,7 +5,7 @@ title: Lunamaria Hawke
 Lunamaria Hawke
 ---------------
 
-![lunamria](/images/stories/saga/gundamseeddestiny/persos/zaft/lunamria.jpg)Lunamaria Hawke  
+Lunamaria Hawke  
   
 - Age : 17 (née le 26 juillet CE 56)  
 - Rôle : Pilote de MS  

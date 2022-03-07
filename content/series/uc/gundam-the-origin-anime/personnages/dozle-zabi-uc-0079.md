@@ -6,7 +6,7 @@ Dozle Zabi (UC 0079)
 --------------------
 
 
-![Dozle Zabi Uc 0079](/images/stories/saga/origin/persos/dozle-zabi-uc-0079.png)
+
 
 
 * Fonction : Colonel de l'armée de défense de Zeon

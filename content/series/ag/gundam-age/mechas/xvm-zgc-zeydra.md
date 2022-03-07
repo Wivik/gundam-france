@@ -5,7 +5,7 @@ title: "XVM-ZGC Zeydra"
 XVM-ZGC Zeydra
 --------------
 
-![zeydra](/images/stories/saga/gundamage/mechas/zeydra.png) 
+ 
 
 
 ### Fiche Technique

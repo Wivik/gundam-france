@@ -3,10 +3,10 @@ title: 'Mobile Suit Gundam 0083 : Stardust Memory'
 weight: 1210
 ---
 
-![layer dossiers](/images/stories/saga/gundam0083/layer_dossiers.jpg)
 
 
-![index.jpg](/images/stories/saga/gundam0083/images/index.jpg)
+
+
 
 
 Sortie en 1991, cette courte OVA se passe entre [Mobile Suit Gundam](uc/mobile-suit-gundam/mobile-suit-gundam.html) et Zeta Gundam. Elle est reconnu parmi les différentes communautés de Gundam comme étant une des meilleures productions faites. Il est indéniable que cette OVA propose un scénario bien ficelé et une réalisation très soignée pour l'époque. En 1992, les 13 épisodes de Stardust Memory seront compilés en un film, Le Crépuscule de Zeon. Gundam 0083 comble une très grosse lacune qui jusqu'alors était présente dans l'UC, le trou de 7 ans entre Zeta et MS Gundam. 0083 raconte habillement les motivations qui ont par la suite poussé la Fédération à mettre en place le corps des Titans.
@@ -33,14 +33,14 @@ Ailleurs, on retrouve Gato qui se prépare à infiltrer la base de la Fédérati
 Désormais, l'Albion est chargé de ramener le GP02 mort ou vif, mission durant laquelle son équipage découvrira également l'effroyable nature de l'Opération Stardust...
 
 
-![L'Albion arrivant à Torrington](/images/mini/images-stories-saga-gundam0083-_tb_x120_img1.jpg) ![Découverte des nouveaux modèles](/images/mini/images-stories-saga-gundam0083-_tb_x120_img2.jpg) ![Le GP-02A est passé à l'ennemi !](/images/mini/images-stories-saga-gundam0083-_tb_x120_img3.jpg)
+![L'Albion arrivant à Torrington](/images/mini/images-stories-saga-gundam0083-_tb_x120_img1.jpg) 
 ### Aperçu
 
 
 Dès son premier épisode, Gundam 0083 nous balance dans une histoire pleine de suspense et d'action. Grâce à sa très bonne réalisation, les combats deviennent prenants, et les actions sont par moments impressionnantes. Animer un monstre comme le GP02A Physalis, ou encore le GP03 Dendrobium Orchis, avec une telle aisance a du relever du défi pour l'équipe technique !
 
 
-![intro.jpg](/images/stories/saga/gundam0083/images/intro.jpg)L'OVA reprend le concept instauré dans Zeta Gundam du vol de Gundam, par la suite repris maintes fois. Mais une des premières originalités du scénario de Gundam 0083 est que son héros n'est pas un adolescent tombant par hasard dans les méandres de la guerre et sachant piloter les MS instinctivement. Ici, nous avons des personnages principaux tous militaires déjà engagés. Nous voyons également que l'OVA poursuit l'idée d'humaniser les soldats de Zeon, jusqu'alors plus bêtes et méchants, voire caricaturaux. On découvre qu'ils sont humains et ont des idéaux dans lesquels ils croient, comme tout le monde. Le scénario de Gundam 0083 permet ainsi de concrétiser d'une manière plus adaptée l'idée originale de la série Mobile Suit Gundam de 1979 qui était de présenter des camps opposés qui ne savent pas s'entendre. Mais la série d'origine était encore bridée par son ambiance légèrement manichéenne dont Gundam 0083 a su s'affranchir en présentant des personnages développés dans chaque camp. 
+L'OVA reprend le concept instauré dans Zeta Gundam du vol de Gundam, par la suite repris maintes fois. Mais une des premières originalités du scénario de Gundam 0083 est que son héros n'est pas un adolescent tombant par hasard dans les méandres de la guerre et sachant piloter les MS instinctivement. Ici, nous avons des personnages principaux tous militaires déjà engagés. Nous voyons également que l'OVA poursuit l'idée d'humaniser les soldats de Zeon, jusqu'alors plus bêtes et méchants, voire caricaturaux. On découvre qu'ils sont humains et ont des idéaux dans lesquels ils croient, comme tout le monde. Le scénario de Gundam 0083 permet ainsi de concrétiser d'une manière plus adaptée l'idée originale de la série Mobile Suit Gundam de 1979 qui était de présenter des camps opposés qui ne savent pas s'entendre. Mais la série d'origine était encore bridée par son ambiance légèrement manichéenne dont Gundam 0083 a su s'affranchir en présentant des personnages développés dans chaque camp. 
 
 
 En effet, les personnages ont tous une histoire propre à eux, une personnalité particulière. Aussi peu longtemps qu'apparaît un personnage, on sait quand même qui il est, ce qui nous montre un réel travail d'écriture et d'arrière-plan. Gundam 0083 d'ailleurs a su parfaitement se mêler dans ce vide entre 0079 et 0087 qui reignait à son époque ajoutant une parfaite continuité entre les deux séries. Lorsque la série s'achève, on sait ce que deviennent les personnages, pourquoi on entend plus parler de tout ce qu'il s'est passé, etc. Ce soucis du détail en fait une OVA très travaillée. De plus, les personnages bénéficient d'un des meilleurs travaux pour l'époque de Toshihiro Kawamoto... 
@@ -55,7 +55,7 @@ Mais alors, Gundam 0083 serait un sans fautes ? Hélas non, malgré une réalisa
 Effectivement, tout cinéphile à l'oreille attentive aura reconnu que quelques musiques proviennent de films plus ou moins connus (dont "2001 l'odyssée de l'espace"). Ce n'est pas une reprise pure des morceaux, mais un plagiat des partitions originales. Un peu plus de créativité musicale n'aurait pas été du du luxe, ce qui est fortement regrettable. Néanmoins on se consolera en soulignant le fait que le premier générique de la série interprété par la regrettée Miki Matsubara réhaussent le niveau musical de la série. Sa voix chaude et son style musical siéent à la perfection à la série, apportant aujourd'hui un style rétro qui reste cependant indémodable. Complété par un deuxième générique signé par MIO, Gundam 0083 s'en tire avec les honneur sur cet aspect. Du côté des génériques de fin, deux titres égalements avec le premier de Jacob Wheeler et le dernier qui est une nouvelle fois de MIO. 
 
 
-![banniere](/images/stories/saga/gundam0083/banniere.jpg)
+
 ### Conclusion
 
 

@@ -10,7 +10,6 @@ title: 15 - Senjou he no kikan
 * 22 janvier 2005
 
 
-![15-1](/images/stories/saga/gundamseeddestiny/episodes/15-1.jpg) ![15-2](/images/stories/saga/gundamseeddestiny/episodes/15-2.jpg) ![15-3](/images/stories/saga/gundamseeddestiny/episodes/15-3.jpg)
 
 
 Athrun est arrivé sur Terre à Orb aux commandes du Saviour. Il demande l'autorisation d'entrer dans l'espace aérien du royaume et ignore les derniers évènements. Orb envoie ses escadrons de défense pour l'intercepter, Athrun se voir dans l'obligation de quitter le territoire, apprenant des pilotes de Murasame qu'Orb est désormais dans l'Alliance. Après s'être défait de ses adversaires sans les abattre, il repart.

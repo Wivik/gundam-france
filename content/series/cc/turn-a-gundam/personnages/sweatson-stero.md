@@ -6,7 +6,7 @@ Sweatson Stero
 --------------
 
 
-![Sweatson Stero](/images/stories/saga/turnagundam/persos/moonrace/sweatson.jpg)
+
 * Rôle : Pilote dans la Flotte Ghingham
 * Origines : Lune
 * Voix Japonaise : Tora Uganda

@@ -6,7 +6,7 @@ Franklin Bidan
 --------------
 
 
-![Franklin Bidan](/images/stories/saga/zetagundam/persos/franklin-bidan.png)
+
 
 
 * Origine : Terre

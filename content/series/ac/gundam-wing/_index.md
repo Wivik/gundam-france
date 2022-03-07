@@ -2,8 +2,8 @@
 title: New Mobile Reports Gundam Wing
 ---
 
-![layer dossiers](/images/stories/saga/gundamwing/layer_dossiers.jpg)
-![alt](/images/stories/saga/gundamwing/images/index.jpg)Première série Gundam a avoir quitté le Japon, c'est elle qui a fait découvrir la saga aux USA et à la France. Produite en 1995, Gundam Wing est la deuxième série à ne pas appartenir à l'UC. Son édition en France eu lieu sans grandes annonces en 2001 par une diffusion TV, hélas inachevée, sur la chaîne M6 puis une sortie en DVD. La série a été remasterisée au Japon depuis, et ainsi ressortie en France en meilleure qualité. Gundam Wing a jouit d'une assez grande popularité auprès du public adolescent à la fois pour le côté mecha, et les protagonistes qui n'ont pas laissé la gente féminine indifférente.
+
+Première série Gundam a avoir quitté le Japon, c'est elle qui a fait découvrir la saga aux USA et à la France. Produite en 1995, Gundam Wing est la deuxième série à ne pas appartenir à l'UC. Son édition en France eu lieu sans grandes annonces en 2001 par une diffusion TV, hélas inachevée, sur la chaîne M6 puis une sortie en DVD. La série a été remasterisée au Japon depuis, et ainsi ressortie en France en meilleure qualité. Gundam Wing a jouit d'une assez grande popularité auprès du public adolescent à la fois pour le côté mecha, et les protagonistes qui n'ont pas laissé la gente féminine indifférente.
 
 
  
@@ -24,11 +24,11 @@ Heero Yui est l'un d'entre eux, pilote du Gundam Wing, à son arrivé dans l'atm
 A partir de tout ça, ils doivent retrouver leurs machines et débuter l'opération. Mais la tache ne sera pas de tout repos, OZ a de puissants moyens, et son armée comprend de nombreux soldats d'élite qui mettront bon nombre de bâtons dans les roues à nos cinq jeunes pilotes.
 
 
-![Zechs Merquise, un redoutable adversaire](/images/mini/images-stories-saga-gundamwing-_tb_180x120_intro1.jpg) ![Le Wing Gundam](/images/mini/images-stories-saga-gundamwing-_tb_180x120_intro2.jpg)![Rencontre entre Heero et Relena](/images/mini/images-stories-saga-gundamwing-_tb_180x120_intro3.jpg)
+![Zechs Merquise, un redoutable adversaire](/images/mini/images-stories-saga-gundamwing-_tb_180x120_intro1.jpg) 
 ### Aperçu
 
 
-![intro](/images/stories/saga/gundamwing/intro.jpg)Gundam Wing est une série qui a obtenu un bon succès au Japon, son indépendance scénaristique et sa cohérence avec le reste de Gundam a permit à cette dernière de connaitre la même engouement dans les autres pays. Réalisation moyenne pour l'époque, comme toutes les séries Gundam de cette période on ne peut pas parler de démonstration technologique, la conception est classique mais pas d'aspect mal vieilli pour autant.
+Gundam Wing est une série qui a obtenu un bon succès au Japon, son indépendance scénaristique et sa cohérence avec le reste de Gundam a permit à cette dernière de connaitre la même engouement dans les autres pays. Réalisation moyenne pour l'époque, comme toutes les séries Gundam de cette période on ne peut pas parler de démonstration technologique, la conception est classique mais pas d'aspect mal vieilli pour autant.
 
 
 L'histoire en elle-même est assez basique pour la saga Gundam, rien de bien innovant, elle est simple, les rebondissements sont multiples, mais assez prévisibles. C'est une série qui se laisse regarder sans plus dira-t-on.
@@ -43,7 +43,7 @@ Au niveau du mecha-design, les modèles de Gundam ainsi que les Massproducted so
 Ambiance musicale sympathique, OST correct au niveau des pistes d'ambiance, génériques très pop de l'époque, Two Mix en grande forme, globalement la série se targue de bonnes musiques qui rendent au mieux l'histoire.
 
 
-![banniere](/images/stories/saga/gundamwing/banniere.jpg)
+
 ### Conclusion
 
 

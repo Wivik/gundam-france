@@ -6,7 +6,7 @@ Zenna Mia
 ---------
 
 
-![Zena Mia](/images/stories/saga/origin/persos/zena-mia.png)
+
 
 
 * Origines : Side 4

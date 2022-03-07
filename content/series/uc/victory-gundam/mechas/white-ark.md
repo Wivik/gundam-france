@@ -7,7 +7,7 @@ White Ark
 
 
 
-![White Ark](/images/stories/saga/vgundam/mechas/white-ark.png)
+
 
 [White Ark](javascript:change_image_m('images/stories/saga/vgundam/mechas/white-ark.png');)
 

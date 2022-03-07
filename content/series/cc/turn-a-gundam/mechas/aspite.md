@@ -5,7 +5,7 @@ title: Aspite
 Aspite
 ------
 
-![aspite](/images/stories/saga/turnagundam/ms/moonraces/aspite.png)
+
 
 
 Aspite

@@ -5,7 +5,7 @@ title: "Kenta Sakazaki"
 Kenta Sakazaki
 --------------
 
-![kenta](/images/stories/saga/gunplabuilders/persos/kenta.png)Kenta Sakazaki
+Kenta Sakazaki
 
 
 - Age : ??  

@@ -5,7 +5,7 @@ title: Nanai Miguel
 Nanai Miguel
 ------------
 
-![nanai.jpg](/images/stories/saga/charcontreattaque/persos/nanai.jpg)
+
 Age : ?? ans  
 Rôle : Second de Char  
 Signe particulier : NewType ?  

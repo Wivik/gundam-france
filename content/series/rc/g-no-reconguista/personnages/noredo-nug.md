@@ -6,7 +6,7 @@ Noredo Nug
 ----------
 
 
-![Nored Nag](/images/stories/saga/gnoreconguista/persos/nored-nag.png)
+
 
 
 * Rôle : Pompomgirl

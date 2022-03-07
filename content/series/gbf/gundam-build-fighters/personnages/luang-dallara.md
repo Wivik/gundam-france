@@ -6,7 +6,7 @@ Luang Dallara
 -------------
 
 
-![Luang Dallara](/images/stories/saga/gundambf/persos/rufan.png)
+
 
 
 * Origine : Thailande

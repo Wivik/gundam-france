@@ -5,7 +5,7 @@ title: Alpa Rau
 Alpa Rau
 --------
 
-![alpa](/images/stories/manga/ecoleduciel/persos/alpa.jpg)Alpa Rau
+Alpa Rau
 
 
 Alpa est le responsable d'une puissante usine d'armement, il investie également de fortes sommes dans l'Ecole et fait partie de son comité. Son but est également de découvrir les éventuels Newtypes que l'Ecole peut faire apparaître, en collaboration avec Forma.

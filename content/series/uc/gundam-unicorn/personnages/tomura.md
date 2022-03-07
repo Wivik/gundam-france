@@ -6,7 +6,7 @@ Tomura
 ------
 
 
-![Tomura](/images/stories/saga/unicorn/persos/tomura.jpg)
+
 * Age : 24
 * Rôle : Mécanicien
 * Voix Japonaise : Fuminori Komatsu

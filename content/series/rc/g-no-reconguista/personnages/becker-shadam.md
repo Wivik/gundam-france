@@ -6,7 +6,7 @@ Becker Shadam
 -------------
 
 
-![Becker Shadam](/images/stories/saga/gnoreconguista/persos/becker-shadam.png)
+
 
 
 * Rôle : Capitaine de Capital Army

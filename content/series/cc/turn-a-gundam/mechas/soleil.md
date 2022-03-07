@@ -5,7 +5,7 @@ title: Soleil
 Soleil
 ------
 
-![soleil](/images/stories/saga/turnagundam/ms/moonraces/soleil.png)
+
 
 
 Soleil

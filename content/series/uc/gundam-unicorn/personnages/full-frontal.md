@@ -6,7 +6,7 @@ Full Frontal
 ------------
 
 
-![fullfrontal](/images/stories/saga/unicorn/persos/neozeon/fullfrontal.jpg)
+
 - Age : inconnu
   
 - Fonction : Leader du groupe Neo-Zeon

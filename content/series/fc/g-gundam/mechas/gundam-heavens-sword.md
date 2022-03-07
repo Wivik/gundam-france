@@ -8,7 +8,7 @@ Gundam Heaven's Sword
  
 
 
-![gundamheavenssword.jpg](/images/stories/saga/ggundam/images/mechas/gundamheavenssword.jpg)
+
 
 
 Fiche Technique   

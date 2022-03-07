@@ -5,7 +5,7 @@ title: Master Asia
 Master Asia
 -----------
 
-![masterasia_1.jpg](/images/stories/saga/ggundam/images/persos/masterasia_1.jpg)Master Asia, aka Tôhô Fuhai, l'Invaincu de l'Est   
+Master Asia, aka Tôhô Fuhai, l'Invaincu de l'Est   
 - Age : 49 ans   
 - Rôle : Réprésentant de Neo-Hong Kong   
 - Mobile Fighter : Kowloon Gundam, Master Gundam   

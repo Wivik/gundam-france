@@ -7,7 +7,7 @@ Gundam Build Fighters
 ---------------------
 
 
-![Gundam BF](/images/stories/saga/gundambf/gundambf2.jpg)
+
 
 
 Gundam Build Fighters est une série TV annoncée le 2 juillet 2013 par Bandai. Elle est réalisée dans la même idée que l’OVA “[Gunpla Builders Beginning G](inclassables/gunpla-builders-beginning-g/mokei-senshi-gunpla-builders-beginning-g.html)”, sortie en 2010 pour les 30 ans du Gunpla, mais en partant sur une méthode différente pour animer les Gunpla. Quant à l’histoire, elle ne s’inscrit pas dans la continuité. La série est dirigée par Kenji Nagasaki, réalisateur d’épisodes sur [Gundam 00](ad/index.html), [AGE](ag/gundam-age/mobile-suit-gundam-age.html), et bien d’autres séries, ainsi que storyboarder.   
@@ -21,13 +21,11 @@ La suite a été annoncée en juin 2014 : [Gundam Build Fighters Try](gbf/gundam
 L’histoire se situe dans un futur proche où les compétitions de combat de Gunpla sont devenues très populaires. Avec un système appelé “Battle System”, les “Builders” déposent leur maquette sur un socle appelé la G Base. Celui-ci matérialise leur création pour leur donner vie grâce à une technologie basée sur des particules “Plavsky” qui interagissent avec le plastique du Gunpla, recréent également les explosions et les tirs d’armes énergétiques (beam). Sei Iori est un Builder talentueux mais inexpérimenté dans le “pilotage” des Gunpla. Il rencontrera Reiji, un garçon mystérieux qui est, à l’inverse, très doué dans le domaine. Ensembles, ils se fixeront l’objectif de pouvoir participer au championnat mondial.
 
 
-![](/images/stories/saga/gundambf/bf05.png) ![](/images/stories/saga/gundambf/bf06.png) ![](/images/stories/saga/gundambf/bf08.png)
-
 
 ### Aperçu
 
 
-![Gundam BF](/images/stories/saga/gundambf/gundambf.png)
+
 
 
 Gundam Build Fighters est un OVNI Gundam qui n'est pas sans rappeler les expérimentations faites à l'époque de [G Gundam](fc/g-gundam/g-gundam.html) en changeant radicalement les fondamentaux habituels. La série reprend les idées de l'OVA Gunpla Builders et pour cause, celles-ci ont le même scénariste. Avec un côté totalement assumé de publicité pour le Gunpla permanente et une orgie de références, Gundam Build Fighters est une ode à la Saga Gundam. Quelques différences sont quand même à noter avec Gunpla Builders, avec notamment le fait que Gundam Build Fighters ne suit pas l'histoire mise en place par la précédente OVA du même genre. Les combats de Gunpla sont plus réalistes en faisant bouger réellement les modèles réduits plutôt que de les propulser dans un environnement virtuel. Ceci implique que les combats entraînent de la casse et donc un réel enjeu, le Gunpla pouvant se retrouver gravement endommagé durant le tournois.

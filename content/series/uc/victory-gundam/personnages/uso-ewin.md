@@ -6,7 +6,7 @@ Uso Ewin
 --------
 
 
-![Uso Ewin](/images/stories/saga/vgundam/persos/uso-ewin.png)
+
 
 
 * Age : 13 ans (né en UC 0140)

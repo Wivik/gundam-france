@@ -6,7 +6,7 @@ Zaku Managarmr
 --------------
 
 
-![Zaku Marnagalm](/images/stories/saga/gundambftry/mechas/zaku-marnagalm.png)
+
 
 
 ### Fiche Technique

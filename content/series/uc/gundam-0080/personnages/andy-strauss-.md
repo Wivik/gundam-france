@@ -6,7 +6,7 @@ Andy Strauss
 ------------
 
 
-![strauss](/images/stories/saga/gundam0080/persos/zeon/strauss.jpg)Andy Strauss  
+Andy Strauss  
 - Age : Inconnu  
 - Rôle : Pilote Zeon  
 - MS utilisé(s) : MSM-03C-Hygogg  

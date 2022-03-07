@@ -5,7 +5,7 @@ title: "Equipe Over Flag"
 Equipe Over Flag
 ----------------
 
-![flag](/images/stories/saga/gundam00/persos/flag.jpg)Equipe Over Flag
+Equipe Over Flag
 
 
 Equipe sous le commandement de Graham Aker composée de pilotes d'élites dont Howard Manson, Daryl Dodge, et plus tard Joshua (de gauche à droite sur l'image).

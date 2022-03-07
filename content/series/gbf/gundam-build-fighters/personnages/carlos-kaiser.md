@@ -6,7 +6,7 @@ Carlos Kaiser
 -------------
 
 
-![Carlos Kaiser](/images/stories/saga/gundambf/persos/kalros.png)
+
 
 
 * Origine : Finlande

@@ -6,7 +6,7 @@ Matisse Adukurf
 ---------------
 
 
-![Matisse Adukurf](/images/stories/manga/astray/persos/Matis.jpg)
+
 
 Sœur de Matias adukurf, cette Naturelle haut placée dans LOGOS commande une des unités Phantom Pain, au sein de laquelle on trouve les RGX-00 Testament et RGX-04 Proto-Saviour, volés à ZAFT et pilotés par des Coordinateurs ayant subit un lavage de cerveau comme Ash Gray ou Ile de Llorar.
 

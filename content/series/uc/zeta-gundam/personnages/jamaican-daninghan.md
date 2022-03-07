@@ -6,7 +6,7 @@ Jamaican Daninghan
 ------------------
 
 
-![Jamaican Daninghan](/images/stories/saga/zetagundam/persos/jamaican-daninghan.png)
+
 
 
 * Fonction : Commandant de flotte spatiale des Titans

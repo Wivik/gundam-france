@@ -5,7 +5,7 @@ title: Syam Vist
 Syam Vist
 ---------
 
-![syam](/images/stories/saga/unicorn/persos/vist/syam.jpg)
+
 - Age : ??  
 - Rôle : Fondateur de Vist  
 - Voix Japonaise : Ichirô Nagai

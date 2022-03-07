@@ -6,7 +6,7 @@ Zack Lowe
 ---------
 
 
-![Zack Lowe](/images/stories/saga/g-tekketsu-s2/persos/zack-law.png)
+
 
 
 * Voix Japonaise : Makoto Furukawa

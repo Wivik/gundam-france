@@ -6,7 +6,7 @@ Lily Borjarno
 -------------
 
 
-![Lily Borjarno](/images/stories/saga/turnagundam/persos/terriens/borjano.jpg)
+
 * Age : 16 ans
 * Rôle : Politicienne
 * Origines : Terre

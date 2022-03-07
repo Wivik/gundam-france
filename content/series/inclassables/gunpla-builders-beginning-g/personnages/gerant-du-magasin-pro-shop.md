@@ -5,7 +5,7 @@ title: "Gérant du magasin Pro-shop"
 Gérant du magasin Pro-shop
 --------------------------
 
-![ten](/images/stories/saga/gunplabuilders/persos/ten.png)Gérant du magasin Pro-Shop
+Gérant du magasin Pro-Shop
 
 
 - Voix Japonaise : Hiroki Takahashi

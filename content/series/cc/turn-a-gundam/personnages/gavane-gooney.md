@@ -6,7 +6,7 @@ Gavanne Gooney
 --------------
 
 
-![Gavanne Gooney](/images/stories/saga/turnagundam/persos/terriens/gavane.jpg)
+
 * Rôle : Leader de l'Escadron Suicide
 * Origines : Terre
 * Voix Japonaise : Houchu Ohtsuka

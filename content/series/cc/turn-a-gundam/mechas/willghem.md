@@ -5,7 +5,7 @@ title: Willghem
 Willghem
 --------
 
-![willghem](/images/stories/saga/turnagundam/ms/terriens/willghem.png)
+
 
 
 Willghem

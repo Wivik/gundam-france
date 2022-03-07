@@ -6,7 +6,7 @@ Todo Mirconen
 -------------
 
 
-![Todo Mirconen](/images/stories/saga/g-tekketsu/persos/todo-mirconen.png)
+
 
 
 * Voix Japonaise : Yutaka Aoyama

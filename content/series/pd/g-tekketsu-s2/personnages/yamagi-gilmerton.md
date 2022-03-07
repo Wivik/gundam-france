@@ -6,7 +6,7 @@ Yamagi Gilmerton
 ----------------
 
 
-![Yamagi Gilmerton](/images/stories/saga/g-tekketsu-s2/persos/yamagi-gilmerton.png)
+
 
 
 * Origine : Mars

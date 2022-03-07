@@ -6,7 +6,7 @@ Classe Gallop
 -------------
 
 
-![gallop](/images/stories/saga/msgundam/mechas/gallop.png)
+
 
 
 ### Fiche Technique

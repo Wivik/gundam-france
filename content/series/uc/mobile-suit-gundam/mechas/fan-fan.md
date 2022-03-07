@@ -6,7 +6,7 @@ Fan Fan
 -------
 
 
-![fanfan](/images/stories/saga/msgundam/mechas/fanfan.png)
+
 
 
 - Type : Hovercraft.   

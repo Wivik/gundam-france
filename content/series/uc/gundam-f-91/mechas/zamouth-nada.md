@@ -5,7 +5,7 @@ title: Zamouth Nada
 Zamouth Nada
 ------------
 
-![zamouthnahda](/images/stories/saga/F91/mechas/crossbone/zamouthnahda.gif)
+
 
 
 Zamouth Nada  

@@ -6,7 +6,7 @@ Riika Sheder
 ------------
 
 
-![Riika Sheder](/images/stories/manga/astray/persos/Riika_Sheder.jpg)
+
 
 Pilote d'essai du programme Impulse chez ZAFT, cette jeune Coordinatrice présente la particularité d'être née aveugle, fait exceptionnel sur les PLANTs. Par conséquent, elle porte constamment des lunettes contenant un dispositif lui permettant de retrouver une vue normale.
 

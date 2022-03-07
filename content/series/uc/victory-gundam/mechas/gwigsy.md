@@ -7,7 +7,7 @@ Gwigsy
 
 
 
-![Gwigsy](/images/stories/saga/vgundam/mechas/gwigsy.png)
+
 
 [Gwigsy](javascript:change_image_m('images/stories/saga/vgundam/mechas/gwigsy.png');)
 

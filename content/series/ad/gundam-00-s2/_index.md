@@ -3,7 +3,7 @@ title: "Mobile Suit Gundam 00 Second Season"
 weight: 30
 ---
 
-![layer dossiersS2](/images/stories/saga/gundam00/layer_dossiersS2.jpg)
+
 ![s2index.jpg](/images/stories/saga/gundam00/S2index.jpg "s2index.jpg")Comme prévue, la seconde saison de Gundam 00 est sortie au Japon le 5 octobre 2008. Toujours sur la même chaine, réalisée par le même staff, la série se place 4 ans après les évènements qui ont conclu sa première partie.  
 La série a de nouveau bénéficié d'une très grande attention de la part de sa direction artistique la rendant agréable à l'oeil, mais qu'en est-il de l'histoire ?
 
@@ -42,7 +42,7 @@ Le mecha-design est très ressemblant à celui de la première saison. Il cherch
 Toujours le même petit point sombre sur l'ambiance musicale de la série. C'est très discret, musiques absentes, ou parfois peu attrayantes. Rares sont les pistes épiques de l'OST, mais lorsqu'on tombe sur une dans la série, c'est du bonheur. Niveau génériques le premier est interpreté par UVERworld que l'on a déjà entendu pour Bleach par exemple. Entrainant,  il colle très bien, chanson et visuel agréables. Le générique de fin Prototype d'Ishikawa Chiaki est très beau, l'animation avec est un régal ! On notera une petite déception sur le deuxième générique d'ouverture qui est un peu trop J-pop criarde, mais la chansons n'en reste pas moins sympathiques, quant au deuxième générique de fin il est aussi beau que les autres.
 
 
-![bannieres2](/images/stories/saga/gundam00/bannieres2.jpg)
+
 ### Conclusion
 
 

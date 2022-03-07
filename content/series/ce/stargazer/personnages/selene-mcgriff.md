@@ -6,7 +6,7 @@ Selene McGriff
 --------------
 
 
-![Selene McGriff](/images/stories/saga/stargazer/persos/selene.jpg)
+
 * Age : 28 ans
 * Rôle : Scientifique
 * Voix Japonaise : Sayaka Ohara

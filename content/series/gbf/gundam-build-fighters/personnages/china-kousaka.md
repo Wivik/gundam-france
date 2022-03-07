@@ -6,7 +6,7 @@ China Kousaka
 -------------
 
 
-![China Kousaka](/images/stories/saga/gundambf/persos/china.png)
+
 
 
 * Voix Japonaise : Yui Ishikawa

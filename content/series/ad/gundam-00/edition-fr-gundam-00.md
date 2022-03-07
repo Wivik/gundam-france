@@ -15,7 +15,7 @@ Chaque pack de deux DVD contient 8 épisodes (neuf pour le premier), les bandes 
 Sur cette page pour pourrez retrouver : La liste des volumes, l'avis du site sur l'édition, puis le casting de la version française publiée par l'éditeur, et enfin une liste de divergences VO/VF.
 
 
-![dvdfr1](/images/stories/saga/gundam00/dvd/dvdfr1.jpg) Mobile Suit Gundam 00 Volume 1 - Edition Simple
+ Mobile Suit Gundam 00 Volume 1 - Edition Simple
 
 
 * Langue : Français, Anglais, Allemand, Japonais
@@ -31,7 +31,7 @@ Sur cette page pour pourrez retrouver : La liste des volumes, l'avis du site sur
  
 
 
-![Coffret_Gundam_00](/images/stories/saga/gundam00/dvd/Coffret_Gundam_00.jpg) Mobile Suit Gundam 00 Volume 1 - Edition Collector
+ Mobile Suit Gundam 00 Volume 1 - Edition Collector
 
 
 * Langue : Français, Anglais, Allemand, Japonais
@@ -51,7 +51,7 @@ Sur cette page pour pourrez retrouver : La liste des volumes, l'avis du site sur
  
 
 
-![dvdfr2](/images/stories/saga/gundam00/dvd/dvdfr2.jpg)
+
 
 
 Mobile Suit Gundam 00 Volume 2
@@ -68,7 +68,7 @@ Mobile Suit Gundam 00 Volume 2
 * [Commander](http://www.amazon.fr/exec/obidos/ASIN/B00271IB7Y/gundamfrance-21) un exemplaire sur Amazon
 
 
-![dvdfr3](/images/stories/saga/gundam00/dvd/dvdfr3.jpg)Mobile Suit Gundam 00 Volume 3
+Mobile Suit Gundam 00 Volume 3
 
 
 * Langue : Français, Anglais, Allemand, Japonais
@@ -142,10 +142,10 @@ Une fois le disque inséré dans votre lecteur, le logo Beez se présente à l'�
 Les deux éditions ont exactement le même contenu sur les disques : 4 et 5 épisodes, génériques sans crédits, audio Japonais, Français, Anglais, Allemand, sous-titrage Français, Anglais, Allemand, puis enfin les bandes annonces Beez.
 
 
-![menu1](/images/stories/saga/gundam00/dvd/editionfr/menu1.jpg)![menu2](/images/stories/saga/gundam00/dvd/editionfr/menu2.jpg)![menu3](/images/stories/saga/gundam00/dvd/editionfr/menu3.jpg)
 
 
-![menu4](/images/stories/saga/gundam00/dvd/editionfr/menu4.jpg)![menu5](/images/stories/saga/gundam00/dvd/editionfr/menu5.jpg)
+
+
 
 
 #### Les épisodes
@@ -166,7 +166,7 @@ Bien qu'il y aura toujours des choix de voix, de jeu, d'intonnation, ou de prono
 L'adaptation : la traduction de la série en sous titrage a été assurée une nouvelle fois par Jun-Ichi Takeda, on peut ainsi constater une bonne rigueur et grande fidélité dans cette adaptation. Je ne m'attarderai pas trop longtemps sur ce point, difficile de pouvoir estimer la qualité et les choix du traducteurs lorsqu'on ne comprend pas aussi bien la langue d'origine de la série.
 
 
-![screen1](/images/stories/saga/gundam00/dvd/editionfr/screen1.jpg)![screen2](/images/stories/saga/gundam00/dvd/editionfr/screen2.jpg)![screen3](/images/stories/saga/gundam00/dvd/editionfr/screen3.jpg)
+
 
 
 #### Globalement, ça donne quoi ?

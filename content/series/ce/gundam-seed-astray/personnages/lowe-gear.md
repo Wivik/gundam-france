@@ -6,7 +6,7 @@ Lowe Gear
 ---------
 
 
-![Lowe Gear](/images/stories/manga/astray/persos/Lowe_Guele.jpg)
+
 * Voix Japonaise : Masaya Onosaka
 
 Naturel né en CE51, Lowe est un génie, à la fois ingénieur, technicien et pilote surdoué, capable de comprendre n'importe quel système en quelques minutes pour le réparer ou l'améliorer.

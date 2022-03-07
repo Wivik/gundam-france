@@ -6,7 +6,7 @@ Norba Shino
 -----------
 
 
-![Norba Shino](/images/stories/saga/g-tekketsu/persos/norba-shino.png)
+
 
 
 * Rôle : Membre du CGS

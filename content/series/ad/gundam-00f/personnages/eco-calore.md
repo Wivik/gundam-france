@@ -5,7 +5,7 @@ title: "Eco Calore"
 Eco Calore
 ----------
 
-![eco](/images/stories/manga/gundam00f/persos/eco.jpg)
+
 - Âge : 30 ans  né en 2277 A.D.  
 - Rôle : Gundam Meister de réserve
 

@@ -5,7 +5,7 @@ title: MRC-F31 (J-2126) Muttowoooo
 MRC-F31 (J-2126) Muttowoooo
 ---------------------------
 
-![muttowoooo](/images/stories/saga/turnagundam/ms/moonraces/muttowoooo.png)
+
 
 
 MRC-F31 (J-2126) Muttowoooo

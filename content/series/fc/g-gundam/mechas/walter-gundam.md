@@ -8,7 +8,7 @@ Walter Gundam
  
 
 
-![waltergundam.jpg](/images/stories/saga/ggundam/images/mechas/waltergundam.jpg)
+
 
 
 Fiche Technique   

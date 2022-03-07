@@ -6,7 +6,7 @@ Isaac Mau
 ---------
 
 
-![Isaac Mau](/images/stories/manga/astray/persos/isaac.png)
+
 
 Membre des escadrilles Le Creuset puis Joule pendant la première Guerre de la Saint Valentin Sanglante, ce jeune Coordinateur mène une carrière sans surprise au sein de ZAFT.
 

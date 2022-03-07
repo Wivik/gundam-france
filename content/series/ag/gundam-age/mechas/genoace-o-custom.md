@@ -5,7 +5,7 @@ title: "RGE-B893CO Genoace O-Custom"
 RGE-B893CO Genoace O-Custom
 ---------------------------
 
-![genoaceocustom](/images/stories/saga/gundamage/mechas/genoaceocustom.png) 
+ 
 
 
 ### Fiche Technique
@@ -56,21 +56,21 @@ RGE-B893CO Genoace O-Custom
 
 
 
-![genoace.png](/images/stories/saga/gundamage/mechas/mini/genoace.png)
+
 [RGE-B790 Genoace](ag/gundam-age/rge-b790-genoac.html)
 Amélioration Technologique
 
 
-![genoacecustom.png](/images/stories/saga/gundamage/mechas/mini/genoacecustom.png)
+
 [RGE-B790CW Genoace Custom](ag/gundam-age/rge-b790cw-genoace-custom)
 Amélioration Technologique
 
 
-![genoace2.png](/images/stories/saga/gundamage/mechas/mini/genoace2.png)
+
 [RGE-B890 Genoace II](ag/gundam-age/rge-b890-genoace-ii)
 Amélioration Technologique
 
 
-![genoaceocustom.png](/images/stories/saga/gundamage/mechas/mini/genoaceocustom.png)
+
 [RGE-B893CO Genoace O-Custom](ag/gundam-age/genoace-o-custom.html)
 

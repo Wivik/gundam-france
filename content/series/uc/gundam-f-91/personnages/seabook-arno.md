@@ -5,7 +5,7 @@ title: Seabook Arno
 Seabook Arno
 ------------
 
-![seabook](/images/stories/saga/F91/persos/civils/seabook.jpg)Seabook Arno  
+Seabook Arno  
 - Age : 17 ans  
 - Rôle : Etudiant ingénieur  
 - Doubleur Japonais : Kouji Tsujitani

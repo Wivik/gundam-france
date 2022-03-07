@@ -57,11 +57,11 @@ GN Field::images/stories/saga/gundam00film/MECHAS/CELESTIALBEING/00Q\_GN\_Field.
 Le Quantum System est une variante améliorée du Raiser System couplé au Trans-Am Burst du 00 Raiser. Ses propriétés sont identiques, il provoque un champ de particules permettant d'étendre la conscience des personnes affectées et de communiquer par la pensée. La puissance du Quantum System étant plus élevée, le champ est plus vaste et permet une meilleure portée des pensées grâce à un champ beaucoup plus dense. Lorsque le dispositif est activé, les deux GN Drives du 00 Qan[T] s'assemblent en un seul et diverses parties de l'armure sont éjectées pour favoriser la dispersion. Les Condensateurs GN du Gundam augmentent également de volume.
 
 
-![00Q_quantum_system](/images/stories/saga/gundam00film/MECHAS/CELESTIALBEING/00Q_quantum_system.jpg) ![00Q_QBM](/images/stories/saga/gundam00film/MECHAS/CELESTIALBEING/00Q_QBM.jpg)
+
 Le 00 Qan[T] est doté également d'un nouveau système de quantification suite au phénomène découvert lors du combat contre Ribbons Almark lorsque le 00 Raiser s'est dématérialisé l'espace d'un instant. En développant cette théorie, les ingénieurs de Celestial Being ont pu inclure dans le 00 Qan[T] un dispositif de voyage plus rapide que la lumière par vortex. Le vortex est formé de la même manière que le GN Field par les GN Sword Bit, celles-ci le travrsent juste avant sa fermeture pour retrouver le Gundam de l'autre côté. C'est ce qu'on appelle le Système Transition.
 
 
-![00Q_transition](/images/stories/saga/gundam00film/MECHAS/CELESTIALBEING/00Q_transition.jpg) ![00Q_transition_vortex](/images/stories/saga/gundam00film/MECHAS/CELESTIALBEING/00Q_transition_vortex.jpg)
+
 ### Histoire
 
 

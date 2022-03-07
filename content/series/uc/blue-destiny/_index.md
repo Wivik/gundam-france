@@ -8,7 +8,7 @@ Blue Destiny
 
 
   
-![alt](/images/mini/images-stories-manga-bluedestiny-images-_tb_188x136_index.jpg)Edité en 1996 par Haoh Kodansha, Blue Destiny est un manga Side Story (comprenez histoire parallèle) à Mobile Suit Gundam, basé sur une trigolie de jeux vidéos sortis sur Sega Saturn. Blue Destiny nous plonge dans la période noire qu'est la Guerre d'Un An. La Fédération Terrestre, en grave infériorité technologique comparé à Zeon développe ses propres Mobile Suit : les GM, basés sur le RX-78 Gundam. Ils crééent d'autres prototypes destinés à rivaliser, voir devenir supérieurs aux forces de Zeon.
+Edité en 1996 par Haoh Kodansha, Blue Destiny est un manga Side Story (comprenez histoire parallèle) à Mobile Suit Gundam, basé sur une trigolie de jeux vidéos sortis sur Sega Saturn. Blue Destiny nous plonge dans la période noire qu'est la Guerre d'Un An. La Fédération Terrestre, en grave infériorité technologique comparé à Zeon développe ses propres Mobile Suit : les GM, basés sur le RX-78 Gundam. Ils crééent d'autres prototypes destinés à rivaliser, voir devenir supérieurs aux forces de Zeon.
 
 
 Blue Destiny retrace donc l'histoire du prototype RX-79BD-1 Blue Destiny, Mobile Suit puissant doté du système EXAM.
@@ -53,7 +53,7 @@ Dates de sortie :
 ---
 
 
-![alt](/images/stories/manga/bluedestiny/images/intro01.jpg) ![alt](/images/stories/manga/bluedestiny/images/intro02.jpg) ![alt](/images/stories/manga/bluedestiny/images/intro03.jpg)
+
 Â 
 
 

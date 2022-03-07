@@ -5,7 +5,7 @@ title: Lesseps
 Lesseps
 -------
 
-![lesseps](/images/stories/saga/gundamseed/mechas/zaft/lesseps.png)
+
 
 
 Lesseps  

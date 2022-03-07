@@ -6,7 +6,7 @@ Phil Ackman
 -----------
 
 
-![Phil Ackman](/images/stories/saga/turnagundam/persos/moonrace/phil.jpg)
+
 * Rôle : Capitaine dans le Dianna Counter
 * Origines : Lune
 * Voix Japonaise : Takeshi Koyama

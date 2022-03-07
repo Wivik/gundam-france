@@ -87,7 +87,7 @@ Côté son, la bande audio a été nettoyée et améliorée au Japon sur les pr�
 Dans la mesure où la trilogie Mobile Suit Gundam a été traduite par Beez il y a plus de dix ans, l'édition All The Anime capitalise sur le sous titrage réalisé par l'ancienne filiale de Bandai. Néanmoins, celle-ci a bénéficié elle aussi d'un petit travail de nettoyage, la toute première version du sous titrage datant de la projection des films lors d'une convention au début des années 2000 ! Depuis, nous avons eu plusieurs séries se plaçant dans un contexte proche de Mobile Suit Gundam qui ont été édités en français (Gundam Unicorn ou encore Gundam The Origin) et des codes de traduction ont été instaurés depuis. Ainsi, le sous titrage a lui aussi été revu pour réadapter au lexique officiel les textes écrits pour les premières éditions des films. Dans l'exemple ci-dessous, vous constaterez par exemple que l'introduction du film parle désormais de Siècle Universel et non plus de Calendrier Universel. De quoi faire le raccord avec les productions récentes qui ont adopté un champ lexical commun. 
 
 
-![tradbrd.png](/images/mini/images-stories-saga-msgundam-dvd-brd-_tb_264x150_tradbrd.png) ![traddvd.png](/images/mini/images-stories-saga-msgundam-dvd-brd-_tb_188x150_traddvd.png)
+
 
 
 A gauche le Blu-ray, à droite le DVD BEEZ de 2005

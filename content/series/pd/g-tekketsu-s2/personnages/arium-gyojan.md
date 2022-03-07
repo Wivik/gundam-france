@@ -6,7 +6,7 @@ Arium Gyojan
 ------------
 
 
-![Arium Gyojan](/images/stories/saga/g-tekketsu-s2/persos/allium-gyojan.png)
+
 
 
 * Fonction : Représentant de Terra Liberionis

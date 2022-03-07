@@ -6,7 +6,7 @@ Katz Kobayashi
 --------------
 
 
-![Katz Kobayashi](/images/stories/saga/zetagundam/persos/katz-kobayashi.png)
+
 
 
 * Age : 15

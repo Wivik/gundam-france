@@ -6,7 +6,7 @@ Dexter Culastor
 ---------------
 
 
-![Dexter Culastor](/images/stories/saga/g-tekketsu-s2/persos/dexter-culastor.png)
+
 
 
 * Fonction : Contrôleur de gestion de Tekkadan

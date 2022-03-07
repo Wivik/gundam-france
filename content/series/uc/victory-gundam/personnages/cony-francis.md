@@ -6,7 +6,7 @@ Cony Francis
 ------------
 
 
-![Cony Francis](/images/stories/saga/vgundam/persos/cony-francis.png)
+
 
 
 * Rôle : Pilote pour la Shrike Team

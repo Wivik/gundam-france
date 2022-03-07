@@ -7,7 +7,7 @@ Super Fumina
 
 
 
-![Super Fumina](/images/stories/saga/gundambfblg/mechas/super-fumina.png)
+
 
 [Super Fumina](javascript:change_image_m('images/stories/saga/gundambfblg/mechas/super-fumina.png');)
 

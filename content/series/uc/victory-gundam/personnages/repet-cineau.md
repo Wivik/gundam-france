@@ -6,7 +6,7 @@ Repet Cineau
 ------------
 
 
-![Repet Cineau](/images/stories/saga/vgundam/persos/repet-cineau.png)
+
 * Rôle : Pilote de Mobile Suit
 * Origines : Zanscare
 * Voix Japonaise : Miki Itou

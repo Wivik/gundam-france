@@ -5,7 +5,7 @@ title: "Arabel Zoi"
 Arabel Zoi
 ----------
 
-![arabel](/images/stories/saga/gundamage/persos/arabel.png)
+
 - Age : 10  
 - Rôle : Fils de Gerra Zoi  
 - Voix Japonaise : Mana Hirata

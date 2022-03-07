@@ -9,7 +9,7 @@ Classe Clop
  
 
 
-![clop.jpg](/images/stories/saga/charcontreattaque/images/vaisseaux/clop.jpg)
+
 
 
 ### Fiche Technique

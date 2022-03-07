@@ -7,7 +7,7 @@ Mobile Suit Gundam
 ------------------
 
 
-![index.jpg](/images/stories/saga/msgundam/images/index.jpg)
+
 
 
 C'est en 1979 que la toute première série de Mobile Suit Gundam voit le jour sur les écrans de télévision Japonais. MS Gundam révolutionne le genre mecha qui à l'époque fonctionnait sur le principe du super robot héros protecteur (cf Mazinger Z, Great Mazinger et compagnie).
@@ -28,13 +28,13 @@ La Colonie Side 3 (Munzo), dirigée par Zeon Zum Daikun, se déclare République
 UC 0079, sur la Colonie Side 7, trois Mobiles Suits de Zeon, des Zaku II, entrent dans la Colonie pour y trouver la nouvelle arme de la Fédération, un certain Projet V. Une alerte est déclenchée visant à évacuer les civils de la Colonie. Parmi eux se trouve Amuro Ray, un jeune homme dont le père travaillait sur ce fameux projet V. Il verra allongée sur un camion la nouvelle arme de la Fédération : un Mobile Suit du nom de Gundam. Amuro montera à bord et parviendra à manœuvrer la machine et détruire un Zaku. L'explosion créera un trou dans la Colonie, tous les civils seront évacués. La plupart seront emmenés à bord du nouveau vaisseau de combat Fédéral, le White Base, conçu pour transporter des Mobile Suits. Montrant sa capacité à maîtriser le Gundam, Amuro sera nommé pilote de ce dernier. Il devra alors protéger le White Base et ses passagers jusqu'à leur destination sur Terre des attaques incessantes de Zeon et surtout, de Char Aznable, un redoutable adversaire élite de Zeon...
 
 
-![Premier combat du Gundam](/images/mini/images-stories-saga-msgundam-_tb_x120_img1.jpg) ![L'équipage du White Base](/images/mini/images-stories-saga-msgundam-_tb_x120_img2.jpg) ![Char Aznable, le rival d'Amuro](/images/mini/images-stories-saga-msgundam-_tb_x120_img3.jpg)
+
 
 
 ### Aperçu
 
 
-![intro4](/images/stories/saga/msgundam/intro4.jpg)
+
 L'équipage du White Base
 
 

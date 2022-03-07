@@ -6,7 +6,7 @@ Bask Om
 -------
 
 
-![Bask Om](/images/stories/saga/zetagundam/persos/bask-om.png)
+
 
 
 * Fonction : Capitaine des Titans

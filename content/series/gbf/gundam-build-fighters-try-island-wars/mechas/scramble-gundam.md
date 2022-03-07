@@ -7,7 +7,7 @@ Scramble Gundam
 
 
 
-![Scramble Gundam](/images/stories/saga/gundambftiw/mechas/scramble-gundam.png)
+
 
 [Scramble Gundam](javascript:change_image_m('images/stories/saga/gundambftiw/mechas/scramble-gundam.png');)
 [Vue de dos](javascript:change_image_m('images/stories/saga/gundambftiw/mechas/scramble-gundam-dos.png');)

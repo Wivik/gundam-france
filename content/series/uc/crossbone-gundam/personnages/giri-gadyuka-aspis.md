@@ -5,7 +5,7 @@ title: Giri Gadyuka Aspis
 Giri Gadyuka Aspis
 ------------------
 
-![giri](/images/stories/manga/crossbone/persos/giri.jpg)
+
 - Age : ??  
 - Rôle : Leader de l'escadron Death Gales  
 - Voix japonaise : Mari Mashiba (Jeux SD Gundam G Generation)

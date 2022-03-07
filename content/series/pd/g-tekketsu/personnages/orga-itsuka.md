@@ -6,7 +6,7 @@ Orga Itsuka
 -----------
 
 
-![Orga Itsuka](/images/stories/saga/g-tekketsu/persos/orga-itsuka.png)
+
 
 
 * Rôle : Chef d'équipe du CGS

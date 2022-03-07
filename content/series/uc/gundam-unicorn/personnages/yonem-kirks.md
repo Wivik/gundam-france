@@ -5,7 +5,7 @@ title: Yonem Kirks
 Yonem Kirks
 -----------
 
-![yonem](/images/mini/images-stories-saga-unicorn-persos-zeon-_tb_151x205_yonem.jpg)
+
 - Age : 39 ans  
 - Rôle : Leader des Résistants de Zeon  
 - Origines :   

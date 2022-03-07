@@ -6,7 +6,7 @@ Pegie Lee
 ---------
 
 
-![Pegie Lee](/images/stories/saga/vgundam/persos/pegie-lee.png)
+
 * Rôle : Pilote pour la Shrike Team
 * Voix Japonaise : Kumiko Watanabe
 

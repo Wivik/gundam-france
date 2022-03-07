@@ -6,7 +6,7 @@ Kazuya Shiki
 ------------
 
 
-![Kazuya Shiki](/images/stories/saga/gundambftry/persos/kazuya-shiki.png)
+
 
 
 

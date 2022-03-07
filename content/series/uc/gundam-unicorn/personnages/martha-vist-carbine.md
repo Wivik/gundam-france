@@ -5,7 +5,7 @@ title: Martha Vist Carbine
 Martha Vist Carbine
 -------------------
 
-![martha](/images/mini/images-stories-saga-unicorn-persos-anaheim-_tb_173x210_martha.jpg)
+
   
 - Age : 55  
   

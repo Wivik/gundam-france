@@ -5,7 +5,7 @@ title: "Yurin L'Ciel"
 Yurin L'Ciel
 ------------
 
-![yurin](/images/stories/saga/gundamage/persos/yurin.png)
+
 - Age : 15 ans  
 - Rôle : Habitante de Nora  
 - Voix japonaise : Saori Hayami

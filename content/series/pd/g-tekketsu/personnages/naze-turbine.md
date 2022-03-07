@@ -6,7 +6,7 @@ Naze Turbine
 ------------
 
 
-![Naze Turbine](/images/stories/saga/g-tekketsu/persos/naze-turbine.png)
+
 
 
 * Rôle : Membre de Teiwaz

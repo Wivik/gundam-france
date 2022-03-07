@@ -7,7 +7,7 @@ Spartan
 
 
 
-![Spartan](/images/stories/saga/thunderbolt/mechas/spartan.png)
+
 
 [Spartan](javascript:change_image_m('images/stories/saga/thunderbolt/mechas/spartan.png');)
 [Vue secondaire](javascript:change_image_m('images/stories/saga/thunderbolt/mechas/spartan-2.png');)

@@ -6,7 +6,7 @@ Tomache Massarik
 ----------------
 
 
-![Tomache Massarik](/images/stories/saga/vgundam/persos/tomache-massarik.png)
+
 * Age : 17 ans
 * Rôle : Membre de la Ligue Militaire, Pilote de Mobile suit
 * Origines : Hiland

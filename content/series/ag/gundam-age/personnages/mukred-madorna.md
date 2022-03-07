@@ -5,7 +5,7 @@ title: "Mukred Madorna"
 Mukred Madorna
 --------------
 
-![mukred](/images/stories/saga/gundamage/persos/mukred.png)
+
 - Age : 55 ans  
 - Rôle :  Constructeur de Mobile Suits  
 - Voix japonaise : Hiroshi Shirokuma

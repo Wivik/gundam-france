@@ -6,7 +6,7 @@ Rustal Elion
 ------------
 
 
-![Rustal Elion](/images/stories/saga/g-tekketsu-s2/persos/lastel-elion.png)
+
 
 
 * Fonction : Dirigeant de la famille Elion

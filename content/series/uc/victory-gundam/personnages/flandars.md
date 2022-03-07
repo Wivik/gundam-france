@@ -6,7 +6,7 @@ Flandars
 --------
 
 
-![Flandars](/images/stories/saga/vgundam/persos/flandars.png)
+
 * Rôle : Chien de compagnie
 
 

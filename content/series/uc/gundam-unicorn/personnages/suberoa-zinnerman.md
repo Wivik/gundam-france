@@ -6,7 +6,7 @@ Suberoa Zinnerman
 -----------------
 
 
-![suberoa](/images/stories/saga/unicorn/persos/neozeon/suberoa.jpg)
+
 - Age : 52 ans
   
 - Voix Japonaise : Hideaki Tezuka

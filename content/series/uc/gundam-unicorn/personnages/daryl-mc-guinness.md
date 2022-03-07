@@ -6,7 +6,7 @@ Daryl McGuinness
 ----------------
 
 
-![Daryl McGuinness](/images/stories/saga/unicorn/persos/daryl.jpg)
+
 * Age : 27
 * Rôle : Pilote de Mobile Suit
 * Voix Japonaise : Anri Katsu

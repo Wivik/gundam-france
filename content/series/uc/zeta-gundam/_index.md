@@ -7,7 +7,7 @@ Mobile Suit Zêta Gundam
 -----------------------
 
 
-![index.jpg](/images/mini/images-stories-saga-zetagundam-_tb_x150_index.jpg)Cinq années furent nécessaires pour que [Mobile Suit Gundam](uc/mobile-suit-gundam/mobile-suit-gundam.html) connaisse une suite. Grâce au succès des trois films résumant la série, Sunrise commanda une nouvelle série Gundam. Tomino la placera sept ans après la fin de la Guerre d'Un An. Zeta Gundam est ainsi arrivée, avec un staff similaire à Mobile Suit Gundam, la série se qualifie par une ambiance très sombre et un conflit violent. Pour célébrer sa vingtième année, elle fut recompilée en trois films dont le premier est sortie en 2005.
+Cinq années furent nécessaires pour que [Mobile Suit Gundam](uc/mobile-suit-gundam/mobile-suit-gundam.html) connaisse une suite. Grâce au succès des trois films résumant la série, Sunrise commanda une nouvelle série Gundam. Tomino la placera sept ans après la fin de la Guerre d'Un An. Zeta Gundam est ainsi arrivée, avec un staff similaire à Mobile Suit Gundam, la série se qualifie par une ambiance très sombre et un conflit violent. Pour célébrer sa vingtième année, elle fut recompilée en trois films dont le premier est sortie en 2005.
 
 
 ### Histoire
@@ -32,7 +32,7 @@ Folie qui n'en épargnera d'ailleurs guère.
 ### Aperçu
 
 
-Zêta Gundam fait partie des séries les plus plébiscitées par les fans de la saga. Elle reçoit souvent le titre de "meilleure série", voyons un peu pourquoi, et si cela est forcément justifié.![intro.jpg](/images/stories/saga/zetagundam/intro.jpg)
+Zêta Gundam fait partie des séries les plus plébiscitées par les fans de la saga. Elle reçoit souvent le titre de "meilleure série", voyons un peu pourquoi, et si cela est forcément justifié.
 
 
 Du côté de l'histoire, cela commence un peu sur les mêmes bases que MS Gundam. On nous présente un héros adolescent en phase de rébellion contre le monde. Il croise le chemin de soldats Titans et ne manque pas de se prendre une correction, puis par le plus grand des hasard se retrouve aux commandes d'un prototype secret de Gundam. Les évènements par contre s'enchainent d'une manière bien plus intéressante. Le jeune Kamille se retrouve malgré lui propulsé au coeur d'une guerre dont il n'imagine pas l'étendue et la tragédie qu'elle représente. Il verra ses parents mourir devant ses yeux, des proches, des histoires d'amour qui finiront mal, rien pour aider cet ado à se développer du côté social.
@@ -53,7 +53,7 @@ Passons maintenant au mecha-design de la série. Nous retrouvons de nouveau Okaw
 La réalisation de la série en elle-même accuse bien son âge de nos jours. Pour l'époque elle se classait dans une bonne moyenne, il faut dire que la qualité graphique n'a jamais été le point fort des séries Gundam. L'ambiance musicale reflète bien celle de l'histoire, elle est sombre, certaines pistes tendent à donner moins de tristesse, plus de douceur dans cette guerre monstrueuse, d'autres donnent l'aspect épique à certaines rencontres. On relèvera de très beaux génériques, le premier faisant très rétro par contre, quant au deuxième une excellente chanson indémodable.
 
 
-![banniere](/images/stories/saga/zetagundam/banniere.jpg)
+
 ### Conclusion
 
 

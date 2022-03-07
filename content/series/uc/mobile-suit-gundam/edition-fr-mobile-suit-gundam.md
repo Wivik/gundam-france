@@ -10,7 +10,7 @@ MS Gundam 1 - DVD
 -----------------
 
 
-[![dvdmsg1.jpg](/images/stories/boutique/images/dvd/dvdmsg1.jpg)](http://www.amazon.fr/exec/obidos/ASIN/B0007ZK3LO/gundamfrance-21)**Fiche Technique**
+[](http://www.amazon.fr/exec/obidos/ASIN/B0007ZK3LO/gundamfrance-21)**Fiche Technique**
 
 
 * Sortie le 16 juin 2005
@@ -43,7 +43,7 @@ Après avoir passé le logo de Beez, nous avons une invite nous demandant le men
 Nous avons droit au choix de la version audio : Japonaise et Japonaise en 5.1 ! ensuite le film est découpé en 14 "épisodes", générique de fin inclus.
 
 
-![menu1_1.jpg](/images/mini/images-stories-saga-msgundam-images-dvd-_tb_150x120_menu1_1.jpg)![menu1_2.jpg](/images/mini/images-stories-saga-msgundam-images-dvd-_tb_150x_menu1_2.jpg)![menu1_4.jpg](/images/mini/images-stories-saga-msgundam-images-dvd-_tb_150x_menu1_4.jpg)![menu1_6.jpg](/images/mini/images-stories-saga-msgundam-images-dvd-_tb_150x_menu1_6.jpg)
+
 
 
 ### Suppléments
@@ -58,7 +58,7 @@ Ne vous attendez pas à énormément de choses... L'âge du film accuse le fait 
 Nous avons droit à l'illustration de Yasuhiko Yoshikazu sur la couverture. L'ensemble est très classique sans grandes fioritures. Derrière, nous avons le résumé avec des captures d'écran. Classique donc. Beez inclus un livret de ses prochaines sorties.
 
 
-![dvd1.jpg](/images/mini/images-stories-saga-msgundam-images-dvd-_tb_150x_dvd1.jpg)![galette1.jpg](/images/mini/images-stories-saga-msgundam-images-dvd-_tb_150x_galette1.jpg)
+
 
 
 ### Image et Son
@@ -68,7 +68,7 @@ L'image est nette. Certes le film est vieux et usé, mais nous avons droit à un
 Concernant le son, Beez nous gâte avec une très belle bande audio en 5.1 qui nous immerge encore plus dans ce magnifique film. La seconde piste audio en 2.1 reste aussi agréable.
 
 
-![sc1_1.jpg](/images/mini/images-stories-saga-msgundam-images-dvd-_tb_150x_sc1_1.jpg)![sc1_2.jpg](/images/mini/images-stories-saga-msgundam-images-dvd-_tb_150x_sc1_2.jpg)![sc1_3.jpg](/images/mini/images-stories-saga-msgundam-images-dvd-_tb_150x_sc1_3.jpg)![sc1_4.jpg](/images/mini/images-stories-saga-msgundam-images-dvd-_tb_150x_sc1_4.jpg)
+
 
 
 ### Adaptation et traduction
@@ -88,7 +88,7 @@ Test DVD MS Gundam II
 ---------------------
 
 
-![dvd2.jpg](/images/mini/images-stories-saga-msgundam-images-dvd-_tb_150x_dvd2.jpg)**Fiche Technique** 
+**Fiche Technique** 
 
 
 * Mobile Suit Gundam vol.2
@@ -122,7 +122,7 @@ Après avoir passé le logo de Beez, nous avons une invite nous demandant le men
 Nous avons droit au choix de la version audio : Japonaise et Japonaise en 5.1 ! ensuite le film est découpé en 14 "épisodes", générique de fin inclus.
 
 
-![menu2_4.jpg](/images/mini/images-stories-saga-msgundam-images-dvd-_tb_150x_menu2_4.jpg)![menu2_6.jpg](/images/mini/images-stories-saga-msgundam-images-dvd-_tb_150x_menu2_6.jpg)![menu2_5.jpg](/images/mini/images-stories-saga-msgundam-images-dvd-_tb_150x_menu2_5.jpg)
+
 
 
 ### Suppléments
@@ -140,7 +140,7 @@ Nous avons droit à l'illustration de Yasuhiko Yoshikazu sur la couverture. L'en
  
 
 
-![galette2.jpg](/images/mini/images-stories-saga-msgundam-images-dvd-_tb_150x_galette2.jpg)
+
 
 
 ### Image et Son
@@ -150,7 +150,7 @@ L'image est nette. Certes le film est vieux et usé, mais nous avons droit à un
 Concernant le son, Beez nous gâte avec une très belle bande audio en 5.1 qui nous immerge encore plus dans ce magnifique film. La seconde piste audio en 2.1 reste aussi agréable.
 
 
-![sc2_1.jpg](/images/mini/images-stories-saga-msgundam-images-dvd-_tb_150x_sc2_1.jpg)![sc2_2.jpg](/images/mini/images-stories-saga-msgundam-images-dvd-_tb_150x_sc2_2.jpg)![sc2_3.jpg](/images/mini/images-stories-saga-msgundam-images-dvd-_tb_150x_sc2_3.jpg)![sc2_4.jpg](/images/mini/images-stories-saga-msgundam-images-dvd-_tb_150x_sc2_4.jpg)
+
 
 
 ### Adaptation et traduction
@@ -169,7 +169,7 @@ Test DVD MS Gundam  III
 -----------------------
 
 
-![dvd3.jpg](/images/mini/images-stories-saga-msgundam-images-dvd-_tb_150x_dvd3.jpg)**Fiche Technique** 
+**Fiche Technique** 
 
 
 * Sortie le 12 juillet 2005
@@ -200,7 +200,7 @@ Après avoir passé le logo de Beez, nous avons une invite nous demandant le men
 Nous avons droit au choix de la version audio : Japonaise et Japonaise en 5.1 ! ensuite le film est découpé en 14 "épisodes", générique de fin inclus.
 
 
-![menu3_4.jpg](/images/mini/images-stories-saga-msgundam-images-dvd-_tb_150x_menu3_4.jpg)![menu2_6.jpg](/images/mini/images-stories-saga-msgundam-images-dvd-_tb_150x_menu2_6.jpg)![menu3_5.jpg](/images/mini/images-stories-saga-msgundam-images-dvd-_tb_150x_menu3_5.jpg)
+
 
 
 ### Suppléments
@@ -215,7 +215,7 @@ Ne vous attendez pas à énormément de choses... L'âge du film accuse le fait 
 Nous avons droit à l'illustration de Yasuhiko Yoshikazu sur la couverture. L'ensemble est très classique sans grandes fioritures. Derrière, nous avons le résumé avec des captures d'écran. Classique donc. Beez inclus un livret de ses prochaines sorties.
 
 
-![galette3.jpg](/images/mini/images-stories-saga-msgundam-images-dvd-_tb_150x_galette3.jpg)
+
 
 
 ### Image et Son
@@ -225,7 +225,7 @@ L'image est nette. Certes le film est vieux et usé, mais nous avons droit à un
 Concernant le son, Beez nous gâte encore avec la très belle bande audio en 5.1 qui nous immerge encore plus dans ce magnifique film. La seconde piste audio en 2.1 reste aussi agréable.
 
 
-![sc3_1.jpg](/images/mini/images-stories-saga-msgundam-images-dvd-_tb_150x_sc3_1.jpg)![sc3_2.jpg](/images/mini/images-stories-saga-msgundam-images-dvd-_tb_150x_sc3_2.jpg)![sc3_3.jpg](/images/mini/images-stories-saga-msgundam-images-dvd-_tb_150x_sc3_3.jpg)![sc3_4.jpg](/images/mini/images-stories-saga-msgundam-images-dvd-_tb_150x_sc3_4.jpg)
+
 
 
 ### Adaptation et traduction

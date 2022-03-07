@@ -7,7 +7,7 @@ Classe Amalthea
 
 
 
-![Classe Amalthea](/images/stories/saga/vgundam/mechas/amalthea.png)
+
 
 [Classe Amalthea](javascript:change_image_m('images/stories/saga/vgundam/mechas/amalthea.png');)
 

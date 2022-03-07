@@ -5,7 +5,7 @@ title: Domon Kasshu
 Domon Kasshu
 ------------
 
-![domonkasshu_1.jpg](/images/stories/saga/ggundam/images/persos/domonkasshu_1.jpg)Domon Kasshu   
+Domon Kasshu   
 - Age : 20 ans (né le 24 juillet FC 39)   
 - Rôle : Représentant de Neo Japan.   
 - Mobile Fighter : Shining Gundam, God Gundam.   

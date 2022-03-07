@@ -5,7 +5,7 @@ title: XM-04 Berga Dalas
 XM-04 Berga Dalas
 -----------------
 
-![bergadalas](/images/stories/saga/F91/mechas/crossbone/bergadalas.gif)
+
 
 
 XM-04 Berga Dalas   

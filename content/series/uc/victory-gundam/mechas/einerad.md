@@ -7,7 +7,7 @@ Einerad
 
 
 
-![Einerad](/images/stories/saga/vgundam/mechas/einerad.png)
+
 
 [Einerad](javascript:change_image_m('images/stories/saga/vgundam/mechas/einerad.png');)
 

@@ -5,7 +5,7 @@ title: Rezin Schnyder
 Rezin Schnyder
 --------------
 
-![rezin.jpg](/images/stories/saga/charcontreattaque/persos/rezin.jpg)
+
 Age : ?? ans  
 Rôle : Pilote de Neo Zeon  
 Signe particulier : NewType  

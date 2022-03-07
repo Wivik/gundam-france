@@ -6,7 +6,7 @@ Yu Kajima
 ---------
 
 
-![yu.jpg](/images/stories/saga/bluedestiny/persos/yu.jpg)
+
 Chef d'une esquadrille de pilotes d'essais pour la Fédération, Yu et son équipe se verront confrontés à un 
 GM incontrollable, le RX-79BD-1.
   

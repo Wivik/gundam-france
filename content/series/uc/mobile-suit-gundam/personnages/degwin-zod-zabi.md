@@ -6,7 +6,7 @@ Degwin Sodo Zabi
 ----------------
 
 
-![degin.jpg](/images/stories/saga/msgundam/images/zeon/degin.jpg)- Âge : 62 ans (né en UC 0017)  
+- Âge : 62 ans (né en UC 0017)  
 - Fonctions : Leader de Zeon  
 - Origines : Side 3  
   

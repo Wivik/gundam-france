@@ -6,7 +6,7 @@ Takuya Irei
 -----------
 
 
-![takuya](/images/stories/saga/unicorn/persos/civils/takuya.jpg)- Age : 16 ans  
+- Age : 16 ans  
 - Voix Japonaise : Hiro Shimono
 
 

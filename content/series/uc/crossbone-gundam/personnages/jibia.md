@@ -5,7 +5,7 @@ title: Jibia
 Jibia
 -----
 
-![jibia](/images/stories/manga/crossbone/ms/jibia.jpg) 
+ 
 
 
 ### Fiche Technique

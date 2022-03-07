@@ -2,8 +2,8 @@
 title: 'After War : Gundam X'
 ---
 
-![layer dossiers](/images/stories/saga/gundamx/layer_dossiers.jpg)
-![index.jpg](/images/mini/images-stories-saga-gundamx-images-_tb_x150_index.jpg)
+
+
 
 
 Sortie en 1996, Gundam X fut une des séries qui ne trouva pas son public au Japon. La raison est relativement simple, la série n'a pas réalisée l'audience attendue, sa diffusion fut décalée et le succès n'était toujours pas au rendez-vous, elle connu donc le même destin tragique que MS Gundam première du nom. Succédant à Gundam Wing, elle dure 39 épisodes, elle n'a jamais quitté le Japon à l'heure où cet article est rédigé. Elle a eu droit en 2005 à une excellente réédition DVD du type "Memorial Box" avec un artbook d'illustrations exclusives et des suppléments intéressants.
@@ -24,11 +24,11 @@ Mais lorsqu'il voulu la remettre à celui qui lui avait demandé, Tiffa se mit �
 Après le combat, les Vultures arrivèrent avec deux autres Gundam, un Airmaster et un Leopard, et le combat s'enclenche aussi...
 
 
-![intro1](/images/mini/images-stories-saga-gundamx-_tb_x130_intro1.jpg) ![intro2](/images/mini/images-stories-saga-gundamx-_tb_x130_intro2.jpg) ![intro3](/images/mini/images-stories-saga-gundamx-_tb_x130_intro3.jpg)
+
 ### Aperçu
 
 
-![intro.jpg](/images/stories/saga/gundamx/images/intro.jpg)Le scénario de Gundam X peut se révéler captivant si l'on est pas un public trop exigeant. Beaucoup trouveront que l'histoire est plate, les personnages ennuyeux... Le majeur inconvénient de cette série, c'est sa lenteur pour se mettre en place. L'intrigue réelle est longue à arriver. Il faut bien attendre la moitié de la série avant de pouvoir découvrir son vrai potentiel. Néanmoins, Gundam X est bien la seule série non-UC à baser son intrigue sur les NewTypes.
+Le scénario de Gundam X peut se révéler captivant si l'on est pas un public trop exigeant. Beaucoup trouveront que l'histoire est plate, les personnages ennuyeux... Le majeur inconvénient de cette série, c'est sa lenteur pour se mettre en place. L'intrigue réelle est longue à arriver. Il faut bien attendre la moitié de la série avant de pouvoir découvrir son vrai potentiel. Néanmoins, Gundam X est bien la seule série non-UC à baser son intrigue sur les NewTypes.
 
 
 La réalisation de Gundam X est dans l'ensemble réussie. Elle n'est certes pas mémorable, mais elle est plus travaillée que la précédente série Gundam Wing. Animation fluide, le niveau de détail et le dessin sont respectables. Certes pas un bijou de technologie d'animation, mais une série agréable visuellement.
@@ -43,7 +43,7 @@ Passons sur le mecha-design de la série qui est très intéressant. Si l'ont re
 Musicalement, Gundam X a des thèmes qui donnent l'ambiance sombre de la série, mais en gardant une touche d'espoir et de lendemain. Bien que les musiques se fondent par moment entre elles et se perdent un peu, la plupart des compositions restent très agréables. La série se gratifie de 2 magnifiques génériques créés par ROmantic Mode. Ainsi que de trois génériques de fin calmes, voire mélancolique pour Human Touch.
 
 
-![banniere](/images/stories/saga/gundamx/banniere.jpg)
+
 ### Conclusion
 
 

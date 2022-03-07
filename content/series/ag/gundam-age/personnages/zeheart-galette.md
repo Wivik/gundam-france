@@ -5,7 +5,7 @@ title: "Zeheart Galette"
 Zeheart Galette
 ---------------
 
-![zeheart](/images/stories/saga/gundamage/persos/zeheart.png)
+
 - Rôle : Pilote du Zedas R  
 - Origines : Veigan  
 - Voix Japonaise : Hiroshi Kamiya

@@ -13,7 +13,7 @@ Tohru Furuya
  
 
 
-![furuya](/images/stories/Encyclopedie/biographies/furuya.jpg)Tohru Furuya est un grand vétéran du doublage d'animés au Japon, très connu pour des rôles de protagonistes dans de mythiques séries.
+Tohru Furuya est un grand vétéran du doublage d'animés au Japon, très connu pour des rôles de protagonistes dans de mythiques séries.
 
 
 Dans sa jeunesse, il a participé à une troupe d'enfants comédiens du nom de Gekidan Himawari où il pu faire ses premiers pas dans le jeu d'acteur. Par la suite il s'illustre dans le doublage de personnages d'animation et aura de grands rôles dont de nombreux personnages principaux au sein de la société Aoni Production.

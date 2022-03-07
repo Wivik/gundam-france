@@ -5,7 +5,7 @@ title: "RX-93 v2 Hi-v Gundam"
 RX-93 v2 Hi-v Gundam
 --------------------
 
-![hinu](/images/stories/saga/gunplabuilders/mechas/hinu.png)
+
 
 
 RX-93 *v*2 Hi-*v* Gundam

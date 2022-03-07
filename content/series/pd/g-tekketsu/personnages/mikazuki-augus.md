@@ -6,7 +6,7 @@ Mikazuki Augus
 --------------
 
 
-php include("data/rgrp\_persos/mikazuki-augus.html"); ?![Mikazuki Augus](/images/stories/saga/g-tekketsu/persos/mikazuki-augus.png)
+php include("data/rgrp\_persos/mikazuki-augus.html"); ?
 
 
 * Origine : Mars

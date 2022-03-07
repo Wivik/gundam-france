@@ -5,7 +5,7 @@ title: "AGE-FX Gundam AGE-FX"
 AGE-FX Gundam AGE-FX
 --------------------
 
-![agefx](/images/stories/saga/gundamage/mechas/agefx.png) 
+ 
 
 
 ### Fiche Technique
@@ -67,16 +67,16 @@ Le Gundam AGE-FX sera déployé pour la première fois lors de la bataille de re
 Base Technologique
 
 
-![age2.png](/images/stories/saga/gundamage/mechas/mini/age2.png)
+
 [AGE-2 Gundam AGE-2](ag/gundam-age/age-2-gundam-age-2.html)
 Evolution Technologique
 
 
-![age3.png](/images/stories/saga/gundamage/mechas/mini/age3.png)
+
 [AGE-3 Gundam AGE-3](ag/gundam-age/age-3-gundam-age-3.html)
 Evolution Technologique
 
 
-![agefx.png](/images/stories/saga/gundamage/mechas/mini/agefx.png)
+
 [AGE-FX Gundam AGE-FX](ag/gundam-age/age-fx-gundam-age-fx.html)
 

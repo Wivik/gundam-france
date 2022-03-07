@@ -6,7 +6,7 @@ Kaiser Pinefield
 ----------------
 
 
-![Kaiser Pinefield](/images/stories/saga/sentinel/persos/kaiserpinefield.jpg)
+
 * Age : 63
 * Rôle : Maire d'Aires City
 * Origines : Lune

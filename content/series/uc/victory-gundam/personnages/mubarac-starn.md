@@ -6,7 +6,7 @@ Mubarac Starn
 -------------
 
 
-![Mubarac Starn](/images/stories/saga/vgundam/persos/mubarac-starn.png)
+
 * Rôle : Commandant de flotte spatiale fédérale
 
 

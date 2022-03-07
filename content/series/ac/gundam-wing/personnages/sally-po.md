@@ -5,7 +5,7 @@ title: Sally Po
 Sally Po
 --------
 
-![sally](/images/stories/saga/gundamwing/persos/sally.jpg)Sally Po  
+Sally Po  
   
 Age : 19  
 Couleur de cheveux : Chatin  

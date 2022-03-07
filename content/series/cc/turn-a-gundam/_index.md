@@ -2,7 +2,7 @@
 title: Turn A Gundam
 ---
 
-![layer dossiers](/images/stories/saga/turnagundam/layer_dossiers.jpg)
+
 ![index.jpg](/images/stories/saga/turnagundam/index.jpg "index.jpg")Il aura fallu cinq ans pour que Yoshiyuki Tomino revienne sur la Saga Gundam, avec la très contestée ∀, dit Turn A, Gundam. Sortie en 1999, Turn A Gundam se déroule sur 50 épisodes qui ont enchainé une paire de films récapitulatifs comme dans la grande tradition des films Gundam. Réalisée pour le 20eme anniversaire de la Saga, Turn A nous propulse dans un univers où la Terre a régressé à une ère industrielle façon début du XXème siècle. Le plus surprenant dans ∀ Gundam reste le fameux Turn A designé par Syd Mead. Sa vision d'un Gundam est fort peu orthodoxe comparée au design classique. Le Gundam Moustachu comme il est surnommé, a rebuté bon nombre de fans.
 
 
@@ -18,7 +18,7 @@ Deux ans après donc, ils sont intégrés dans la société. Loran, l'un d'eux, 
 Au coeur de tout cela, Loran ne saura plus trop quoi penser, lui-même étant Moonrace, engagé dans la Milice, et devant aussi répondre à son idéal de paix entre les deux peuples. C'est le début d'une guerre où chaque camp a sa part de trahison et de tragédie...
 
 
-![Loran bien maladroit.](/images/stories/saga/turnagundam/intro1.jpg)![Gundam à l'ère industrielle, un choc !](/images/stories/saga/turnagundam/intro2.jpg)![La Lune cache bien des mystères...](/images/stories/saga/turnagundam/intro3.jpg)
+
 ### Aperçu
 
 
@@ -43,7 +43,7 @@ Dernière touche sur l'ambiance musicale de la série. Turn A propose un OST sig
 Turn A Gundam fait partie d'un officieux ensemble de séries réalisées par Yoshiyuki Tomino qui n'ont pas réussi à séduire leur public à leur sortie. En effet, peu avant Turn A, Tomino réalisa Brain Powerd qui était travaillée par une équipe équivalente et avec des membres tout aussi prestigieux. Cette série eut des grandes difficultés pour trouver son public, tout comme Overman King Gainer réalisée peu de temps après Turn A Gundam. Toutes ces séries, contestées à leur arrivée, ont fini par gagner un ensemble de fans et avec le temps elles ont réussi à obtenir une meilleure estime. Un cas qui s'est également répété quinze années plus tard dans la Saga Gundam avec la série Gundam Reconguista in G, elle aussi créée par Yoshiyuki Tomino.
 
 
-![banniere](/images/stories/saga/turnagundam/banniere.jpg)
+
 ### Conclusion
 
 

@@ -6,7 +6,7 @@ Belle Kranskie
 --------------
 
 
-![Belle Kranskie](/images/stories/saga/vgundam/persos/belle-kranskie.png)
+
 * Origines : Hiland
 
 

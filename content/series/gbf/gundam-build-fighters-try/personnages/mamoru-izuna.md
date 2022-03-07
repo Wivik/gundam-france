@@ -6,7 +6,7 @@ Mamoru Izuna
 ------------
 
 
-![Mamoru Izuna](/images/stories/saga/gundambftry/persos/mamoru-izuna.png)
+
 
 
 * Voix Japonaise : Miyuki Kobori

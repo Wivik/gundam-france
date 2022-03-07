@@ -6,7 +6,7 @@ Sei Iori
 --------
 
 
-![Sei Iori](/images/stories/saga/gundambf/persos/sei.png)
+
 
 
 * Voix Japonaise : Mikako Komatsu

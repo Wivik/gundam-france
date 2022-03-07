@@ -6,7 +6,7 @@ Gundam The End
 --------------
 
 
-![Gundam Jendo](/images/stories/saga/gundambftry/mechas/gundam-jendo.png)
+
 
 
 ### Fiche Technique

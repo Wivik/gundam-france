@@ -69,7 +69,7 @@ Le ZM-S24G Gedlav a été spécialement conçu pour la campagne terrestre de BES
 
 
 
-![Beam Rifle](/images/stories/saga/vgundam/mechas/zm-s24g-beamrifle.jpg)
+
 
 [Beam Rifle](javascript:accessoires_m('images/stories/saga/vgundam/mechas/zm-s24g-beamrifle.jpg');)
 [Beam Saber](javascript:accessoires_m('images/stories/saga/vgundam/mechas/zm-s24g-beamsaber.jpg');)

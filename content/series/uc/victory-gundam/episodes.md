@@ -22,9 +22,9 @@ Uso est aux prises avec Cronicle Asher après lui avoir volé son Shokew, un MS 
 
 
 
-![Shiroi Mobile Suit](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_01-1.jpg)
-![Shiroi Mobile Suit](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_01-2.jpg)
-![Shiroi Mobile Suit](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_01-3.jpg)
+
+
+
 
 
 
@@ -41,9 +41,9 @@ Cet événement changera sa vie à tout jamais.
 
 
 
-![Machin to atta nichi](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_02-1.jpg)
-![Machin to atta nichi](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_02-2.jpg)
-![Machin to atta nichi](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_02-3.jpg)
+
+
+
 
 
 
@@ -58,9 +58,9 @@ Uso arrive à Woowig, une ville qui cachait des usines pour la Ligue Militaire o
 
 
 
-![Uso no tatakai](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_03-1.jpg)
-![Uso no tatakai](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_03-2.jpg)
-![Uso no tatakai](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_03-3.jpg)
+
+
+
 
 
 
@@ -75,9 +75,9 @@ Le BESPA met en place une opération pour récupérer le Shokew des mains de la 
 
 
 
-![Tatakai wa dare notameno](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_04-1.jpg)
-![Tatakai wa dare notameno](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_04-2.jpg)
-![Tatakai wa dare notameno](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_04-3.jpg)
+
+
+
 
 
 
@@ -94,9 +94,9 @@ Après avoir effectué son premier combat avec le Victory Gundam, La Ligue Milit
 
 
 
-![Godzorla no hangeki](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_05-1.jpg)
-![Godzorla no hangeki](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_05-2.jpg)
-![Godzorla no hangeki](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_05-3.jpg)
+
+
+
 
 
 
@@ -111,9 +111,9 @@ Uso se retrouve attaqué par 3 Zolo. Le convoi parvient à lui offrir un soutien
 
 
 
-![Senshi no kagayaki](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_06-1.jpg)
-![Senshi no kagayaki](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_06-2.jpg)
-![Senshi no kagayaki](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_06-3.jpg)
+
+
+
 
 
 
@@ -128,9 +128,9 @@ Uso quitte le convoi, inquiet pour Shahkti, mais celui-ci se retrouve attaqué d
 
 
 
-![Guillotine no oto](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_07-1.jpg)
-![Guillotine no oto](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_07-2.jpg)
-![Guillotine no oto](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_07-3.jpg)
+
+
+
 
 
 
@@ -162,9 +162,9 @@ Désormais dans l'impossibilité de rester chez eux à cause de la présence du 
 
 
 
-![Tabidachi](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_09-1.jpg)
-![Tabidachi](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_09-2.jpg)
-![Tabidachi](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_09-3.jpg)
+
+
+
 
 
 
@@ -196,9 +196,9 @@ Le Convoi est arrivé à sa destination terrestre et s'apprête à embarquer dan
 
 
 
-![Shrike Tai no Bouheki](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_11-1.jpg)
-![Shrike Tai no Bouheki](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_11-2.jpg)
-![Shrike Tai no Bouheki](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_11-3.jpg)
+
+
+
 
 
 
@@ -213,9 +213,9 @@ En vol pour Gibraltar, la Ligue Militaire est une nouvelle fois attaquée par le
 
 
 
-![Guillotine wo funsai seyo](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_12-1.jpg)
-![Guillotine wo funsai seyo](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_12-2.jpg)
-![Guillotine wo funsai seyo](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_12-3.jpg)
+
+
+
 
 
 
@@ -230,9 +230,9 @@ La Ligue Militaire est arrivée à Gibraltar où la compagnie PSTC censée être
 
 
 
-![Gibraltar kuuiki](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_13-1.jpg)
-![Gibraltar kuuiki](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_13-2.jpg)
-![Gibraltar kuuiki](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_13-3.jpg)
+
+
+
 
 
 
@@ -247,9 +247,9 @@ Katejina Loos part pour l'espace avec Fuala Glifon et Cronicle Asher. Alors que 
 
 
 
-![Gibraltar koubou](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_14-1.jpg)
-![Gibraltar koubou](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_14-2.jpg)
-![Gibraltar koubou](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_14-3.jpg)
+
+
+
 
 
 
@@ -264,9 +264,9 @@ Uso et Marbet ont décollé vers l'espace avec le V Gundam à bord d'une navette
 
 
 
-![Space dust](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_15-1.jpg)
-![Space dust](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_15-2.jpg)
-![Space dust](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_15-3.jpg)
+
+
+
 
 
 
@@ -281,9 +281,9 @@ Le Reinforce, vaisseau de la Fédération ayant rejoint la Ligue Militaire, déc
 
 
 
-![Reinforce fujou](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_16-1.jpg)
-![Reinforce fujou](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_16-2.jpg)
-![Reinforce fujou](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_16-3.jpg)
+
+
+
 
 
 
@@ -298,9 +298,9 @@ Il s'agit d'un épisode résumé sous la forme de rapport d'activité de l'invas
 
 
 
-![Teikoku no joou](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_17-1.jpg)
-![Teikoku no joou](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_17-2.jpg)
-![Teikoku no joou](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_17-3.jpg)
+
+
+
 
 
 
@@ -315,9 +315,9 @@ Uso et la Ligue Militaire livrent leur première grande bataille dans l'espace, 
 
 
 
-![Uchuu kantaisen](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_18-1.jpg)
-![Uchuu kantaisen](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_18-2.jpg)
-![Uchuu kantaisen](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_18-3.jpg)
+
+
+
 
 
 
@@ -332,9 +332,9 @@ Lors du dernier combat, Shahkti, Suze, Karlmann et Flandars ont été expulsés 
 
 
 
-![Shahkti wo sagase](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_19-1.jpg)
-![Shahkti wo sagase](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_19-2.jpg)
-![Shahkti wo sagase](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_19-3.jpg)
+
+
+
 
 
 
@@ -349,9 +349,9 @@ La Ligue Militaire s'apprête à attaquer la flotte du BESPA qui menace la Terre
 
 
 
-![Kessen zenya](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_20-1.jpg)
-![Kessen zenya](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_20-2.jpg)
-![Kessen zenya](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_20-3.jpg)
+
+
+
 
 
 
@@ -366,9 +366,9 @@ Uso et la Ligue Militaire mènent leur grand combat et celui-ci comprendra la di
 
 
 
-![Senryaku eisei wo tatake](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_21-1.jpg)
-![Senryaku eisei wo tatake](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_21-2.jpg)
-![Senryaku eisei wo tatake](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_21-3.jpg)
+
+
+
 
 
 
@@ -383,9 +383,9 @@ En chemin pour Side-2, Uso, Odelo, Warren et les enfants d'Hiland tombent sur l'
 
 
 
-![Uchuu no tora](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_22-1.jpg)
-![Uchuu no tora](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_22-2.jpg)
-![Uchuu no tora](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_22-3.jpg)
+
+
+
 
 
 
@@ -400,9 +400,9 @@ Désormais proches de la colonie où se trouve la Terre mère de Zanscare, Uso e
 
 
 
-![Zanscare sennyuu](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_23-1.jpg)
-![Zanscare sennyuu](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_23-2.jpg)
-![Zanscare sennyuu](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_23-3.jpg)
+
+
+
 
 
 
@@ -417,9 +417,9 @@ Après avoir déposé Martina chez un docteur de Zanscare, Uso, Odelo et Warren 
 
 
 
-![Shuto koubou](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_24-1.jpg)
-![Shuto koubou](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_24-2.jpg)
-![Shuto koubou](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_24-3.jpg)
+
+
+
 
 
 
@@ -434,9 +434,9 @@ La Ligue Militaire a lancé une attaque contre la colonie Amelia de Side-2, prov
 
 
 
-![Tekikan to tekichi he](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_25-1.jpg)
-![Tekikan to tekichi he](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_25-2.jpg)
-![Tekikan to tekichi he](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_25-3.jpg)
+
+
+
 
 
 
@@ -451,9 +451,9 @@ Uso et Marbet se sont infiltrés dans un des spatioports de Zanscare mais sont r
 
 
 
-![Maria to Uso](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_26-1.jpg)
-![Maria to Uso](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_26-2.jpg)
-![Maria to Uso](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_26-3.jpg)
+
+
+
 
 
 
@@ -468,9 +468,9 @@ Après avoir quitté la colonie Amelia, une nouvelle bataille fait rage en exté
 
 
 
-![Uchuu wo hashiru senkou](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_27-1.jpg)
-![Uchuu wo hashiru senkou](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_27-2.jpg)
-![Uchuu wo hashiru senkou](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_27-3.jpg)
+
+
+
 
 
 
@@ -485,9 +485,9 @@ Après leur combat contre Zanscare et le succès de leur attaque, la Ligue Milit
 
 
 
-![Daidassou](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_28-1.jpg)
-![Daidassou](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_28-2.jpg)
-![Daidassou](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_28-3.jpg)
+
+
+
 
 
 
@@ -502,9 +502,9 @@ Uso et capturé par la BESPA et celle-ci pense qu'il est un NewType en devenir. 
 
 
 
-![Atarashi Suit V2](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_29-1.jpg)
-![Atarashi Suit V2](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_29-2.jpg)
-![Atarashi Suit V2](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_29-3.jpg)
+
+
+
 
 
 
@@ -519,9 +519,9 @@ Le Reinforce Junior et le White Ark sont en route pour la ville Lunaire de Saint
 
 
 
-![Haha no Gundam](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_30-1.jpg)
-![Haha no Gundam](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_30-2.jpg)
-![Haha no Gundam](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_30-3.jpg)
+
+
+
 
 
 
@@ -536,9 +536,9 @@ La grande flotte d'invasion terrestre du BESPA est stationnée sur la Lune et s'
 
 
 
-![Motorad hasshin](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_31-1.jpg)
-![Motorad hasshin](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_31-2.jpg)
-![Motorad hasshin](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_31-3.jpg)
+
+
+
 
 
 
@@ -553,9 +553,9 @@ Très affectée par la mort d'Oliver, Marbet a un comportement sur le champ de b
 
 
 
-![Doggorla geki susumu](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_32-1.jpg)
-![Doggorla geki susumu](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_32-2.jpg)
-![Doggorla geki susumu](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_32-3.jpg)
+
+
+
 
 
 
@@ -570,9 +570,9 @@ Le Reinforce Junior a réussi à retourner sur Terre avec tout son équipage. Su
 
 
 
-![Umi ni sumu hitobito](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_33-1.jpg)
-![Umi ni sumu hitobito](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_33-2.jpg)
-![Umi ni sumu hitobito](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_33-3.jpg)
+
+
+
 
 
 
@@ -587,9 +587,9 @@ L'escadron Motorad du BESPA a lancé son opération de nettoyage de la Terre en 
 
 
 
-![Kyodai Roller Sakusen](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_34-1.jpg)
-![Kyodai Roller Sakusen](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_34-2.jpg)
-![Kyodai Roller Sakusen](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_34-3.jpg)
+
+
+
 
 
 
@@ -604,9 +604,9 @@ La Ligue Militaire a orchestré une infiltration du vaisseau amiral de la flotte
 
 
 
-![Haha ka Shahkti ka](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_35-1.jpg)
-![Haha ka Shahkti ka](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_35-2.jpg)
-![Haha ka Shahkti ka](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_35-3.jpg)
+
+
+
 
 
 
@@ -621,9 +621,9 @@ La bataille contre la flotte du Motorad vire à l'horreur avec des prises d'otag
 
 
 
-![Haha yo daichi ni kaere](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_36-1.jpg)
-![Haha yo daichi ni kaere](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_36-2.jpg)
-![Haha yo daichi ni kaere](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_36-3.jpg)
+
+
+
 
 
 
@@ -638,9 +638,9 @@ La Fédération et Zanscare ont signé un cessez-le-feu et l'équipe du White Ar
 
 
 
-![Gyakushuu Twinrad](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_37-1.jpg)
-![Gyakushuu Twinrad](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_37-2.jpg)
-![Gyakushuu Twinrad](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_37-3.jpg)
+
+
+
 
 
 
@@ -655,9 +655,9 @@ La poursuite du White Ark se fait jusqu'à la mer du nord qui contient beaucoup 
 
 
 
-![Hokkai wo Honoo nisomete](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_38-1.jpg)
-![Hokkai wo Honoo nisomete](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_38-2.jpg)
-![Hokkai wo Honoo nisomete](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_38-3.jpg)
+
+
+
 
 
 
@@ -672,9 +672,9 @@ Le White Ark est de retour à Kasadelia et l'équipage profite de ce moment de r
 
 
 
-![Hikari no tsubasa no uta](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_39-1.jpg)
-![Hikari no tsubasa no uta](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_39-2.jpg)
-![Hikari no tsubasa no uta](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_39-3.jpg)
+
+
+
 
 
 
@@ -689,9 +689,9 @@ Le Reinforce Junior et le White Ark se préparent à l'ancienne base de Lagraine
 
 
 
-![Choukou sora kougeki no shita](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_40-1.jpg)
-![Choukou sora kougeki no shita](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_40-2.jpg)
-![Choukou sora kougeki no shita](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_40-3.jpg)
+
+
+
 
 
 
@@ -706,9 +706,9 @@ Le Reinforce Junior et le White Ark sont repartis dans l'espace et sont arrivés
 
 
 
-![Chichi no tsukutta senjou](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_41-1.jpg)
-![Chichi no tsukutta senjou](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_41-2.jpg)
-![Chichi no tsukutta senjou](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_41-3.jpg)
+
+
+
 
 
 
@@ -723,9 +723,9 @@ La première grande bataille spatiale commence pour la Ligue Militaire et la Fé
 
 
 
-![Senketsu wa hikari no uzu ni](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_42-1.jpg)
-![Senketsu wa hikari no uzu ni](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_42-2.jpg)
-![Senketsu wa hikari no uzu ni](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_42-3.jpg)
+
+
+
 
 
 
@@ -740,9 +740,9 @@ La White Ark est de nouveau attaqué par Fuala et ses perturbantes clochettes an
 
 
 
-![Senjou no suisei Fuala](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_43-1.jpg)
-![Senjou no suisei Fuala](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_43-2.jpg)
-![Senjou no suisei Fuala](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_43-3.jpg)
+
+
+
 
 
 
@@ -757,9 +757,9 @@ Se faisant passer pour un vaisseau pirate à la dérive, le White Ark parvient �
 
 
 
-![Ai wa hikari no hate ni](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_44-1.jpg)
-![Ai wa hikari no hate ni](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_44-2.jpg)
-![Ai wa hikari no hate ni](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_44-3.jpg)
+
+
+
 
 
 
@@ -774,9 +774,9 @@ Le Angel Halo est activé pour la première fois et Uso fait partie de ceux qui 
 
 
 
-![Genkaku ni odoru Uso](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_45-1.jpg)
-![Genkaku ni odoru Uso](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_45-2.jpg)
-![Genkaku ni odoru Uso](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_45-3.jpg)
+
+
+
 
 
 
@@ -791,9 +791,9 @@ Tassile lance sa phase de prise de pouvoir en prenant en otage la reine Maria Pu
 
 
 
-![Tassilo hanran](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_46-1.jpg)
-![Tassilo hanran](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_46-2.jpg)
-![Tassilo hanran](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_46-3.jpg)
+
+
+
 
 
 
@@ -808,9 +808,9 @@ A la suite de la révolte de Tassilo, le chaos règne parmi les différentes fac
 
 
 
-![Onna tachi no senjou](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_47-1.jpg)
-![Onna tachi no senjou](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_47-2.jpg)
-![Onna tachi no senjou](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_47-3.jpg)
+
+
+
 
 
 
@@ -825,9 +825,9 @@ La révolte de Tassilo prend terme avec la destruction de sa flotte et la mort d
 
 
 
-![Kie ru inochi saku inochi](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_48-1.jpg)
-![Kie ru inochi saku inochi](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_48-2.jpg)
-![Kie ru inochi saku inochi](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_48-3.jpg)
+
+
+
 
 
 
@@ -842,9 +842,9 @@ Uso décide d'infiltrer le Angel Halo pour aller récupérer Shahkti qui se trou
 
 
 
-![Tenshi no wa uede](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_49-1.jpg)
-![Tenshi no wa uede](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_49-2.jpg)
-![Tenshi no wa uede](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_49-3.jpg)
+
+
+
 
 
 
@@ -859,9 +859,9 @@ Le Angel Halo est descendu sur Terre et Shahkti a décidé de retourner dedans c
 
 
 
-![Nikushimi ga yobu taiketsu](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_50-1.jpg)
-![Nikushimi ga yobu taiketsu](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_50-2.jpg)
-![Nikushimi ga yobu taiketsu](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_50-3.jpg)
+
+
+
 
 
 
@@ -876,9 +876,9 @@ Le Angel Halo s'est séparé en de nombreux morceaux et il ne reste plus que que
 
 
 
-![Tenshi tachi no shouten](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_51-1.jpg)
-![Tenshi tachi no shouten](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_51-2.jpg)
-![Tenshi tachi no shouten](/images/mini/images-stories-saga-vgundam-episodes-_tb_x100_51-3.jpg)
+
+
+
 
 
 

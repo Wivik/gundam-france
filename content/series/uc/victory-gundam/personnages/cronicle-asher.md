@@ -6,7 +6,7 @@ Cronicle Asher
 --------------
 
 
-![Cronicle Asher](/images/stories/saga/vgundam/persos/cronicle-asher.png)
+
 
 
 * Age : 20 ans

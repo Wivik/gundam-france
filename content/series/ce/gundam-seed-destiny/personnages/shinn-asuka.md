@@ -5,7 +5,7 @@ title: Shinn Asuka
 Shinn Asuka
 -----------
 
-![shinn](/images/stories/saga/gundamseeddestiny/persos/zaft/shinn.jpg)Shinn Asuka   
+Shinn Asuka   
   
 - Age : 16  
 - Rôle : Pilote du Gundam Impulse, puis Destiny  

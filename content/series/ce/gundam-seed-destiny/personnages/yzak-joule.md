@@ -5,7 +5,7 @@ title: Yzak Joule
 Yzak Joule
 ----------
 
-![yzak](/images/stories/saga/gundamseeddestiny/persos/zaft/yzak.jpg)Yzak Joule
+Yzak Joule
 
 
 - Age : 19  

@@ -6,7 +6,7 @@ Gettle Dupré
 ------------
 
 
-![Gettle Dupré](/images/stories/saga/vgundam/persos/gettle-dupr.png)
+
 * Rôle : Commandant en second de Lagraine
 * Origines : Zanscare
 * Voix Japonaise : Ryuuzou Ishino

@@ -6,7 +6,7 @@ Christina MacKenzie
 -------------------
 
 
-![chris.jpg](/images/stories/saga/gundam0080/images/persos/chris.jpg)Christina MacKenzie   
+Christina MacKenzie   
 - Age : 21 (née le 1 mai 0058)   
 - Origine : Libot (Side-6, Bloc 35)   
 - Rôle : Pilote de la Fédération   

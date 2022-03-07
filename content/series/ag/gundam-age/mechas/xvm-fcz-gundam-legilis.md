@@ -5,7 +5,7 @@ title: "XVM-FCZ Gundam Legilis"
 XVM-FCZ Gundam Legilis
 ----------------------
 
-![legilis](/images/stories/saga/gundamage/mechas/legilis.png) 
+ 
 
 
 ### Fiche Technique

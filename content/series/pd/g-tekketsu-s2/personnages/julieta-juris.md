@@ -6,7 +6,7 @@ Julieta Juris
 -------------
 
 
-![Julieta Juris](/images/stories/saga/g-tekketsu-s2/persos/julietta-julis.png)
+
 
 
 * Fonction : Pilote de Mobile Suit

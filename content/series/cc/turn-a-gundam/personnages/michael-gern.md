@@ -6,7 +6,7 @@ Michael Gern
 ------------
 
 
-![Michael Gern](/images/stories/saga/turnagundam/persos/terriens/michael.jpg)
+
 * Rôle : Chef militaire de la Milice Inglessia
 * Origines : Terre
 * Voix Japonaise : Tetsuo Kaneo

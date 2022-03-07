@@ -5,7 +5,7 @@ title: Nicol Amarfi
 Nicol Amarfi
 ------------
 
-![nicol](/images/stories/saga/gundamseed/persos/nicol.jpg)Nicol Amarfi   
+Nicol Amarfi   
 - Age : 15 ans   
 - Fonctions : pilote du Blitz Gundam   
 - Origines : ZAFT   

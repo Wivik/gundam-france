@@ -6,7 +6,7 @@ Agrippa Maintainer
 ------------------
 
 
-![Agrippa Maintainer](/images/stories/saga/turnagundam/persos/moonrace/agrippa.jpg)
+
 * Rôle : Chancelier de la Lune
 * Origines : Lune
 * Voix Japonaise : Hiroya Ishimaru

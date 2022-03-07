@@ -5,7 +5,7 @@ title: "Lasse Aeon"
 Lasse Aeon
 ----------
 
-![lasse](/images/stories/saga/gundam00film/persos/celestialbeing/lasse.jpg)
+
 - Age : 32  
 - Fonction : Responsable artillerie  
 - Voix japonaise : Hiroki Touchi

@@ -6,7 +6,7 @@ Artesia Som Daikun
 ------------------
 
 
-![Altecia Som Daikun](/images/stories/saga/origin/persos/altecia-som-daikun.png)
+
 
 
 * Origine : Munzo

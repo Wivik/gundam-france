@@ -6,7 +6,7 @@ Classe Musai
 ------------
 
 
-[Musai](javascript:change_image_m('images/stories/saga/msgundam/mechas/musai.png');) [Falmel](javascript:change_image_m('images/stories/saga/msgundam/mechas/falmel.png');) [Iwo Jima (The Origin)](javascript:change_image_m('images/stories/saga/origin/mechas/musai-class.png ');) [Valkyrie (The Origin)](javascript:change_image_m('images/stories/saga/origin/mechas/musai-class-valkyrie.png');)      ![Musai](/images/stories/saga/msgundam/mechas/musai.png)    
+[Musai](javascript:change_image_m('images/stories/saga/msgundam/mechas/musai.png');) [Falmel](javascript:change_image_m('images/stories/saga/msgundam/mechas/falmel.png');) [Iwo Jima (The Origin)](javascript:change_image_m('images/stories/saga/origin/mechas/musai-class.png ');) [Valkyrie (The Origin)](javascript:change_image_m('images/stories/saga/origin/mechas/musai-class-valkyrie.png');)          
 
 
 ### Fiche Technique

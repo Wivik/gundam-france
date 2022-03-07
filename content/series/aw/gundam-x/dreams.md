@@ -5,7 +5,7 @@ title: Dreams
 Dreams
 ------
 
-![op3.jpg](/images/mini/images-stories-saga-gundamx-musiques-_tb_250x188_op3.jpg)
+
 * Ecriture : ROmantic Mode
 * Interpretation : ROmantic Mode
 * Arrangements : ROmantic Mode

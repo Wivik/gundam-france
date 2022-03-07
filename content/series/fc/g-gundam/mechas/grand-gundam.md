@@ -8,7 +8,7 @@ Grand Gundam
  
 
 
-![grandgundam.jpg](/images/stories/saga/ggundam/images/mechas/grandgundam.jpg)
+
 
 
 Fiche Technique   

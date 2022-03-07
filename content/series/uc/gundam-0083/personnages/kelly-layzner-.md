@@ -6,7 +6,7 @@ Kelly Layzner
 -------------
 
 
-![kelly.jpg](/images/stories/saga/gundam0083/images/persos/kelly.jpg)- Age : Inconnu   
+- Age : Inconnu   
 - Rôle : Ancien pilote de Zeon, pilote de la flotte de Cima   
 - Doubleur Japonais : Tesshô Genda   
 Kelly est un ancien pilote de Zeon qui a perdu son bras droit durant la Guerre d'Un An.   

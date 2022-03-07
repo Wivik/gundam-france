@@ -5,7 +5,7 @@ title: "CMS-328 Desperado"
 CMS-328 Desperado
 -----------------
 
-![desperado](/images/stories/saga/gundamage/mechas/desperado.png)
+
  
 ### Fiche Technique
 

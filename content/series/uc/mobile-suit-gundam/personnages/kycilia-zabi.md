@@ -9,7 +9,7 @@ Kycilia Zabi
 
 
 
-![Kycilia Zabi](/images/stories/saga/msgundam/persos/kycilia-zabi.png)
+
 * [Kycilia Zabi](javascript:change_image_m('images/stories/saga/msgundam/persos/kycilia-zabi.png');)
 * [Kycilia Zabi (UC 0068)](javascript:change_image_m('images/stories/saga/origin/persos/kycillia-zabi.png');)
 * [Kycilia Zabi (UC 0071)](javascript:change_image_m('images/stories/saga/origin/persos/kycilia-zabi-uc-0071.png');)

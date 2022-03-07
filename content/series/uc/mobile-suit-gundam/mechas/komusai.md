@@ -6,7 +6,7 @@ Komusai
 -------
 
 
-![komusai](/images/stories/saga/msgundam/mechas/komusai.png)
+
 
 
 ### Fiche Technique

@@ -16,9 +16,9 @@ Le Tournois Gunpla Force Battle est un événement clé qui se déroule une fois
 
 
 
-![Prologue](/images/stories/saga/gundambd/episodes/00-1.jpg)
-![Prologue](/images/stories/saga/gundambd/episodes/00-2.jpg)
-![Prologue](/images/stories/saga/gundambd/episodes/00-3.jpg)
+
+
+
 
 
 

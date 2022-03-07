@@ -5,7 +5,7 @@ title: Kincaid Nau
 Kincaid Nau
 -----------
 
-![kincaid](/images/stories/manga/crossbone/persos/kincaid.jpg)
+
 - Age : 27 ans  
 - Origines : Frontier IV  
 - Rôle : Pilote du Crossbone Gundam X1  

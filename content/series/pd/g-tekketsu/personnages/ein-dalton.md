@@ -6,7 +6,7 @@ Ein Dalton
 ----------
 
 
-![Ein Dalton](/images/stories/saga/g-tekketsu/persos/ein-dalton.png)
+
 
 
 * Rôle : Pilote de Mobile Suit

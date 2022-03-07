@@ -5,7 +5,7 @@ title: Annamarie Bourget
 Annamarie Bourget
 -----------------
 
-![annamarie](/images/stories/saga/F91/persos/crossbone/annamarie.jpg)Annamarie Bourget  
+Annamarie Bourget  
 - age : 16 ans  
 - Rôle : pilote dans l'équipe de reconnaissance  
 - Voix japonaise : Chie Koujiro

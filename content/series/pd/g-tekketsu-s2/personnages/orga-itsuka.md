@@ -6,7 +6,7 @@ Orga Itsuka
 -----------
 
 
-php include("data/rgrp\_persos/orga-itsuka.html"); ?![Orga Itsuka](/images/stories/saga/g-tekketsu-s2/persos/orga-itsuka.png)
+php include("data/rgrp\_persos/orga-itsuka.html"); ?
 
 
 * Origine : Mars

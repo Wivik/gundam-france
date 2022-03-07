@@ -5,7 +5,7 @@ title: Classe Izumo
 Classe Izumo
 ------------
 
-![izumo](/images/stories/saga/gundamseed/mechas/orb/izumo.png)
+
 
 
 Classe Izumo, Kusanagi  

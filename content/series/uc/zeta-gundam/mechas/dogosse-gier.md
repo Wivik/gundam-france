@@ -6,7 +6,7 @@ Dogosse Giar
 ------------
 
 
-[Dogosse Giar](javascript:change_image_m('images/stories/saga/zetagundam/mechas/titans/dogossegier.png');) [General Revil](javascript:change_image_m('images/stories/saga/unicorn/mechas/federation/dogossegiar.png');)      ![Dogosse Giar](/images/stories/saga/zetagundam/mechas/titans/dogossegier.png)    
+[Dogosse Giar](javascript:change_image_m('images/stories/saga/zetagundam/mechas/titans/dogossegier.png');) [General Revil](javascript:change_image_m('images/stories/saga/unicorn/mechas/federation/dogossegiar.png');)          
 
 
 ### Fiche Technique

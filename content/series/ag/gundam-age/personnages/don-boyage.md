@@ -5,7 +5,7 @@ title: "Don Boyage"
 Don Boyage
 ----------
 
-![boyage](/images/stories/saga/gundamage/persos/boyage.png)
+
 - Age : 45 ans  
 - Rôle : Leader de Zalam  
 - Voix japonaise : Kenta Miyake

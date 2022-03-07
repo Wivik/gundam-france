@@ -6,7 +6,7 @@ Gard Dell Hokuha
 ----------------
 
 
-![Gard Dell Hokuha](/images/stories/manga/astray/persos/gard.jpg)
+
 
 Nom de code : Tiger 5 ; Striker Pack équipé: P204QX Lightning Striker 
 

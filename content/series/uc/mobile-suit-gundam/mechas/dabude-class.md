@@ -6,7 +6,7 @@ Classe Dabude
 -------------
 
 
-![dabude](/images/stories/saga/msgundam/mechas/dabude.png)
+
 
 
 ### Fiche Technique

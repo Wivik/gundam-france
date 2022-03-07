@@ -14,7 +14,7 @@ title: 01 - Unicorn no Hi
 La Fondation Vist s'apprête à donner aux survivants de Neo-Zeon un artefact connu sous le nom de Boîte LaPlace, susceptible de bouleverser le monde actuel. L'échange aura lieu sur la colonie Industrial 7, là où vit Banagher Links. Sur la Colonie en question, Banagher va rencontrer Audrey Burne alors qu'il la sauvait de la partie en apesanteur de la colonie. Celle-ci a pour objectif d'empêcher la transaction pour éviter une nouvelle guerre. Banagher se verra emporté dans ces évènements...
 
 
-![ep1.1.jpg](/images/mini/images-stories-saga-unicorn-episodes-_tb_213x120_ep1.1.jpg) ![ep1.2.jpg](/images/mini/images-stories-saga-unicorn-episodes-_tb_213x120_ep1.2.jpg)![ep1.3.jpg](/images/mini/images-stories-saga-unicorn-episodes-_tb_213x120_ep1.3.jpg)
+
 UC 0001, le Premier Ministre de la Fédération, Ricardo Mercenas, déclare la fin du calendrier grégorien au profit du Siècle de l'Univers (Universal Century), en l'honneur du début de la colonisation spatiale et de la migration de l'Homme dans l'espace. Durant son discours une équipe de cosmonautes s'affaire sur la station orbitale où le 1er Ministre tient son meeting et déclenche une série d'explosions visant à détruire le complexe avec tous ses habitants. Alors qu'ils fuyaient, leur navette elle-même sabotée explose. Expulsé hors de celle-ci, l'un des passagers, Syam Vist, découvre dans les décombres de la station LaPlace un curieux artefact avec des informations sur l'Universal Century...
 
 

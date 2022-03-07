@@ -6,7 +6,7 @@ Poe Aijee
 ---------
 
 
-![Poe Aijee](/images/stories/saga/turnagundam/persos/moonrace/poe.jpg)
+
 * Age : 20
 * Rôle : Pilote dans le Dianna Counter
 * Origines : Lune

@@ -5,7 +5,7 @@ title: Auel Nieder
 Auel Nieder
 -----------
 
-![auel](/images/stories/saga/gundamseeddestiny/persos/alliance/auel.jpg)Auel Nieder
+Auel Nieder
 
 
 - Age : 16  

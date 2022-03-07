@@ -6,7 +6,7 @@ Sarah Zabiarov
 --------------
 
 
-![Sarah Zabiarov](/images/stories/saga/zetagundam/persos/sarah-zabiarov.png)
+
 
 
 * Age : 15

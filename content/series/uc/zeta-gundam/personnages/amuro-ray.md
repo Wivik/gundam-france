@@ -5,7 +5,7 @@ title: Amuro Ray
 Amuro Ray
 ---------
 
-![Amuro Ray](/images/stories/saga/zetagundam/persos/amuro-ray.png)
+
 
 
 * Age : 23

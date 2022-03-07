@@ -5,7 +5,7 @@ title: "GNX-609T GN-XIII"
 GNX-609T GN-XIII
 ----------------
 
-![gn13](/images/stories/saga/gundam00/mechas/s2/federation/gn13.png)
+
 
 
 GNX-609T GN-XIII

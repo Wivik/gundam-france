@@ -61,7 +61,7 @@ Première colonie spatiale attaquée par les Ennemis Inconnus en AG 100. La dest
 ### Colonie Fardain
 
 
-![La Colonie Fardain](/images/stories/saga/gundamage/tech/fardain.jpg)L'une des premières colonies spatiales créées, très vétuste en apparence mais qui abrite un immense complexe économique et commercial, elle pratique également beaucoup d'agriculture. Après la destruction de Nova, le Diva s'est mis en direction de cette colonie pour se ravitailler et se préparer à affronter les UE. 
+L'une des premières colonies spatiales créées, très vétuste en apparence mais qui abrite un immense complexe économique et commercial, elle pratique également beaucoup d'agriculture. Après la destruction de Nova, le Diva s'est mis en direction de cette colonie pour se ravitailler et se préparer à affronter les UE. 
 
 
 Fardain est en proie à une guerre civile interne entre les sympathisants de deux nations déchues, Zalam et Euba. Elle cache également un secret au niveau de ses habitations. Si l'extérieur parait luxueux et actif, en réalité beaucoup d'habitants vivent dans des bidonville dans les souterrains de la colonie.  
@@ -85,7 +85,7 @@ Colonie de construction assez récente qui abrite la base militaire Ariston, com
 La colonie sera attaquée en AG 115 et sera finalement détruite en s'effondrant sur elle-même. Pour minimiser les pertes civiles, les militaires évacueront les habitants en les mettant dans le coeur central de la colonie qui sera tracté par le vaisseau Diva.
 
 
-![La Colonie Nova](/images/stories/saga/gundamage/tech/nova.jpg) ![La Colonie Nova s'effondre sur elle-même suite à l'attaque des UE.](/images/stories/saga/gundamage/tech/nova2.jpg) 
+ 
 
 
 ### Colonie Orvan
@@ -112,7 +112,7 @@ Cette structure à l'aspect étrange est composée de sphères assemblées sur u
 ### Mars
 
 
-![colonie mars](/images/stories/saga/gundamage/tech/colonie_mars.jpg)Quatrième planète du système solaire, Mars a fait l'objet d'une tentative de colonisation aux environs de l'AG -50. Avec l'installation de seize colonies expérimentales, les pionniers martiens commencèrent à explorer la planète rouge pour tenter d'en extraire ses ressources. Cependant, une catastrophe aura lieu sur place. Des "rayons de Mars" provoqueront une maladie mortelle qui se répandra rapidement dans la population.
+Quatrième planète du système solaire, Mars a fait l'objet d'une tentative de colonisation aux environs de l'AG -50. Avec l'installation de seize colonies expérimentales, les pionniers martiens commencèrent à explorer la planète rouge pour tenter d'en extraire ses ressources. Cependant, une catastrophe aura lieu sur place. Des "rayons de Mars" provoqueront une maladie mortelle qui se répandra rapidement dans la population.
 
 
 Officiellement, la Fédération a déclaré qu'aucun survivant n'a pu être sauvé et le projet de colonisation de Mars a été abandonné, considéré comme un échec.  
@@ -127,7 +127,7 @@ Zone dans l'espace désolée qui est constituée de débris de vaisseaux et ento
 ### Seconde Lune
 
 
-![base veigan](/images/stories/saga/gundamage/tech/base_veigan.jpg)Principale colonie martienne, la Seconde Lune est une immense structure qui abrite une grande partie de la population Veigan et la majorité des installations militaires. L'environnement est entièrement recréé et la ville installée dedans rappelle de près le style du moyen orient. 
+Principale colonie martienne, la Seconde Lune est une immense structure qui abrite une grande partie de la population Veigan et la majorité des installations militaires. L'environnement est entièrement recréé et la ville installée dedans rappelle de près le style du moyen orient. 
 
 
 [Lire la suite](ag/lieux/seconde-lune.html)

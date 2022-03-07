@@ -8,7 +8,7 @@ Death Master
  
 
 
-![deathmaster.png](/images/stories/saga/ggundam/mechas/deatharmy/deathmaster.png)
+
 
 
 Fiche Technique   

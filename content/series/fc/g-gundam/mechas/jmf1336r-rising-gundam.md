@@ -5,7 +5,7 @@ title: JMF1336R Rising Gundam
 JMF1336R Rising Gundam
 ----------------------
 
-![jmf1336r](/images/stories/saga/ggundam/mechas/neojapan/jmf1336r.png)
+
 
 
 JMF1336R Rising Gundam   

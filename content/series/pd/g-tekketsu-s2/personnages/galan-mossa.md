@@ -6,7 +6,7 @@ Galan Mossa
 -----------
 
 
-![Galan Mossa](/images/stories/saga/g-tekketsu-s2/persos/galan-mossa.png)
+
 
 
 * Fonction : Mercenaire

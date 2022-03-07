@@ -110,7 +110,7 @@ Les ELS ne sont pas des créatures hostiles par nature, mais leur mode d'apprent
 L'incident des ELS éclata à cause d'une crainte mutuelle entre eux et les humains, ces derniers se sont sentis agressés par les tentatives de communication des ELS ce qui déboucha sur un conflit. Durant cette courte guerre, les ELS assimileront beaucoup de technologies en provenance des humains, dont celle des particules GN. Il semblerait que les ELS ne soient pas en mesure d'assimiler les particules elles-mêmes, ils arrivent néanmoins à les repousser.
 
 
-![ELS](/images/stories/saga/gundam00film/lexique/ELS.jpg)![Amia Lee, une des premières hybrides humain/ELS](/images/stories/saga/gundam00film/lexique/amylee.jpg) ![Un ELS prenant l'apparence d'un GN-X IV](/images/stories/saga/gundam00film/lexique/GNX-ELS.jpg)
+
 
 
 [Lire la suite](ad/lexique/els.html)
@@ -138,7 +138,7 @@ Ils sont contrôlés principalement par l'ordinateur de bord du MS possédant ce
 ### GN Composite Armor
 
 
-![gncompositearmor](/images/stories/saga/gundam00/tech/gncompositearmor.jpg)Matériaux spécial construit et expérimenté sur le GNY-004 Gundam Plutone qui est une légère amélioration de l'alliage E-Carbon. En effet, bien que cet alliage soit d'une très grande solidité, les particules GN ont tendance à diminuer sa résistance. L'armure composite mélange une base E-Carbon et intègre des circuits dédiés au transfert des particules GN à toute la structure du Mobile Suit. Elle renforce la structure en créant des micro GN Field dans les parties creuses de l'armure afin de mieux la protéger. 
+Matériaux spécial construit et expérimenté sur le GNY-004 Gundam Plutone qui est une légère amélioration de l'alliage E-Carbon. En effet, bien que cet alliage soit d'une très grande solidité, les particules GN ont tendance à diminuer sa résistance. L'armure composite mélange une base E-Carbon et intègre des circuits dédiés au transfert des particules GN à toute la structure du Mobile Suit. Elle renforce la structure en créant des micro GN Field dans les parties creuses de l'armure afin de mieux la protéger. 
 
 
 La GN Composite Armor sera installé en standard à partir de la troisième génération de Gundam. 
@@ -174,7 +174,7 @@ Les GN Drives possèdent une boîte noire qui est connectée en permanence à Ve
 ### GN-Drive [T]
 
 
-![Schema du GN Drive Tau](/images/stories/saga/gundam00/tech/gndrivetschema.jpg)Le GN Drive [T] (ou GN Drive Tau) est un générateur de particules moins stable. Ses émissions sont nocives pour le corps humain et empêche la régénération cellulaire. Contrairement aux vrais GN-Drives, ils ont une durée de fonctionnement beaucoup plus courte et moins stable à cause de l'absence du TD Blanket, juste d'un substitue. Aussi appelé "Faux réacteur" par Celestial Being, ils équipent les MS de l'équipe Trinity pour qui ces générateurs ont été conçus. Ils auront été livrés également à la Fédération pour créer leur nouvelle série de MS, les GN-X.
+Le GN Drive [T] (ou GN Drive Tau) est un générateur de particules moins stable. Ses émissions sont nocives pour le corps humain et empêche la régénération cellulaire. Contrairement aux vrais GN-Drives, ils ont une durée de fonctionnement beaucoup plus courte et moins stable à cause de l'absence du TD Blanket, juste d'un substitue. Aussi appelé "Faux réacteur" par Celestial Being, ils équipent les MS de l'équipe Trinity pour qui ces générateurs ont été conçus. Ils auront été livrés également à la Fédération pour créer leur nouvelle série de MS, les GN-X.
 
 
 [Lire la suite](ad/lexique/gn-drive-tau.html)
@@ -219,7 +219,7 @@ Les Particules GN ont aussi des effets sur le corps humain qui permettent d'ampl
 ### Innovades
 
 
-![innovades](/images/stories/saga/gundam00/encylo/innovades.jpg)Attention, cet article est susceptible de vous révéler des éléments clés de la série. 
+Attention, cet article est susceptible de vous révéler des éléments clés de la série. 
 
 
 Les Innovades (qu'on peut traduire par "Innovants") sont des êtres artificiellement créés pour suivre les directives laissées par Aeolia Schenberg et appliquer les ordres donnés par Veda. Ce sont en fait des terminaux biologiques qui présentent les caractéristique des Innovators mais ont été améliorés de manière artificielle et non naturelle. Leur corps est parsemé de nanomachines et ils sont capables d'utiliser les ondes cérébrales quantiques pour s'interfacer avec Veda ou d'autres Innovades, ils ne subissent pas les effets du vieillissement. Les corps des Innovades sont clonés en série dans des cuves d'incubation et leur conscience est créée par Veda.  
@@ -292,7 +292,7 @@ Le Trial System a été conçu dans l'idée d'une éventuelle trahison avec vol 
 ### Twin Drive System
 
 
-![twindriveharmo.jpg](/images/stories/saga/gundam00/tech/twindriveharmo.jpg)
+
 Architecture mise au point par Celestial Being sur leur étude des GN-Drives selon des théories initialement prévues par Schenberg qui ont été transcrites dans la boite noire des GN-Drives. Le principe est de faire fonctionner deux réacteurs GN à taux d'émission identique et parfaitement régulé et harmonisé afin de doubler la puissance des Mobile Suit. Seulement les GN-Drives sont uniques, leur conception étant méconnue certains éléments font que le système ne réagira pas. La seule combinaison de GN-Drives viable a été Gundam 0 + Exia. Toutes les autres ont échoué.
 
 

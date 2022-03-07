@@ -6,7 +6,7 @@ Setsuna F Seiei
 ---------------
 
 
-![setsuna](/images/stories/saga/gundam00film/persos/celestialbeing/setsuna.jpg)
+
 - Nom de code : Setsuna F. Seiei  
 - Nom véritable : Soran Ibrahim  
 - Age : 23  

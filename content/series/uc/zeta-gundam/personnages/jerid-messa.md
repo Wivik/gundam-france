@@ -6,7 +6,7 @@ Jerid Messa
 -----------
 
 
-![Jerid Messa](/images/stories/saga/zetagundam/persos/jerid-messa.png)
+
 
 
 * Age : 24

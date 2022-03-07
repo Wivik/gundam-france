@@ -6,7 +6,7 @@ Tores
 -----
 
 
-![Tores](/images/stories/saga/zetagundam/persos/tores.png)
+
 
 
 * Origine : Granada

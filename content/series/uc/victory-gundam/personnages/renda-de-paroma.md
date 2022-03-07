@@ -6,7 +6,7 @@ Renda De Paroma
 ---------------
 
 
-![Renda De Paroma](/images/stories/saga/vgundam/persos/renda-de-paroma.png)
+
 * Rôle : Pilote de Mobile Suit
 * Origines : Zanscare
 * Voix Japonaise : Rika Matsumoto

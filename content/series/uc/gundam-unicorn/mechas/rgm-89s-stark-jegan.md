@@ -6,7 +6,7 @@ RGM-89S Stark Jegan
 -------------------
 
 
-[Stark Jegan](javascript:change_image_m('images/stories/saga/unicorn/mechas/rgm-89s-stark-jegan.png');) [Vue de dos](javascript:change_image_m('images/stories/saga/unicorn/mechas/rgm-89s-stark-jegan-dos.png');)      ![Stark Jegan](/images/stories/saga/unicorn/mechas/rgm-89s-stark-jegan.png)    
+[Stark Jegan](javascript:change_image_m('images/stories/saga/unicorn/mechas/rgm-89s-stark-jegan.png');) [Vue de dos](javascript:change_image_m('images/stories/saga/unicorn/mechas/rgm-89s-stark-jegan-dos.png');)          
 
 
 RGM-89S Stark Jegan

@@ -6,7 +6,7 @@ Classe Dolos
 ------------
 
 
-![dolos](/images/stories/saga/msgundam/mechas/dolos.png)
+
 
 
 ### Fiche Technique

@@ -5,7 +5,7 @@ title: Emilu Voigtlander
 Emilu Voigtlander
 -----------------
 
-![emilu](/images/stories/manga/ecoleduciel/persos/emilu.jpg)Emilu Voigtlander
+Emilu Voigtlander
 
 
 Emilu est une amie d'Asuna, bien que leur première rencontre ne se soit pas faite dans la bonne entente à cause des origines d'Asuna. Elle a un caractère très joviale malgré le fait que ses parents soient morts durant la Guerre d'Un An. Elle aide également Asuna à s'améliorer, et a tendance aussi à la pousser dans les bras de Shin.

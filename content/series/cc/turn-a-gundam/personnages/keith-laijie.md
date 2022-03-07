@@ -5,7 +5,7 @@ title: Keith Laijie
 Keith Laijie
 ------------
 
-![keith](/images/stories/saga/turnagundam/persos/divers/keith.jpg)Keith Laijie
+Keith Laijie
 
 
 - Age : 17 ans  

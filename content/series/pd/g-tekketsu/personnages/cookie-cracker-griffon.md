@@ -6,7 +6,7 @@ Cookie et Cracker Griffon
 -------------------------
 
 
-![Cookie et Cracker Griffon](/images/stories/saga/g-tekketsu/persos/cookie-cracker-griffon.png)
+
 
 
 * Voix Japonaise : Yuuki Kuwahara (Cookie), Sayaka Senbongi (Cracker)

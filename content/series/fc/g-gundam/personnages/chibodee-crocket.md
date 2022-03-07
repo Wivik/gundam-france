@@ -5,7 +5,7 @@ title: Chibodee Crocket
 Chibodee Crocket
 ----------------
 
-![chibodeecrocket_1.jpg](/images/stories/saga/ggundam/images/persos/chibodeecrocket_1.jpg)Chibodee Crocket   
+Chibodee Crocket   
 - Age : 20 ans   
 - Rôle : Représentant de Neo-America   
 - Mobile Fighter : Gundam Maxter   

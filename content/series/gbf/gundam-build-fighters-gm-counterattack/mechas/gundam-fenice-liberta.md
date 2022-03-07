@@ -7,7 +7,7 @@ Gundam Fenice Liberta
 
 
 
-![Gundam Fenice Liberta](/images/stories/saga/gundambfgmc/mechas/gundam-fenice-liberta.png)
+
 
 [Gundam Fenice Liberta](javascript:change_image_m('images/stories/saga/gundambfgmc/mechas/gundam-fenice-liberta.png');)
 

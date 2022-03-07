@@ -5,7 +5,7 @@ title: Yzak Jule
 Yzak Jule
 ---------
 
-![yzak](/images/stories/saga/gundamseed/persos/yzak.jpg)Yzak Jule  
+Yzak Jule  
 - Age : 16 ans (né le 8 aout CE 54)  
 - Fonctions : pilote du Duel Gundam  
 - Origines : PLANT - Martius City  

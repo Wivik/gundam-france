@@ -5,7 +5,7 @@ title: Olba Frost
 Olba Frost
 ----------
 
-![olba.jpg](/images/stories/saga/gundamx/persos/olba.jpg)Olba Frost  
+Olba Frost  
 - Age : 19 ans  
 - Fonctions : Pilote du Gundam Ashtaron et Ashtaron Hermit Crab
 

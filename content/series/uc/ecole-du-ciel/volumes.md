@@ -11,13 +11,13 @@ Volumes
 Ecole du Ciel fait pour le moment un total de 11 volumes au Japon, et en France nous en avons 10 actuellement. Série en cours.
 
 
-![couv1.jpg](/images/mini/images-stories-manga-ecoleduciel-images-_tb_x150_couv1.jpg) ![couv2.jpg](/images/mini/images-stories-manga-ecoleduciel-images-_tb_x150_couv2.jpg)![couv3.jpg](/images/mini/images-stories-manga-ecoleduciel-images-_tb_x150_couv3.jpg)![couv4.jpg](/images/mini/images-stories-manga-ecoleduciel-images-_tb_x150_couv4.jpg)![couv5.jpg](/images/mini/images-stories-manga-ecoleduciel-images-_tb_x150_couv5.jpg)
 
 
-![vol6](/images/mini/images-stories-manga-ecoleduciel-volumes-_tb_105x150_vol6.jpg)![vol7](/images/mini/images-stories-manga-ecoleduciel-volumes-_tb_107x150_vol7.jpg)![vol8](/images/mini/images-stories-manga-ecoleduciel-volumes-_tb_105x150_vol8.jpg)![vol9](/images/mini/images-stories-manga-ecoleduciel-volumes-_tb_107x150_vol9.jpg)![vol10](/images/mini/images-stories-manga-ecoleduciel-volumes-_tb_104x150_vol10.jpg)
 
 
-![vol11](/images/mini/images-stories-manga-ecoleduciel-volumes-_tb_105x150_vol11.jpg)
+
+
+
 
 
 ### Dates de publication

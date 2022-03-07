@@ -6,7 +6,7 @@ Morgan Chevalier
 ----------------
 
 
-![Morgan Chevalier](/images/stories/manga/astray/persos/Morgan_Chevalier.jpg)
+
 
 Après un bref passage sur GAT-01 Strike Dagger, cet ancien commandant de tank linéaire né en février CE23 devint rapidement un as sur GAT-01A1+AQM/E-X04, étant une des rares personnes douées d'une sensibilité spatiale suffisante pour utiliser ce pack très spécial. Malgré son surnom de "Moonlight Mad Dog" ("le Chien fou hurlant à la Lune"), il fait montre au combat d'un tempérament calme et méthodique tout aussi redoutable que son Gunbarrel Dagger, qui sera son MS de prédilection jusqu'en CE73. 
 

@@ -6,7 +6,7 @@ Navette de Classe Enterprise
 ----------------------------
 
 
-![enterprise.jpg](/images/stories/saga/sentinel/mechas/enterprise.jpg)
+
 
 
 ### Fiche Technique

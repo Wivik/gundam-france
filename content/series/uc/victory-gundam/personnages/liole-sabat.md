@@ -6,7 +6,7 @@ Liole Sabat
 -----------
 
 
-![Liole Sabat](/images/stories/saga/vgundam/persos/liole-sabat.png)
+
 
 
 * Rôle : Pilote de Mobile Suit

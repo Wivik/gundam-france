@@ -6,7 +6,7 @@ Shunsuke Sudou
 --------------
 
 
-![Shunsuke Sudou](/images/stories/saga/gundambftry/persos/shunsuke-sudou.png)
+
 
 
 * Fonction : Membre de l'équipe G Masters

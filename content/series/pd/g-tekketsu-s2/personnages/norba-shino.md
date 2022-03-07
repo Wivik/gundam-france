@@ -6,7 +6,7 @@ Norba Shino
 -----------
 
 
-php include("data/rgrp\_persos/norba-shino.html"); ?![Norba Shino](/images/stories/saga/g-tekketsu-s2/persos/norba-shino.png)
+php include("data/rgrp\_persos/norba-shino.html"); ?
 
 
 * Origine : Mars

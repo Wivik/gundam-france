@@ -6,7 +6,7 @@ Gondwana
 --------
 
 
-![gondwana](/images/stories/saga/gundamseeddestiny/mechas/zaft/gondwana.png)
+
 
 
 Gondwana   

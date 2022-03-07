@@ -6,7 +6,7 @@ Daryl Lorenz
 ------------
 
 
-![Daryl Lorenz](/images/stories/saga/thunderbolt/persos/daryl-lorenz.png)
+
 
 
 * Origine : Zeon
@@ -38,7 +38,7 @@ Après les événements de Moore, il entrera dans les services de renseignement 
 
 
 
-![Bras artificiels](/images/mini/images-stories-saga-thunderbolt-persos-_tb_x400_daryl-lorenz-2.png)
+
 
 
 

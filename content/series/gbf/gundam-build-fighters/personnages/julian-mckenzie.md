@@ -6,7 +6,7 @@ Julian McKenzie
 ---------------
 
 
-![Julian McKenzie](/images/stories/saga/gundambf/persos/julian-mckenzie.png)
+
 
 
 * Origine : Angleterre

@@ -6,7 +6,7 @@ Ghym Ghingham
 -------------
 
 
-![Ghym Ghingham](/images/stories/saga/turnagundam/persos/moonrace/ghym.jpg)
+
 * Rôle : Général de la FLotte Ghingham
 * Origines : Lune
 * Voix Japonaise : Takehito Koyasu

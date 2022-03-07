@@ -9,7 +9,7 @@ Hayato Kobayashi
 
 
 
-![Hayato Kobayashi](/images/stories/saga/msgundam/persos/hayato-kobayashi.png)
+
 * [Hayato Kobayashi](javascript:change_image_m('images/stories/saga/msgundam/persos/hayato-kobayashi.png');)
 * [Hayato Kobayashi (UC 0079, Civil)](javascript:change_image_m('images/stories/saga/origin/persos/hayato-kobayashi-uc-0079.png');)
 * [Hayato Kobayashi (UC 0079, Uniforme Fédéral)](javascript:change_image_m('images/stories/saga/msgundam/persos/hayato-kobayashi.png');)

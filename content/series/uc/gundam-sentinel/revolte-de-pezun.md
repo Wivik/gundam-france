@@ -39,7 +39,7 @@ Le premier mars, Task Force Alpha réussi à détruire le satellite SOL7804 et r
 La flotte Fédérale dirigée par l'Amiral Brian Aeno envoyée combattre le New Deside déclare sa mutinerie et rejoint l'ennemi. La Flotte Fédérale devant combattre à Pezun n'est plus composée que de huit vaisseaux.
 
 
-![La base de Penta](/images/mini/images-stories-saga-sentinel-chrono-_tb_x150_penta.jpg)
+
 
 
 ### 7 mars UC 0088 : La Bataille de Pezun

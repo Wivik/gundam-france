@@ -6,7 +6,7 @@ Yomi Sakashita
 --------------
 
 
-![Yomi Sakashita](/images/stories/saga/gundambftry/persos/yomi-sakashita.png)
+
 
 
 * Fonction : Membre de l'équipe G Masters

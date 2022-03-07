@@ -10,4 +10,3 @@ Système de pilotage typique des Mobile Fighter basé sur la capture des mouveme
 
 
 
-![MTS.jpg](/images/mini/images-stories-saga-ggundam-technique-_tb_500x_MTS.jpg)

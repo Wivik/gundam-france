@@ -6,7 +6,7 @@ Eugene Sevenstark
 -----------------
 
 
-php include("data/rgrp\_persos/eugene-sevenstark.html"); ?![Eugene Sevenstark](/images/stories/saga/g-tekketsu-s2/persos/eugene-sevenstark.png)
+php include("data/rgrp\_persos/eugene-sevenstark.html"); ?
 
 
 * Origine : Mars

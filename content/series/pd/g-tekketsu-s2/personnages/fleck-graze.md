@@ -7,7 +7,7 @@ Fleck Graze
 
 
 
-![Fleck Graze](/images/stories/saga/g-tekketsu-s2/mechas/fleck-graze.png)
+
 
 [Fleck Graze](javascript:change_image_m('images/stories/saga/g-tekketsu-s2/mechas/fleck-graze.png');)
 [Vue de dos](javascript:change_image_m('images/stories/saga/g-tekketsu-s2/mechas/fleck-graze-dos.png');)

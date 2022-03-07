@@ -6,7 +6,7 @@ Sebastian
 ---------
 
 
-![Sebastian](/images/stories/saga/thunderbolt/persos/sebastian.png)
+
 
 
 * Origine : Zeon

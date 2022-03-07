@@ -12,7 +12,7 @@ L'édition française de la seconde saison de Gundam 00 a débuté sa commercial
 ### Visuels et détails
 
 
-Gundam 00 Second Season Vol.1![dvdfrs21](/images/stories/saga/gundam00/dvd/dvdfrs21.jpg)
+Gundam 00 Second Season Vol.1
 
 
 * Langues : Français, Anglais, Allemand, Japonais
@@ -30,7 +30,7 @@ Gundam 00 Second Season Vol.1![dvdfrs21](/images/stories/saga/gundam00/dvd/dvdfr
  
 
 
-![dvdfrs22](/images/stories/saga/gundam00/dvd/dvdfrs22.jpg)Gundam 00 Second Season Vol.2
+Gundam 00 Second Season Vol.2
 
 
 * Langues : Français, Anglais, Allemand, Japonais
@@ -45,7 +45,7 @@ Gundam 00 Second Season Vol.1![dvdfrs21](/images/stories/saga/gundam00/dvd/dvdfr
  
 
 
-![dvdfrs23](/images/stories/saga/gundam00/dvd/dvdfrs23.jpg)Gundam 00 Second Season Vol.3
+Gundam 00 Second Season Vol.3
 
 
 * Langues : Français, Anglais, Allemand, Japonais
@@ -69,7 +69,7 @@ Deux ans après la sortie de Mobile Suit Gundam 00 Seacond Season au Japon, Beez
 A l'inverse de la première saison, Beez ne propose pas d'édition Collector pour la seconde. Les ventes du coffret de la première saisons n'ont certainement pas dû être à la hauteur des attentes de l'éditeur pour ne pas renouveler cette offre. Nous espérons tout de même voir arriver ne serait-ce qu'un box de rangement pour harmoniser la collection sur l'étagère. Le coffret est identique à ceux déjà utilisés pour la première saison. L'illustration présente sur la couverture est la même que celle du premier DVD au Japon, avec le rajout d'un arrière-plan aux couleurs d'un coucher de soleil, et au dos de la boîte le logo d'A-Laws.
 
 
-![S2jaquette](/images/stories/saga/gundam00/dvd/editionfr/S2jaquette.jpg) ![S2galettes](/images/stories/saga/gundam00/dvd/editionfr/S2galettes.jpg)
+
 
 
 Les disques sont sérigraphiés de la même façon que la première saison, sauf que ceux-ci arborrent également le logo d'A-Laws. L'intérieur du boîtier contient des artworks des quatre Gundam de Celestial Being. La sobriété et simplicité restent de mise sur cette édition, pas de fioriture ni de couverture surchargés.
@@ -87,10 +87,10 @@ Point noir de l'édition sur le chapitrage : celui-ci ne prend pas en compte les
 Le second volume est agrémenté selon les couleurs de la Fédération.
 
 
-![S2-choixlangues](/images/stories/saga/gundam00/dvd/editionfr/S2-choixlangues.jpg) ![S2menu1](/images/stories/saga/gundam00/dvd/editionfr/S2menu1.jpg)![S2menu3](/images/stories/saga/gundam00/dvd/editionfr/S2menu3.jpg)
+![S2-choixlangues](/images/stories/saga/gundam00/dvd/editionfr/S2-choixlangues.jpg) 
 
 
-![S2menu2](/images/stories/saga/gundam00/dvd/editionfr/S2menu2.jpg) ![S2menu4](/images/stories/saga/gundam00/dvd/editionfr/S2menu4.jpg)
+
 
 
 #### Les épisodes
@@ -114,7 +114,7 @@ Petite mise à jour suite à la sortie du second volume : on regrettera le manqu
 L'adaptation : La localisation française de la série n'a pas été réalisée par Jun-Ichi Takeda, comme nous étions habitués depuis les premières éditions des films de Gundam et de la série Gundam SEED, ce dernier étant pris par d'autres projets tels que Gundam UC. Sur cette série, le travail d'adaptation est produit par Ivan Olariaga et Christian Dabady, qui ont déjà oeuvré sur la série Gurren-Lagann chez le meme éditeur. Leur travail est de bonne qualité. La version française ainsi que le sous-titrage sont très cohérents et clairs. On sent néanmoins en arrière-plan que M. Takeda a été consulté pour différents termes techniques et spécificités de la série.
 
 
-![S2screen1](/images/stories/saga/gundam00/dvd/editionfr/S2screen1.jpg) ![S2screen2](/images/stories/saga/gundam00/dvd/editionfr/S2screen2.jpg)![S2screen3](/images/stories/saga/gundam00/dvd/editionfr/S2screen3.jpg)
+
 
 
 #### Conclusion

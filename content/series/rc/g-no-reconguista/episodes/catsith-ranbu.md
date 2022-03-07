@@ -10,7 +10,6 @@ title: "04 - CatSith ranbu"
 * 16 octobre 2014 (Japon / France)
 
 
-![](/images/stories/saga/gnoreconguista/episodes/04-1.jpg) ![](/images/stories/saga/gnoreconguista/episodes/04-2.jpg) ![](/images/stories/saga/gnoreconguista/episodes/04-3.jpg)
 
 
 Le G-Self et ses passagers arrivent à la base secrète des Pirates située sur l'île Bequest. Bellri pense que le bâteau qui s'y trouve est en réalité un vaisseau spatial. Klim fait descendre le trio Bellri, Noredo et Raraiya du G-Self tandis qu'Aida le félicite pour l'avoir libérée. En l'observant se vanter de ses exploits, Bellri observe celui qui est le fils du Président d'Améria. Aida descend ensuite du G-Self avec le treuil du cockpit et s'empresse d'aller voir le capitaine du Megafauna. Tous les deux regrettent mutuellement leurs erreurs qui ont entraîné notamment la mort du capitaine Cahill.   

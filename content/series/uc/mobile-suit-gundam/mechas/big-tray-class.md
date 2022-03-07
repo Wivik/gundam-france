@@ -6,7 +6,7 @@ Classe Big Tray
 ---------------
 
 
-[Big Tray](javascript:change_image_m('images/stories/saga/msgundam/mechas/bigtray.png');) [Version 08th MS Team](javascript:change_image_m('images/stories/saga/msgundam/mechas/bigtray08th.png');)      ![Big Tray](/images/stories/saga/msgundam/mechas/bigtray.png)    
+[Big Tray](javascript:change_image_m('images/stories/saga/msgundam/mechas/bigtray.png');) [Version 08th MS Team](javascript:change_image_m('images/stories/saga/msgundam/mechas/bigtray08th.png');)          
 
 
   

@@ -9,7 +9,6 @@ title: "04 - G-Muse"
 * 29 octobre 2014
 
 
-![](/images/stories/saga/gundambftry/episodes/04-1.jpg) ![](/images/stories/saga/gundambftry/episodes/04-2.jpg) ![](/images/stories/saga/gundambftry/episodes/04-3.jpg)
 
 
 La nouvelle de la défaite de Gyanko face à la nouvelle équipe de l'école Seiho se répand comme une traînée de poudre parmi les autres équipes de Builders, les motivant tous à remporter la victoire.   

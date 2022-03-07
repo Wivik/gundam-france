@@ -6,7 +6,7 @@ Zabiné Chareux
 --------------
 
 
-![zabine](/images/stories/saga/F91/persos/crossbone/zabine.jpg)Zabiné Chareux  
+Zabiné Chareux  
 - Age : 24 ans  
 - Rôle : Pilote d'élite du Crossbone Vanguard  
 - Voix japonaise : Kiyoyuki Yanada

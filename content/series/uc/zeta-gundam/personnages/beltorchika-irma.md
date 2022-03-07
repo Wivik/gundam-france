@@ -6,7 +6,7 @@ Beltorchika Irma
 ----------------
 
 
-![Beltorchika Irma](/images/stories/saga/zetagundam/persos/beltorchika-irma.png)
+
 
 
 * Age : 20

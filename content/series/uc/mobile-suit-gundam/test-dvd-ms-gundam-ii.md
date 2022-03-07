@@ -48,7 +48,7 @@ Après avoir passé le logo de Beez, nous avons une invite nous demandant le men
 Nous avons droit au choix de la version audio : Japonaise et Japonaise en 5.1 ! ensuite le film est découpé en 14 "épisodes", générique de fin inclus.
 
 
-![menu2_4.jpg](/images/mini/images-stories-saga-msgundam-images-dvd-_tb_150x_menu2_4.jpg)![menu2_6.jpg](/images/mini/images-stories-saga-msgundam-images-dvd-_tb_150x_menu2_6.jpg)![menu2_5.jpg](/images/mini/images-stories-saga-msgundam-images-dvd-_tb_150x_menu2_5.jpg)
+
 
 
 Suppléments  
@@ -61,7 +61,7 @@ Nous avons droit à l'illustration de Yasuhiko Yoshikazu sur la couverture. L'en
  
 
 
-![galette2.jpg](/images/mini/images-stories-saga-msgundam-images-dvd-_tb_150x_galette2.jpg)
+
 
 
 Image et Son  
@@ -69,7 +69,7 @@ L'image est nette. Certes le film est vieux et usé, mais nous avons droit à un
 Concernant le son, Beez nous gâte avec une très belle bande audio en 5.1 qui nous immerge encore plus dans ce magnifique film. La seconde piste audio en 2.1 reste aussi agréable.
 
 
-![sc2_1.jpg](/images/mini/images-stories-saga-msgundam-images-dvd-_tb_150x_sc2_1.jpg)![sc2_2.jpg](/images/mini/images-stories-saga-msgundam-images-dvd-_tb_150x_sc2_2.jpg)![sc2_3.jpg](/images/mini/images-stories-saga-msgundam-images-dvd-_tb_150x_sc2_3.jpg)![sc2_4.jpg](/images/mini/images-stories-saga-msgundam-images-dvd-_tb_150x_sc2_4.jpg)
+
 
 
 Adaptation et traduction  

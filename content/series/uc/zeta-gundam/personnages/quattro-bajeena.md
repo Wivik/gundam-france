@@ -6,7 +6,7 @@ Quattro Bajeena
 ---------------
 
 
-php include("data/rgrp\_persos/char-aznable.html"); ?![Quattro Bajeena](/images/stories/saga/zetagundam/persos/quattro-bajeena.png)
+php include("data/rgrp\_persos/char-aznable.html"); ?
 
 
 * Age : 27

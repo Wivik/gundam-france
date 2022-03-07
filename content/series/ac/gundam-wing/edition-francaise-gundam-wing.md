@@ -14,7 +14,7 @@ Gundam Wing est sortie pour la première fois à la télévision Française sur 
 La dernière édition en date est un coffret regroupant l'intégrale de la série TV.
 
 
-![coffret](/images/mini/images-stories-saga-gundamwing-dvd-_tb_150x150_coffret.jpg)
+
 
 
 * Editeur : Beez

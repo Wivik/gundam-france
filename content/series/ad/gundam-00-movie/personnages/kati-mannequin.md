@@ -5,7 +5,7 @@ title: "Kati Mannequin"
 Kati Mannequin
 --------------
 
-![kati](/images/stories/saga/gundam00film/persos/federation/kati.jpg)
+
 - Age : 39 ans  
 - Rôle : Commandant et tactitienne de la Fédération  
 - Voix Japonaise : Minami Takayama

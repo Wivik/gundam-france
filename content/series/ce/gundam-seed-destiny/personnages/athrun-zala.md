@@ -5,7 +5,7 @@ title: Athrun Zala
 Athrun Zala
 -----------
 
-![athrun](/images/stories/saga/gundamseeddestiny/persos/zaft/athrun.jpg)Athrun Zala  
+Athrun Zala  
   
 - Age : 18  
 - Rôle : Garde du corps de Cagalli Yula Attha, membre de FAITH  

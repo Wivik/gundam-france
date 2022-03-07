@@ -6,7 +6,7 @@ Ricardo Felini
 --------------
 
 
-![Ricardo Felini](/images/stories/saga/gundambf/persos/ricardo.png)
+
 
 
 * Origine : Italie

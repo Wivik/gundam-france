@@ -5,7 +5,7 @@ title: "Grave Violento"
 Grave Violento
 --------------
 
-![grave](/images/stories/manga/gundam00f/persos/grave.jpg)
+
 - Rôle : Gundam Meister  
 - Âge : inconnu
 

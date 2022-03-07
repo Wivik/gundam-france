@@ -9,7 +9,7 @@ Musiques
 ### Mobile Suit Gundam Thunderbolt Original Soundtrack Feat. Naruyoshi Kikuchi
 
 
-![cd_01.jpg](/images/mini/images-stories-saga-thunderbolt-cd-_tb_250x223_cd_01.jpg)
+
 
 
 * Référence : VRCL-30088

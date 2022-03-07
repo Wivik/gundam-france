@@ -7,7 +7,7 @@ Classe Adrastea
 
 
 
-![Classe Adrastea](/images/stories/saga/vgundam/mechas/adrastea.png)
+
 
 [Classe Adrastea](javascript:change_image_m('images/stories/saga/vgundam/mechas/adrastea.png');)
 

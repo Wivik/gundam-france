@@ -6,7 +6,7 @@ Rinko Iori
 ----------
 
 
-![Rinko Iori](/images/stories/saga/gundambf/persos/rinko.png)
+
 
 
 * Voix Japonaise : Kotono Mitsuishi

@@ -6,7 +6,7 @@ Sandoval Reuters
 ----------------
 
 
-![Sandoval Reuters](/images/stories/saga/g-tekketsu-s2/persos/sandoval-reuters.png)
+
 * Rôle : Chef des pirates Dawn Horizon
 * Voix Japonaise : Taiten Kusunoki
 

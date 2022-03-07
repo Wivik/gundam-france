@@ -9,7 +9,7 @@ Degin Sodo Zabi
 
 
 
-![Degin Sodo Zabi](/images/stories/saga/origin/persos/degin-sodo-zabi-uc-0079.png)
+
 * [Degin Sodo Zabi](javascript:change_image_m('images/stories/saga/origin/persos/degin-sodo-zabi-uc-0079.png');)
 * [Degin Sodo Zabi (UC 0068)](javascript:change_image_m('images/stories/saga/origin/persos/degin-sodo-zabi.png');)
 * [Degin Sodo Zabi (UC 0071)](javascript:change_image_m('images/stories/saga/origin/persos/degin-sodo-zabi-uc-0071.png');)

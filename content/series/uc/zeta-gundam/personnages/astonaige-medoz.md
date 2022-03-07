@@ -6,7 +6,7 @@ Astonaige Medoz
 ---------------
 
 
-![Astonaige Medoz](/images/stories/saga/zetagundam/persos/astonaige-medoz.png)
+
 
 
 * Fonction : Chef mécanicien

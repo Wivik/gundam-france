@@ -6,7 +6,7 @@ Sven Cal Bayan
 --------------
 
 
-![Sven Cal Bayan](/images/stories/saga/stargazer/persos/sven.jpg)
+
 * Age : 20
 * Rôle : Pilote du Strike Noir
 * Origines : Alliance Terrestre

@@ -6,7 +6,7 @@ Gai Murakumo
 ------------
 
 
-![Gai Murakumo](/images/stories/manga/astray/persos/Gai2.jpg)
+
 
 Né le 9 décembre CE45, le leader de la Serpent Tail est un Coordinateur mercenaire passé maître dans l'art de la guerre comme en pilotage de MS, tant en mêlée qu'à distance. S'il utilisait un GINN personnalisé jusqu'à son combat avec Miguel Aiman, son MS de prédilection est le MBF-P03 Astray Blue Frame depuis sa rencontre avec Lowe Gear dans les décombres d'Héliopolis, en CE71.
 

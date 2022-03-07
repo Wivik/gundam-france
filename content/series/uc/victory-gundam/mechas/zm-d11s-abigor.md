@@ -70,7 +70,7 @@ L'Abigor est le premier Mobile Suit transformable que Zanscare a développé. Sa
 
 
 
-![Beam Katar](/images/stories/saga/vgundam/mechas/zmt-d11s-beamkatarl.jpg)
+
 
 [Beam Katar](javascript:accessoires_m('images/stories/saga/vgundam/mechas/zmt-d11s-beamkatarl.jpg');)
 [Beam Scythe](javascript:accessoires_m('images/stories/saga/vgundam/mechas/zmt-d11s-beamscythe.jpg');)

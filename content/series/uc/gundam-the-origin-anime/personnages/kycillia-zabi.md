@@ -6,7 +6,7 @@ Kycilia Zabi
 ------------
 
 
-![Kycillia Zabi](/images/stories/saga/origin/persos/kycillia-zabi.png)
+
 
 
 * Rôle : Chef des forces de l'ordre de Munzo

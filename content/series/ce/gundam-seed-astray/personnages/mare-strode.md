@@ -6,7 +6,7 @@ Mare Strode
 -----------
 
 
-![Mare Strode](/images/stories/manga/astray/persos/Mare.jpg)
+
 
 Les prouesses de ce Coordinateur en combat sous-marin durant la première Guerre de la Saint-Valentin Sanglante lui ont permit d'être sélectionné en CE73 comme pilote d'essai du ZGMF-X31S Abyss.
 

@@ -5,7 +5,7 @@ title: "GPB-X80 Beginning Gundam"
 GPB-X80 Beginning Gundam
 ------------------------
 
-![beginning](/images/stories/saga/gunplabuilders/mechas/beginning.png)
+
 
 
 GPB-X80 Beginning Gundam

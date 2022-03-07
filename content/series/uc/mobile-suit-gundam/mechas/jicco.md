@@ -6,7 +6,7 @@ Jicco
 -----
 
 
-![jicco](/images/stories/saga/msgundam/mechas/jicco.png)
+
 
 
 ### Fiche Technique

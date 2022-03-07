@@ -6,7 +6,7 @@ Sean Mitadera
 -------------
 
 
-![Sean Mitadera](/images/stories/saga/thunderbolt/persos/sean-mitadera.png)
+
 
 
 * Rôle : Pilote de Mobile Suit

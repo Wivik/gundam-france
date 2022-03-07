@@ -6,7 +6,7 @@ Oliver Inoe
 -----------
 
 
-![Oliver Inoe](/images/stories/saga/vgundam/persos/oliver-inoe.png)
+
 * Rôle : Leader de la Shrike Team
 * Voix Japonaise : Keiichi Sonobe
 

@@ -68,7 +68,7 @@ ZM-S14S Contio
 
 
 
-![Beam Rifle](/images/stories/saga/vgundam/mechas/zm-s14s-beamrifle.jpg)
+
 
 [Beam Rifle](javascript:accessoires_m('images/stories/saga/vgundam/mechas/zm-s14s-beamrifle.jpg');)
 [Beam Saber](javascript:accessoires_m('images/stories/saga/vgundam/mechas/zm-s14s-beamsaber.jpg');)

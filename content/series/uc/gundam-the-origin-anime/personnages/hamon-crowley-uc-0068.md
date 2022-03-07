@@ -6,7 +6,7 @@ Hamon Crowley
 -------------
 
 
-![Hamon Crowley](/images/stories/saga/origin/persos/hamon-crowley.png)
+
 
 
 * Rôle : Chanteuse au Club Eden

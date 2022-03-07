@@ -6,7 +6,7 @@ Jasley Donomikols
 -----------------
 
 
-![Jasley Donomikols](/images/stories/saga/g-tekketsu-s2/persos/jaslei-donmicross.png)
+
 
 
 * Fonction : Membre de Teiwaz

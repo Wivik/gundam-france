@@ -5,7 +5,7 @@ title: G-M1F (XM-0754) Bandit
 G-M1F (XM-0754) Bandit
 ----------------------
 
-![bandi](/images/stories/saga/turnagundam/ms/moonraces/bandi.png)
+
 
 
 G-M1F (XM-0754) Bandit

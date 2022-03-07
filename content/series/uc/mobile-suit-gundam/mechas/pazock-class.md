@@ -6,7 +6,7 @@ Classe Pazock
 -------------
 
 
-![pazock](/images/stories/saga/msgundam/mechas/pazock.png)
+
 
 
 ### Fiche Technique

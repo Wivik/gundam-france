@@ -5,7 +5,7 @@ title: Burns Gernsback
 Burns Gernsback
 ---------------
 
-![burns](/images/stories/manga/crossbone/persos/burns.jpg)
+
 - Age : ??  
 - Rôle : Pilote de Mobile suit  
 - Voix japonaise : Shozo Iizuka (Jeux SD Gundam G Generation)

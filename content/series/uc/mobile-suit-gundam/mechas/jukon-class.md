@@ -6,7 +6,7 @@ Classe Jukon
 ------------
 
 
-![jukon](/images/stories/saga/msgundam/mechas/jukon.png)
+
 
 
 ### Fiche Technique

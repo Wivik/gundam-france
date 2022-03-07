@@ -6,7 +6,7 @@ Hammett Roroi
 -------------
 
 
-![Hammett Roroi](/images/stories/saga/turnagundam/persos/divers/hammett.jpg)
+
 * Rôle : Pecheur
 * Origines : Lune
 * Voix Japonaise : Atsushi Murai

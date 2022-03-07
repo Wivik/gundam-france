@@ -6,7 +6,7 @@ Graham
 ------
 
 
-![Graham](/images/stories/saga/thunderbolt/persos/graham.png)
+
 
 
 * Fonction : Officier en second de la Fraternité de Moore

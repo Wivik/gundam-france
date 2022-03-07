@@ -5,7 +5,7 @@ title: Relena Darlian
 Relena Darlian
 --------------
 
-![relena](/images/stories/saga/gundamwing/persos/relena.jpg)Relena Darlian  
+Relena Darlian  
   
 Age : 15  
 Couleur de cheveux : Chatin  

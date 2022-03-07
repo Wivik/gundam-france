@@ -5,7 +5,7 @@ title: Vera Ronah
 Vera Ronah
 ----------
 
-![vera](/images/stories/manga/crossbone/persos/vera.jpg)
+
 - Age : 28 ans  
 - Origines : Frontier IV  
 - Rôle : capitaine du Crossbone Vanguard  

@@ -6,7 +6,7 @@ Romero Marvall
 --------------
 
 
-![Romero Marvall](/images/stories/saga/vgundam/persos/romero-marvall.png)
+
 * Age : 85 ans
 * Rôle : Ingénieur
 * Voix Japonaise : Furin Cha

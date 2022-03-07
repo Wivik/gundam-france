@@ -6,7 +6,7 @@ Nahel Argama
 ------------
 
 
-[Nahel Argama](javascript:change_image_m('images/stories/saga/gundamzz/mechas/aeug/nahelargama.png');) [Version UC 0096](javascript:change_image_m('images/stories/saga/unicorn/mechas/nahel-argama.png');) [Version UC 0096 (Dos)](javascript:change_image_m('images/stories/saga/unicorn/mechas/nahel-argma-dos.png');)      ![Nahel Argama](/images/stories/saga/gundamzz/mechas/aeug/nahelargama.png)    
+[Nahel Argama](javascript:change_image_m('images/stories/saga/gundamzz/mechas/aeug/nahelargama.png');) [Version UC 0096](javascript:change_image_m('images/stories/saga/unicorn/mechas/nahel-argama.png');) [Version UC 0096 (Dos)](javascript:change_image_m('images/stories/saga/unicorn/mechas/nahel-argma-dos.png');)          
 ### Fiche Technique
 
 

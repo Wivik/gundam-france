@@ -5,7 +5,7 @@ title: Fox Bloodman
 Fox Bloodman
 ------------
 
-![bloodman](/images/stories/saga/gundamx/persos/bloodman.jpg)Lord Fix Bloodman  
+Lord Fix Bloodman  
 - Age : inconnu  
 - Fonctions : dirigeant de la Nouvelle Fédération
 

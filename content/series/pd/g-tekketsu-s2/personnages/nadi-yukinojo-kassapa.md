@@ -6,7 +6,7 @@ Nadi Yukinojo Kassapa
 ---------------------
 
 
-![Nadi Yukinojo Kassapa](/images/stories/saga/g-tekketsu-s2/persos/nadi-yukinojo-kassapa.png)
+
 
 
 * Fonction : Chef mécanicien

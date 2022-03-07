@@ -8,7 +8,7 @@ Ultimate Gundam
  
 
 
-![ultimategundam.jpg](/images/stories/saga/ggundam/images/mechas/ultimategundam.jpg)
+
 
 
 Fiche Technique   

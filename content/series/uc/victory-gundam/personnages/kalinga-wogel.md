@@ -6,7 +6,7 @@ Kalinga Wogel
 -------------
 
 
-![Kalinga Wogel](/images/stories/saga/vgundam/persos/kalinga-wogel.png)
+
 * Rôle : Pilote de Mobile Suit
 * Origines : Zanscare
 * Voix Japonaise : Touma Yumi

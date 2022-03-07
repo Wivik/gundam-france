@@ -5,7 +5,7 @@ title: "XVM-GZ7 Defurse"
 XVM-GZ7 Defurse
 ---------------
 
-![defurse](/images/stories/saga/gundamage/mechas/defurse.png) 
+ 
 
 
 ### Fiche Technique

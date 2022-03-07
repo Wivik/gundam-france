@@ -6,7 +6,7 @@ Fat Uncle
 ---------
 
 
-![fatuncle](/images/stories/saga/msgundam/mechas/fatuncle.png)
+
 
 
 ### Fiche Technique

@@ -7,7 +7,7 @@ G-Saviour
 ---------
 
 
-![alt](/images/stories/saga/gsaviour/images/index.jpg)G-Saviour est la première (et dernière ?) tentative d'adapter Gundam au cinéma "live" (avec de vrais acteurs en chair et en os). Sortie en 2000 au cinéma Japonais, ce film se place dans la continuité très lointaine de l'UC. Réalisé au Canada, avec des acteurs de série B (si ce n'est plus loin dans l'alphabet), ce film peut s'inscrire dans le registre du "à voir un dimanche quand il pleut et qu'on a rien de mieux à faire".
+G-Saviour est la première (et dernière ?) tentative d'adapter Gundam au cinéma "live" (avec de vrais acteurs en chair et en os). Sortie en 2000 au cinéma Japonais, ce film se place dans la continuité très lointaine de l'UC. Réalisé au Canada, avec des acteurs de série B (si ce n'est plus loin dans l'alphabet), ce film peut s'inscrire dans le registre du "à voir un dimanche quand il pleut et qu'on a rien de mieux à faire".
 
 
  
@@ -22,7 +22,7 @@ G-Saviour
 UC 0218, la Fédération finit par disparaître. Elle se voit remplacée par un gouvernement similaire aux Titan de Z Gundam qui assoie son autorité sur les Colonies : le CONSENT (Congress of Settlement Nations). En 0223, Mark Curran se voit embarqué dans toute une série d'évènements qui le feront entrer dans la resistance contre le CONSENT, le groupe Illuminati. Ces derniers ont découvert une invention qui va révolutionner le monde. Seulement, il ne faut pas que le CONSENT mette la main dessus...
 
 
-![intro1](/images/stories/saga/gsaviour/intro1.jpg) ![intro2](/images/stories/saga/gsaviour/intro2.jpg)![intro3](/images/stories/saga/gsaviour/intro3.jpg)
+
 ### Aperçu
 
 

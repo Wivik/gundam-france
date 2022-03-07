@@ -5,7 +5,7 @@ title: Trowa Barton
 Trowa Barton
 ------------
 
-![trowa](/images/stories/saga/gundamwing/persos/trowa.jpg)Trowa Barton  
+Trowa Barton  
   
 Age : 16  
 Couleur de cheveux : Brun  

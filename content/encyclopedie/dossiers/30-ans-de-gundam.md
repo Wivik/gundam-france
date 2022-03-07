@@ -26,7 +26,7 @@ Ce dossier récapitulera les différents évènements et hommages qui auront ét
 ### Illustrations hommages
 
 
-![marshi.jpg](/images/stories/30ansgundam/illust/marshi.jpg) Imaishi Susumu
+ Imaishi Susumu
 
 
 Créateur des personnages SD Musha Gundam
@@ -41,7 +41,7 @@ Créateur des personnages SD Musha Gundam
  
 
 
-![katoki.jpg](/images/stories/30ansgundam/illust/katoki.jpg)Katoki Hajime
+Katoki Hajime
 
 
 Mechanical Designer Gundam 0083, V Gundam, Gundam Wing, Gundam Wing Endless Waltz, G Gundam...
@@ -53,7 +53,7 @@ Connu également pour ses "Version Ka" de différents Mobile Suits de la saga pr
  
 
 
-![sayama.jpg](/images/stories/30ansgundam/illust/sayama.jpg)Sayama Yoshinori
+Sayama Yoshinori
 
 
 Mechanical designer de Char Contre-attaque.
@@ -68,7 +68,7 @@ Mechanical designer de Char Contre-attaque.
  
 
 
-![ishigaki.jpg](/images/stories/30ansgundam/illust/ishigaki.jpg) Ishigaki Jun'ya
+ Ishigaki Jun'ya
 
 
 Designer pour Gundam F91. Mechanical Designer pour V Gundam, Gundam Wing et Gundam X.
@@ -83,7 +83,7 @@ Designer pour Gundam F91. Mechanical Designer pour V Gundam, Gundam Wing et Gund
  
 
 
-![hirai.jpg](/images/stories/30ansgundam/illust/hirai.jpg)Hirai Hisashi
+Hirai Hisashi
 
 
 Character Designer pour Gundam SEED et Gundam SEED DESTINY.
@@ -98,7 +98,7 @@ Character Designer pour Gundam SEED et Gundam SEED DESTINY.
  
 
 
-![satoshi.jpg](/images/stories/30ansgundam/illust/satoshi.jpg) Shigeta Satoshi
+ Shigeta Satoshi
 
 
 Directeur de l'animation des mechas sur Gundam SEED et Gundam SEED DESTINY.
@@ -113,7 +113,7 @@ Directeur de l'animation des mechas sur Gundam SEED et Gundam SEED DESTINY.
  
 
 
-![okawara.jpg](/images/stories/30ansgundam/illust/okawara.jpg)Okawara Kunio
+Okawara Kunio
 
 
 Mechanical Designer sur MS Gundam, Zeta Gundam, Gundam F91, V Gundam, G Gundam, Gundam Wing, Gundam X, Mobile Suit Gundam 08MS Team, ? Gundam, Gundam SEED, Gundam 00.......
@@ -128,7 +128,7 @@ Mechanical Designer sur MS Gundam, Zeta Gundam, Gundam F91, V Gundam, G Gundam, 
  
 
 
-![akitaka.jpg](/images/stories/30ansgundam/illust/akitaka.jpg)Akira Takashi Mika
+Akira Takashi Mika
 
 
 Alias Akitaka Mika, Mechanical Designer pour Gundam ZZ et Gundam 0083.
@@ -143,7 +143,7 @@ Alias Akitaka Mika, Mechanical Designer pour Gundam ZZ et Gundam 0083.
  
 
 
-![yamane.jpg](/images/stories/30ansgundam/illust/yamane.jpg)Yamane Kimitoshi
+Yamane Kimitoshi
 
 
 Mechanical Designer G Gundam, Mobile Suit Gundam 08th MS Team, Gundam SEED, Mobile Suit Gundam MS IGLOO...

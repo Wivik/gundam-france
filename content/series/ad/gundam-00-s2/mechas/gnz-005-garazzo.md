@@ -5,7 +5,7 @@ title: "GNZ-005 Garazzo"
 GNZ-005 Garazzo
 ---------------
 
-![garazzo](/images/stories/saga/gundam00/mechas/s2/federation/garazzo.png)
+
 
 
 GNZ-005 Garazzo

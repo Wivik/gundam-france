@@ -5,7 +5,7 @@ title: "Ract Elfamel"
 Ract Elfamel
 ------------
 
-![ract](/images/stories/saga/gundamage/persos/ract.png)
+
 - Age : 29  
 - Rôle : Leader d'Euba  
 - Voix japonaise : Junichi Suwabe

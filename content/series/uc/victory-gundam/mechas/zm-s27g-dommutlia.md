@@ -76,7 +76,7 @@ Nouvelle version des MS de s√©rie transformables de BESPA, le Domuttlia aspire √
 
 
 
-![Head Shock Bite](/images/stories/saga/vgundam/mechas/zm-s27g-headshockbite.jpg)
+
 
 [Head Shock Bite](javascript:accessoires_m('images/stories/saga/vgundam/mechas/zm-s27g-headshockbite.jpg');)
 

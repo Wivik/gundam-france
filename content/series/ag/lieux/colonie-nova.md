@@ -11,5 +11,5 @@ Colonie de construction assez récente qui abrite la base militaire Ariston, com
 La colonie sera attaquée en AG 115 et sera finalement détruite en s'effondrant sur elle-même. Pour minimiser les pertes civiles, les militaires évacueront les habitants en les mettant dans le coeur central de la colonie qui sera tracté par le vaisseau Diva.
 
 
-![La Colonie Nova](/images/stories/saga/gundamage/tech/nova.jpg) ![La Colonie Nova s'effondre sur elle-même suite à l'attaque des UE.](/images/stories/saga/gundamage/tech/nova2.jpg) 
+ 
 

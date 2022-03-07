@@ -6,7 +6,7 @@ Cui
 ---
 
 
-![cui](/images/stories/saga/msgundam/mechas/cui.png)
+
 
 
 ### Fiche Technique

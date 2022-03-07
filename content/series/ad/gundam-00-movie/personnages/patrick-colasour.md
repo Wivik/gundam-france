@@ -5,7 +5,7 @@ title: "Patrick Colasour"
 Patrick Colasour
 ----------------
 
-![patrick](/images/stories/saga/gundam00film/persos/federation/patrick.jpg)
+
 - Age : 35 ans  
 - Rôle : pilote de la Fédération  
 - Voix japonaise : Kenji Hamada

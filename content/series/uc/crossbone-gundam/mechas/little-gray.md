@@ -5,7 +5,7 @@ title: Little Gray
 Little Gray
 -----------
 
-![littlegray](/images/stories/manga/crossbone/ms/littlegray.jpg)
+
 
 
 ### Fiche Technique

@@ -6,7 +6,7 @@ Kou Uraki
 ---------
 
 
-![kou1.jpg](/images/stories/saga/gundam0083/images/persos/kou1.jpg)- Age : 19 ans   
+- Age : 19 ans   
 - Rôle : Pilote d'essai pour la Fédération.   
 - MS pilotés : MS-06F2 Zaku II, RX-78GP01 Zephyranthes, RX-78GP01fb Zephyranthes Full Burner, RX-78GP03 Dendrobium.   
 - Doubleur Japonais : Ryo Horikawa   

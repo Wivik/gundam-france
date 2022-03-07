@@ -7,7 +7,7 @@ Star Winning Gundam
 
 
 
-![Star Winning Gundam](/images/stories/saga/gundambftiw/mechas/star-winning-gundam.png)
+
 
 [Star Winning Gundam](javascript:change_image_m('images/stories/saga/gundambftiw/mechas/star-winning-gundam.png');)
 [Mode Real Type](javascript:change_image_m('images/stories/saga/gundambftiw/mechas/star-winning-gundam-real-type.png');)

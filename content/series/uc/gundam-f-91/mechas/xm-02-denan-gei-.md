@@ -5,7 +5,7 @@ title: XM-02 Den'an Gei
 XM-02 Den'an Gei
 ----------------
 
-![denangei](/images/stories/saga/F91/mechas/crossbone/denangei.gif)
+
 
 
 XM-02 Den'an Gei   

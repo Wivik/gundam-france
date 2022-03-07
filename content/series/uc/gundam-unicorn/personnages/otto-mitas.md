@@ -6,7 +6,7 @@ Otto Mitas
 ----------
 
 
-![otto](/images/stories/saga/unicorn/persos/fed/otto.jpg)
+
 - Age : 45 ans
   
 - Fonction : Capitaine du Nahel Argama

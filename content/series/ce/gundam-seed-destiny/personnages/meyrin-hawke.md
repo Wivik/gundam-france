@@ -5,7 +5,7 @@ title: Meyrin Hawke
 Meyrin Hawke
 ------------
 
-![meyrin](/images/stories/saga/gundamseeddestiny/persos/zaft/meyrin.jpg)Meyrin Hawke  
+Meyrin Hawke  
   
 - Age : 16  
 - Rôle : Officier de communications du Minerva  

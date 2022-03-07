@@ -6,7 +6,7 @@ Homme Masqué
 ------------
 
 
-![Homme Masque](/images/stories/saga/g-tekketsu/persos/homme-masque.png)
+
 
 
 * Voix Japonaise : Takahiro Sakurai

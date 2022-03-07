@@ -5,7 +5,7 @@ title: "Joyce Moreno"
 Joyce Moreno
 ------------
 
-![Joyce Moreno en AD 2292](/images/stories/manga/gundam00f/persos/joyce.jpg)
+
 - Rôle : Médecin de bord  
 - Âge : 43 ans  né en 2264 A.D.
 

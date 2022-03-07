@@ -6,7 +6,7 @@ Amida Arca
 ----------
 
 
-![Amida Arca](/images/stories/saga/g-tekketsu/persos/amida-arca.png)
+
 
 
 * Rôle : Membre de Teiwaz

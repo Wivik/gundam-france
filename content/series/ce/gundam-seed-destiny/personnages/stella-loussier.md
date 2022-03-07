@@ -5,7 +5,7 @@ title: Stella Loussier
 Stella Loussier
 ---------------
 
-![stellar](/images/stories/saga/gundamseeddestiny/persos/alliance/stellar.jpg)Stella Loussier
+Stella Loussier
 
 
 - Age : 16  

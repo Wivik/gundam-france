@@ -6,7 +6,7 @@ Quess Paraya
 ------------
 
 
-![quess.jpg](/images/stories/saga/charcontreattaque/persos/quess.jpg)
+
 
 
 Age : ?? ans  

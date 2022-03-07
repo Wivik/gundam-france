@@ -5,7 +5,7 @@ title: "OVM-E Dorado"
 OVM-E Dorado
 ------------
 
-![dorado](/images/stories/saga/gundamage/mechas/dorado.png) 
+ 
 
 
 ### Fiche Technique

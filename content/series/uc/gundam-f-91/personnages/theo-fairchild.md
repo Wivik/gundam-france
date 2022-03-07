@@ -6,7 +6,7 @@ Théo Fairchild
 --------------
 
 
-![theo](/images/stories/saga/F91/persos/civils/theo.jpg)Théo Fairchild  
+Théo Fairchild  
 - Age : 40 ans  
 - Rôle : père adoptif de Cecily  
 - Voix japonaise : Tamio Ohki

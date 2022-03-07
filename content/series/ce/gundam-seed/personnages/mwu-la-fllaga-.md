@@ -5,7 +5,7 @@ title: Mwu La Fllaga
 Mwu La Fllaga
 -------------
 
-![mwu](/images/stories/saga/gundamseed/persos/mwu.jpg)Mwu La Fraga   
+Mwu La Fraga   
 - Age : 28 ans (né le 29 novembre CE 43)   
 - Fonctions : pilote du Mobius Zero, Sky Grasper et Strike Gundam.   
 - Origines : Terre   

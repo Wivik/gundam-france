@@ -9,7 +9,7 @@ Char Aznable
 
 
 
-![Char Aznable](/images/stories/saga/origin/persos/char-aznable.png)
+
 * [Char Aznable](javascript:change_image_m('images/stories/saga/origin/persos/char-aznable.png');)
 * [Casval Rem Daikun (UC 0068)](javascript:change_image_m('images/stories/saga/origin/persos/casval-rem-daikun.png');)
 * [Edouard Mass (UC 0071)](javascript:change_image_m('images/stories/saga/origin/persos/edouard-mass.png');)

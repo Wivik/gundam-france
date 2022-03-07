@@ -6,7 +6,7 @@ Hangerg Ewin
 ------------
 
 
-![Hangerg Ewin](/images/stories/saga/vgundam/persos/hangerg-ewin.png)
+
 * Age : 40 ans
 * Rôle : Fondateur de la Ligue Militaire
 * Voix Japonaise : Kenyuu Horiuchi

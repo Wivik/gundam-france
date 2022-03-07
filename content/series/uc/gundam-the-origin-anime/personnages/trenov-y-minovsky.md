@@ -6,7 +6,7 @@ Trenov Y Minovsky
 -----------------
 
 
-![Trenov Y Minovsky](/images/stories/saga/origin/persos/trenov-y-minovsky-uc-0074.png)
+
 
 
 * Fonction : Physicien

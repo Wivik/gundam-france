@@ -7,9 +7,9 @@ Ecole du Ciel
 -------------
 
 
-![alt](/images/stories/manga/ecoleduciel/images/index.jpg)Ecole du Ciel a commencé à être pré-publié par le magazine Gundam Ace et très vite il est sortie en reliures. Ce manga dessiné par Haruhiko Mikimoto se place entre le conflit Delaz de 0083 et celui des Titans en 0087 (Zeta Gundam), à savoir en 0085 (période à laquelle l'AEUG va se soulever contre les Titans). Sa sortie francophone fut assez surprenante et inespérée. Et quelle bonne surprise ce fut !   
+Ecole du Ciel a commencé à être pré-publié par le magazine Gundam Ace et très vite il est sortie en reliures. Ce manga dessiné par Haruhiko Mikimoto se place entre le conflit Delaz de 0083 et celui des Titans en 0087 (Zeta Gundam), à savoir en 0085 (période à laquelle l'AEUG va se soulever contre les Titans). Sa sortie francophone fut assez surprenante et inespérée. Et quelle bonne surprise ce fut !   
   
-Asuna Elmarit est une jeune recrue, native de Zeon, qui est en entraînement militaire dans "l'École", une académie fondée pour former les futurs pilotes d'élite de la Fédération. Cependant, Asuna a tout contre elle... Elle n'est pas douée pour les études et reste très moyenne et ses camarades se moquent constamment d'elle. Asuna est une jeune fille complexée qui cherche également à oublier ses origines et le fait que son père ait été un savant de Zeon a la réputation douteuse...![intro.jpg](/images/stories/manga/ecoleduciel/images/intro.jpg)
+Asuna Elmarit est une jeune recrue, native de Zeon, qui est en entraînement militaire dans "l'École", une académie fondée pour former les futurs pilotes d'élite de la Fédération. Cependant, Asuna a tout contre elle... Elle n'est pas douée pour les études et reste très moyenne et ses camarades se moquent constamment d'elle. Asuna est une jeune fille complexée qui cherche également à oublier ses origines et le fait que son père ait été un savant de Zeon a la réputation douteuse...
 
 
 Pourtant Asuna ne va pas laisser tomber et s'accrochera pour surmonter ses difficultés avec l'aide de camarades dont Shin, un élève plus âgé qu'elle mais dont elle semble être tombée sous le charme...

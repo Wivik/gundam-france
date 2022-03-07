@@ -22,8 +22,6 @@ Les résumés d'épisode sont susceptibles de vous révéler des moments clés d
 La Fondation Vist s'apprête à donner aux survivants de Neo-Zeon un artefact connu sous le nom de Boîte LaPlace, susceptible de bouleverser le monde actuel. L'échange aura lieu sur la colonie Industrial 7, là où vit Banagher Links. Sur la Colonie en question, Banagher va rencontrer Audrey Burne alors qu'il la sauvait de la partie en apesanteur de la colonie. Celle-ci a pour objectif d'empêcher la transaction pour éviter une nouvelle guerre. Banagher se verra emporté dans ces évènements...
 
 
-![ep1.1.jpg](/images/mini/images-stories-saga-unicorn-episodes-_tb_213x120_ep1.1.jpg) ![ep1.2.jpg](/images/mini/images-stories-saga-unicorn-episodes-_tb_213x120_ep1.2.jpg) ![ep1.3.jpg](/images/mini/images-stories-saga-unicorn-episodes-_tb_213x120_ep1.3.jpg)
-[Lire le résumé](uc/gundam-unicorn/01-unicorn-no-hi.html)
 
 
 ### 02 - Akai Suisei
@@ -36,7 +34,6 @@ La Fondation Vist s'apprête à donner aux survivants de Neo-Zeon un artefact co
 A l'article de la mort, Cardeas Vist, le dirigeant de la fondation Vist, confie à Banagher Links l'Unicorn, la clé de la boîte LaPlace. Après avoir combattu les *"Manchettes*" et le Kshatriya, Banagher est capturé par Londo Bell et retenu à bord du Nahel Argama. Il y retrouvera ses amis Takuya et Micott, ainsi qu'Audrey Burne, la mystérieuse jeune fille qui désirait suivre et protéger. Cependant, un ennemi se manifeste rapidement en arborrant un Mobile Suit de couleur rouge à la vitesse de déplacement 3 fois supérieure à la normale. Le Nahel Argama se retrouve attaqué par Full Frontal, l'homme qui prétend être la réincarnation de Char Aznable...
 
 
-![ep2-1](/images/mini/images-stories-saga-unicorn-episodes-_tb_x120_ep2-1.jpg) ![ep2-2](/images/mini/images-stories-saga-unicorn-episodes-_tb_x120_ep2-2.jpg) ![ep2-3](/images/mini/images-stories-saga-unicorn-episodes-_tb_x120_ep2-3.jpg)
 ### 03 - LaPlace no Bourei
 
 
@@ -47,7 +44,6 @@ A l'article de la mort, Cardeas Vist, le dirigeant de la fondation Vist, confie 
 Après avoir décollé avec l'Unicorn pour protéger Mineva, Banagher a été capturé durant son duel contre Full Frontal et son Sinanju. Il est désormais dans la base astéroïdale minière de Palau qui se trouve être le quartier général des résistants de Neo-Zeon, connus sous le nom des « Manchettes ». Afin de récupérer Banagher et l'Unicorn, le commandant Daguza de l'ECOAS attaque la base de Palau avec le soutien du Nahel Argama. Banagher profitera de la confusion à l'intérieur de Palau pour s'enfuir avec l'Unicorn, mais devant lui, Marida avec son Kshatriya lui bloquera le passage, envoyée par Full Frontal pour découvrir le secret de la boîte Laplace, qui ne sera révélé qu'avec l'action du système NT-D.
 
 
-![ep3-1](/images/mini/images-stories-saga-unicorn-episodes-_tb_213x120_ep3-1.jpg) ![ep3-2](/images/mini/images-stories-saga-unicorn-episodes-_tb_213x120_ep3-2.jpg) ![ep3-3](/images/mini/images-stories-saga-unicorn-episodes-_tb_213x120_ep3-3.jpg)
 
 
 ### 04 - Juuryoku no ido no soke de
@@ -61,8 +57,6 @@ Le conflit de la Boîte LaPlace s'est étendu jusque sur Terre et maintenant la 
   
 Pendant ce temps, Banagher a atterri et se dirige vers la base de Torrington pour obtenir de nouvelles informations sur la Boîte. Cependant, la fureur des résistants de Zeon poussera Loni, pilote du Mobile Armor Shamblo, à transformer le champ de bataille en massacre.
 
-
-![ep4-1](/images/mini/images-stories-saga-unicorn-episodes-_tb_213x120_ep4-1.jpg) ![ep4-2](/images/mini/images-stories-saga-unicorn-episodes-_tb_213x120_ep4-2.jpg) ![ep4-3](/images/mini/images-stories-saga-unicorn-episodes-_tb_213x120_ep4-3.jpg)
 
 
 ### 05 - Kuroi Unicorn
@@ -78,8 +72,6 @@ Banagher est attaqué par le Mobile Suit noir, le Banshee, puis placé en garde 
 Pendant ce temps, Mineva a été livrée à Martha Vist et amenée à bord d'un avion de classe Garuda afin de l'utiliser comme monnaie d'échange pour faire parler Banagher. Le conflit de la Boîte s'élève dans les cieux jusqu'à retourner dans l'espace...
 
 
-![ep4-1](/images/mini/images-stories-saga-unicorn-episodes-_tb_213x120_ep5-1.jpg) ![ep4-2](/images/mini/images-stories-saga-unicorn-episodes-_tb_213x120_ep5-2.jpg) ![ep4-3](/images/mini/images-stories-saga-unicorn-episodes-_tb_213x120_ep5-3.jpg)
-
 
 ### 06 - Sora to Hoshi to
 
@@ -88,7 +80,6 @@ Pendant ce temps, Mineva a été livrée à Martha Vist et amenée à bord d'un 
 * 22 mars 2013
 
 
-![ep4-1](/images/mini/images-stories-saga-unicorn-episodes-_tb_213x120_ep6-1.jpg) ![ep4-2](/images/mini/images-stories-saga-unicorn-episodes-_tb_213x120_ep6-2.jpg) ![ep4-3](/images/mini/images-stories-saga-unicorn-episodes-_tb_213x120_ep6-3.jpg)
 
 
 Ayant pu échapper à la flotte Fédérale grâce à l’intervention de Full Frontal, le Nahel Argama est désormais obligé de s’allier aux "Manchettes". Dans l’espoir de découvrir les prochaines coordonnées de la Boîte LaPlace, Full Frontal révèle son plan d’attaque contre la Fédération. Banagher et Mineva sont horrifiés par la cruauté et dureté du futur qu’il leur décrit…
@@ -113,5 +104,4 @@ Pendant ce temps, Banagher est à la poursuite de Full Frontal qui a pris les de
 Qui parviendra à atteindre en premier Industrial 7 pour mettre la main sur la Boîte dont Syam Vist est le gardien ?
 
 
-![ep4-1](/images/mini/images-stories-saga-unicorn-episodes-_tb_213x120_ep7-1.jpg) ![ep4-2](/images/mini/images-stories-saga-unicorn-episodes-_tb_213x120_ep7-2.jpg) ![ep4-3](/images/mini/images-stories-saga-unicorn-episodes-_tb_213x120_ep7-3.jpg)
 

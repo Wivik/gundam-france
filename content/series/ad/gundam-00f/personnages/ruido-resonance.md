@@ -5,7 +5,7 @@ title: "Ruido Resonance"
 Ruido Resonance
 ---------------
 
-![ruido](/images/stories/manga/gundam00f/persos/ruido.jpg)
+
 - Rôle : Gundam Meister de seconde génération  
 - Né en 2267 A.D., décédé en 2295 A.D.
 

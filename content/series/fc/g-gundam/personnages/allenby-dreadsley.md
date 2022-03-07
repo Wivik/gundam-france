@@ -5,7 +5,7 @@ title: Allenby Dreadsley
 Allenby Dreadsley
 -----------------
 
-![allenbybreadsley_1.jpg](/images/stories/saga/ggundam/images/persos/allenbybreadsley_1.jpg)Allenby Breadsley   
+Allenby Breadsley   
 - Age : 17 ans   
 - Rôle : Réprésentante de Neo-Sweden   
 - Mobile Fighter : Nobel Gundam   

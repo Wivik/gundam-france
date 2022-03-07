@@ -5,7 +5,7 @@ title: "GNW-20000 Arche Gundam"
 GNW-20000 Arche Gundam
 ----------------------
 
-![arche](/images/stories/saga/gundam00/mechas/s2/divers/arche.png)
+
 
 
 GNW-20000 Arche Gundam

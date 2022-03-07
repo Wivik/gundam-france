@@ -6,7 +6,7 @@ Kishowl Bagwatt
 ---------------
 
 
-![Kishowl Bagwatt](/images/stories/saga/vgundam/persos/kishowl-bagwatt.png)
+
 * Rôle : Pilote de Mobile Suit
 * Origines : Zanscare
 * Voix Japonaise : Hideyuki Umezu

@@ -6,7 +6,7 @@ Yamajin Toka
 ------------
 
 
-![Yamajin Toka](/images/stories/saga/g-tekketsu-s2/persos/yamajin-toka.png)
+
 
 
 * Fonction : Chef de la maintenance d'Arianrhod

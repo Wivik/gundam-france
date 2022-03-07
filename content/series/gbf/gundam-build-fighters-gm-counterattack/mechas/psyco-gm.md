@@ -7,7 +7,7 @@ Psyco GM
 
 
 
-![Psyco GM](/images/stories/saga/gundambfgmc/mechas/psyco-gm.png)
+
 
 [Psyco GM](javascript:change_image_m('images/stories/saga/gundambfgmc/mechas/psyco-gm.png');)
 

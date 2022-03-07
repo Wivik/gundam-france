@@ -6,7 +6,7 @@ Daigo Ishibashi
 ---------------
 
 
-![Daigo Ishibashi](/images/stories/saga/gundambftry/persos/daigo-ishibashi.png)
+
 
 
 * Fonction : Membre du département des sciences du collège Naruneri

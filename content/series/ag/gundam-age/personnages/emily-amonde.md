@@ -5,7 +5,7 @@ title: "Emily Amonde"
 Emily Amonde
 ------------
 
-![emily](/images/stories/saga/gundamage/persos/emily.png)
+
 - Age : 14 ans  
 - Rôle : Amie d'enfance de Flit  
 - Origines : Colonie Nova  

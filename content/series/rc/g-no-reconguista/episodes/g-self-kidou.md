@@ -11,7 +11,6 @@ title: "02 - G-Self, Kidou !"
 * 5 octobre 2014 (France)
 
 
-![](/images/stories/saga/gnoreconguista/episodes/02-1.jpg) ![](/images/stories/saga/gnoreconguista/episodes/02-2.jpg) ![](/images/stories/saga/gnoreconguista/episodes/02-3.jpg)
 
 
 Cumpa Rusita, l'un des hauts gradés de la Capital Army, fait le debriefing des informations obtenues suite à l'incident du Crown pris en otage par les Pirates. Il constate que Bellri Zenam était présent et se dit qu'une telle coïncidence est impossible…   

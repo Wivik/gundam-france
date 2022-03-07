@@ -35,7 +35,7 @@ Le Dessa Type n'a jamais été un Mobile Suit très fonctionnel et a principalem
 Le Crossbone Vanguard est établi en UC 0106 par la famille Ronah en exploitant les meilleurs éléments de la Buch Concern et de son école d'entraînement. Fondé par Meitza Ronah, le Crossbone Vanguard est ensuite placé sous le contrôle de son beau fils [Karozzo Ronah](uc/gundam-f-91/karozzo-ronah.html). Le Crossbone Vanguard sera alors affecté à l'objectif ultime de la famille Ronah : instaurer Cosmo Babylone, leur utopie arostocratique. 
 
 
-![Crossbone Vanguard](/images/mini/images-stories-Encyclopedie-chronologie-_tb_153x200_Crossbonevanguard.jpg)
+
 
 
 ### UC 0113 : Ruptures internes dans la famille Ronah

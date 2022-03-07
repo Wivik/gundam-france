@@ -6,7 +6,7 @@ Savarin Canele
 --------------
 
 
-![Savarin Canele](/images/stories/saga/g-tekketsu/persos/savarin-canele.png)
+
 
 
 * Rôle : Cadre dans la société Dort

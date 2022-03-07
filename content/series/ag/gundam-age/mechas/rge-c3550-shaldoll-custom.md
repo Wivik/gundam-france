@@ -5,7 +5,7 @@ title: "RGE-C3550 Shaldoll Custom"
 RGE-C3550 Shaldoll Custom
 -------------------------
 
-![shaldollcustom](/images/stories/saga/gundamage/mechas/shaldollcustom.png) 
+ 
 
 
 ### Fiche Technique

@@ -52,6 +52,6 @@ Après avoir vaincu Master Asia et le Devil Gundam, Domon dirigera la Shuffle Al
  
 
 
-![god1.jpg](/images/mini/images-stories-saga-ggundam-images-mechas-_tb_300x_god1.jpg) ![god3.jpg](/images/mini/images-stories-saga-ggundam-images-mechas-_tb_300x_god3.jpg)
+
 
 

@@ -7,7 +7,7 @@ Reinforce
 
 
 
-![Reinforce](/images/stories/saga/vgundam/mechas/reinforce.png)
+
 
 [Reinforce](javascript:change_image_m('images/stories/saga/vgundam/mechas/reinforce.png');)
 

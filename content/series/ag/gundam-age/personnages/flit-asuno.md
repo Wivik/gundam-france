@@ -6,7 +6,7 @@ Flit Asuno
 ----------
 
 
-![flit](/images/stories/saga/gundamage/persos/flit.png)
+
 - Age : 14 ans  
 - Rôle : Pilote et concepteur du Gundam AGE  
 - Origines : Colonie Orvan  

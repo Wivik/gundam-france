@@ -6,7 +6,7 @@ Banagher Links
 --------------
 
 
-![banagher](/images/stories/saga/unicorn/persos/civils/banagher.jpg)- Age : 16 ans  
+- Age : 16 ans  
 - Rôle : Etudiant à Anaheim Electronics  
 - Origines : Né sur Side-1, Bloc 3 (Eden)  
 - Voix Japonaise : Kouki Uchiyama

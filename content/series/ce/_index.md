@@ -7,7 +7,7 @@ Cosmic Era
 ----------
 
 
-![uc](/images/stories/saga/gundamseed/images/geo/espace.gif)La situation de la Terre et ses Colonies en CE 71.
+La situation de la Terre et ses Colonies en CE 71.
 
 
 L'Ere Cosmique est une cinquième univers alternatif créé en 2002 avec la série Gundam SEED. Très fortement inspirée du [Siècle Universel](uc/index.html), la Cosmic Era est le premier univers alternatif à avoir rencontré un fulgurant succès d'audience et commercial. Il s'agit également de l'un des plus développés avec deux séries animées de 50 épisodes chacune, une ONA, des films récapitulatifs, et un ahurissant panel de manga venant compléter le contexte.

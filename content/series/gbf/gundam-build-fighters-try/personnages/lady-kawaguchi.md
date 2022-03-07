@@ -6,7 +6,7 @@ Lady Kawaguchi
 --------------
 
 
-![Lady Kawaguchi](/images/stories/saga/gundambftry/persos/lady-kawaguchi.png)
+
 
 
 

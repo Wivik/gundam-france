@@ -7,7 +7,7 @@ Garm Rodi
 
 
 
-![Garm Rodi](/images/stories/saga/g-tekketsu-s2/mechas/garm-rodi.png)
+
 
 [Garm Rodi](javascript:change_image_m('images/stories/saga/g-tekketsu-s2/mechas/garm-rodi.png');)
 [Vue de dos](javascript:change_image_m('images/stories/saga/g-tekketsu-s2/mechas/garm-rodi-dos.png');)

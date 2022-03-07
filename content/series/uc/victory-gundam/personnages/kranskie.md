@@ -6,7 +6,7 @@ Kranskie
 --------
 
 
-![Kranskie](/images/stories/saga/vgundam/persos/kranskie.png)
+
 * Origines : Hiland
 
 

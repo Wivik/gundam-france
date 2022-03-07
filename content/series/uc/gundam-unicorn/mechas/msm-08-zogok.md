@@ -5,7 +5,7 @@ title: MSM-08 Zogok
 MSM-08 Zogok
 ------------
 
-![zogok](/images/stories/saga/unicorn/mechas/zeon/zogok.png) 
+ 
 
 
 ### Fiche Technique

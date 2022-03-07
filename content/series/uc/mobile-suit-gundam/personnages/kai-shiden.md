@@ -9,7 +9,7 @@ Kai Shiden
 
 
 
-![Kai Shiden](/images/stories/saga/msgundam/persos/kai-shiden.png)
+
 * [Kai Shiden](javascript:change_image_m('images/stories/saga/msgundam/persos/kai-shiden.png');)
 * [Kai Shiden (Civil, UC 0079)](javascript:change_image_m('images/stories/saga/origin/persos/kai-shiden-uc-0079.png');)
 * [Kai Shiden (UC 0087)](javascript:change_image_m('images/stories/saga/zetagundam/persos/kai-shiden.png');)

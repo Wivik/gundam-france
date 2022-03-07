@@ -6,7 +6,7 @@ Coral Conrad
 ------------
 
 
-![Coral Conrad](/images/stories/saga/g-tekketsu/persos/coral-conrad.png)
+
 
 
 * Rôle : Responsable de la branche Mars

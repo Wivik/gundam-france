@@ -6,7 +6,7 @@ Haro
 ----
 
 
-![Haro](/images/stories/saga/vgundam/persos/haro.png)
+
 * Rôle : Robot de compagnie
 
 

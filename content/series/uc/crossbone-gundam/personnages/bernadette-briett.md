@@ -5,7 +5,7 @@ title: Bernadette Briett
 Bernadette Briett
 -----------------
 
-![bernadette](/images/stories/manga/crossbone/persos/bernadette.jpg)
+
 - Age :   
 - Origines : Empire de Jupiter   
 - Voix japonaise : Natsuki Rio (Jeux SD Gundam G Generation)

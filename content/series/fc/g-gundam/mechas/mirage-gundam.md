@@ -8,7 +8,7 @@ Mirage Gundam
  
 
 
-![miragegundam.jpg](/images/stories/saga/ggundam/images/mechas/miragegundam.jpg)
+
 
 
 Fiche Technique   

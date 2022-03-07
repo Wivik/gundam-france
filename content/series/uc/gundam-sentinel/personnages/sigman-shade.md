@@ -6,7 +6,7 @@ Sigman Shade
 ------------
 
 
-![Sigman Shade](/images/stories/saga/sentinel/persos/sigmanshade.jpg)
+
 * Age : 21
 * Rôle : Pilote de Mobile Suits
 * Origines : Side 2

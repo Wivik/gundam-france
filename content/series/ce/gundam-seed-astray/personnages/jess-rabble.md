@@ -6,7 +6,7 @@ Jess Rabble
 -----------
 
 
-![Jess Rabble](/images/stories/manga/astray/persos/Jess.jpg)
+
 
 Photojournaliste indépendant, il pilote le ZGMF-X12 Astray Out Frame (avec l'assistance de l'IA "8"), que lui a offert Lowe Gear après la perte de son Raysta à GENESIS Alpha.
 

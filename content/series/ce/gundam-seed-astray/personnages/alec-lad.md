@@ -6,7 +6,7 @@ Alec Lad
 --------
 
 
-![Alec Lad](/images/stories/manga/astray/persos/alec.jpg)
+
 
 En CE73, cet officier supérieur de ZAFT commande temporairement une base en République d'Asie de l'Est, base où est stationné entre autres Rudolf Wittgenstein. Il laissera le commandement à Leons Graves une fois celui-ci sur place.
 

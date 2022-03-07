@@ -6,7 +6,7 @@ Tatsuya Yuki
 ------------
 
 
-![Tatsuya Yuki](/images/stories/saga/gundambf/persos/tatsuya.png)
+
 
 
 * Voix Japonaise : Takuya Satō
@@ -46,7 +46,7 @@ Avec les changements liés à la disparition de la PPSE et de la reprise par la 
 ### Références
 
 
-![Meijin Kawaguchi](/images/stories/saga/gundambf/persos/katsumi-kawaguchi.jpg)
+
 
 
 Meijin Kawaguchi est en réalité un hommage à Katsumi Kawaguchi, directeur de la stratégie chez Bandai Hobby Division. Il s'agit d'un passionné de modélisme qui est passé professionnel et surnommé "Meijin Kawaguchi", pour "le Maitre Kawaguchi". Kawaguchi fait des apparitions fréquentes dans les expositions Gunpla et porte souvent les mêmes lunettes.

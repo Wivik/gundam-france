@@ -63,11 +63,11 @@ Adele Mk II](/images/stories/saga/gundamage/mechas/adelmk2.png 
 Base Technologique
 
 
-![adele.png](/images/stories/saga/gundamage/mechas/mini/adele.png)
+
 [RGE-G1100 Adele](ag/gundam-age/rge-g1100-adele.html)
 Amélioration Technologique
 
 
-![adelmk2.png](/images/stories/saga/gundamage/mechas/mini/adelmk2.png)
+
 [RGE-G1500 Adele Mark II](ag/gundam-age/adele-mark-ii.html)
 

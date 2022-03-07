@@ -5,7 +5,7 @@ title: "Sumeragi Lee Noriega"
 Sumeragi Lee Noriega
 --------------------
 
-![sumeragi](/images/stories/saga/gundam00film/persos/celestialbeing/sumeragi.jpg)
+
 - Age : 33 ans  
 - Rôle : capitaine du Ptolemaios II  
 - Nom véritable : Leesa Kujoh  

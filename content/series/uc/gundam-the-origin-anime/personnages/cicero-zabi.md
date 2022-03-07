@@ -6,7 +6,7 @@ Cicero Zabi
 -----------
 
 
-![Cicero Zabi](/images/stories/saga/origin/persos/cicero-zabi.png)
+
 * Rôle : Politicien
 * Origines : Munzo
 

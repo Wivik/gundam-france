@@ -5,7 +5,7 @@ title: Heero Yuy
 Heero Yuy
 ---------
 
-![heero](/images/stories/saga/gundamwing/persos/heero.jpg)Heero Yuy  
+Heero Yuy  
   
 Age : 15  
 Couleur de cheveux : Brun  

@@ -6,7 +6,7 @@ Mirai Noa
 ---------
 
 
-![Mirai Noa](/images/stories/saga/zetagundam/persos/mirai-noa.png)
+
 
 
 * Age : 26

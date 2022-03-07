@@ -8,7 +8,7 @@ Film 1 : Différences
 ### Hoshi wo Tsugu Mono : Différences
 
 
-![intro.jpg](/images/stories/saga/zetagundam/images/film1/intro.jpg)**Attention : cette section comprend énormément de SPOILERS à la fois sur le film et la série TV. Si vous n'avez pas vu l'un ou d'autre, nous vous conseillons de ne pas poursuivre la lecture de cette section.**  
+**Attention : cette section comprend énormément de SPOILERS à la fois sur le film et la série TV. Si vous n'avez pas vu l'un ou d'autre, nous vous conseillons de ne pas poursuivre la lecture de cette section.**  
   
 Le but de cette section est de relever la plupart des différences qui apparaissent entre le film et la série TV. Il ne s'agit pas d'une étude exhaustive dans la mesure où certains aspects seront volontairement omis ni ne seront jugés, comme les choix opérés par le réalisateur dans la découpe des passages, le choix des scènes supprimées ou rajoutées. Il s'agit plus là d'une énumération des différences au niveau du scénario ou de la mise en scène, voire de certaines anecdotes.  
   
@@ -23,7 +23,7 @@ La mort de Leila Mira Leila (réduit à « Leila Leila » dans le film) a égale
 On notera aussi que l'attitude de Leila envers Jerid est différente. Si dans la série TV, son mépris pour le jeune homme fait place à une complicité doublée d'une rapport maître/élève, elle continue de mépriser Jerid dans le film. Du coup, on a du mal à comprendre ou à justifier l'acharnement que met Jerid à la retrouver puis à la venger. A moins que dans le film, il soit naïf au point d'avoir cru que Leila pouvait avoir de l'estime pour lui ?
 
 
-![1.jpg](/images/mini/images-stories-saga-zetagundam-images-film1-_tb_200x_1.jpg)![2.jpg](/images/mini/images-stories-saga-zetagundam-images-film1-_tb_200x_2.jpg)![3.jpg](/images/mini/images-stories-saga-zetagundam-images-film1-_tb_200x_3.jpg)
+
 Le passage sur la cité lunaire Amman (épisodes 8 à 10) est également absent du film. On loupe donc l'établissement de nouvelles relations entre Ema et Camille, l'apparition de Won Lee et de Kai Shiden. Ce dernier ne sera introduit que lors de l'attaque sur Jaburo. Seul personnage qui soit introduit de façon différente : Haro ! Dans la série TV, Camille trouve le petit robot sphérique dans une décharge abandonnée, alors qu'ici, il le trouve inexplicablement parmi les caisses de ravitaillement reçues par l'Argama.  
   
 Les différences concernant la descente de la force de frappe de l'AEUG sur Jaburo sont assez minimes, de même l'assaut lui-même. Les scènes sont identiques et il y a même assez peu de plans nouveaux.  

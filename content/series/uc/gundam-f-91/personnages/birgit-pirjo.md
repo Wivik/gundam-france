@@ -5,7 +5,7 @@ title: Birgit Pirjo
 Birgit Pirjo
 ------------
 
-![birgit](/images/stories/saga/F91/persos/fed/birgit.jpg)Birgit Pirjo  
+Birgit Pirjo  
 - Age : 22 ans  
 - Rôle : Pilote de Mobile Suit  
 - Voix japonaise : Yoku Shioya

@@ -6,7 +6,7 @@ Baker
 -----
 
 
-![Baker](/images/stories/saga/gundambf/persos/beikar.png)
+
 
 
 * Fonction : Assistante du président de la PPSE

@@ -7,7 +7,7 @@ Star Burning Gundam
 
 
 
-![Star Burning Gundam](/images/stories/saga/gundambfgmc/mechas/star-burning-gundam.png)
+
 
 [Star Burning Gundam](javascript:change_image_m('images/stories/saga/gundambfgmc/mechas/star-burning-gundam.png');)
 

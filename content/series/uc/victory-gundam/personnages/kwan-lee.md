@@ -6,7 +6,7 @@ Kwan Lee
 --------
 
 
-![Kwan Lee](/images/stories/saga/vgundam/persos/kwan-lee.png)
+
 * Rôle : Pilote de Mobile Suit
 * Voix Japonaise : Jurota Kosugi
 

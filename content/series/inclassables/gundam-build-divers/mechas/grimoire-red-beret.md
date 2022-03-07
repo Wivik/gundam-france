@@ -9,7 +9,7 @@ Grimoire Red Beret
 
 
 
-![Grimoire Red Beret](/images/stories/saga/gundambd/mechas/grimoire-red-beret.png)
+
 * [Grimoire Red Beret](javascript:change_image_m('images/stories/saga/gundambd/mechas/grimoire-red-beret.png');)
 * [Vue de dos](javascript:change_image_m('images/stories/saga/gundambd/mechas/grimoire-red-beret-dos.png');)
 

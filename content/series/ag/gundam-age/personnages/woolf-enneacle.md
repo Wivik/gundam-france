@@ -5,7 +5,7 @@ title: "Woolf Enneacle"
 Woolf Enneacle
 --------------
 
-![woolf](/images/stories/saga/gundamage/persos/woolf.png)
+
 - Age : 23 ans  
 - Rôle : Pilote de MS  
 - Voix japonaise : Daisuke Ono

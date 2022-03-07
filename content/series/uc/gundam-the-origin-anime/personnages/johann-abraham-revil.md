@@ -6,7 +6,7 @@ Johann Ibrahim Revil
 --------------------
 
 
-![Johann Abraham Revil](/images/stories/saga/origin/persos/johann-abraham-revil.png)
+
 
 
 * Rôle : Général de l'armée spatiale Fédérale

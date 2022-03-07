@@ -7,7 +7,7 @@ Impulse GM
 
 
 
-![Impulse GM](/images/stories/saga/gundambftiw/mechas/impulse-gm.png)
+
 
 [Impulse GM](javascript:change_image_m('images/stories/saga/gundambftiw/mechas/impulse-gm.png');)
 [Vue de dos](javascript:change_image_m('images/stories/saga/gundambftiw/mechas/impulse-gm-dos.png');)

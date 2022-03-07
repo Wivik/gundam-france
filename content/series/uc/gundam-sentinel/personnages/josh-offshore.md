@@ -6,7 +6,7 @@ Josh Offshore
 -------------
 
 
-![Josh Offshore](/images/stories/saga/sentinel/persos/joshoffshore.jpg)
+
 * Age : 22
 * Rôle : Pilote de Mobile Suits
 * Origines : Terre

@@ -5,7 +5,7 @@ title: Wong Yun Fat
 Wong Yun Fat
 ------------
 
-![wongyunfat_1.jpg](/images/stories/saga/ggundam/images/persos/wongyunfat_1.jpg)Wong Yun Fat   
+Wong Yun Fat   
 - Age : ?? ans   
 - Rôle : Premier Minsitre de Neo-Hong Kong   
 - Origines : Neo-Hong Kong.   

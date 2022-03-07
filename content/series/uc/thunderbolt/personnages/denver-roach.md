@@ -6,7 +6,7 @@ Denver Roach
 ------------
 
 
-![Denver Roach](/images/stories/saga/thunderbolt/persos/denver-roach.png)
+
 
 
 L'un des membres de la Division Living Dead, il a une prothèse de jambe quasi complète.

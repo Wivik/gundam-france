@@ -10,7 +10,6 @@ title: 14 - Ashita he no Tabidachi
 * 15 janvier 2005
 
 
-![14-1](/images/stories/saga/gundamseeddestiny/episodes/14-1.jpg) ![14-2](/images/stories/saga/gundamseeddestiny/episodes/14-2.jpg) ![14-3](/images/stories/saga/gundamseeddestiny/episodes/14-3.jpg)
 
 
 Retour sur la résidence où vivaient Kira et Lacus qui a faite l'objet d'une attaque de Coordinators. Andrew leur apprend que les Mobile Suits utilisés, les ASH, font partie des derniers modèles sortis des usines de ZAFT, confirmant la théorie d'une attaque provenant de ces derniers. Andrew décide alors qu'il n'est plus conseillé d'aller vivre sur les PLANT. Au même moment arrive Myrna, la servante de Cagalli, qui est venue leur trasmettre un message de celle-ci et constate avec horreur le désastre. Dans sa lettre, Cagalli les informe qu'elle a décidé d'accepter le mariage avec Yuna et qu'elle réside désormais dans la demeure de la famille Seiran, elle espère que ceci aidera son pays. En pièce jointe elle lui rend la bague qu'Athrun lui a offerte, celle-ci ne se jugeant plus digne de la porter et demande à Kira de la lui rendre.

@@ -6,7 +6,7 @@ John Ayers McKenzie
 -------------------
 
 
-![John Ayers McKenzie](/images/stories/saga/gundambf/persos/john-ayers-mckenzie.png)
+
 
 
 * Age : 76

@@ -7,7 +7,7 @@ ASW-G-XX Gundam Vidar
 
 
 
-![Gundam Vidar](/images/stories/saga/g-tekketsu-s2/mechas/gundam-vidar.png)
+
 
 [Gundam Vidar](javascript:change_image_m('images/stories/saga/g-tekketsu-s2/mechas/gundam-vidar.png');)
 [Vue de dos](javascript:change_image_m('images/stories/saga/g-tekketsu-s2/mechas/gundam-vidar-dos.png');)

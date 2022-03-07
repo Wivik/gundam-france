@@ -6,7 +6,7 @@ Depp Rog
 --------
 
 
-![depprog](/images/stories/saga/msgundam/mechas/depprog.png)
+
 
 
 Depp Rog  

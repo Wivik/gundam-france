@@ -6,7 +6,7 @@ Suze Relane
 -----------
 
 
-![Suze Relane](/images/stories/saga/vgundam/persos/suze-relane.png)
+
 
 
 * Age : 9 ans

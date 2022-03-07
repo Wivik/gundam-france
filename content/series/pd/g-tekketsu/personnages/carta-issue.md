@@ -6,7 +6,7 @@ Carta Issue
 -----------
 
 
-![Carta Issue](/images/stories/saga/g-tekketsu/persos/carta-issue.png)
+
 
 
 * Rôle : Commandante de la flotte orbitale externe

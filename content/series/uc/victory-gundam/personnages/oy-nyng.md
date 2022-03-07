@@ -6,7 +6,7 @@ Oy Nyng
 -------
 
 
-![Oy Nyng](/images/stories/saga/vgundam/persos/oy-nyng.png)
+
 * Age : 70
 * Rôle : Chef du convoi Camion
 * Voix Japonaise : Hirohiko Kakegawa

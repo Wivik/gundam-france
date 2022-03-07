@@ -8,7 +8,7 @@ Death Beast
  
 
 
-![deathbeast.png](/images/stories/saga/ggundam/mechas/deatharmy/deathbeast.png)
+
 
 
 Fiche Technique   

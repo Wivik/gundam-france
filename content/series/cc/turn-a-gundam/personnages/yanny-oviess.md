@@ -6,7 +6,7 @@ Yanny Oviess
 ------------
 
 
-![Yanny Oviess](/images/stories/saga/turnagundam/persos/terriens/yanny.jpg)
+
 * Age : 28 ans
 * Rôle : Second de la Milice Inglessia
 * Origines : Terre

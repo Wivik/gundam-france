@@ -6,7 +6,7 @@ Dante Gordigiani
 ----------------
 
 
-![Dante Gordigiani](/images/stories/manga/astray/persos/Dante_Gordigiani_head.jpg)
+
 
 Pilote du MBF-P0X Astray Noir, ce mercenaire apparaît durant l'entre-deux guerres, visiblement déterminé à assassiner Gai Murakumo.
 

@@ -6,7 +6,7 @@ Marion Welch
 ------------
 
 
-![marion.jpg](/images/stories/saga/bluedestiny/persos/marion.jpg)
+
   
 NewType ayant servi de cobaye pour le système EXAM, Marion fut tuée par accident et son ame enfermée dans 
 le système. 

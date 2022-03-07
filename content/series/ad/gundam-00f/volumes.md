@@ -8,7 +8,7 @@ Volumes
 ### Volumes
 
 
-![vol1](/images/stories/manga/gundam00f/volumes/vol1.jpg) ![vol2](/images/stories/manga/gundam00f/volumes/vol2.jpg) ![vol3](/images/stories/manga/gundam00f/volumes/vol3.jpg) ![vol4](/images/stories/manga/gundam00f/volumes/vol4.jpg)
+
 
 
 ### Dates de sortie

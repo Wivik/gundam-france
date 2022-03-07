@@ -5,7 +5,7 @@ title: RX-160S Byarlant Custom
 RX-160S Byarlant Custom
 -----------------------
 
-![byalant](/images/stories/saga/unicorn/mechas/federation/byalant.png) 
+ 
 
 
 ### Fiche Technique

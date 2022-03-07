@@ -6,7 +6,7 @@ Zaku Kraken
 -----------
 
 
-![Zaku Clarken](/images/stories/saga/gundambftry/mechas/zaku-clarken.png)
+
 
 
 ### Fiche Technique

@@ -5,7 +5,7 @@ title: Catherine Bloom
 Catherine Bloom
 ---------------
 
-![catherine](/images/stories/saga/gundamwing/persos/catherine.jpg)Catherine Bloom  
+Catherine Bloom  
   
 Age : 17  
   

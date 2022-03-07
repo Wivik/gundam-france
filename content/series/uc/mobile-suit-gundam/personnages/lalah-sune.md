@@ -9,7 +9,7 @@ Lalah Sune
 
 
 
-![Lalah Sune](/images/stories/saga/msgundam/persos/lalah-sune.png)
+
 * [Lalah Sune](javascript:change_image_m('images/stories/saga/msgundam/persos/lalah-sune.png');)
 * [Lalah Sune (UC 0077)](javascript:change_image_m('images/stories/saga/origin/persos/lalah-sune.png');)
 

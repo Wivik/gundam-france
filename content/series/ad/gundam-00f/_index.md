@@ -7,7 +7,7 @@ Mobile Suit Gundam 00F
 ----------------------
 
 
-![gundam00f](/images/stories/manga/gundam00f/gundam00f.jpg)
+
 
 
 Gundam 00F est le premier manga parallèle à la série Mobile Suit Gundam 00. Il a commencé sa prépublication dans Gundam ACE en décembre 2007 et se positionne sur la première saison de la série puis se poursuit de manière autonome dans l'entre-deux saisons. Le manga est dessiné par Kôichi Tokita à qui l'on doit différents manga de Gundam dont plusieurs side-story de Gundam SEED. Gundam 00F raconte l'histoire d'un groupe secondaire qui a pour but d'assister l'équipe du Ptolemaios de Celestial Being dans ses missions, mais sans jamais se faire connaître d'eux ni du monde... 
@@ -30,7 +30,7 @@ Dès lors, c'est Fon Spaak qui devient le personnage central. Grossier, vindicat
 ### Aperçu
 
 
-![vol4](/images/stories/manga/gundam00f/volumes/vol4.jpg)Ainsi l'histoire de Fereshte se divise en deux parties bien distinctes : la première vient en parallèle du scénario de la saison 1 de Gundam 00, quand la seconde, centrée sur Fon Spaak et l'évolution des membres de Fereshte, traite de la période située entre les deux saisons, décrivant les événements menant à la création des A-Laws après celle des Nations Unies. Qu'il s'agisse des analyses de Fon Spaak ou des récits de Chall Acustica, plusieurs éclaircissements sont apportés à divers éléments et évènements de la série (fonctionnement de Veda, histoire du développement des Gundams,...) et à l'évolution du contexte géopolitique.
+Ainsi l'histoire de Fereshte se divise en deux parties bien distinctes : la première vient en parallèle du scénario de la saison 1 de Gundam 00, quand la seconde, centrée sur Fon Spaak et l'évolution des membres de Fereshte, traite de la période située entre les deux saisons, décrivant les événements menant à la création des A-Laws après celle des Nations Unies. Qu'il s'agisse des analyses de Fon Spaak ou des récits de Chall Acustica, plusieurs éclaircissements sont apportés à divers éléments et évènements de la série (fonctionnement de Veda, histoire du développement des Gundams,...) et à l'évolution du contexte géopolitique.
 
 
 C'est d'ailleurs cette deuxième partie qui sera la plus intéressante. Les actes de Fon Spaak surprennent par leur ampleur (difficile d'en dire plus sans spoiler) et la direction prise par le personnage. Difficile de cerner cet homme au rire dément, parlant de lui à la troisième personne, dont la folie calculée s'apparente bien souvent à une clairvoyance aiguë tant de lui-même que de son environnement. Tous ceux qui le rencontrent se retrouvent confrontés à eux-mêmes, leurs faiblesses et leurs hésitations dévoilées, obligés de résoudre leurs questionnements intérieurs pour pouvoir avancer. Chall, Hanayo, mais surtout sa némésis Hixar Fermi n'auront d'autre choix que d'assumer leur humanité et dépasser leurs conditions d'origine. Voici l'autre principal point d'intérêt de 00F : l'évolution de ses personnages, leur " ré-humanisation ", quand ceux-ci ont succombé à la facilité de n'être qu'un rouage du plan, de Veda ou autre machine.  

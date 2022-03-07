@@ -70,7 +70,7 @@ Le Jabaco est un appareil étudié pour le combat rapproché qui possède comme 
 
 
 
-![Beam Rifle](/images/stories/saga/vgundam/mechas/zm-s20s-beamrifle.jpg)
+
 
 [Beam Rifle](javascript:accessoires_m('images/stories/saga/vgundam/mechas/zm-s20s-beamrifle.jpg');)
 

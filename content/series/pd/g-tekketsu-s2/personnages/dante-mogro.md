@@ -6,7 +6,7 @@ Dante Mogro
 -----------
 
 
-![Dante Mogro](/images/stories/saga/g-tekketsu-s2/persos/dante-mogro.png)
+
 
 
 * Origine : Mars

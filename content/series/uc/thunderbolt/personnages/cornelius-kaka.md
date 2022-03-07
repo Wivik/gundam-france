@@ -6,7 +6,7 @@ Cornelius Kaka
 --------------
 
 
-![Cornelius Kaka](/images/stories/saga/thunderbolt/persos/cornelius-kaka.png)
+
 
 
 * Origine : Side-4
@@ -30,7 +30,7 @@ Il fera partie des officiers Fédéraux capturés par Zeon à la fin de leur mis
 
 
 
-![Combinaison spatiale](/images/mini/images-stories-saga-thunderbolt-persos-_tb_x400_cornelius-kaka-normalsuit.png)
+
 
 
 

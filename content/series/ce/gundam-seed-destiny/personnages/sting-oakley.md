@@ -5,7 +5,7 @@ title: Sting Oakley
 Sting Oakley
 ------------
 
-![sting](/images/stories/saga/gundamseeddestiny/persos/alliance/sting.jpg)Sting Oakley
+Sting Oakley
 
 
 - Age : 16   

@@ -6,7 +6,7 @@ Aila Jyrkiäinen
 ---------------
 
 
-![Aila Jyrkiäinen](/images/stories/saga/gundambf/persos/aira.png)
+
 
 
 * Origine : Finlande

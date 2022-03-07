@@ -9,7 +9,7 @@ Momo Capule
 
 
 
-![Momo Capule](/images/stories/saga/gundambd/mechas/momo-capule.png)
+
 * [Momo Capule](javascript:change_image_m('images/stories/saga/gundambd/mechas/momo-capule.png');)
 * [Vue de dos](javascript:change_image_m('images/stories/saga/gundambd/mechas/momo-capule-dos.png');)
 

@@ -5,7 +5,7 @@ title: Kayra Su
 Kayra Su
 --------
 
-![kara.jpg](/images/mini/images-stories-saga-charcontreattaque-persos-_tb_150x186_kara.jpg)
+
 Age : ?? ans  
 Rôle : Pilote  
   

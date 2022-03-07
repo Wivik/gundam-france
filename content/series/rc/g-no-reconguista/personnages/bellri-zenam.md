@@ -6,7 +6,7 @@ Bellri Zenam
 ------------
 
 
-![Beruri Zenamu](/images/stories/saga/gnoreconguista/persos/beruri-zenamu.png)
+
 
 
 * Rôle : Candidat chez les Gardes

@@ -5,7 +5,7 @@ title: Space Ark
 Space Ark
 ---------
 
-![spaceark](/images/stories/saga/F91/mechas/fed/spaceark.gif)
+
 
 
 Space Ark   

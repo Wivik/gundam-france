@@ -5,7 +5,7 @@ title: Unato Ema Seiran
 Unato Ema Seiran
 ----------------
 
-![unato](/images/stories/saga/gundamseeddestiny/persos/orb/unato.jpg)Unato Ema Seiran
+Unato Ema Seiran
 
 
 - Age : ??  

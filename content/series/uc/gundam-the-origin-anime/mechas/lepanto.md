@@ -6,7 +6,7 @@ Classe Lepanto
 --------------
 
 
-![Classe Lepanto](/images/stories/saga/origin/mechas/lepanto-class.png)
+
 
 
 ### Fiche Technique

@@ -6,7 +6,7 @@ Charlie
 -------
 
 
-![charlie](/images/stories/saga/gundam0080/persos/zeon/charlie.jpg)Charlie  
+Charlie  
 - Age : Inconnu  
 - Couleur de cheveux : Gris  
 - Couleur des yeux : Marron  

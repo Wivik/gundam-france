@@ -6,7 +6,7 @@ F91 Gundam F-91
 ---------------
 
 
-![f91](/images/stories/saga/F91/mechas/fed/f91.gif)
+
 
 
 F91 Gundam F-91   

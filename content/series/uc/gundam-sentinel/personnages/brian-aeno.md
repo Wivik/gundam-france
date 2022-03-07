@@ -6,7 +6,7 @@ Brian Aeno
 ----------
 
 
-![Brian Aeno](/images/stories/saga/sentinel/persos/brianaeno.jpg)
+
 * Age : 66
 * Rôle : Amiral de la Fédération Terrestre
 

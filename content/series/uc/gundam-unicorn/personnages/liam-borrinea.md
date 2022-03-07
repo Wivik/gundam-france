@@ -6,7 +6,7 @@ Liam Borrinea
 -------------
 
 
-![liam](/images/stories/saga/unicorn/persos/fed/liam.jpg)
+
 - Age : 40 ans
   
 - Fonction : Capitaine en second de Nahel Argama

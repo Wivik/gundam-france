@@ -5,7 +5,7 @@ title: "Desil Galette"
 Desil Galette
 -------------
 
-![desil](/images/stories/saga/gundamage/persos/desil.png)
+
 - Age : 7 ans  
 - Rôle : Garçon mystérieux  
 - Voix japonaise : Ayahi Takagaki

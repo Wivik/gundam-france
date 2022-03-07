@@ -5,7 +5,7 @@ title: Dorothy Catalonia
 Dorothy Catalonia
 -----------------
 
-![dorothy](/images/stories/saga/gundamwing/persos/dorothy.jpg)Dorothy Catalonia  
+Dorothy Catalonia  
   
 Age : 15 ans  
   

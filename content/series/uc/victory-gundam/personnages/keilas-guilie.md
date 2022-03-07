@@ -7,7 +7,7 @@ Keilas Guilie
 
 
 
-![Keilas Guilie](/images/stories/saga/vgundam/mechas/keilas-guilie.png)
+
 
 [Keilas Guilie](javascript:change_image_m('images/stories/saga/vgundam/mechas/keilas-guilie.png');)
 

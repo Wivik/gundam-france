@@ -9,7 +9,7 @@ Alexandria (Classe Alexandria)
  
 
 
-![alexandria](/images/stories/saga/zetagundam/mechas/titans/alexandria.png)
+
 
 
 Alexandria   

@@ -8,7 +8,7 @@ Classe Vosgulov
  
 
 
-![vosgulov](/images/stories/saga/gundamseed/mechas/zaft/vosgulov.png)
+
 
 
 Classe Vosgulov

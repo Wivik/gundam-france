@@ -5,7 +5,7 @@ title: "Boris Shauer"
 Boris Shauer
 ------------
 
-![boris](/images/stories/saga/gunplabuilders/persos/boris.png)Boris Shauer
+Boris Shauer
 
 
 - Age : ??  

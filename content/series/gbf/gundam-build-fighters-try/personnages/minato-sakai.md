@@ -6,7 +6,7 @@ Minato Sakai
 ------------
 
 
-![Minato Sakai](/images/stories/saga/gundambftry/persos/minato-sakai.png)
+
 
 
 * Origine : Ôsaka

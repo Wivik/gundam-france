@@ -6,7 +6,7 @@ Kenov Rukeni
 ------------
 
 
-![Kenov Rukeni](/images/stories/manga/astray/persos/kenaf.jpg)
+
 
 Étant un des plus efficaces informateurs indépendants, ce Coordinateur aime par-dessus tout manipuler l'information et jouer avec les vies de ceux qu'il croise, en particulier l'équipe de Lowe Gear à laquelle il s'intéresse en particulier. Il entretient une relation trouble avec la "pirate fashionista" Elisa Azanya.
 

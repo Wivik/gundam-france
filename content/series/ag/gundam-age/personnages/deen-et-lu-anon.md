@@ -5,7 +5,7 @@ title: "Deen et Lu Anon"
 Deen et Lu Anon
 ---------------
 
-![deenlu](/images/stories/saga/gundamage/persos/deenlu.png)
+
 - Origines : Seconde Lune  
 - Voix Japonaise : Tetsuya Kakihara, Kanae Itou
 

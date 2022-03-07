@@ -6,7 +6,7 @@ Four Murasame
 -------------
 
 
-![Four Murasame](/images/stories/saga/zetagundam/persos/four-murasame.png)
+
 
 
 * Age : 16

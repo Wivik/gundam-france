@@ -6,7 +6,7 @@ Akihiro Altland
 ---------------
 
 
-![Akihiro Altland](/images/stories/saga/g-tekketsu/persos/akihiro-altland.png)
+
 
 
 * Rôle : Membre du CGS

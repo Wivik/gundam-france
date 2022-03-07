@@ -5,7 +5,7 @@ title: "Kowaji Matsumoto"
 Kowaji Matsumoto
 ----------------
 
-![kouji](/images/stories/saga/gunplabuilders/persos/kouji.png)Koji Matsumoto
+Koji Matsumoto
 
 
 - Age : ??  

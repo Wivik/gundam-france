@@ -6,7 +6,7 @@ Radish (Classe Irish)
 ---------------------
 
 
-![raddish](/images/stories/saga/zetagundam/mechas/aeug/raddish.png)
+
 
 
 Fiche Technique  

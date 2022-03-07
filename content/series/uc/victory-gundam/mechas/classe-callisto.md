@@ -7,7 +7,7 @@ Classe Callisto
 
 
 
-![Classe Callisto](/images/stories/saga/vgundam/mechas/callisto.png)
+
 
 [Classe Callisto](javascript:change_image_m('images/stories/saga/vgundam/mechas/callisto.png');)
 

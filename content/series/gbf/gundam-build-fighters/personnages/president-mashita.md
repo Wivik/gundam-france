@@ -6,7 +6,7 @@ Président Mashita
 -----------------
 
 
-![Président Mashita](/images/stories/saga/gundambf/persos/mashita.png)
+
 
 
 * Origine : Arian

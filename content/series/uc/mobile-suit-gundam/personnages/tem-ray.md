@@ -9,7 +9,7 @@ Tem Ray
 
 
 
-![Tem Ray](/images/mini/images-stories-saga-msgundam-persos-_tb_x400_tem-ray.png)
+
 * [Tem Ray](javascript:change_image_m('images/stories/saga/msgundam/persos/tem-ray.png');)
 * [Tem Ray (UC 0071)](javascript:change_image_m('images/stories/saga/origin/persos/tem-ray.png');)
 * [Tem Ray (UC 0078)](javascript:change_image_m('images/stories/saga/origin/persos/tem-ray-uc-0079.png');)

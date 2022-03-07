@@ -5,7 +5,7 @@ title: XM-05 Berga Giros
 XM-05 Berga Giros
 -----------------
 
-![bergagiros](/images/stories/saga/F91/mechas/crossbone/bergagiros.gif)
+
 
 
 XM-05 Berga Giros   

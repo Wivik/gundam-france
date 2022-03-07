@@ -6,7 +6,7 @@ Leons Graves
 ------------
 
 
-![Leons Graves](/images/stories/manga/astray/persos/Leons.jpg)
+
 
 En CE73, ZAFT engage ce Naturel pour diriger une base avancée située en Asie du Sud-Est ; on soupçonne que cette exception ait été faite en réaction à la présence dans les rangs de l'Alliance, sur place, d'un de ces Socius conditionnés à ne jamais porter la main sur un Naturel.
 

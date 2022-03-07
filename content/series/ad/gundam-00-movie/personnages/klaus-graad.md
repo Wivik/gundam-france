@@ -5,7 +5,7 @@ title: "Klaus Graad"
 Klaus Graad
 -----------
 
-![klaus](/images/stories/saga/gundam00film/persos/federation/klaus.jpg)
+
 - Age : 31 ans  
 - Rôle : Représentant du parlement Fédéral   
 - Origines : AEU  

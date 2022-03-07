@@ -6,7 +6,7 @@ Gopp
 ----
 
 
-![Gopp](/images/stories/saga/origin/persos/gopp.png)
+
 
 
 

@@ -7,7 +7,7 @@ Musha Gundam Mk III
 
 
 
-![Musha Gundam Mk III](/images/stories/saga/gundambfgmc/mechas/musha-gundam-mk-iii.png)
+
 
 [Musha Gundam Mk III](javascript:change_image_m('images/stories/saga/gundambfgmc/mechas/musha-gundam-mk-iii.png');)
 

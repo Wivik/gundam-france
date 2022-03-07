@@ -7,7 +7,7 @@ Geirail Shalloffrichter
 
 
 
-![Geirail Shalloffrichter](/images/stories/saga/g-tekketsu-s2/mechas/geirail-shalloffrichter.png)
+
 
 [Geirail Shalloffrichter](javascript:change_image_m('images/stories/saga/g-tekketsu-s2/mechas/geirail-shalloffrichter.png');)
 [Vue de dos](javascript:change_image_m('images/stories/saga/g-tekketsu-s2/mechas/geirail-shalloffrichter-dos.png');)

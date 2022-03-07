@@ -6,7 +6,7 @@ Shiho "Housenka" Hahnenfuss
 ---------------------------
 
 
-![Shiho ](/images/stories/manga/astray/persos/Shiho.png)
+
 
 Née en CE 54, cette jeune pilote d'élite portant la version masculine de l'uniforme rouge des as de ZAFT se fait connaître vers la fin de la première Guerre de la Saint Valentin Sanglante : affectée à l'escadrille Joule, elle est chargée de mettre au point les canons du YFX-200 CGUE DEEP Arms, ce qu'elle réussit brillamment avec l'aide d'Yzak Joule lui-même.
 

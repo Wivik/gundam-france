@@ -6,7 +6,7 @@ Setona Winters
 --------------
 
 
-![Setona Winters](/images/stories/manga/astray/persos/Setona.jpg)
+
 
 Cette jeune fille (elle semble avoir 13 ans en CE 72) plus ou moins amnésique apparaît fin CE72 en Amérique du Sud, juste après la mise en application du Traité de Junius 7 et la fin de la guerre d'indépendance de l'USSA. Sortie de nulle part, elle se met au service de Jess Rabble, pour qui elle effectue toutes tâches ménagères, se révélant particulièrement douée en cuisine et en chant. Enjouée et mystérieuse, elle idolâtre Lacus Clyne et semble liée à Prayer Reverie.
 

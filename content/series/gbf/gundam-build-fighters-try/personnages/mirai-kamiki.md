@@ -6,7 +6,7 @@ Mirai Kamiki
 ------------
 
 
-![Mirai Kamiki](/images/stories/saga/gundambftry/persos/mirai-kamiki.png)
+
 
 
 

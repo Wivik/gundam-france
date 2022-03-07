@@ -6,7 +6,7 @@ Ile De Llorar
 -------------
 
 
-![Ile De Llorar](/images/stories/manga/astray/persos/Lle_de_llorar.png)
+
 
 Bien que membre de Phantom Pain, le pilote du ZGMF-YX21R Proto-Saviour est un Coordinateur, mentalement "reconditionné".
 

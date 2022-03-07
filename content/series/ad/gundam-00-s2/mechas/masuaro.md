@@ -5,7 +5,7 @@ title: "Masuaro"
 Masuaro
 -------
 
-![masurao](/images/stories/saga/gundam00/mechas/s2/federation/masurao.png)
+
 
 
 GNX-U02X Masuaro

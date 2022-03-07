@@ -6,7 +6,7 @@ Fumitan Admoss
 --------------
 
 
-![Fumitan Admoss](/images/stories/saga/g-tekketsu/persos/fumitan-admoss.png)
+
 
 
 * Rôle : Servante

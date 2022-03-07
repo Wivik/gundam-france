@@ -5,7 +5,7 @@ title: Dr Mikamura
 Dr Mikamura
 -----------
 
-![drmikamura_1.jpg](/images/stories/saga/ggundam/images/persos/drmikamura_1.jpg)Dr Mikamura   
+Dr Mikamura   
 - Age : ? ans   
 - Rôle : Scientifique   
 - Origines : Neo Japan.   

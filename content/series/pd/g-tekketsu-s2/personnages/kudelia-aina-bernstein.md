@@ -6,7 +6,7 @@ Kudelia Aina Berstein
 ---------------------
 
 
-php include("data/rgrp\_persos/kudelia-aina-bernstein.html"); ?![Kudelia Aina Berstein](/images/stories/saga/g-tekketsu-s2/persos/kudelia-aina-bernstein.png)
+php include("data/rgrp\_persos/kudelia-aina-bernstein.html"); ?
 
 
 * Fonction : Chef de la société Admoss

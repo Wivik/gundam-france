@@ -5,7 +5,7 @@ title: RGM-109 Heavygun
 RGM-109 Heavygun
 ----------------
 
-![heavygun](/images/stories/saga/F91/mechas/fed/heavygun.gif)
+
 
 
 RGM-109 Heavygun   

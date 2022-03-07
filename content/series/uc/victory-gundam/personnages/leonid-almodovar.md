@@ -6,7 +6,7 @@ Leonid Almodovar
 ----------------
 
 
-![Leonid Almodovar](/images/stories/saga/vgundam/persos/leonid-almodovar.png)
+
 * Age : 70 ans
 * Rôle : Médecin
 * Voix Japonaise : Jouji Nakata

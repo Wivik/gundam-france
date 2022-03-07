@@ -6,7 +6,7 @@ Todo Mirconen
 -------------
 
 
-![Todo Mirconen](/images/stories/saga/g-tekketsu-s2/persos/todo-mirconen.png)
+
 
 
 * Rôle : Représentant de Montag

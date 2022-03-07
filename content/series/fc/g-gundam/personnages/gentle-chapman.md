@@ -5,7 +5,7 @@ title: Gentle Chapman
 Gentle Chapman
 --------------
 
-![gentlechapman_1.jpg](/images/stories/saga/ggundam/images/persos/gentlechapman_1.jpg)Gentle Chapman   
+Gentle Chapman   
 - Age : ?? ans   
 - Rôle : Réprésentant de Neo-Britain   
 - Mobile Fighter : John Bull Gundam   

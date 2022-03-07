@@ -6,7 +6,7 @@ Biscuit Griffon
 ---------------
 
 
-![Biscuit Griffon](/images/stories/saga/g-tekketsu/persos/biscuit-griffon.png)
+
 
 
 * Rôle : Membre du CGS

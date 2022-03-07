@@ -7,7 +7,7 @@ Helmwige Reincar
 
 
 
-![Helmwige Reincar](/images/stories/saga/g-tekketsu-s2/mechas/helmwige-reincar.png)
+
 
 [Helmwige Reincar](javascript:change_image_m('images/stories/saga/g-tekketsu-s2/mechas/helmwige-reincar.png');)
 [Vue de dos](javascript:change_image_m('images/stories/saga/g-tekketsu-s2/mechas/helmwige-reincar-dos.png');)

@@ -9,7 +9,7 @@ Gihren Zabi
 
 
 
-![Gihren Zabi](/images/stories/saga/msgundam/persos/gihren-zabi.png)
+
 * [Gihren Zabi](javascript:change_image_m('images/stories/saga/msgundam/persos/gihren-zabi.png');)
 * [Gihren Zabi (UC 0068)](javascript:change_image_m('images/stories/saga/origin/persos/ghiren-zabi.png');)
 * [Gihren Zabi (UC 0071)](javascript:change_image_m('images/stories/saga/origin/persos/ghiren-zabi-uc-0071.png');)

@@ -6,7 +6,7 @@ Ramba Ral
 ---------
 
 
-![Ramba Ral](/images/stories/saga/origin/persos/ramba-ral.png)
+
 
 
 * Age : 35
@@ -66,8 +66,8 @@ Le 5 novembre UC 0079, il lancera une opération guerrilla pour combattre le Whi
 
 
 
-![Ramba Ral en UC 0071](/images/stories/saga/origin/persos/ramba-ral-uc-0071.png)
-![Ramba Ral en UC 0079](/images/stories/saga/msgundam/images/zeon/ramba.jpg)
+
+
 
 
 

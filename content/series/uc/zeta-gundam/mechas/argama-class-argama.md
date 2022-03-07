@@ -6,7 +6,7 @@ Argama (Classe Argama)
 ----------------------
 
 
-![argama](/images/stories/saga/zetagundam/mechas/aeug/argama.png)
+
 
 
 ### Fiche Technique

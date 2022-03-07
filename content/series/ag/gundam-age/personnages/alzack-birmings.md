@@ -5,7 +5,7 @@ title: "Alzack Birmings"
 Alzack Birmings
 ---------------
 
-![birmings](/images/stories/saga/gundamage/persos/birmings.png)
+
 - Age : 64  
 - Rôle : Riche homme d'affaires  
 - Voix Japonaise : Taiten Kusunoki  

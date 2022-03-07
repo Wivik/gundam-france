@@ -6,7 +6,7 @@ Cracker Griffon
 ---------------
 
 
-![Cracker Griffon](/images/stories/saga/g-tekketsu-s2/persos/cracker-griffon.png)
+
 * Voix Japonaise : Sayaka Senbongi
 
 

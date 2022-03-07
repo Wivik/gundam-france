@@ -6,7 +6,7 @@ John
 ----
 
 
-![John](/images/stories/saga/turnagundam/persos/terriens/john.jpg)
+
 * Rôle : Pilote de l'Escadron Suicide
 * Origines : Terre
 * Voix Japonaise : Toshihide Tsuchiya

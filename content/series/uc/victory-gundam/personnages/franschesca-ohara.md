@@ -6,7 +6,7 @@ Franschesca Ohara
 -----------------
 
 
-![Franschesca Ohara](/images/stories/saga/vgundam/persos/franschesca-ohara.png)
+
 
 
 * Rôle : Pilote pour la Shrike Team

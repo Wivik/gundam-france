@@ -8,7 +8,7 @@ Dominion
  
 
 
-![dominion](/images/stories/saga/gundamseed/mechas/alliance/dominion.png)
+
 
 
 Dominion  

@@ -5,7 +5,7 @@ title: "Croiseur de Combat UE"
 Croiseur de Combat UE
 ---------------------
 
-![croiseur ue](/images/stories/saga/gundamage/mechas/croiseur_ue.png) 
+ 
 
 
 ### Fiche Technique

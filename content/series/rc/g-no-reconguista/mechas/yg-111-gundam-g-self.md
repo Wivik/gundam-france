@@ -54,7 +54,7 @@ YG-111 Gundam G-Self
 Le G-Self est un Mobile Suit mystérieux qui est extrêmement polyvalent. Il possède des fonctionnalités surpassant les Mobile Suits standards. Il est armé en standard de deux Beam Sabers rangés autour de son cou, mais il peut équiper aussi un Beam Rifle et un bouclier. Il possède également des mitrailleuses dans sa tête. 
 
 
-![Mitrailleuses](/images/stories/saga/gnoreconguista/tech/g-self-mitrailleuses.jpg) 
+ 
 
 
 ![Emplacement des Beam Saber du G-Self](/images/stories/saga/gnoreconguista/tech/g-self-beam-saber.jpg) ![Beam Saber du G-Self](/images/stories/saga/gnoreconguista/tech/g-self-beam-saber-2.jpg)
@@ -72,7 +72,7 @@ Sa construction versatile lui permet d'équipe différents packs dorsaux pour lu
 **Pack Réflecteur** : Déployé, les ailettes du pack Réflecteur absorbent et renvoient les tirs laser. Il est capable de stocker l'énergie reçue. Cet accessoire a été développé par des ingénieurs d'Améria au laboratoire de la mer des Caraïbes.  
 
 
-![Le Réflecteur absorbe les tirs](/images/stories/saga/gnoreconguista/tech/g-self-reflecteur.jpg)
+
 
 
 **Pack Tricky** : Utilisé une seule fois, ses véritables capacités n'ont pas été réellement démontrées.

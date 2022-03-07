@@ -6,7 +6,7 @@ Classe Zanzibar
 ---------------
 
 
-[Zanzibar](javascript:change_image_m('images/stories/saga/msgundam/mechas/zanzibar.png');) [Version 08th MS team](javascript:change_image_m('images/stories/saga/msgundam/mechas/ZANZIBA08THR.PNG');)      ![Zanzibar](/images/stories/saga/msgundam/mechas/zanzibar.png)    
+[Zanzibar](javascript:change_image_m('images/stories/saga/msgundam/mechas/zanzibar.png');) [Version 08th MS team](javascript:change_image_m('images/stories/saga/msgundam/mechas/ZANZIBA08THR.PNG');)          
 
 
 ### Fiche Technique

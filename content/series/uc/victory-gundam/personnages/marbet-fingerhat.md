@@ -6,7 +6,7 @@ Marbet Fingerhat
 ----------------
 
 
-![Marbet Fingerhat](/images/stories/saga/vgundam/persos/marbet-fingerhat.png)
+
 * Age : 22 ans
 * Rôle : Pilote pour la Shrike Team
 * Voix Japonaise : Ayako Shiraishi

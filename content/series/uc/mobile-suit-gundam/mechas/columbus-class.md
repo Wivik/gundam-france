@@ -6,7 +6,7 @@ Classe Columbus
 ---------------
 
 
-[Classe Columbus](javascript:change_image_m('images/stories/saga/msgundam/mechas/columbus.png');) [Version The Origin](javascript:change_image_m('images/stories/saga/origin/mechas/columbus-class.png');)      ![Classe Columbus](/images/stories/saga/msgundam/mechas/columbus.png)    
+[Classe Columbus](javascript:change_image_m('images/stories/saga/msgundam/mechas/columbus.png');) [Version The Origin](javascript:change_image_m('images/stories/saga/origin/mechas/columbus-class.png');)          
 Columbus Class
   
 - Type : Vaisseau de transport. 

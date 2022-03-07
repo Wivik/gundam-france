@@ -24,7 +24,7 @@ Musiques
 ### Gundam AGE OST 1
 
 
-![ost1](/images/mini/images-stories-saga-gundamage-musiques-_tb_150x134_ost1.jpg) 
+ 
 
 
 * Date de sortie : 21 décembre 2011
@@ -71,7 +71,7 @@ Musiques
 ### Gundam AGE Original Soundtrack II
 
 
-![ost2](/images/mini/images-stories-saga-gundamage-musiques-_tb_150x133_ost2.jpg) 
+ 
 
 
 * Date de sortie : 18 avril 2012
@@ -118,7 +118,7 @@ Musiques
 ### Gundam AGE Original Soundtrack III
 
 
-![ost3](/images/mini/images-stories-saga-gundamage-musiques-_tb_150x133_ost3.jpg) 
+ 
 
 
 * Date de sortie : 11 juillet 2012
@@ -170,7 +170,7 @@ Musiques
 ### Gundam AGE Original Soundtrack IV
 
 
-![ost4](/images/mini/images-stories-saga-gundamage-musiques-_tb_150x150_ost4.jpg) 
+ 
 
 
 * Date de sortie : 21/11/2012

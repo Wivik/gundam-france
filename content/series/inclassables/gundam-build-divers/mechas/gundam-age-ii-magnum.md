@@ -9,7 +9,7 @@ Gundam AGE II Magnum
 
 
 
-![Gundam AGE II Magnum](/images/stories/saga/gundambd/mechas/gundam-age-ii-magnum.png)
+
 * [Gundam AGE II Magnum](javascript:change_image_m('images/stories/saga/gundambd/mechas/gundam-age-ii-magnum.png');)
 * [Vue de dos](javascript:change_image_m('images/stories/saga/gundambd/mechas/gundam-age-ii-magnum-dos.png');)
 

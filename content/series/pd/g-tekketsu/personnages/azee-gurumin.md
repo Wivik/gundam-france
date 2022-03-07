@@ -6,7 +6,7 @@ Azee Gurumin
 ------------
 
 
-![Azee Gurumin](/images/stories/saga/g-tekketsu/persos/azee-gurumin.png)
+
 
 
 * Rôle : Membre de Teiwaz

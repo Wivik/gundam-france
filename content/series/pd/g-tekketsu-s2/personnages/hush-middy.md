@@ -6,7 +6,7 @@ Hush Middy
 ----------
 
 
-![Hush Middy](/images/stories/saga/g-tekketsu-s2/persos/hash-midi.png)
+
 
 
 * Origine : Mars

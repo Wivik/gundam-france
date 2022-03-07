@@ -5,7 +5,7 @@ title: Adenauer Paraya
 Adenauer Paraya
 ---------------
 
-![adenauer.jpg](/images/stories/saga/charcontreattaque/persos/adenauer.jpg)
+
 Age : ?? ans  
 Rôle : Politicien  
   

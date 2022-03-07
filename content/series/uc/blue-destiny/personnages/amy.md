@@ -6,7 +6,7 @@ Amy Bauer-Meister
 -----------------
 
 
-![amy.jpg](/images/stories/saga/bluedestiny/persos/amy.jpg)
+
   
 Surnommée "l'Aigle d'Odessa", Amy est une pilote pour la Fédération qui fut autrefois dans la même équipe que Yu.
   

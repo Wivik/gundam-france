@@ -6,7 +6,7 @@ Apolly Bay
 ----------
 
 
-![Apolly Bay](/images/stories/saga/zetagundam/persos/apolly.png)
+
 
 
 * Age : 24

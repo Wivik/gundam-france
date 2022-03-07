@@ -6,7 +6,7 @@ Dozle Zabi
 ----------
 
 
-![dozuru.jpg](/images/stories/saga/msgundam/images/zeon/dozuru.jpg)- Âge : 28 ans (né en UC 0051)  
+- Âge : 28 ans (né en UC 0051)  
  - Fonctions : Général de Zeon  
  - Habitat : Base de Solomon  
   

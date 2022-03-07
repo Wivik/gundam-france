@@ -6,7 +6,7 @@ Jane Houston
 ------------
 
 
-![Jane Houston](/images/stories/manga/astray/persos/Jane Houston.png)
+
 
 Enseigne de vaisseau, cette Naturelle est devenue un as du pilotage de MS en milieu sous-marin. Ses prouesses lors de la seconde Bataille de la Mer de Casablanca (24/06/CE71), alors qu'il s'agissait du premier test en combat réel de son GAT-X255 Forbidden Blue, lui valurent chez ZAFT le surnom de "White Whale" en référence à Moby Dick.
 

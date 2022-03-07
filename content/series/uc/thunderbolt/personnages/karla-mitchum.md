@@ -6,7 +6,7 @@ Karla Mitchum
 -------------
 
 
-![Karla Mitchum](/images/stories/saga/thunderbolt/persos/karla-mitchum.png)
+
 
 
 * Rôle : Chercheuse

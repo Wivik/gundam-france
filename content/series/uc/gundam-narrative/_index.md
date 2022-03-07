@@ -19,7 +19,7 @@ UC 0097, un an après l’ouverture de la Boite LaPlace. Malgré la révélation
 Après la destruction des forces de Neo Zeon connues sous le nom des Manchettes, "l'Incident LaPlace" est désormais clôturé. Durant la bataille finale, les Mobile Suits dotés de Full Psycho Frame ont démontré des capacités allant au delà de ce que l’imagination de l’Homme pouvait concevoir.  La menace de la Licorne Blanche et du Lion d’Ébène ont été écartées de la conscience collective et oubliés par l’Histoire.
 
 
-![gundamnt.jpg](/images/mini/images-stories-saga-gundamnt-_tb_x200_gundamnt.jpg)
+
 
 
 Cependant, des apparitions du RX-0 Unicorn 03, supposé perdu deux ans auparavant, sont signalées. Son nom est Phenex, l’oiseau immortel.

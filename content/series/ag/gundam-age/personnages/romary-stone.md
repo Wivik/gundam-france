@@ -5,7 +5,7 @@ title: "Romary Stone"
 Romary Stone
 ------------
 
-![romary](/images/stories/saga/gundamage/persos/romary.png)
+
 - Age : 17  
 - Rôle : Etudiante  
 - Origines : Colonie Tordia  

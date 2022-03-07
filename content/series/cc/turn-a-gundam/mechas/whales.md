@@ -5,7 +5,7 @@ title: Whales
 Whales
 ------
 
-![whales](/images/stories/saga/turnagundam/ms/terriens/whales.png)
+
 
 
 Whales

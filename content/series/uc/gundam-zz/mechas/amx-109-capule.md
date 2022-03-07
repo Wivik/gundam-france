@@ -6,7 +6,7 @@ AMX-109 Capule
 --------------
 
 
-[Capule](javascript:change_image_m('images/stories/saga/gundamzz/mechas/neozeon/amx-109.png');) [Version Gundam UC](javascript:change_image_m('images/stories/saga/unicorn/mechas/amx-109-capule.png');) [Version Gundam UC, dos](javascript:change_image_m('images/stories/saga/unicorn/mechas/amx-109-capule-dos.png');)      ![Capule](/images/stories/saga/gundamzz/mechas/neozeon/amx-109.png)    
+[Capule](javascript:change_image_m('images/stories/saga/gundamzz/mechas/neozeon/amx-109.png');) [Version Gundam UC](javascript:change_image_m('images/stories/saga/unicorn/mechas/amx-109-capule.png');) [Version Gundam UC, dos](javascript:change_image_m('images/stories/saga/unicorn/mechas/amx-109-capule-dos.png');)          
 
 
 ### Fiche Technique

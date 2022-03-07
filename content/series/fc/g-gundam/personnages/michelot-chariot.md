@@ -5,7 +5,7 @@ title: Michelot Chariot
 Michelot Chariot
 ----------------
 
-![michelochariot_1.jpg](/images/stories/saga/ggundam/images/persos/michelochariot_1.jpg)Michelot Chariot   
+Michelot Chariot   
 - Age : ?? ans   
 - Rôle : Réprésentant de Neo-Italia   
 - Mobile Fighter : Neros Gundam   

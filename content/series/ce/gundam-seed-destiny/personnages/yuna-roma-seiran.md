@@ -5,7 +5,7 @@ title: Yuna Roma Seiran
 Yuna Roma Seiran
 ----------------
 
-![yuna](/images/stories/saga/gundamseeddestiny/persos/orb/yuna.jpg)Yuna Roma Seiran
+Yuna Roma Seiran
 
 
 - Age : 22 ans  

@@ -5,7 +5,7 @@ title: "Dique Gunhale"
 Dique Gunhale
 -------------
 
-![dique.png](/images/stories/saga/gundamage/persos/dique.png)
+
 - Age : 14 ans  
 - Rôle : Ami de Flit   
 - Origines : Colonie Nova  

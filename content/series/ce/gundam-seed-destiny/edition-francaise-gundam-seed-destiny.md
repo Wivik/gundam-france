@@ -15,7 +15,7 @@ A l'image de Gundam SEED, l'édition de Destiny dans nos contrées s'est étendu
 Gundam SEED Destiny - L'intégrale
 
 
-![integral](/images/stories/saga/gundamseeddestiny/dvd/integral.png)
+
 * Durée : 25 Mins/Episode
 * Nombre de DVD : 10
 * Langues : VF/VOST
@@ -31,7 +31,7 @@ Gundam SEED Destiny - L'intégrale
 Coffret Gundam SEED Destiny vol.1/2
 
 
-![box1](/images/stories/saga/gundamseeddestiny/dvd/box1.png)
+
 * Durée : 10h
 * Nombre de DVD : 5 (volumes 1 à 5)
 * Langues : VF/VOST
@@ -50,7 +50,7 @@ Coffret Gundam SEED Destiny vol.1/2
 Coffret Gundam SEED Destiny vol.2/2
 
 
-![box2](/images/stories/saga/gundamseeddestiny/dvd/box2.png)
+
 * Durée : 10h
 * Nombre de DVD : 5
 * Langues : VF/VOST
@@ -73,7 +73,7 @@ Edition à l'unité
 Gundam SEED Destiny Vol. 1
 
 
-![vol1](/images/stories/saga/gundamseeddestiny/dvd/vol1.png)
+
 * Durée : 125 min
 * Nombre de DVD : 1
 * Sous-titres : français anglais
@@ -91,7 +91,7 @@ Gundam SEED Destiny Vol. 1
 Gundam SEED Destiny Vol. 2
 
 
-![vol2](/images/stories/saga/gundamseeddestiny/dvd/vol2.png)
+
 * Durée : 125 min
 * Nombre de DVD : 1
 * Sous-titres : français anglais
@@ -109,7 +109,7 @@ Gundam SEED Destiny Vol. 2
 Gundam SEED Destiny Vol.3
 
 
-![vol3](/images/stories/saga/gundamseeddestiny/dvd/vol3.png)
+
 * Durée : 125 min
 * Nombre de DVD : 1
 * Sous-titres : français, anglais
@@ -127,7 +127,7 @@ Gundam SEED Destiny Vol.3
 Gundam SEED Destiny Vol.4
 
 
-![vol4](/images/stories/saga/gundamseeddestiny/dvd/vol4.png)
+
 * Durée : 125 min
 * Nombre de DVD : 1
 * Sous-titres : français, anglais
@@ -145,7 +145,7 @@ Gundam SEED Destiny Vol.4
 Gundam SEED Destiny Vol.5
 
 
-![vol5](/images/stories/saga/gundamseeddestiny/dvd/vol5.png)
+
 * Durée : 125 min
 * Nombre de DVD : 1
 * Sous-titres : Français Anglais
@@ -163,7 +163,7 @@ Gundam SEED Destiny Vol.5
 Gundam SEED Destiny Vol.6
 
 
-![vol6](/images/stories/saga/gundamseeddestiny/dvd/vol6.png)
+
 * Durée : 125 mins
 * Nombre de DVD : 1
 * Sous-titres : français
@@ -181,7 +181,7 @@ Gundam SEED Destiny Vol.6
 Gundam SEED Destiny Vol.7
 
 
-![vol7](/images/stories/saga/gundamseeddestiny/dvd/vol7.png)
+
 * Durée : 125 min environ
 * Nombre de DVD : 1
 * Sous-titres :  Français Anglais
@@ -199,7 +199,7 @@ Gundam SEED Destiny Vol.7
 Gundam SEED Destiny Vol.8
 
 
-![vol8](/images/stories/saga/gundamseeddestiny/dvd/vol8.png)
+
 * Durée : 125 min environ
 * Nombre de DVD : 1
 * Sous-titres : Francais, Anglais
@@ -216,7 +216,7 @@ Gundam SEED Destiny Vol.8
 Gundam SEED Destiny Vol.9
 
 
-![vol9](/images/stories/saga/gundamseeddestiny/dvd/vol9.png)
+
 * Durée : 125 mins environ
 * Nombre de DVD : 1
 * Sous-titres : Français, Anglais
@@ -233,7 +233,7 @@ Gundam SEED Destiny Vol.9
 Gundam SEED Destiny Vol.10
 
 
-![vol1](/images/stories/saga/gundamseeddestiny/dvd/vol1.jpg)
+
 * Durée : 125 min environ
 * Nombre de DVD : 1
 * Sous-titres : Francais, Anglais

@@ -6,7 +6,7 @@ Susumu Sazaki
 -------------
 
 
-![Susumu Sazaki](/images/stories/saga/gundambf/persos/susumu.png)
+
 
 
 * Voix Japonaise : Ryou Hirohashi

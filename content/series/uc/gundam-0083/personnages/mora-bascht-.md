@@ -6,7 +6,7 @@ Mora Bascht
 -----------
 
 
-![mora.jpg](/images/stories/saga/gundam0083/images/persos/mora.jpg)- Age : 26   
+- Age : 26   
 - Rôle : Mécanicienne de la Fédération Terrestre   
 - Doubleuse Japonais : Kazue Ikura   
 Mora est une mécanicienne hors-pair, mais aussi la meilleure ami, et protectrice de Nina.   

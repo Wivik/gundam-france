@@ -6,7 +6,7 @@ Danton Haireg
 -------------
 
 
-![Danton Haireg](/images/stories/saga/twilightaxis/persos/danton-haireg.png)
+
 
 
 * Origine : Zeon

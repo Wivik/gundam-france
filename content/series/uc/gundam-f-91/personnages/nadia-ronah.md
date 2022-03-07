@@ -5,7 +5,7 @@ title: Nadia Ronah
 Nadia Ronah
 -----------
 
-![nadia](/images/stories/saga/F91/persos/crossbone/nadia.jpg)Nadia Ronah  
+Nadia Ronah  
 - Age : 36 ans  
 - Rôle : mère de Cecily/Vera Ronah  
 - Voix japonaise : Akiko Tsuboi

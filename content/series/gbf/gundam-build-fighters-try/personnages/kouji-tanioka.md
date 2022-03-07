@@ -6,7 +6,7 @@ Kouji Tanioka
 -------------
 
 
-![Kouji Tanioka](/images/stories/saga/gundambftry/persos/kouji-tanioka.png)
+
 
 
 * Voix Japonaise : Shigeyuki Susaki

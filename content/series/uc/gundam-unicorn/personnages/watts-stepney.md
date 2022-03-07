@@ -6,7 +6,7 @@ Watts Stepney
 -------------
 
 
-![Watts Stepney](/images/stories/saga/unicorn/persos/watts.jpg)
+
 * Age : 26
 * Rôle : Pilote de Mobile Suit
 * Voix Japonaise : Hiroki Yasumoto

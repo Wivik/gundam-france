@@ -6,7 +6,7 @@ Kudelia Aina Bernstein
 ----------------------
 
 
-![Kudelia Aina Bernstein](/images/stories/saga/g-tekketsu/persos/kudelia-aina-bernstein.png)
+
 
 
 * Rôle : Leader des indépendantistes de Mars

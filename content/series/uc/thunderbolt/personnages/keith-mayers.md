@@ -6,7 +6,7 @@ Keith Mayers
 ------------
 
 
-![Keith Mayers](/images/stories/saga/thunderbolt/persos/keith-mayers.png)
+
 
 
 * Rôle : Pilote de Mobile Suit

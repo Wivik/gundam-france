@@ -60,12 +60,12 @@ AGE-3O Gundam AGE-3 Orbital
 Base Technologique
 
 
-![age2.png](/images/stories/saga/gundamage/mechas/mini/age2.png)
+
 [AGE-2 Gundam AGE-2](ag/gundam-age/age-2-gundam-age-2.html)
 Evolution Technologique
 
 
-![age3.png](/images/stories/saga/gundamage/mechas/mini/age3.png)
+
 [AGE-3 Gundam AGE-3](ag/gundam-age/age-3-gundam-age-3.html)
 Ajout d'Equipement
 

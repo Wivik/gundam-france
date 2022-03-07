@@ -5,7 +5,7 @@ title: Shingo Mori
 Shingo Mori
 -----------
 
-![shingo](/images/stories/saga/gundamx/persos/shingo.jpg)Shingo Mori  
+Shingo Mori  
 - Age : 20 ans  
 - Fonction : Navigateur du Freeden
 

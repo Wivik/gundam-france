@@ -6,7 +6,7 @@ Chan Agi
 --------
 
 
-![chan.jpg](/images/stories/saga/charcontreattaque/persos/chan.jpg)
+
 
 
 Age : ?? ans  

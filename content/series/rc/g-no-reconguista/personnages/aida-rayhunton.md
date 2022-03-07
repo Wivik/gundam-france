@@ -6,7 +6,7 @@ Aida Rayhunton
 --------------
 
 
-![Aida Reihanton](/images/stories/saga/gnoreconguista/persos/aida-reihanton.png)
+
 
 
 * Vrai nom : Aida Surugan

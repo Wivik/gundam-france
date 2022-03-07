@@ -81,7 +81,7 @@ Unité basée sur le ZM-S22S Rig Shokew, l'Imperial Rig Shokew a été amélior�
 
 
 
-![Beam Rifle](/images/stories/saga/vgundam/mechas/zm-s22s-beamrifle.jpg)
+
 
 [Beam Rifle](javascript:accessoires_m('images/stories/saga/vgundam/mechas/zm-s22s-beamrifle.jpg');)
 [Beam Saber](javascript:accessoires_m('images/stories/saga/vgundam/mechas/zm-s22s-beamsaber.jpg');)

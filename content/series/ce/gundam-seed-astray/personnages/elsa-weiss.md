@@ -6,7 +6,7 @@ Elsa Weiss
 ----------
 
 
-![Elsa Weiss](/images/stories/manga/astray/persos/Elsa_Weiss_head.jpg)
+
 
 Coordinatrice de Combat créée par Dante Gordigiani, cette jeune pilote d'un GOUF personnalisé l'assiste dans sa traque du leader de la Serpent Tail, appliquant au mieux sa devise : « Née pour combattre ». 
 

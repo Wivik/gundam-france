@@ -6,7 +6,7 @@ Misaki
 ------
 
 
-![Misaki](/images/stories/saga/gundambf/persos/misaki.png)
+
 
 
 

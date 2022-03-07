@@ -6,7 +6,7 @@ Steiner Hardy
 -------------
 
 
-![steiner](/images/stories/saga/gundam0080/persos/zeon/steiner.jpg)Steiner Hardy   
+Steiner Hardy   
 - Age : 44 ans  
 - Couleur de cheveux : Gris  
 - Couleur des yeux : Marron  

@@ -6,7 +6,7 @@ Lila Milla Rira
 ---------------
 
 
-![Lila Milla Rira](/images/stories/saga/zetagundam/persos/lila-milla-rira.png)
+
 
 
 * Age : 25

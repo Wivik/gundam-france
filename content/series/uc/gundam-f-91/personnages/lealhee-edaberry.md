@@ -5,7 +5,7 @@ title: Lealhee Edaberry
 Lealhee Edaberry
 ----------------
 
-![leahlee](/images/stories/saga/F91/persos/fed/leahlee.jpg)Leahlee Edaberry  
+Leahlee Edaberry  
 - Age : 22 ans  
 - Rôle : Commandant du Space Ark  
 - Voix japonaise : Mari Yoko

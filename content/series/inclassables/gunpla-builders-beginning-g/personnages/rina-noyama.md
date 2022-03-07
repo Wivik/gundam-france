@@ -5,7 +5,7 @@ title: "Rina Noyama"
 Rina Noyama
 -----------
 
-![rina](/images/stories/saga/gunplabuilders/persos/rina.png)Rina Noyama
+Rina Noyama
 
 
 - Age : ??  

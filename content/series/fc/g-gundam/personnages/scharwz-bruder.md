@@ -5,7 +5,7 @@ title: Schwarz Bruder
 Schwarz Bruder
 --------------
 
-![schwarzbruder_1.jpg](/images/stories/saga/ggundam/images/persos/schwarzbruder_1.jpg)Schwarz Bruder   
+Schwarz Bruder   
 - Age : 28 ans   
 - Rôle : Réprésentant de Neo-Germany   
 - Mobile Fighter : Spiegel Gundam   

@@ -5,7 +5,7 @@ title: Assistantes de Chibodee
 Assistantes de Chibodee
 -----------------------
 
-![girls.jpg](/images/stories/saga/ggundam/images/persos/girls.jpg)Assistantes de Chibodee   
+Assistantes de Chibodee   
 - Rôle : Membres de l'équipe Neo-America.   
 - Origines : Neo-America.   
   

@@ -6,7 +6,7 @@ Tassilo Wago
 ------------
 
 
-![Tassilo Wago](/images/stories/saga/vgundam/persos/tassilo-wago.png)
+
 
 
 * Rôle : Leader des forces d'invasion de la Terre

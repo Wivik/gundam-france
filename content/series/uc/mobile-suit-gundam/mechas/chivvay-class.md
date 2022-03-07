@@ -6,7 +6,7 @@ Classe Chivvay
 --------------
 
 
-![chivvay](/images/stories/saga/msgundam/mechas/chivvay.png)
+
 
 
 ### Fiche Technique

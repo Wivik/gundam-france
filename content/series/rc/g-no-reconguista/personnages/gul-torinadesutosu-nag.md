@@ -6,7 +6,7 @@ Gel Torimedesutosu Nag
 ----------------------
 
 
-![Gel Torimedesutosu Nag](/images/stories/saga/gnoreconguista/persos/gul-torimedesutosu-mege.png)
+
 
 
 * Rôle : Pape du SU-cord

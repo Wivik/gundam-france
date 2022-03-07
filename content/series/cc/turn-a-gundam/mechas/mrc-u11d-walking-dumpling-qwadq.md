@@ -5,7 +5,7 @@ title: MRC-U11D Walking Dumpling "WaD"
 MRC-U11D Walking Dumpling "WaD"
 -------------------------------
 
-![wad](/images/stories/saga/turnagundam/ms/moonraces/wad.png)
+
 
 
 MRC-U11D Walking Dumpling "WaD"

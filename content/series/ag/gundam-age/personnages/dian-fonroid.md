@@ -5,7 +5,7 @@ title: "Dian Fonroid"
 Dian Fonroid
 ------------
 
-![dian](/images/stories/saga/gundamage/persos/dian.png)
+
 - Age :   
 - Rôle : Capitaine de la Fédération  
 - Voix Japonaise : Shigeo Kiyama

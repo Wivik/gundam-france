@@ -15,7 +15,7 @@ Si SEED joue clairement la carte de l'hommage à ses prédécesseurs par ses ré
 Bien entendu, des Mobile Suits transformés pour s'adapter à une mission particulière ont déjà été vus : le MkII de Z utilise une Flying Armor en milieu terrestre, plusieurs Gundam de l'UC ont utilisé des pièces supplémentaires pour améliorer leur blindage, leur performances ou autre armement (mode Full Armor, etc...). Cependant, ces évolutions nétaient en général que des rajouts temporaires, et limités à des prototypes. Ce qui apparaît dans Gundam SEED avec le Strike, transcrit ensuite dans plusieurs types de Mobiles Suits de série, est un système à part entière et généralisé.
 
 
-![ep1b](/images/stories/Encyclopedie/multipack/ep1b.jpg) 
+ 
 
 
 ### I. Les principales séries de Mobile Suits à " packs "
@@ -35,7 +35,7 @@ Compatibles [Windam](ce/gundam-seed-destiny/gat-04-windam.html) : [Aile](ce/gund
 Compatibles [Raigo](http://www.mahq.net/mecha/gundam/frameastrays/gat-fj108.htm) (cf Frame Astrays): [Caliburn](http://www.mahq.net/mecha/gundam/frameastrays/gat-fj108-caliburn.htm), [Speculum](http://www.mahq.net/mecha/gundam/frameastrays/gat-fj108-speculum.htm), [Sumbullet](http://www.mahq.net/mecha/gundam/frameastrays/gat-fj108-sumbullet.htm)
 
 
-[![Le Strke E est une version du GAT-X105 revue et corrigée par la firme privée Actaeon. Celle-ci sortira de même des versions améliorées des autres prototypes originaux : les Blu Duel, Verde Buster, Nero Blitz et Rosso Aegis.](/images/stories/Encyclopedie/multipack/packs StrikerE.jpg)](/images/stories/Encyclopedie/multipack/packs StrikerE.jpg) [![Le Raigo Gundam est issu d'une tentative de la compagnie privée Fujiyama de concevoir un MS modulable polyvalent semblable au Strike pour le compte de la République d'Asie de l'Est. A l'instar de la Fédération d'Eurasie, l'intégration totale de cette dernière dans l'appareil militaire de l'Alliance rendra caduc le développement de ce projet.](/images/stories/Encyclopedie/multipack/packs GAT-FJ.jpg)](/images/stories/Encyclopedie/multipack/packs GAT-FJ.jpg)  [![packs Striker](/images/stories/Encyclopedie/multipack/packs Striker.jpg)](/images/stories/Encyclopedie/multipack/packs Striker.jpg) 
+[![Le Strke E est une version du GAT-X105 revue et corrigée par la firme privée Actaeon. Celle-ci sortira de même des versions améliorées des autres prototypes originaux : les Blu Duel, Verde Buster, Nero Blitz et Rosso Aegis.](/images/stories/Encyclopedie/multipack/packs StrikerE.jpg)](/images/stories/Encyclopedie/multipack/packs StrikerE.jpg) [![Le Raigo Gundam est issu d'une tentative de la compagnie privée Fujiyama de concevoir un MS modulable polyvalent semblable au Strike pour le compte de la République d'Asie de l'Est. A l'instar de la Fédération d'Eurasie, l'intégration totale de cette dernière dans l'appareil militaire de l'Alliance rendra caduc le développement de ce projet.](/images/stories/Encyclopedie/multipack/packs GAT-FJ.jpg)](/images/stories/Encyclopedie/multipack/packs GAT-FJ.jpg)  [ 
 
 
 2. Orb :
@@ -44,7 +44,7 @@ Compatibles [M1 Astray](ce/gundam-seed/mbf-m1-m1-astray.html) : [Shrike](ce/gund
 Compatibles [Akatsuki](ce/gundam-seed-destiny/orb-01-akatsuki.html) : Oowashi et Shiranui
 
 
-[![packs Orb](/images/stories/Encyclopedie/multipack/packs Orb.jpg)](/images/stories/Encyclopedie/multipack/packs Orb.jpg) 
+[ 
 
 
 3.ZAFT :
@@ -57,7 +57,7 @@ Compatibles [ZAKU](ce/gundam-seed-destiny/zgmf-1000-zaku-warrior.html) (Wizard P
 ![destiny22 (1)](/images/stories/Encyclopedie/multipack/destiny22 (1).jpg) ![destiny22 (3)](/images/stories/Encyclopedie/multipack/destiny22 (3).jpg)  ![destiny23 (328)](/images/stories/Encyclopedie/multipack/destiny23 (328).jpg)
 
 
-[![packs SilhouetteWizard](/images/stories/Encyclopedie/multipack/packs SilhouetteWizard.jpg)](/images/stories/Encyclopedie/multipack/packs SilhouetteWizard.jpg) 
+[ 
 
 
 A cette liste se rajoutent deux autres prototypes, plus anecdotiques car vus seulement dans les side-stories Destiny Astray mais intéressant par leur vision extrémiste du système de packs :
@@ -75,7 +75,7 @@ A cette liste se rajoutent deux autres prototypes, plus anecdotiques car vus seu
 #### 1. Versatilité.
 
 
-![37](/images/stories/Encyclopedie/multipack/37.jpg)Le principe est globalement toujours le même : donner à un MS basiquement polyvalent des capacités spécifiques interchangeables suivant les missions, capacités touchant aux distances d'affrontement (mêlée ou artillerie longue portée), à la puissance de feu ou le plus souvent à la manoeuvrabilité. La plupart des packs sont d'ailleurs facilement regroupables en grandes familles :
+Le principe est globalement toujours le même : donner à un MS basiquement polyvalent des capacités spécifiques interchangeables suivant les missions, capacités touchant aux distances d'affrontement (mêlée ou artillerie longue portée), à la puissance de feu ou le plus souvent à la manoeuvrabilité. La plupart des packs sont d'ailleurs facilement regroupables en grandes familles :
 
 
 * Mélée : Sword (Striker et Silhouette), Slash, Caliburn.
@@ -126,7 +126,7 @@ Selon l'a priori justifiant le système des packs, un MS nu serait donc plus sim
 * établir des points d'artillerie mobile de campagne : 3 Launcher et 2 gardes Sword et/ou Aile ou autres encore. Une flotte d'Archangel assure alors le soutien de l'unité et facilite les transformations.
 
 
-![1200007254](/images/stories/Encyclopedie/multipack/1200007254.jpg) ![destiny248](/images/stories/Encyclopedie/multipack/destiny248.jpg)
+
 
 
 ### III. Adoptions au sein de la Cosmic Era
@@ -172,7 +172,7 @@ Les Forbidden, Raider et Calamity ne sont que des évolutions de ces premiers MS
 Au final, c'est le système du Strike qui sera adopté comme base de l'armement tactique de l'Alliance. Les autres prototypes auront connu au mieux une version de série produite en petite quantité, au pire ne seront jamais développés plus avant, tel l'Aegis.
 
 
-![screen15](/images/stories/Encyclopedie/multipack/screen15.jpg) ![destiny38 (152)](/images/stories/Encyclopedie/multipack/destiny38 (152).jpg) ![destiny233](/images/stories/Encyclopedie/multipack/destiny233.jpg)
+
 
 
 En Orb, le concept d'unité multirôle simple est prépondérant d'une part pour des raisons de moyens humains, d'autre part pour des raisons stratégique, l'armée d'Orb n'ayant qu'une vocation défensive : les M1 Astray n'auront qu'un seul pack, le Shrike, développé pour améliorer la mobilité aérienne, et seront rapidement remplacés par les [MVF-M11C Murasame](ce/gundam-seed/2012:mvf-m11c-murasame.html) transformables.
@@ -184,7 +184,7 @@ En Orb, le concept d'unité multirôle simple est prépondérant d'une part pour
 Chez ZAFT, l'ingénierie inversée pratiquée sur les GAT-X volés et la démonstration de l'efficacité du système des packs par les exploits du Strike engendrera toute une série de nouveaux prototypes, à commencer par le [ZGMF-X10A Freedom](ce/gundam-seed/zgmf-x10a-freedom-gundam.html), créés pour explorer les voies ouvertes par ces innovations. Comme expliqué dans le manga Destiny Astray, l'un d'eux, le [ZGMF-X56S Impulse](ce/gundam-seed-destiny/zgmf-x56s-impulse-gundam.html) pousse à l'extrême le concept des packs : un seul pilote, de niveau As, gère toute les missions possibles donc n'a besoin que d'un soutien "léger" d'unités plus standard type ZAKU, elles-mêmes équipables de packs.
 
 
-![destiny2 (150)](/images/stories/Encyclopedie/multipack/destiny2 (150).jpg) ![destiny219](/images/stories/Encyclopedie/multipack/destiny219.jpg) ![destiny45 (264)](/images/stories/Encyclopedie/multipack/destiny45 (264).jpg) 
+![destiny2 (150)](/images/stories/Encyclopedie/multipack/destiny2 (150).jpg)  
 
 
 ![destiny23 (228)](/images/stories/Encyclopedie/multipack/destiny23 (228).jpg) ![destiny24 (230)](/images/stories/Encyclopedie/multipack/destiny24 (230).jpg) 
@@ -218,7 +218,7 @@ Difficile de faire autre chose que des suppositions en l'état actuel des donné
 ### IV. Conclusion
 
 
-![1258099008742](/images/stories/Encyclopedie/multipack/1258099008742.jpg)Il est parfois difficile de parcourir l'arborescence des familles de Mobile Suits de la Cosmic Era. Le succès "surprise" de Gundam SEED a entraîné la production d'une suite non prévue au départ (Destiny) et de nombreuses histoires parallèles, toutes venant rajouter leur Mobile Suits particuliers sans parfois s'intégrer de manière précise dans l'évolution historique des méchas de cette chronologie. Par conséquent, plusieurs branches de l'arborescence officielle de gundam-seed.net sont difficiles à situer par rapport à l'ensemble. Bien que très réussies, les variations " Actaeon "des GAT-X (Strike Noir, Blu Duel, Verde Buster, Nero Blitz et Rosso Aegis), ou " Librarian " (Gale Strike, Hail Buster, …), ou encore les versions " SEED Destiny " du Freedom et du Justice ne sont clairement là que pour relancer ponctuellement l'intérêt des fans et autres collectionneurs de maquettes en attendant une hypothétique prochaine grande production de la chronologie CE.
+Il est parfois difficile de parcourir l'arborescence des familles de Mobile Suits de la Cosmic Era. Le succès "surprise" de Gundam SEED a entraîné la production d'une suite non prévue au départ (Destiny) et de nombreuses histoires parallèles, toutes venant rajouter leur Mobile Suits particuliers sans parfois s'intégrer de manière précise dans l'évolution historique des méchas de cette chronologie. Par conséquent, plusieurs branches de l'arborescence officielle de gundam-seed.net sont difficiles à situer par rapport à l'ensemble. Bien que très réussies, les variations " Actaeon "des GAT-X (Strike Noir, Blu Duel, Verde Buster, Nero Blitz et Rosso Aegis), ou " Librarian " (Gale Strike, Hail Buster, …), ou encore les versions " SEED Destiny " du Freedom et du Justice ne sont clairement là que pour relancer ponctuellement l'intérêt des fans et autres collectionneurs de maquettes en attendant une hypothétique prochaine grande production de la chronologie CE.
 
 
 ![destiny45 (55)](/images/stories/Encyclopedie/multipack/destiny45 (55).jpg)Pourtant, les évolutions technologiques décrites réussissent à garder une certaine cohérence. Les choix techniques des parties en présence tiennent comptent tant de volontés d'organisation générale que des apports des nouvelles technologies découvertes en interne ou via espionnage. AInsi utiliser des MS à packs implique une logistique très différente de celle de MS polyvalents, voire même nécessite la conception de nouveaux vaisseaux de soutien (Archangel, Minerva), et l'adoption d'un système ou d'un autre se fera dans les limites des nécessités logistiques. De même, bien que ZAFT trouve le concept du Strike intéressant au point de le récupérer en créant l'Impulse, la base de ses forces armées restera le MS polyvalent type GINN puis ZAKU, alors qu'à l'inverse l'Alliance optera directement pour les Dagger puis Windam à Striker Packs, mais se contentera pour leur soutien de modifier les vaisseaux existants plutôt que de tous les remplacer par de coûteux cuirassé de classe Archangel. Cependant, la suspension de la production d'œuvres majeures continuant à exploiter la Cosmic Era fait qu'il est difficile de dire ce que seront finalement les unités standards des différentes armées.

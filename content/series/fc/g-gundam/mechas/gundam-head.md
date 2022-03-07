@@ -8,7 +8,7 @@ Gundam Head
  
 
 
-![gundamhead.jpg](/images/stories/saga/ggundam/images/mechas/gundamhead.jpg)
+
 
 
 Fiche Technique   

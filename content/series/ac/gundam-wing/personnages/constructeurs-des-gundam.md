@@ -5,7 +5,7 @@ title: Constructeurs des Gundam
 Constructeurs des Gundam
 ------------------------
 
-![profs.jpg](/images/mini/images-stories-saga-gundamwing-images-profs-_tb_150x_profs.jpg)Concepteurs des Gundam
+Concepteurs des Gundam
 
 
 De droite à gauche :Professeur G : Il a construit le Deathscythe, Instructeur H : Il a construit le Sandrock, Docteur J : Il a construit le Wing, Maître O : Il a construit le Shenlong, Docteur S : Il a construit le Heavyarms

@@ -9,7 +9,7 @@ Gwanban
  
 
 
-![gwanban](/images/stories/saga/zetagundam/mechas/axis/gwanban.png)
+
 
 
 ### Fiche Technique

@@ -5,7 +5,7 @@ title: Kihel Heim
 Kihel Heim
 ----------
 
-![kihel](/images/stories/saga/turnagundam/persos/terriens/kihel.jpg)Kihel Heim
+Kihel Heim
 
 
 - Age : 17 ans   

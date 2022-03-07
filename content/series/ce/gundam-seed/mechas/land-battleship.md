@@ -5,7 +5,7 @@ title: Petrie
 Petrie
 ------
 
-![petrie](/images/stories/saga/gundamseed/mechas/zaft/petrie.png)
+
 
 
 Petrie  

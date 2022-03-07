@@ -93,17 +93,17 @@ Durant ce conflit, Asem affrontera une dernière fois son rival de toujours, Zeh
 Base Technologique
 
 
-![age2.png](/images/stories/saga/gundamage/mechas/mini/age2.png)
+
 [AGE-2 Gundam AGE-2](ag/gundam-age/age-2-gundam-age-2.html)
 Recoloration
 
 
-![age2sp.png](/images/stories/saga/gundamage/mechas/mini/age2sp.png)
+
 [AGE-2 Gundam AGE-2 SP Colors](ag/gundam-age/age-2-gundam-age-2.html)
 Reconstruction
 
 
-![darkhound.png](/images/stories/saga/gundamage/mechas/mini/darkhound.png)
+
 [Gundam AGE-2 Dark Hound](ag/gundam-age/gundam-age-2-dark-hound.html)
 
 

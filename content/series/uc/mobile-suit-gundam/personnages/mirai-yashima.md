@@ -9,7 +9,7 @@ Mirai Yashima
 
 
 
-![Mirai Yashima](/images/stories/saga/msgundam/persos/mirai-yashima.png)
+
 * [Mirai Yashima](javascript:change_image_m('images/stories/saga/msgundam/persos/mirai-yashima.png');)
 * [Mirai Yashima (UC 0071)](javascript:change_image_m('images/stories/saga/origin/persos/mirai-yashima.png');)
 * [Mirai Yashima (UC 0079, uniforme Fédéral)](javascript:change_image_m('images/stories/saga/msgundam/persos/mirai-yashima.png');)

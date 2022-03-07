@@ -5,7 +5,7 @@ title: "Vagan Gear"
 Vagan Gear
 ----------
 
-![vagangear](/images/stories/saga/gundamage/mechas/vagangear.png) 
+ 
 
 
 ### Fiche Technique

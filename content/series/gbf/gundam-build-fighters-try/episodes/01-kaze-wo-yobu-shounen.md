@@ -10,7 +10,6 @@ title: "01 - Kaze wo yobu shounen"
 * 8 octobre 2014
 
 
-![](/images/stories/saga/gundambftry/episodes/01-1.jpg) ![](/images/stories/saga/gundambftry/episodes/01-2.jpg) ![](/images/stories/saga/gundambftry/episodes/01-3.jpg)
 
 
 Un match Gunpla commence, Fumina Hoshino y prend part avec son Powerd GM Cardigan. Le terrain 1 « Espace » se forme et c'est le décollage. Les Gunpla foncent vers Axis et la dataille commence entre tous les compétiteurs armés de machines de toutes origines. Fumina se défait d'un Ashimar puis poursuit sa route dans le coeur d'Axis. Elle se retrouve face à un barrage de Mobile Suits qui la mettent en difficulté. Elle est également perturbée dans son élan par le fait que celui avec qui elle espérait combattre a décidé de choisir une voie différente. Son Powerd GM Cardigan se retrouve finalement aux prises avec un immense Musha Gundam et se fait attaquer par derrière par un Val Varo qui détruit finalement son Gunpla.   

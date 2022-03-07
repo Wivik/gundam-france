@@ -6,7 +6,7 @@ Caroline Yajima
 ---------------
 
 
-![Caroline Yajima](/images/stories/saga/gundambf/persos/ajima.png)
+
 
 
 

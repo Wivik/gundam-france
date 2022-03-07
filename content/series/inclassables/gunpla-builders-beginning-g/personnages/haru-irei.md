@@ -5,7 +5,7 @@ title: "Hal Irei"
 Hal Irei
 --------
 
-![haru](/images/stories/saga/gunplabuilders/persos/haru.png)Hal Hirei
+Hal Hirei
 
 
 - Age : ??  

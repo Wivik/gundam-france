@@ -9,7 +9,7 @@ Gwadan
  
 
 
-![gwadan](/images/stories/saga/zetagundam/mechas/axis/gwadan.png)
+
 
 
 ### Fiche Technique

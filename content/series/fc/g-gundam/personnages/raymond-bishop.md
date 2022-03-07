@@ -5,7 +5,7 @@ title: Raymond Bishop
 Raymond Bishop
 --------------
 
-![raymond.jpg](/images/stories/saga/ggundam/images/persos/raymond.jpg)Raymond Bishop   
+Raymond Bishop   
 - Age : 54 ans (né le 14 janvier FC 05)   
 - Rôle : Majordome de George de Sand.   
 - Origines : Neo-France.   

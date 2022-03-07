@@ -5,7 +5,7 @@ title: Zamouth Garr
 Zamouth Garr
 ------------
 
-![zamouthgarr](/images/stories/saga/F91/mechas/crossbone/zamouthgarr.gif)
+
 
 
 Zamouth Garr   

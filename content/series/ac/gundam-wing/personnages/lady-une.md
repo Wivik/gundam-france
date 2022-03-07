@@ -5,7 +5,7 @@ title: Lady Une
 Lady Une
 --------
 
-![ladyune](/images/stories/saga/gundamwing/persos/ladyune.jpg)Lady Une  
+Lady Une  
   
 Age : 19  
 Couleur de cheveux : Noirs  

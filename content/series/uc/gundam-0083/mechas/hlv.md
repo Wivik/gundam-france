@@ -9,7 +9,7 @@ H.L.V.
  
 
 
-![hlv.jpg](/images/stories/saga/gundam0083/ms/delaz/hlv.jpg)
+
 
 
 ### Fiche Technique

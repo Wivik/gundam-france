@@ -7,7 +7,7 @@ Classe Cinope
 
 
 
-![Classe Cinope](/images/stories/saga/vgundam/mechas/classe-cinope.png)
+
 
 [Classe Cinope](javascript:change_image_m('images/stories/saga/vgundam/mechas/classe-cinope.png');)
 [Fishbone](javascript:change_image_m('images/stories/saga/vgundam/mechas/fishbone.png');)

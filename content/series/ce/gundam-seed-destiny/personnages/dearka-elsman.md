@@ -5,7 +5,7 @@ title: Dearka Elsman
 Dearka Elsman
 -------------
 
-![dearka](/images/stories/saga/gundamseeddestiny/persos/zaft/dearka.jpg)Dearka Elsman
+Dearka Elsman
 
 
 - Age : 19  

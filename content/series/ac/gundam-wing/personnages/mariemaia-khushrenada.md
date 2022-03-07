@@ -5,7 +5,7 @@ title: Mariemaia Khushrenada
 Mariemaia Khushrenada
 ---------------------
 
-![mariemaia](/images/stories/saga/gundamwing/persos/mariemaia.jpg)Mariemaia Khushrenada/Barton
+Mariemaia Khushrenada/Barton
 
 
 Mariemaia est une jeune fille qui est présentée comme étant la fille de Leia Barton et Treize Khushrenada. Elle serait née d'une liaison entre ces derniers lorsque Leia était infirmière dans un hôpital de la fondation Barton sur la colonie X18999.

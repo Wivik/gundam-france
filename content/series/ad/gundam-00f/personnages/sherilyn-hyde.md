@@ -5,7 +5,7 @@ title: "Sherilyn Hyde"
 Sherilyn Hyde
 -------------
 
-![sherylhyde](/images/stories/manga/gundam00f/persos/sherylhyde.jpg)
+
 - Âge : 14 ans  née en 2293 A.D.  
 - Rôle : Chef Ingénieur de Fereshte
 

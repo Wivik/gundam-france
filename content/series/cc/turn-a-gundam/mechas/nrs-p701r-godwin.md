@@ -8,7 +8,7 @@ NRS-P701R Godwin
  
 
 
-![godwin](/images/stories/saga/turnagundam/ms/terriens/godwin.png)
+
 
 
 NRS-P701R Godwin

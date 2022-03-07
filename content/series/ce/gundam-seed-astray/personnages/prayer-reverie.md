@@ -6,7 +6,7 @@ Prayer Reverie
 --------------
 
 
-![Prayer Reverie](/images/stories/manga/astray/persos/Prayer-young.jpg)
+
 
 Officiellement, il apparaît d'abord comme le pilote d'essai du YMF-X000A Dreadnought, remplaçant Courtney Hieronomus car seul capable d'utiliser les Pristis, une arme télécommandée par la pensée.
 

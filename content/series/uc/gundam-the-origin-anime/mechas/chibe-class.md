@@ -6,7 +6,7 @@ Classe Chivvay
 --------------
 
 
-![Classe Chibe](/images/stories/saga/origin/mechas/chibe-class.png)
+
 
 
 ### Fiche Technique

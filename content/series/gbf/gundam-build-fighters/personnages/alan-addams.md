@@ -6,7 +6,7 @@ Alan Addams
 -----------
 
 
-![Alan Addams](/images/stories/saga/gundambf/persos/alan.png)
+
 
 
 * Voix Japonaise : Subaru Kimura

@@ -7,7 +7,7 @@ Leginraze Julia
 
 
 
-![Leginraze Julia](/images/stories/saga/g-tekketsu-s2/mechas/leginraze-julia.png)
+
 
 [Leginraze Julia](javascript:change_image_m('images/stories/saga/g-tekketsu-s2/mechas/leginraze-julia.png');)
 [Vue de dos](javascript:change_image_m('images/stories/saga/g-tekketsu-s2/mechas/leginraze-julia-dos.png');)

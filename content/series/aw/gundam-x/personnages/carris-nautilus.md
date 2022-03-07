@@ -5,7 +5,7 @@ title: Carris Nautilus
 Carris Nautilus
 ---------------
 
-![carris](/images/mini/images-stories-saga-gundamx-persos-_tb_200x150_carris.jpg)Carris Nautilus
+Carris Nautilus
 
 
 - Age : 15 ans  

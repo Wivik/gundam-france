@@ -5,7 +5,7 @@ title: Jupitris 9
 Jupitris 9
 ----------
 
-![jupitris9](/images/stories/manga/crossbone/ms/jupitris9.jpg) 
+ 
 
 
 ### Fiche Technique

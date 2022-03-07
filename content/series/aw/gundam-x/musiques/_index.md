@@ -37,7 +37,7 @@ Fermeture
 
 
 
-![CDCover1.jpg](/images/mini/images-stories-saga-gundamx-images-ost-_tb_150x152_CDCover1.jpg)
+
 
 
 GUNDAM X AFTERWAR: SIDE 1   
@@ -64,7 +64,7 @@ Triumphal Return of Dawn 2:29 
 HUMAN TOUCH/ Vo: Warren Wiebe 4:22
 
 
-![CDCover2.jpg](/images/mini/images-stories-saga-gundamx-images-ost-_tb_150x_CDCover2.jpg)
+
 
 
 GUNDAM X AFTERWAR: SIDE 2   
@@ -90,7 +90,7 @@ New Weapon Divider 4:49 
 HUMAN TOUCH (TV Size Version)/ Vo: Warren Weibe 1:14
 
 
-![side3.jpg](/images/stories/saga/gundamx/images/ost/side3.jpg)
+
 
 
 GUNDAM X AFTERWAR: SIDE 3
@@ -115,7 +115,7 @@ Gin Iro Horizon [TV Size Version]/ Vo: Satomi Nakase 1:14 
 Resolution/ Vo: ROmantic Mode 5:00
 
 
-![single.jpg](/images/stories/saga/gundamx/images/ost/single.jpg)
+
 
 
 GUNDAM X AFTERWAR: DREAMS SINGLE   

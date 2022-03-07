@@ -6,7 +6,7 @@ Junko Jenko
 -----------
 
 
-![Junko Jenko](/images/stories/saga/vgundam/persos/junko-jenko.png)
+
 * Rôle : Pilote pour la Shrike Team
 * Voix Japonaise : Yuko Kobayashi
 

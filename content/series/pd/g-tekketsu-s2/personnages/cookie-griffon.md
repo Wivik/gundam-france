@@ -6,7 +6,7 @@ Cookie Griffon
 --------------
 
 
-![Cookie Griffon](/images/stories/saga/g-tekketsu-s2/persos/cookie-griffon.png)
+
 * Voix Japonaise : Yuuki Kuwahara
 
 

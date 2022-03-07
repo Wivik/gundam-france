@@ -9,7 +9,7 @@ Camaria Ray
 
 
 
-![Camaria Ray](/images/mini/images-stories-saga-msgundam-persos-_tb_x400_camaria-ray.png)
+
 * [Camaria Ray](javascript:change_image_m('images/stories/saga/msgundam/persos/camaria-ray.png');)
 * [Camaria Ray (UC 0079)](javascript:change_image_m('images/stories/saga/msgundam/images/camaria.jpg');)
 

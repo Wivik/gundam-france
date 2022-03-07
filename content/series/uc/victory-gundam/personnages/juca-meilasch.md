@@ -6,7 +6,7 @@ Juca Meilasch
 -------------
 
 
-![Juca Meilasch](/images/stories/saga/vgundam/persos/juca-meilasch.png)
+
 * Rôle : Pilote pour la Shrike Team
 * Voix Japonaise : Atsuko Tanaka
 

@@ -7,7 +7,7 @@ Angel Halo
 
 
 
-![Angel Halo](/images/stories/saga/vgundam/mechas/angel-halo.png)
+
 
 [Angel Halo](javascript:change_image_m('images/stories/saga/vgundam/mechas/angel-halo.png');)
 

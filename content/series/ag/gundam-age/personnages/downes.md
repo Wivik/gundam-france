@@ -5,7 +5,7 @@ title: "Downes"
 Downes
 ------
 
-![downes](/images/stories/saga/gundamage/mechas/downes.jpg) 
+ 
 
 
 ### Fiche Technique

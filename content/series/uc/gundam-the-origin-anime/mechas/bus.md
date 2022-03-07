@@ -6,7 +6,7 @@ Bus Blindé Fédéral de Sécurité
 ------------------------------
 
 
-![Bus Fédéral de Sécurité](/images/stories/saga/origin/mechas/bus.png)
+
 
 
 ### Fiche Technique

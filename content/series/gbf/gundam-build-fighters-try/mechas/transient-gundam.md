@@ -6,7 +6,7 @@ Transient Gundam
 ----------------
 
 
-![Transient Gundam](/images/stories/saga/gundambftry/mechas/transcient-gundam.png)
+
 
 
 ### Fiche Technique

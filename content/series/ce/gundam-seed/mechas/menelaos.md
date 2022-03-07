@@ -8,7 +8,7 @@ Agamemnon
  
 
 
-![agamemnon](/images/stories/saga/gundamseed/mechas/alliance/agamemnon.png)
+
 
 
 Agamemnon  

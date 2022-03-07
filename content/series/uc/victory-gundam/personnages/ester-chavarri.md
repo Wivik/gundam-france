@@ -6,7 +6,7 @@ Ester Chavarri
 --------------
 
 
-![Ester Chavarri](/images/stories/saga/vgundam/persos/ester-chavarri.png)
+
 * Age : 65 ans
 * Voix Japonaise : Ikuko Tatsu
 

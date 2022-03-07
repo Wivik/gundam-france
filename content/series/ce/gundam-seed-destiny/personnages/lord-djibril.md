@@ -5,7 +5,7 @@ title: Lord Djibril
 Lord Djibril
 ------------
 
-![djibril](/images/stories/saga/gundamseeddestiny/persos/alliance/djibril.jpg)Lord Djibril
+Lord Djibril
 
 
 - Age : 31  

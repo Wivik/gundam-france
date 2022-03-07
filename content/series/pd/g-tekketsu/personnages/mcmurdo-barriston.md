@@ -6,7 +6,7 @@ McMurdo Barriston
 -----------------
 
 
-![Mcmurdo Barriston](/images/stories/saga/g-tekketsu/persos/mcmurdo-barriston.png)
+
 
 
 * Rôle : Dirigeant de Teiwaz

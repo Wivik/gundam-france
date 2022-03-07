@@ -6,7 +6,7 @@ Makanai Togonosuke
 ------------------
 
 
-![Makanai Togonosuke](/images/stories/saga/g-tekketsu-s2/persos/makanai-togonosuke.png)
+
 
 
 * Fonction : Représentant d'Arbrau

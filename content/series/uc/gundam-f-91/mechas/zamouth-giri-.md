@@ -5,7 +5,7 @@ title: Zamouth Giri
 Zamouth Giri
 ------------
 
-![zamouthgiri](/images/stories/saga/F91/mechas/crossbone/zamouthgiri.gif)
+
 
 
 Zamouth Giri   

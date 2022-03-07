@@ -131,7 +131,7 @@ Les Colonies Spatiales de l'UC sont basées sur le [Cylindre d'O'Neil](https://f
 Dans la série Gundam Unicorn, la Station Laplace où fut promulgué l'UC 0001 est basée sur le [Tore de Stanford](https://fr.wikipedia.org/wiki/Tore_de_Stanford).
 
 
-![La Station Laplace](/images/stories/Encyclopedie/Colonies/station-laplace.jpg)
+
 
 
 Dans les autres Univers de Gundam

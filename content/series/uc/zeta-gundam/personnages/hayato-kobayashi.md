@@ -6,7 +6,7 @@ Hayato Kobayashi
 ----------------
 
 
-php include("data/rgrp\_persos/hayato-kobayashi.html"); ?![Hayato Kobayashi](/images/stories/saga/zetagundam/persos/hayato-kobayashi.png)
+php include("data/rgrp\_persos/hayato-kobayashi.html"); ?
 
 
 * Age : 24

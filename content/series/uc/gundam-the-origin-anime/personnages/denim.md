@@ -6,7 +6,7 @@ Denim
 -----
 
 
-![Denim](/images/stories/saga/origin/persos/denim.png)
+
 * Rôle : Pilote de Mobile Suit
 
 

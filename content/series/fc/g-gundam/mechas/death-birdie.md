@@ -8,7 +8,7 @@ Death Birdie
  
 
 
-![deathbirdie.png](/images/stories/saga/ggundam/mechas/deatharmy/deathbirdie.png)
+
 
 
 Fiche Technique   

@@ -6,7 +6,7 @@ Saga Adou
 ---------
 
 
-![Saga Adou](/images/stories/saga/gundambftry/persos/saga-adou.png)
+
 
 
 * Fonction : Membre de l'académie Gunpla

@@ -13,7 +13,7 @@ Shuuichi Ikeda
  
 
 
-![ikeda](/images/stories/Encyclopedie/biographies/ikeda.jpg)Shuuichi Ikeda est au même titre que Tohru Furuya un grand vétéran du doublage d'animation japonaise. Sa voix donne un charisme incroyable lors de ses prestations aux personnages qu'il joue dans les différents titres pour lesquels il a travaillé.
+Shuuichi Ikeda est au même titre que Tohru Furuya un grand vétéran du doublage d'animation japonaise. Sa voix donne un charisme incroyable lors de ses prestations aux personnages qu'il joue dans les différents titres pour lesquels il a travaillé.
 
 
 Au sein de la saga Gundam, il est connu pour avoir donné sa voix à Char Aznable durant toutes ses apparitions, ainsi que Gilbert Durandal dans Gundam SEED Destiny plus récemment. Nous pouvons citer Milo du Scorpion dans Saint Seiya parmi d'autres de ses rôles.

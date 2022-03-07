@@ -6,7 +6,7 @@ Eton Heathrow
 -------------
 
 
-![Eton Heathrow](/images/stories/saga/sentinel/persos/etonheathrow.jpg)
+
 
 
 * Age : 34

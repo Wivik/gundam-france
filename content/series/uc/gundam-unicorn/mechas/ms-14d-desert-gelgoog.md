@@ -5,7 +5,7 @@ title: MS-14D Desert Gelgoog
 MS-14D Desert Gelgoog
 ---------------------
 
-![desertgelgoog](/images/stories/saga/unicorn/mechas/zeon/desertgelgoog.png)
+
 ### Fiche Technique
 
 

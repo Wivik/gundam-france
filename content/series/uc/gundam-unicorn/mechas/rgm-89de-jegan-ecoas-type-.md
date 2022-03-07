@@ -5,7 +5,7 @@ title: RGM-89De Jegan (ECOAS Type)
 RGM-89De Jegan (ECOAS Type)
 ---------------------------
 
-![jegecoas](/images/stories/saga/unicorn/mechas/federation/jegecoas.png)
+
 
 
 RGM-89De Jegan (ECOAS Type)   

@@ -6,7 +6,7 @@ Odelo Henrik
 ------------
 
 
-![Odelo Henrik](/images/stories/saga/vgundam/persos/odelo-henrik.png)
+
 
 
 * Age : 15 ans (né en UC 0138)

@@ -6,7 +6,7 @@ Classe Magellan
 ---------------
 
 
-[Magellan](javascript:change_image_m('images/stories/saga/msgundam/mechas/magellan.png');) [Magellan (Version The Origin)](javascript:change_image_m('images/stories/saga/origin/mechas/magellan-class.png');) [Ananke (Version The Origin)](javascript:change_image_m('images/stories/saga/origin/mechas/magellan-class-ananke.png');)      ![Magellan](/images/stories/saga/msgundam/mechas/magellan.png)    
+[Magellan](javascript:change_image_m('images/stories/saga/msgundam/mechas/magellan.png');) [Magellan (Version The Origin)](javascript:change_image_m('images/stories/saga/origin/mechas/magellan-class.png');) [Ananke (Version The Origin)](javascript:change_image_m('images/stories/saga/origin/mechas/magellan-class-ananke.png');)          
 
 
 ### Fiche Technique

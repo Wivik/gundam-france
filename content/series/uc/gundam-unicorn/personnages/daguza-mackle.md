@@ -6,7 +6,7 @@ Daguza Mackle
 -------------
 
 
-![daguza](/images/stories/saga/unicorn/persos/fed/daguza.jpg)
+
 - Age : 38 ans
   
 - Rôle : Leader des forces spéciales fédérales

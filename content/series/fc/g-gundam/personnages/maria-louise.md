@@ -5,7 +5,7 @@ title: Maria Louise
 Maria Louise
 ------------
 
-![maria.jpg](/images/stories/saga/ggundam/images/persos/maria.jpg)Maria Louise   
+Maria Louise   
 - Age : 13 ans (née le 2 janvier FC 46)   
 - Rôle : Fille du dirigeant de Neo-France.   
 - Origines : Neo-France.   

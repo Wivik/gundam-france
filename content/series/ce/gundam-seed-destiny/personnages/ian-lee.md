@@ -5,7 +5,7 @@ title: Ian Lee
 Ian Lee
 -------
 
-![ian](/images/stories/saga/gundamseeddestiny/persos/alliance/ian.jpg)Ian Lee
+Ian Lee
 
 
 - Age : ??  

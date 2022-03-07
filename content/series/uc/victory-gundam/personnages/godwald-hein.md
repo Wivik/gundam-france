@@ -6,7 +6,7 @@ Godwald Hein
 ------------
 
 
-![Godwald Hein](/images/stories/saga/vgundam/persos/godwald-hein.png)
+
 
 
 Chef d'un escadron du BESPA, il est surnommé la Tigre de l'Espace par la Ligue Militaire à cause de son comportement féroce au combat. Il possède un Mobile Suit convertible en Mobile Armor, le [ZM-D11S Abigor](uc/victory-gundam/zm-d11s-abigor.html). 

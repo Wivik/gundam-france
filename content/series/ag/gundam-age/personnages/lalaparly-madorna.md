@@ -5,7 +5,7 @@ title: "Lalaparly Madorna"
 Lalaparly Madorna
 -----------------
 
-![lalaparly.png](/images/stories/saga/gundamage/persos/lalaparly.png)
+
 - Age : 28 ans  
 - Rôle : Epouse de Mukred  
 - Voix japonaise : Miki Nagasawa

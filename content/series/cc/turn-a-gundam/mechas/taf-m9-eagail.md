@@ -5,7 +5,7 @@ title: TAF-M9 Eagail
 TAF-M9 Eagail
 -------------
 
-![eagail](/images/stories/saga/turnagundam/ms/moonraces/eagail.png)
+
 
 
 TAF-M9 Eagail

@@ -6,7 +6,7 @@ Ei Shinoda
 ----------
 
 
-![Ei Shinoda](/images/stories/saga/gundambftry/persos/ei-shinoda.png)
+
 
 
 

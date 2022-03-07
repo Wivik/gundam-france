@@ -6,7 +6,7 @@ C
 -
 
 
-![C](/images/stories/saga/gundambf/persos/c.png)
+
 
 
 

@@ -7,7 +7,7 @@ Landman Rodi
 
 
 
-![Landman Rodi](/images/stories/saga/g-tekketsu-s2/mechas/landman-rodi.png)
+
 
 [Landman Rodi](javascript:change_image_m('images/stories/saga/g-tekketsu-s2/mechas/landman-rodi.png');)
 [Vue de dos](javascript:change_image_m('images/stories/saga/g-tekketsu-s2/mechas/landman-rodi-dos.png');)

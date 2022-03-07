@@ -5,7 +5,7 @@ title: Elisia Nocton
 Elisia Nocton
 -------------
 
-![elisia](/images/stories/manga/ecoleduciel/persos/elisia.jpg)Elisia Nocton
+Elisia Nocton
 
 
 Fille d'un puissant industriel et fabricant d'armes, Elisia est une brillante élève de l'Ecole qui affiche des résultats records. Profitant de cette notoriété, elle est la plus populaire de sa promotion. Elle avait également un frère, mais celui-ci est mort pendant la Guerre d'Un An, ce qui a motivé son caractère de battante. Les TITANS sont également très intéressés par ses compétences.

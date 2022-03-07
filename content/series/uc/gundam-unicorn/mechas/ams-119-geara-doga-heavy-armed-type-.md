@@ -5,7 +5,7 @@ title: AMS-119 Geara Doga (Heavy Armed Type)
 AMS-119 Geara Doga (Heavy Armed Type)
 -------------------------------------
 
-![gearaheavyarm](/images/stories/saga/unicorn/mechas/neozeon/gearaheavyarm.png)
+
 
 
 AMS-119 Geara Doga (Heavy Armed Type)   

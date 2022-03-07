@@ -6,7 +6,7 @@ MS-09 Dom
 ---------
 
 
-[Dom](javascript:change_image_m('images/stories/saga/msgundam/mechas/ms-09.png');) [Version 08th MS Team](javascript:change_image_m('images/stories/saga/msgundam/mechas/ms-0908th.png');)      ![Dom](/images/stories/saga/msgundam/mechas/ms-09.png)     
+[Dom](javascript:change_image_m('images/stories/saga/msgundam/mechas/ms-09.png');) [Version 08th MS Team](javascript:change_image_m('images/stories/saga/msgundam/mechas/ms-0908th.png');)           
 
 
 ### Fiche Technique

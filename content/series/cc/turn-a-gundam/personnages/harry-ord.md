@@ -5,7 +5,7 @@ title: Harry Ord
 Harry Ord
 ---------
 
-![harry](/images/stories/saga/turnagundam/persos/moonrace/harry.jpg)
+
 - Age : 18 ans  
 - Rôle : Capitaine de la Garde Royale  
 - Origines : Lune  

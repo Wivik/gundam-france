@@ -6,7 +6,7 @@ Akihiro Atland
 --------------
 
 
-![Akihiro Atland](/images/stories/saga/g-tekketsu-s2/persos/akihiro-altland.png)
+
 
 
 * Fonction : Pilote de Mobile Suit

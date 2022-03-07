@@ -6,7 +6,7 @@ Classe Papua
 ------------
 
 
-![papua](/images/stories/saga/msgundam/mechas/papua.png)
+
 
 
 ### Fiche Technique

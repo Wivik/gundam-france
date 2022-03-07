@@ -5,7 +5,7 @@ title: Sai Saici
 Sai Saici
 ---------
 
-![saisaici_1.jpg](/images/stories/saga/ggundam/images/persos/saisaici_1.jpg)Sai Saici   
+Sai Saici   
 - Age : 16 ans   
 - Rôle : Réprésentant de Neo-China   
 - Mobile Fighter : Dragon Gundam   

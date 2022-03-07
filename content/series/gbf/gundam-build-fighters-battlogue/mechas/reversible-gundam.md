@@ -7,7 +7,7 @@ Reversible Gundam
 
 
 
-![Reversible Gundam](/images/stories/saga/gundambfblg/mechas/reversible-gundam.png)
+
 
 [Reversible Gundam](javascript:change_image_m('images/stories/saga/gundambfblg/mechas/reversible-gundam.png');)
 

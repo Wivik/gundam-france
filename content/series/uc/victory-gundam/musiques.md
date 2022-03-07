@@ -29,7 +29,7 @@ Fermeture
 Note : les dates de sorties sont les premières, tous les albums ont été réédités en 1999.
 
 
-![ost1](/images/stories/saga/vgundam/musiques/ost1.jpg)
+
 
 
 Mobile Suit V-Gundam Score I
@@ -56,7 +56,7 @@ Mobile Suit V-Gundam Score I
 14. Winners forever (INFIX)
 
 
-![ost2](/images/stories/saga/vgundam/musiques/ost2.jpg)
+
 
 
 ### Mobile Suit V-Gundam Score II
@@ -89,7 +89,7 @@ Mobile Suit V-Gundam Score I
 21. Hinageshi no Tabi no mukou ni (Komine Koko)
 
 
-![ost3](/images/stories/saga/vgundam/musiques/ost3.jpg)
+
 
 
 ### Mobile-Suit V-Gundam Score III

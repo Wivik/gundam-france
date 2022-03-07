@@ -5,7 +5,7 @@ title: Commissioner Karato
 Commissioner Karato
 -------------------
 
-![karato.jpg](/images/stories/saga/ggundam/images/persos/karato.jpg)Commissioner Karato   
+Commissioner Karato   
 - Rôle : Haut responsable gouvernemental de Neo-Japan.   
 - Origines : Neo-Japan.   
   

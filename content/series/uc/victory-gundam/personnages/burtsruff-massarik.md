@@ -6,7 +6,7 @@ Burtsruff Massarik
 ------------------
 
 
-![Burtsruff Massarik](/images/stories/saga/vgundam/persos/burtsruff-massarik.png)
+
 * Origines : Hiland
 * Voix Japonaise : Keiji Fujiwara
 

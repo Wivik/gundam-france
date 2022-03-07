@@ -5,7 +5,7 @@ title: "Empruss"
 Empruss
 -------
 
-![empruss](/images/stories/saga/gundam00/mechas/s2/innovators/empruss.jpg)
+
 
 
 GNMA-Y0001 Empruss

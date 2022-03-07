@@ -6,7 +6,7 @@ Shahkti Kareen
 --------------
 
 
-![Shahkti Kareen](/images/stories/saga/vgundam/persos/shahkti-kareen.png)
+
 
 
 * Age : 11 ans (née en UC 0142)

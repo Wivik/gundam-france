@@ -77,7 +77,7 @@ Unité basée sur le ZM-S12G Shokew, le Rig Shokew est une version améliorée q
 
 
 
-![Beam Rifle](/images/stories/saga/vgundam/mechas/zm-s22s-beamrifle.jpg)
+
 
 [Beam Rifle](javascript:accessoires_m('images/stories/saga/vgundam/mechas/zm-s22s-beamrifle.jpg');)
 [Beam Saber](javascript:accessoires_m('images/stories/saga/vgundam/mechas/zm-s22s-beamsaber.jpg');)

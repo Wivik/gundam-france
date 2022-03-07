@@ -5,7 +5,7 @@ title: Cima Garahau
 Cima Garahau
 ------------
 
-![cima.jpg](/images/stories/saga/gundam0083/images/persos/cima.jpg)Cima Garahau   
+Cima Garahau   
 - Age : Inconnu   
 - Rôle : Chef du corps Zeon Marines   
 - Doubleuse Japonaise : Mari Mashiba   

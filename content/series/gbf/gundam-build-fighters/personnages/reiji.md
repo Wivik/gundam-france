@@ -6,7 +6,7 @@ Reiji
 -----
 
 
-![Reiji](/images/stories/saga/gundambf/persos/reiji.png)
+
 
 
 * Origine : Aria

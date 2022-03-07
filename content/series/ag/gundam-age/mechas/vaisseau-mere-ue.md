@@ -5,7 +5,7 @@ title: "Vaisseau Mère UE"
 Vaisseau Mère UE
 ----------------
 
-![vaisseau ue](/images/stories/saga/gundamage/mechas/vaisseau_ue.png) 
+ 
 
 
 ### Fiche Technique

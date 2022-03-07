@@ -6,7 +6,7 @@ Gaelio Bauduin
 --------------
 
 
-![Gaelio Bauduin](/images/stories/saga/g-tekketsu/persos/gaelio-bauduin.png)
+
 
 
 * Rôle : Officier de Gjallarhorn

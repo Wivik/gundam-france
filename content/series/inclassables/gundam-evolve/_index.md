@@ -68,14 +68,14 @@ Du point de vue technique, il s'agit du premier épisode de Gundam Evolve réali
 Premier né de la nouvelle série de Gundam Evolve, le 6ème opus se glisse dans la série des Mobile Suit Variation du Cosmic Era. Il met en scène le Dreadnought Gundam combattant différents GuAIZ et enfin, se voit confronté au CAT1-X1/3 Hyperion. L'animation est une nouvelle fois en 3D Cell Shadding.
 
 
-![ev06](/images/stories/saga/evolve/ev06.jpg)
+
 ### 07 - XXG-00W0 Wing Gundam Zero
 
 
 Gundam Evolve 7 présente le Wing Gundam Zero dans sa version Endless Waltz, la modélisation est basée sur le Gunpla en Master Grade. Durant cette mini aventure sans grande connexion avec son univers d'origine, le Gundam ailé combat de nombreux Virgo II jusqu'à l'accomplissement de sa mission. La réalisation est en 3D Cellshadding.
 
 
-![ev07](/images/stories/saga/evolve/ev07.jpg)
+
 
 
 ### 08 - GAT-X105 Strike Gundam
@@ -84,7 +84,7 @@ Gundam Evolve 7 présente le Wing Gundam Zero dans sa version Endless Waltz, la 
 Retour dans le Cosmic Era, Gundam Evolve 8 met en scène le Strike Gundam dans un combat spectaculaire contre différents GINN OCHER type, avec des animations rappelant les effets spéciaux des films Matrix. Cet épisode a été réalisé pour la promotion du Perfect Grade du Strike Gundam, encore une fois en Cell Shadding.
 
 
-![ev08](/images/stories/saga/evolve/ev08.jpg)
+
 
 
 ### 09 - MSZ-006 Zeta Gundam
@@ -93,7 +93,7 @@ Retour dans le Cosmic Era, Gundam Evolve 8 met en scène le Strike Gundam dans u
 Cet épisode met en scène trois variations du Zêta Gundam, le Red Snake (rouge), White Unicorn (blanc) et Grey Wolf (doré). Ces machines basées sur le même modèle ont toutes des spécifications supplémentaires en plus d'une couleur personnalisée. Le modèle White Unicorn est basé sur un MSV appartenant à Amuro Ray.
 
 
-![ev09](/images/stories/saga/evolve/ev09.jpg)
+
 
 
 ### 10 - MSZ-010 ZZ Gundam
@@ -102,7 +102,7 @@ Cet épisode met en scène trois variations du Zêta Gundam, le Red Snake (rouge
 Judau doit escorter le vaisseau Jupitris mais durant leur voyage ils sont confrontés aux forces de Neo Zeon qui poursuivent un AMX-004-3 Qubeley MK-II. Après s'être défait des différents Doven Wolf qui poursuivaient le Qubeley MK-II, il laisse l'appareil se poser sur le Jupitris.
 
 
-![ev10](/images/stories/saga/evolve/ev10.jpg)
+
 
 
 ### 11 - RB-79 Ball
@@ -111,7 +111,7 @@ Judau doit escorter le vaisseau Jupitris mais durant leur voyage ils sont confro
 L'histoire d'un escadron de reconnaissance à la recherche de survivants de Zeon après la bataille d'A Baoa Qu.
 
 
-![ev11](/images/stories/saga/evolve/ev11.jpg)
+
 
 
 ### 12 - RMS-099 Rick Dias
@@ -120,7 +120,7 @@ L'histoire d'un escadron de reconnaissance à la recherche de survivants de Zeon
 Quattro Bajeena se lance dans une simulation de combat avec son Rick Dias pour ensuite transférer ses données vers le modèle de production en série. Mais son opposant lors de ce combat virtuel n'est autre que son Zaku II de l'époque où il était la Comète Rouge...
 
 
-![ev12](/images/stories/saga/evolve/ev12.jpg)
+
 
 
 ### 13 - RMS-108 Marasai
@@ -129,7 +129,7 @@ Quattro Bajeena se lance dans une simulation de combat avec son Rick Dias pour e
 Cet épisode se passe pendant la rentrée atmosphérique de l'AEUG dans Zêta Gundam, peu avant la bataille de Jaburo. L'escadron doit faire face plusieurs Marasai qui tentent de les intercepter. L'histoire se focalise sur le point de vue d'un des pilotes qui fait face également à des affaires personnelles.
 
 
-![ev13](/images/stories/saga/evolve/ev13.jpg)
+
 
 
 ### 14 - SD Musha Gundam
@@ -138,7 +138,7 @@ Cet épisode se passe pendant la rentrée atmosphérique de l'AEUG dans Zêta Gu
 Changement total de contexte, le 14ème opus se glisse dans un univers médiéval japonais et nous offre une aventure digne des histoires de samurai.
 
 
-![ev14](/images/stories/saga/evolve/ev14.jpg)
+
 
 
 ### 15 - Newtype Challia Bull
@@ -147,5 +147,5 @@ Changement total de contexte, le 14ème opus se glisse dans un univers médiéva
 Réécriture d'un épisode de la série TV de MS Gundam sur le pilote Challia Bull, engagé dans l'armée de Kycillia pour assister Char Aznable dans son combat contre le Gundam. Néanmoins l'un des combats contre le Gundam va bouleverser ses opinions.
 
 
-![ev15](/images/stories/saga/evolve/ev15.jpg)
+
 

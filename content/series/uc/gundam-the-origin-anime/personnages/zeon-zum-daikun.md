@@ -6,7 +6,7 @@ Zeon Zum Daikun
 ---------------
 
 
-![Zeon Zum Daikun](/images/stories/saga/origin/persos/zeon-zum-daikun.png)
+
 
 
 * Age : 59

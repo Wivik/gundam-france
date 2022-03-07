@@ -5,7 +5,7 @@ title: Rain Mikamura
 Rain Mikamura
 -------------
 
-![rainmikamura_1.jpg](/images/stories/saga/ggundam/images/persos/rainmikamura_1.jpg)Rain Mikamura   
+Rain Mikamura   
 - Age : 20 ans (née le 3 octobre FC 39)   
 - Rôle : Mécanicienne et médecin dans l'équipe de Neo Japan.   
 - Mobile Fighter : Shining Gundam, Rising Gundam.   

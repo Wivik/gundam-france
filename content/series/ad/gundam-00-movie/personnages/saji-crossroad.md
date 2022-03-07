@@ -5,7 +5,7 @@ title: "Saji Crossroad"
 Saji Crossroad
 --------------
 
-![saji](/images/stories/saga/gundam00film/persos/autres/saji.jpg)
+
 - Age : 24 ans  
 - Rôle : Technicien dans les ascenseurs orbitaux  
 - Origines : Japon  

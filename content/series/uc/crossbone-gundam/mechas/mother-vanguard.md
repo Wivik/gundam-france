@@ -5,7 +5,7 @@ title: Mother Vanguard
 Mother Vanguard
 ---------------
 
-![mothervanguard](/images/stories/manga/crossbone/ms/mothervanguard.jpg)
+
 
 
 ### Fiche Technique

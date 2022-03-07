@@ -6,7 +6,7 @@ Elischa Kranskie
 ----------------
 
 
-![Elischa Kranskie](/images/stories/saga/vgundam/persos/elischa-kranskie.png)
+
 
 
 * Age : 15 ans

@@ -6,7 +6,7 @@ Baronoke
 --------
 
 
-![baronoke.png](/images/stories/saga/gundamage/mechas/baronoke.png)
+
 
 
 ### Fiche Technique

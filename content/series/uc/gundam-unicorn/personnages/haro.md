@@ -5,7 +5,7 @@ title: Haro
 Haro
 ----
 
-![haro](/images/stories/saga/unicorn/persos/civils/haro.png)
+
 - Robot de compagnie
 
 

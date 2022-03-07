@@ -5,7 +5,7 @@ title: "Marie Parfaci"
 Marie Parfaci
 -------------
 
-![marie](/images/stories/saga/gundam00film/persos/celestialbeing/marie.jpg)
+
 - Age : 25 ans  
 - Rôle : Gundam Meister du Harute  
 - Origines : LRH  

@@ -6,7 +6,7 @@ Shota Nishikawa
 ---------------
 
 
-![Shota Nishikawa](/images/stories/saga/gundambftry/persos/shota-nishikawa.png)
+
 
 
 * Fonction : Membre du département des sciences du collège Naruneri

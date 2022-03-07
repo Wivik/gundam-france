@@ -5,7 +5,7 @@ title: "Ian Vashti"
 Ian Vashti
 ----------
 
-![ian](/images/stories/saga/gundam00film/persos/celestialbeing/ian.jpg)
+
 - Age : 59 ans  
 - Rôle : Chef ingénieur de Celestial Being  
 - Origines : ?  

@@ -6,7 +6,7 @@ G Bomber
 --------
 
 
-![G Bomber](/images/stories/saga/gundambftry/mechas/g-bomber.png)
+
 
 
 ### Fiche Technique

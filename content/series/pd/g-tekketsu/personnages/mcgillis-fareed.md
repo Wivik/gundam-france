@@ -6,7 +6,7 @@ McGillis Fareed
 ---------------
 
 
-![Mcgillis Fareed](/images/stories/saga/g-tekketsu/persos/mcgillis-fareed.png)
+
 
 
 * Rôle : Officier de Gjallarhorn

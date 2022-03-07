@@ -6,7 +6,7 @@ Bergmann
 --------
 
 
-![Bergmann](/images/stories/saga/origin/persos/bergmann.png)
+
 
 
 

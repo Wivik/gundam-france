@@ -14,7 +14,7 @@ Les ELS ne sont pas des créatures hostiles par nature, mais leur mode d'apprent
 L'incident des ELS éclata à cause d'une crainte mutuelle entre eux et les humains, ces derniers se sont sentis agressés par les tentatives de communication des ELS ce qui déboucha sur un conflit. Durant cette courte guerre, les ELS assimileront beaucoup de technologies en provenance des humains, dont celle des particules GN. Il semblerait que les ELS ne soient pas en mesure d'assimiler les particules elles-mêmes, ils arrivent néanmoins à les repousser.
 
 
-![ELS](/images/stories/saga/gundam00film/lexique/ELS.jpg)![Amia Lee, une des premières hybrides humain/ELS](/images/stories/saga/gundam00film/lexique/amylee.jpg) ![Un ELS prenant l'apparence d'un GN-X IV](/images/stories/saga/gundam00film/lexique/GNX-ELS.jpg)
+
 
 
 Le conflit des ELS fut achevé grâce à l'intervention de Setsuna F. Seiei qui parvint à établir un contact stable avec leur noyau central, là où se retrouve leur conscience collective. Setsuna comprendra que les ELS ne sont pas hostiles et sont en réalité des créatures chassées de leur monde natale à cause de leur soleil devenu une géante rouge. Les ELS quant à eux comprendront que les humains ont simplement eu peur de leur arrivée et décideront d'arrêter de se défendre en transformant leur vaisseau mère en fleur géante, représentant un symbole de paix pour Setsuna.

@@ -9,7 +9,7 @@ Gundam 00 Diver
 
 
 
-![Gundam 00 Diver](/images/stories/saga/gundambd/mechas/gundam-00-diver.png)
+
 * [Gundam 00 Diver](javascript:change_image_m('images/stories/saga/gundambd/mechas/gundam-00-diver.png');)
 * [Vue de dos](javascript:change_image_m('images/stories/saga/gundambd/mechas/gundam-00-diver-dos.png');)
 

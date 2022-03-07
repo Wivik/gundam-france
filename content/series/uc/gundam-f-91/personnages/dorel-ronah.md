@@ -5,7 +5,7 @@ title: Dorel Ronah
 Dorel Ronah
 -----------
 
-![dorel](/images/stories/saga/F91/persos/crossbone/dorel.jpg)Dorel Ronah  
+Dorel Ronah  
 - Age : 18 ans  
 - Rôle : Pilote d'élite du Crossbone Vanguard  
 - Voix japonaise : Takeshi Kusao

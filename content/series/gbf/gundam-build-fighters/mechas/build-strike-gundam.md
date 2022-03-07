@@ -7,7 +7,7 @@ Build Strike Gundam
 
 
 
-![Build Strike Gundam](/images/stories/saga/gundambf/mechas/build_strike_gundam.png)
+
 
 [Build Strike Gundam](javascript:change_image_m('images/stories/saga/gundambf/mechas/build_strike_gundam.png');)
 [Vue de dos](javascript:change_image_m('images/stories/saga/gundambf/mechas/build_strike_gundam_dos.png');)

@@ -5,7 +5,7 @@ title: Black Joker
 Black Joker
 -----------
 
-![blackjoker](/images/stories/saga/ggundam/mechas/divers/blackjoker.png)
+
 
 
 Black Joker   

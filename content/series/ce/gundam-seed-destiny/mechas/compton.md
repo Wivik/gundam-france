@@ -6,7 +6,7 @@ Compton
 -------
 
 
-![compton](/images/stories/saga/gundamseeddestiny/mechas/zaft/compton.png)
+
 
 
 Compton   

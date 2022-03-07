@@ -5,7 +5,7 @@ title: Andrew Waltfeld
 Andrew Waltfeld
 ---------------
 
-![andrew](/images/stories/saga/gundamseeddestiny/persos/civils/andrew.jpg)Andrew Waltfeld
+Andrew Waltfeld
 
 
 - Age : 32 ans  

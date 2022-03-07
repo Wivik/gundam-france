@@ -7,7 +7,7 @@ Mokei Senshi Gunpla Builders Beginning G
 ----------------------------------------
 
 
-![index](/images/stories/saga/gunplabuilders/index.jpg)Annoncée à l'occasion des 30 ans d'existence du Gunpla, les maquettes dérivées de la Saga Gundam qui ont connu un succès faramineux, la série Gunpla Builders Beginning G a pour but de rendre hommage à Gundam via cet aspect de la franchise. Le premier épisode a été diffusé lors de la Gundam Super Expo à Tôkyô en aout 2010, ainsi qu'à la télévision Japonaise. La sortie DVD et Blu-ray de cette OVA eut lieu le 22 décembre 2010.
+Annoncée à l'occasion des 30 ans d'existence du Gunpla, les maquettes dérivées de la Saga Gundam qui ont connu un succès faramineux, la série Gunpla Builders Beginning G a pour but de rendre hommage à Gundam via cet aspect de la franchise. Le premier épisode a été diffusé lors de la Gundam Super Expo à Tôkyô en aout 2010, ainsi qu'à la télévision Japonaise. La sortie DVD et Blu-ray de cette OVA eut lieu le 22 décembre 2010.
 
 
  
@@ -22,14 +22,14 @@ Hal Irei est un passionné de la Saga Gundam. Alors qu'il visitait la statue du 
 Construisant ainsi son premier Gunpla avec l'aide de son ami Kenta Sakazaki lui aussi passionné et déjà collectionneur de maquettes, il fini par assembler les pièces du Beginning Gundam. Suite à cela, Kenta lui proposera alors de participer à un combat de Gunpla dans un magasin où il va régulièrement. Hal pilotera alors son Beginning Gundam via un simulateur de cockpit de MS et son équipe affrontera celle de Koji Matsumoto, un adversaire plus expérimenté qui utilise un RX-93 *v*-2 Hi-Nu Gundam.
 
 
-![screen1](/images/stories/saga/gunplabuilders/screen1.jpg) ![screen2](/images/stories/saga/gunplabuilders/screen2.jpg)![screen3](/images/stories/saga/gunplabuilders/screen3.jpg)
+
 ### Aperçu
 
 
 Gunpla Builders Beginning G est avant tout une réalisation promotionnelle pour les modèles plastique de la Saga Gundam. La série est réalisé sur un ton très léger, peut-être même un peu niais, mais elle n'en reste pas moins une petite histoire sympathique. Réalisée sous forme d'OVA, la série comprend un total de trois parties qui raconteront les aventures d'Hal et de ses amis.
 
 
-![affiche](/images/stories/saga/gunplabuilders/affiche.jpg)Dans cette série, les spécialistes de la maquette Gundam, les Gunpla Builders, peuvent s'affronter à bord de leurs créations dans des simulateurs. En plaçant leur maquette dans un scanner 3D (qui est extérieurement un Haro !), l'ordinateur recréé virtuellement le Gunpla et son équipement. Si celui-ci prend des dégâts, les pièces sont détachées sur le modèle physique et le modèle virtuel perd aussi ces parties.
+Dans cette série, les spécialistes de la maquette Gundam, les Gunpla Builders, peuvent s'affronter à bord de leurs créations dans des simulateurs. En plaçant leur maquette dans un scanner 3D (qui est extérieurement un Haro !), l'ordinateur recréé virtuellement le Gunpla et son équipement. Si celui-ci prend des dégâts, les pièces sont détachées sur le modèle physique et le modèle virtuel perd aussi ces parties.
 
 
 L'idée de ce genre d'histoire n'est pas nouvelle, elle rappelle par exemple le manga de CLAMP Angelic Layer où les protagonistes faisaient s'affronter des poupées robots sur un ring au cours d'une compétition. Le concept appliqué aux Gunpla n'en est pas moins intéressant car la série arrive ainsi à se placer dans un contexte 100% réaliste (notre époque, en 2009) et nous propose tout de même des combats de mechas spectaculaires.

@@ -8,7 +8,7 @@ Death Navy
  
 
 
-![deathnavy.png](/images/stories/saga/ggundam/mechas/deatharmy/deathnavy.png)
+
 
 
 Fiche Technique   

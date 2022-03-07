@@ -5,7 +5,7 @@ title: Todaka
 Todaka
 ------
 
-![todaka](/images/stories/saga/gundamseeddestiny/persos/orb/todaka.jpg)Todaka
+Todaka
 
 
 - Rôle : Commandant d'armée d'Orb  

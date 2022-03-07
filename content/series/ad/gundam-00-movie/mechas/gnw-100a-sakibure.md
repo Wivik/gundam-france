@@ -6,9 +6,9 @@ GNW-100A Sakibure
 -----------------
 
 {imgmechas}
-GNW-100A Sakibure::![sakubure](/images/stories/saga/gundam00film/MECHAS/divers/sakubure.png)
+GNW-100A Sakibure::
 ||||
-Vue de dos::![sakibure dos](/images/stories/saga/gundam00film/MECHAS/divers/sakibure_dos.png) 
+Vue de dos:: 
 {/imgmechas}
 GNW-100A Sakibure
 -----------------

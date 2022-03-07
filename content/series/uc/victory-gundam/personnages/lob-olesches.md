@@ -6,7 +6,7 @@ Lob Olesches
 ------------
 
 
-![Lob Olesches](/images/stories/saga/vgundam/persos/lob-olesches.png)
+
 * Rôle : Pêcheur
 * Origines : Terre
 * Voix Japonaise : Kazuhiko Kishino

@@ -5,7 +5,7 @@ title: XM-07 Vigna Ghina
 XM-07 Vigna Ghina
 -----------------
 
-![vignaghina](/images/stories/saga/F91/mechas/crossbone/vignaghina.gif)
+
 
 
 XM-07 Vigna Ghina   

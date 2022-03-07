@@ -19,9 +19,9 @@ Side-4, province de Moore. Désormais connu sous le nom de "secteur Thunderbolt"
 
 
 
-![Episode 1](/images/mini/images-stories-saga-thunderbolt-episodes-_tb_x100_01-1.jpg)
-![Episode 1](/images/mini/images-stories-saga-thunderbolt-episodes-_tb_x100_01-2.jpg)
-![Episode 1](/images/mini/images-stories-saga-thunderbolt-episodes-_tb_x100_01-3.jpg)
+
+
+
 
 
 
@@ -35,9 +35,9 @@ La Fraternité de Moore a reçu le FA-78 Full Armor Gundam pour l'aider dans sa 
 
 
 
-![Episode 2](/images/mini/images-stories-saga-thunderbolt-episodes-_tb_x100_02-1.jpg)
-![Episode 2](/images/mini/images-stories-saga-thunderbolt-episodes-_tb_x100_02-2.jpg)
-![Episode 2](/images/mini/images-stories-saga-thunderbolt-episodes-_tb_x100_02-3.jpg)
+
+
+
 
 
 
@@ -51,9 +51,9 @@ La bataille pour la reconquête de Moore a commencé, et les deux camps sont bie
 
 
 
-![Episode 3](/images/mini/images-stories-saga-thunderbolt-episodes-_tb_x100_03-1.jpg)
-![Episode 3](/images/mini/images-stories-saga-thunderbolt-episodes-_tb_x100_03-2.jpg)
-![Episode 3](/images/mini/images-stories-saga-thunderbolt-episodes-_tb_x100_03-3.jpg)
+
+
+
 
 
 
@@ -67,9 +67,9 @@ Après une bataille sanglante où chaque camp a beaucoup perdu, les Fédéraux t
 
 
 
-![Episode 4](/images/mini/images-stories-saga-thunderbolt-episodes-_tb_x100_04-1.jpg)
-![Episode 4](/images/mini/images-stories-saga-thunderbolt-episodes-_tb_x100_04-2.jpg)
-![Episode 4](/images/mini/images-stories-saga-thunderbolt-episodes-_tb_x100_04-3.jpg)
+
+
+
 
 
 
@@ -83,9 +83,9 @@ Après sa survie du secteur Thunderbolt, Daryl est désormais rattaché à un es
 
 
 
-![Episode 5](/images/mini/images-stories-saga-thunderbolt-episodes-_tb_x100_05-1.jpg)
-![Episode 5](/images/mini/images-stories-saga-thunderbolt-episodes-_tb_x100_05-2.jpg)
-![Episode 5](/images/mini/images-stories-saga-thunderbolt-episodes-_tb_x100_05-3.jpg)
+
+
+
 
 
 
@@ -99,9 +99,9 @@ La mission du Spartan est de bloquer l'Alliance des mers du sud qui sont membres
 
 
 
-![Episode 6](/images/mini/images-stories-saga-thunderbolt-episodes-_tb_x100_06-1.jpg)
-![Episode 6](/images/mini/images-stories-saga-thunderbolt-episodes-_tb_x100_06-2.jpg)
-![Episode 6](/images/mini/images-stories-saga-thunderbolt-episodes-_tb_x100_06-3.jpg)
+
+
+
 
 
 
@@ -117,9 +117,9 @@ Pendant ce temps là, Io et Bianca sont en stand by à cause de leurs unités tr
 
 
 
-![Episode 7](/images/mini/images-stories-saga-thunderbolt-episodes-_tb_x100_07-1.jpg)
-![Episode 7](/images/mini/images-stories-saga-thunderbolt-episodes-_tb_x100_07-2.jpg)
-![Episode 7](/images/mini/images-stories-saga-thunderbolt-episodes-_tb_x100_07-3.jpg)
+
+
+
 
 
 
@@ -133,9 +133,9 @@ Le peloton d'Acguy de Daryl se retrouve attaqué alors qu'il essayer d'exfiltrer
 
 
 
-![Episode 8](/images/mini/images-stories-saga-thunderbolt-episodes-_tb_x100_08-1.jpg)
-![Episode 8](/images/mini/images-stories-saga-thunderbolt-episodes-_tb_x100_08-2.jpg)
-![Episode 8](/images/mini/images-stories-saga-thunderbolt-episodes-_tb_x100_08-3.jpg)
+
+
+
 
 
 

@@ -5,7 +5,7 @@ title: Lacus Clyne
 Lacus Clyne
 -----------
 
-![lacus](/images/stories/saga/gundamseeddestiny/persos/civils/lacus.jpg)Lacus Clyne
+Lacus Clyne
 
 
 - Age : 18 ans  

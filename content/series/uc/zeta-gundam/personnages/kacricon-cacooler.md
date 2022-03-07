@@ -6,7 +6,7 @@ Kacricon Cacooler
 -----------------
 
 
-![Kacricon Cacooler](/images/stories/saga/zetagundam/persos/kacricon-cacooler.png)
+
 
 
 * Age : 24

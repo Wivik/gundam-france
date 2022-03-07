@@ -7,7 +7,7 @@ Gundam SEED CE 73 : Stargazer
 -----------------------------
 
 
-![index](/images/stories/saga/gundamseeddestiny/stargazer/index.jpg)Stargazer est une très courte série animée de trois épisodes racontant une histoire en parallèle aux évènements de Gundam SEED Destiny. Son format est assez particulier car elle a été diffusée en tant qu'ONA, pour Original Net Animation, sur le site web de Bandai Channel, en juillet 2006. L'histoire est découpée sur trois épisodes d'environs quinze minutes qui ont été diffusés de manière mensuelle. Un DVD est sortie par la suite le 24 novembre 2006 contenant aussi les clips vidéo promotionnels de Gundam SEED Astray.
+Stargazer est une très courte série animée de trois épisodes racontant une histoire en parallèle aux évènements de Gundam SEED Destiny. Son format est assez particulier car elle a été diffusée en tant qu'ONA, pour Original Net Animation, sur le site web de Bandai Channel, en juillet 2006. L'histoire est découpée sur trois épisodes d'environs quinze minutes qui ont été diffusés de manière mensuelle. Un DVD est sortie par la suite le 24 novembre 2006 contenant aussi les clips vidéo promotionnels de Gundam SEED Astray.
 
 
 ### Histoire
@@ -22,13 +22,13 @@ En parallèle on suit aussi le développement du projet Stargazer mené par la D
 Le projet Stargazer est l'aboutissement de recherches concernant un moyen de déplacement rapide dans l'espace qui permet d'accomplir de grandes distances en peu de temps. Il a été matérialisé sous la forme d'un Mobile Suit, le GSX-401FW Stargazer Project, qui possède dans son dos un immense anneau nommé Voiture Lumière qui est l'essence du système.
 
 
-![Selen McGriff](/images/stories/saga/stargazer/stargazer1.jpg) ![La Voiture Lumière en action](/images/stories/saga/stargazer/stargazer2.jpg) ![Le Phantom Pain](/images/stories/saga/stargazer/stargazer3.jpg)
+
 
 
 ### Aperçu
 
 
-![index2](/images/stories/saga/gundamseeddestiny/stargazer/index2.jpg)
+
 
 
 La très faible durée de l'histoire de permet pas de résumer plus sans au final raconter la totalité de l'intrigue. Stargazer a été bien accueillie par les fans de la saga car celle-ci est d'une bien meilleure qualité que la série dans laquelle elle place son contexte. En effet, elle a été réalisée par une équipe différente qui donne un résultat beaucoup plus agréable au niveau des différents designs.

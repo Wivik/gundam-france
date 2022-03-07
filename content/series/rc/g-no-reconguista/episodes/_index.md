@@ -17,13 +17,8 @@ La traduction des titres est officielle
 
 
 
-![](/images/stories/saga/gnoreconguista/episodes/01-1.jpg)
-![](/images/stories/saga/gnoreconguista/episodes/01-2.jpg)
-![](/images/stories/saga/gnoreconguista/episodes/01-3.jpg)
 
 
-
-[Lire le résumé](rc/g-no-reconguista/nazo-no-mobile-suit.html)
 
 
 ### 02 - G-Self, Kidou !
@@ -35,13 +30,6 @@ La traduction des titres est officielle
 
 
 
-![](/images/stories/saga/gnoreconguista/episodes/02-1.jpg)
-![](/images/stories/saga/gnoreconguista/episodes/02-2.jpg)
-![](/images/stories/saga/gnoreconguista/episodes/02-3.jpg)
-
-
-
-[Lire le résumé](rc/g-no-reconguista/g-self-kidou.html)
 
 
 ### 03 - Montero no Atsuryoku
@@ -52,30 +40,12 @@ La traduction des titres est officielle
 
 
 
-![](/images/stories/saga/gnoreconguista/episodes/03-1.jpg)
-![](/images/stories/saga/gnoreconguista/episodes/03-2.jpg)
-![](/images/stories/saga/gnoreconguista/episodes/03-3.jpg)
-
-
-
-[Lire le résumé](rc/g-no-reconguista/montero-no-atsuryoku.html)
-
-
 ### 04 - CatSith ranbu
 
 
 * La danse des CatSiths
 * 16 octobre 2014 (Japon / France)
 
-
-
-![](/images/stories/saga/gnoreconguista/episodes/04-1.jpg)
-![](/images/stories/saga/gnoreconguista/episodes/04-2.jpg)
-![](/images/stories/saga/gnoreconguista/episodes/04-3.jpg)
-
-
-
-[Lire le résumé](rc/g-no-reconguista/catsith-ranbu.html)
 
 
 ### 05 - Teki wa Capital Army
@@ -85,16 +55,6 @@ La traduction des titres est officielle
 * 24 octobre 2014 (Japon / France)
 
 
-
-![](/images/stories/saga/gnoreconguista/episodes/05-1.jpg)
-![](/images/stories/saga/gnoreconguista/episodes/05-2.jpg)
-![](/images/stories/saga/gnoreconguista/episodes/05-3.jpg)
-
-
-
-[Lire le résumé](rc/g-no-reconguista/05-teki-wa-capital-army.html)
-
-
 ### 06 - Kyouteki, Dellensen !
 
 
@@ -102,27 +62,11 @@ La traduction des titres est officielle
 * 30 octobre 2014 (Japon / France)
 
 
-
-![](/images/stories/saga/gnoreconguista/episodes/06-1.jpg)
-![](/images/stories/saga/gnoreconguista/episodes/06-2.jpg)
-![](/images/stories/saga/gnoreconguista/episodes/06-3.jpg)
-
-
-
-[Lire le résumé](rc/g-no-reconguista/06-kyouteki-dellensen.html)
-
-
 ### 07 - Mask butai no kyoushuu
 
 
 * L'assaut du bataillon de Mask
 * 6 novembre 2014 (Japon / France)
-
-
-
-![](/images/stories/saga/gnoreconguista/episodes/07-1.jpg)
-![](/images/stories/saga/gnoreconguista/episodes/07-2.jpg)
-![](/images/stories/saga/gnoreconguista/episodes/07-3.jpg)
 
 
 
@@ -134,10 +78,6 @@ La traduction des titres est officielle
 
 
 
-![](/images/stories/saga/gnoreconguista/episodes/08-1.jpg)
-![](/images/stories/saga/gnoreconguista/episodes/08-2.jpg)
-![](/images/stories/saga/gnoreconguista/episodes/08-3.jpg)
-
 
 
 ### 09 - Megafauna Minami he
@@ -146,11 +86,6 @@ La traduction des titres est officielle
 * Cap au sud pour le Megafauna
 * 20 novembre 2014 (Japon / France)
 
-
-
-![](/images/stories/saga/gnoreconguista/episodes/09-1.jpg)
-![](/images/stories/saga/gnoreconguista/episodes/09-2.jpg)
-![](/images/stories/saga/gnoreconguista/episodes/09-3.jpg)
 
 
 
@@ -162,11 +97,6 @@ La traduction des titres est officielle
 
 
 
-![](/images/stories/saga/gnoreconguista/episodes/10-1.jpg)
-![](/images/stories/saga/gnoreconguista/episodes/10-2.jpg)
-![](/images/stories/saga/gnoreconguista/episodes/10-3.jpg)
-
-
 
 ### 11 - Totsunyuu ! Uchuu Sensou
 
@@ -176,9 +106,6 @@ La traduction des titres est officielle
 
 
 
-![](/images/stories/saga/gnoreconguista/episodes/11-1.jpg)
-![](/images/stories/saga/gnoreconguista/episodes/11-2.jpg)
-![](/images/stories/saga/gnoreconguista/episodes/11-3.jpg)
 
 
 
@@ -190,12 +117,6 @@ La traduction des titres est officielle
 
 
 
-![](/images/stories/saga/gnoreconguista/episodes/12-1.jpg)
-![](/images/stories/saga/gnoreconguista/episodes/12-2.jpg)
-![](/images/stories/saga/gnoreconguista/episodes/12-3.jpg)
-
-
-
 ### 13 - Tsuki kara kita mono
 
 
@@ -204,9 +125,6 @@ La traduction des titres est officielle
 
 
 
-![](/images/stories/saga/gnoreconguista/episodes/13-1.jpg)
-![](/images/stories/saga/gnoreconguista/episodes/13-2.jpg)
-![](/images/stories/saga/gnoreconguista/episodes/13-3.jpg)
 
 
 
@@ -218,10 +136,6 @@ La traduction des titres est officielle
 
 
 
-![](/images/stories/saga/gnoreconguista/episodes/14-1.jpg)
-![](/images/stories/saga/gnoreconguista/episodes/14-2.jpg)
-![](/images/stories/saga/gnoreconguista/episodes/14-3.jpg)
-
 
 
 ### 15 - Tobe ! Towasanga he
@@ -232,9 +146,6 @@ La traduction des titres est officielle
 
 
 
-![](/images/stories/saga/gnoreconguista/episodes/15-1.jpg)
-![](/images/stories/saga/gnoreconguista/episodes/15-2.jpg)
-![](/images/stories/saga/gnoreconguista/episodes/15-3.jpg)
 
 
 
@@ -246,9 +157,6 @@ La traduction des titres est officielle
 
 
 
-![](/images/stories/saga/gnoreconguista/episodes/16-1.jpg)
-![](/images/stories/saga/gnoreconguista/episodes/16-2.jpg)
-![](/images/stories/saga/gnoreconguista/episodes/16-3.jpg)
 
 
 
@@ -260,9 +168,6 @@ La traduction des titres est officielle
 
 
 
-![](/images/stories/saga/gnoreconguista/episodes/17-1.jpg)
-![](/images/stories/saga/gnoreconguista/episodes/17-2.jpg)
-![](/images/stories/saga/gnoreconguista/episodes/17-3.jpg)
 
 
 
@@ -274,9 +179,6 @@ La traduction des titres est officielle
 
 
 
-![](/images/stories/saga/gnoreconguista/episodes/18-1.jpg)
-![](/images/stories/saga/gnoreconguista/episodes/18-2.jpg)
-![](/images/stories/saga/gnoreconguista/episodes/18-3.jpg)
 
 
 
@@ -288,9 +190,6 @@ La traduction des titres est officielle
 
 
 
-![](/images/stories/saga/gnoreconguista/episodes/19-1.jpg)
-![](/images/stories/saga/gnoreconguista/episodes/19-2.jpg)
-![](/images/stories/saga/gnoreconguista/episodes/19-3.jpg)
 
 
 
@@ -302,9 +201,6 @@ La traduction des titres est officielle
 
 
 
-![](/images/stories/saga/gnoreconguista/episodes/20-1.jpg)
-![](/images/stories/saga/gnoreconguista/episodes/20-2.jpg)
-![](/images/stories/saga/gnoreconguista/episodes/20-3.jpg)
 
 
 
@@ -316,9 +212,6 @@ La traduction des titres est officielle
 
 
 
-![](/images/stories/saga/gnoreconguista/episodes/21-1.jpg)
-![](/images/stories/saga/gnoreconguista/episodes/21-2.jpg)
-![](/images/stories/saga/gnoreconguista/episodes/21-3.jpg)
 
 
 
@@ -330,9 +223,6 @@ La traduction des titres est officielle
 
 
 
-![](/images/stories/saga/gnoreconguista/episodes/22-1.jpg)
-![](/images/stories/saga/gnoreconguista/episodes/22-2.jpg)
-![](/images/stories/saga/gnoreconguista/episodes/22-3.jpg)
 
 
 
@@ -344,10 +234,6 @@ La traduction des titres est officielle
 
 
 
-![](/images/stories/saga/gnoreconguista/episodes/23-1.jpg)
-![](/images/stories/saga/gnoreconguista/episodes/23-2.jpg)
-![](/images/stories/saga/gnoreconguista/episodes/23-3.jpg)
-
 
 
 ### 24 - Uchuu no kaleidoscope
@@ -357,10 +243,6 @@ La traduction des titres est officielle
 * 12 mars 2015 (Japon / France)
 
 
-
-![](/images/stories/saga/gnoreconguista/episodes/24-1.jpg)
-![](/images/stories/saga/gnoreconguista/episodes/24-2.jpg)
-![](/images/stories/saga/gnoreconguista/episodes/24-3.jpg)
 
 
 
@@ -372,10 +254,6 @@ La traduction des titres est officielle
 
 
 
-![](/images/stories/saga/gnoreconguista/episodes/25-1.jpg)
-![](/images/stories/saga/gnoreconguista/episodes/25-2.jpg)
-![](/images/stories/saga/gnoreconguista/episodes/25-3.jpg)
-
 
 
 ### 26 - Daichi ni tatsu
@@ -386,8 +264,5 @@ La traduction des titres est officielle
 
 
 
-![](/images/stories/saga/gnoreconguista/episodes/26-1.jpg)
-![](/images/stories/saga/gnoreconguista/episodes/26-2.jpg)
-![](/images/stories/saga/gnoreconguista/episodes/26-3.jpg)
 
 

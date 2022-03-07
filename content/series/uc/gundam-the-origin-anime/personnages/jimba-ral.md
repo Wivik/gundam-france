@@ -6,7 +6,7 @@ Jimba Ral
 ---------
 
 
-![Jimba Ral](/images/stories/saga/origin/persos/jimba-ral.png)
+
 
 
 * Fonction : Politicien

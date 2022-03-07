@@ -5,7 +5,7 @@ title: "Sid"
 Sid
 ---
 
-![sid](/images/stories/saga/gundamage/mechas/sid.png) 
+ 
 
 
 ### Fiche Technique

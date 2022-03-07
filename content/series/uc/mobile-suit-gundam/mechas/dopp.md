@@ -6,7 +6,7 @@ Dopp
 ----
 
 
-[Dopp](javascript:change_image_m('images/stories/saga/msgundam/mechas/dopp.png');) [Couleurs Garma Zabi](javascript:change_image_m('images/stories/saga/msgundam/mechas/dopp-garma.png');) [Version 08th MS Team](javascript:change_image_m('images/stories/saga/msgundam/mechas/dopp08th.png');)      ![Dopp](/images/stories/saga/msgundam/mechas/dopp.png)    
+[Dopp](javascript:change_image_m('images/stories/saga/msgundam/mechas/dopp.png');) [Couleurs Garma Zabi](javascript:change_image_m('images/stories/saga/msgundam/mechas/dopp-garma.png');) [Version 08th MS Team](javascript:change_image_m('images/stories/saga/msgundam/mechas/dopp08th.png');)          
 
 
 ### Fiche Technique

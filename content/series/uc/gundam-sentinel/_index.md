@@ -38,7 +38,7 @@ Concernant le mecha design de Gundam Sentinel, nous noterons qu'il s'agit là du
 Gundam Sentinel a fait l'objet de trois éditions en tout, la première prépublication dans le magazine Model Graphix entre 1987 et 88, le roman en lui-même fut ensuite publié en 1988 sous le nom "Gundam Wars III : Gundam Sentinel - Battle of Real Gundam-", puis réédité en 1990 sous le titre "Alice's confession". Cette dernière version se concentrant principalement sur l'histoire. Le livre est régulièrement réimprimé encore à ce jour, celui-ci ayant eu un bon succès.
 
 
-![Gundam Sentinel](/images/mini/images-stories-saga-sentinel-_tb_x150_sentinel_1.jpg) ![Des schémas détaillés](/images/mini/images-stories-saga-sentinel-_tb_x150_sentinel_3.jpg)
+
 
 
 ### Conclusion

@@ -6,7 +6,7 @@ Taku
 ----
 
 
-![Taku](/images/stories/saga/gundambftry/persos/taku.png)
+
 
 
 * Fonction : Rockstar

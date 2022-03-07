@@ -6,7 +6,7 @@ Sakura Pretzel
 --------------
 
 
-![Sakura Pretzel](/images/stories/saga/g-tekketsu-s2/persos/sakura-pretzel.png)
+
 * Voix Japonaise : Reiko Suzuki
 
 

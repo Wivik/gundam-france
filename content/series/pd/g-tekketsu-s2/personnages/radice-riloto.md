@@ -6,7 +6,7 @@ Radice Riloto
 -------------
 
 
-![Radice Riloto](/images/stories/saga/g-tekketsu-s2/persos/radice-relot.png)
+
 
 
 * Fonction : Auditeur de la branche terrestre de Tekkadan

@@ -5,7 +5,7 @@ title: Paula Sys
 Paula Sys
 ---------
 
-![paula](/images/stories/saga/gundamx/persos/paula.jpg)Paula Sys
+Paula Sys
 
 
 - Age : 15 ans  

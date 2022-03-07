@@ -6,7 +6,7 @@ Kite Bush
 ---------
 
 
-![Kite Bush](/images/stories/saga/vgundam/persos/kite-bush.png)
+
 
 
 * Rôle : Pilote pour la Shrike Team

@@ -5,7 +5,7 @@ title: Base Jabber
 Base Jabber
 -----------
 
-![basejabber](/images/stories/saga/charcontreattaque/ms/basejabber.png)
+
 
 
 Base Jabber

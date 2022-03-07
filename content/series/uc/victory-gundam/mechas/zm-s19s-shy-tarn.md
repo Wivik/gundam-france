@@ -71,7 +71,7 @@ Unité principalement axée pour la défense, il possède un armement intégré 
 
 
 
-![Beam Rifle](/images/stories/saga/vgundam/mechas/zm-s19s-beamrifle.jpg)
+
 
 [Beam Rifle](javascript:accessoires_m('images/stories/saga/vgundam/mechas/zm-s19s-beamrifle.jpg');)
 

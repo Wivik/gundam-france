@@ -6,7 +6,7 @@ Miran Rex
 ---------
 
 
-![Miran Rex](/images/stories/saga/turnagundam/persos/moonrace/miran.jpg)
+
 * Rôle : Conseiller de Dianna Soriel
 * Origines : Lune
 * Voix Japonaise : Kazuyuki Sogabe

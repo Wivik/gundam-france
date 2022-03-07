@@ -6,7 +6,7 @@ Président Nemesis
 -----------------
 
 
-![Président Nemesis](/images/stories/saga/gundambf/persos/nemeis_kaichou.png)
+
 
 
 Cet industriel dans l'extraction de gaz est le président de l'équipe finlandaise, l'équipe Nemesis. Il est fortuné et supporte ses combattants grâce à ses grandes ressources.

@@ -8,7 +8,7 @@ Scud Gundam
  
 
 
-![scudgundam.jpg](/images/stories/saga/ggundam/images/mechas/scudgundam.jpg)
+
 
 
 GF13-0???? Scud Gundam

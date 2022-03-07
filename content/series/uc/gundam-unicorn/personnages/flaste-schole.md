@@ -5,7 +5,7 @@ title: Flaste Schole
 Flaste Schole
 -------------
 
-![flaste](/images/stories/saga/unicorn/persos/neozeon/flaste.jpg)
+
 - Age : 27 ans  
 - Rôle : Navigateur du Garencières  
 - Voix Japonaise : Rikiya Koyama

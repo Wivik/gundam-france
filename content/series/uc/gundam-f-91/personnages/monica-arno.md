@@ -5,7 +5,7 @@ title: Monica Arno
 Monica Arno
 -----------
 
-![monica](/images/stories/saga/F91/persos/civils/monica.jpg)Monica Arno  
+Monica Arno  
 - Age : 44 ans  
 - Rôle : mère de Seabook et Lise  
 - Voix japonaise : Miyoko Shoji

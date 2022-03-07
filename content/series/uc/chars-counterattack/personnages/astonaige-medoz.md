@@ -6,7 +6,7 @@ Astonaige Medoz
 ---------------
 
 
-![astonage.jpg](/images/mini/images-stories-saga-charcontreattaque-persos-_tb_150x182_astonage.jpg)
+
 
 
 Age : ?? ans  

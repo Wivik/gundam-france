@@ -5,7 +5,7 @@ title: "Reganner"
 Reganner
 --------
 
-![reganner](/images/stories/saga/gundamage/mechas/reganner.png) 
+ 
 
 
 ### Fiche Technique

@@ -6,7 +6,7 @@ Emma Sheen
 ----------
 
 
-![Emma Sheen](/images/stories/saga/zetagundam/persos/emma-sheen.png)
+
 
 
 * Age : 24

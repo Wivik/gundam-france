@@ -7,7 +7,7 @@ Gundam Lightning Black Warrior
 
 
 
-![Gundam Lightning Black Warrior](/images/stories/saga/gundambfblg/mechas/gundam-lightning-black-warrior.png)
+
 
 [Gundam Lightning Black Warrior](javascript:change_image_m('images/stories/saga/gundambfblg/mechas/gundam-lightning-black-warrior.png');)
 

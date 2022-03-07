@@ -6,7 +6,7 @@ Dianna Sorel
 ------------
 
 
-![dianna](/images/stories/saga/turnagundam/persos/moonrace/dianna.jpg)
+
 - Age : 19 ans (119 en réalité)  
 - Rôle : Reine des Moonraces  
 - Origines : Lune  

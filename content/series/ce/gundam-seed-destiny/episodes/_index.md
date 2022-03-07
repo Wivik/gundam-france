@@ -19,11 +19,7 @@ La traduction des titres est officielle.
 Deux ans après la Guerre de la Saint Valentin Sanglante, Cagalli Yula Athha se rend sur PLANT pour rencontrer le nouveau chancelier Gilbert Durandal pour discuter d'affaires importantes. A ce moment-là, des soldats de l'Alliance infiltrent la base militaire pour voler trois prototypes de Mobile Suits secrets.
 
 
-![](/images/stories/saga/gundamseeddestiny/episodes/01-1.jpg) ![](/images/stories/saga/gundamseeddestiny/episodes/01-2.jpg)![](/images/stories/saga/gundamseeddestiny/episodes/01-3.jpg)
- 
 
-
-[Lire le résumé](ce/gundam-seed-destiny/01-ikareru-hitomi.html)
 
 
 ### 02 - Tatakai wo Yonu Mono
@@ -36,11 +32,6 @@ Deux ans après la Guerre de la Saint Valentin Sanglante, Cagalli Yula Athha se 
 La bataille sur Armory One continue, et les renforts des envahisseurs arrivent pour aider leurs soldats tandis qu'Athrun Zala prend un Zaku Warrior afin d'aider à la récupération des Gundam volés.
 
 
-![](/images/stories/saga/gundamseeddestiny/episodes/02-1.jpg) ![](/images/stories/saga/gundamseeddestiny/episodes/02-2.jpg)![](/images/stories/saga/gundamseeddestiny/episodes/02-3.jpg)
- 
-
-
-[Lire le résumé](ce/gundam-seed-destiny/02-tatakai-wo-yonu-mono.html)
 
 
 ### 03 - Yochou no Houka
@@ -53,11 +44,6 @@ La bataille sur Armory One continue, et les renforts des envahisseurs arrivent p
 Le Minerva continue sa poursuite contre le Girty Lue. Pendant ce temps, à bord du vaisseau de ZAFT, Cagalli rencontre Shinn Asuka qui n'hésite pas une seule seconde à lui faire part de son mépris contre sa nation d'origine.
 
 
-![](/images/stories/saga/gundamseeddestiny/episodes/03-2.jpg) ![](/images/stories/saga/gundamseeddestiny/episodes/03-1.jpg)![](/images/stories/saga/gundamseeddestiny/episodes/03-3.jpg)
- 
-
-
-[Lire le résumé](ce/gundam-seed-destiny/03-yochou-no-houka.html)
 
 
 ### 04 - Hoshikuzu no Senjou
@@ -67,12 +53,6 @@ Le Minerva continue sa poursuite contre le Girty Lue. Pendant ce temps, à bord 
 * 6 novembre 2004
 
 
-![](/images/stories/saga/gundamseeddestiny/episodes/04-1.jpg) ![](/images/stories/saga/gundamseeddestiny/episodes/04-2.jpg)![](/images/stories/saga/gundamseeddestiny/episodes/04-3.jpg)
- 
-
-
-[Lire le résumé](ce/gundam-seed-destiny/04-hoshikuzu-no-senjou.html)
-
 
 ### 05 - Ienu Kizuato
 
@@ -80,12 +60,6 @@ Le Minerva continue sa poursuite contre le Girty Lue. Pendant ce temps, à bord 
 * Blessures inguérissables
 * 13 novembre 2004
 
-
-![](/images/stories/saga/gundamseeddestiny/episodes/05-1.jpg) ![](/images/stories/saga/gundamseeddestiny/episodes/05-2.jpg)![](/images/stories/saga/gundamseeddestiny/episodes/05-3.jpg)
- 
-
-
-[Lire le résumé](ce/gundam-seed-destiny/05-ienu-kizuato.html)
 
 
 ### 06 - Sekai no Owaru Toki
@@ -95,12 +69,6 @@ Le Minerva continue sa poursuite contre le Girty Lue. Pendant ce temps, à bord 
 * 20 novembre 2004
 
 
-![](/images/stories/saga/gundamseeddestiny/episodes/06-1.jpg) ![](/images/stories/saga/gundamseeddestiny/episodes/06-2.jpg)![](/images/stories/saga/gundamseeddestiny/episodes/06-3.jpg)
- 
-
-
-[Lire le résumé](ce/gundam-seed-destiny/06-sekai-no-owaru-toki.html)
-
 
 ### 07 - Konmei no Daichi
 
@@ -108,12 +76,6 @@ Le Minerva continue sa poursuite contre le Girty Lue. Pendant ce temps, à bord 
 * Terre de confusion
 * 27 novembre 2004
 
-
-![](/images/stories/saga/gundamseeddestiny/episodes/07-1.jpg) ![](/images/stories/saga/gundamseeddestiny/episodes/07-2.jpg)![](/images/stories/saga/gundamseeddestiny/episodes/07-3.jpg)
- 
-
-
-[Lire le résumé](ce/gundam-seed-destiny/07-konmei-no-daichi.html)
 
 
 ### 08 - Junction
@@ -123,22 +85,12 @@ Le Minerva continue sa poursuite contre le Girty Lue. Pendant ce temps, à bord 
 * 4 décembre 2004
 
 
-![](/images/stories/saga/gundamseeddestiny/episodes/08-1.jpg) ![](/images/stories/saga/gundamseeddestiny/episodes/08-2.jpg)![](/images/stories/saga/gundamseeddestiny/episodes/08-3.jpg)
- 
-
-
-[Lire le résumé](ce/gundam-seed-destiny/08-junction.html)
-
 
 ### 09 - Ogoreru Kiba
 
 * Ogoreru Kiba
 * Les griffes de l'arrogance
 * 11 décembre 2004
-
-
-![](/images/stories/saga/gundamseeddestiny/episodes/09-1.jpg)![](/images/stories/saga/gundamseeddestiny/episodes/09-2.jpg)![](/images/stories/saga/gundamseeddestiny/episodes/09-3.jpg)
-[Lire le résumé](ce/gundam-seed-destiny/09-ogoreru-kiba.html)
 
 
 ### 10 - Chichi no Jubaku
@@ -148,14 +100,6 @@ Le Minerva continue sa poursuite contre le Girty Lue. Pendant ce temps, à bord 
 * 18 décembre 2004
 
 
-![](/images/stories/saga/gundamseeddestiny/episodes/10-1.jpg)![](/images/stories/saga/gundamseeddestiny/episodes/10-2.jpg)![](/images/stories/saga/gundamseeddestiny/episodes/10-3.jpg)
-
-
- 
-
-
-[Lire le résumé](ce/gundam-seed-destiny/10-chichi-no-jubaku.html)
-
 
 ### 11 - Erabishi Michi
 
@@ -164,9 +108,6 @@ Le Minerva continue sa poursuite contre le Girty Lue. Pendant ce temps, à bord 
 * 25 décembre 2004
 
 
-![11-1](/images/stories/saga/gundamseeddestiny/episodes/11-1.jpg) ![11-2](/images/stories/saga/gundamseeddestiny/episodes/11-2.jpg)![11-3](/images/stories/saga/gundamseeddestiny/episodes/11-3.jpg)
-
-[Lire le résumé](ce/gundam-seed-destiny/11-erabishi-michi.html)
 
 
 ### 12 - Chi ni Somaru Umi
@@ -176,20 +117,12 @@ Le Minerva continue sa poursuite contre le Girty Lue. Pendant ce temps, à bord 
 * 25 décembre 2004
 
 
-![12-1](/images/stories/saga/gundamseeddestiny/episodes/12-1.jpg)![12-2](/images/stories/saga/gundamseeddestiny/episodes/12-2.jpg)![12-3](/images/stories/saga/gundamseeddestiny/episodes/12-3.jpg)
-[Lire le résumé](ce/gundam-seed-destiny/12-chi-ni-somaru-umi.html)
-
-
 ### 13 - Yomigaeru Tsubasa
 
 * Yomigaeru Tsubasa
 * Les ailes de la résurrection
 * 8 janvier 2005
 
-
-![13-1](/images/stories/saga/gundamseeddestiny/episodes/13-1.jpg) ![13-2](/images/stories/saga/gundamseeddestiny/episodes/13-2.jpg)![13-3](/images/stories/saga/gundamseeddestiny/episodes/13-3.jpg)
-
-[Lire le résumé](ce/gundam-seed-destiny/13-yomigaeru-tsubasa.html)
 
 
 ### 14 - Ashita he no Tabidachi
@@ -199,23 +132,11 @@ Le Minerva continue sa poursuite contre le Girty Lue. Pendant ce temps, à bord 
 * 15 janvier 2005
 
 
-![14-1](/images/stories/saga/gundamseeddestiny/episodes/14-1.jpg) ![14-2](/images/stories/saga/gundamseeddestiny/episodes/14-2.jpg) ![14-3](/images/stories/saga/gundamseeddestiny/episodes/14-3.jpg)
-
-
-[Lire le résumé](ce/gundam-seed-destiny/14-ashita-he-no-tabidachi.html)
-
-
 ### 15 - Senjou he no kikan
 
 * Senjou he no kikan
 * Retour au champ de bataille
 * 22 janvier 2005
-
-
-![15-1](/images/stories/saga/gundamseeddestiny/episodes/15-1.jpg) ![15-2](/images/stories/saga/gundamseeddestiny/episodes/15-2.jpg) ![15-3](/images/stories/saga/gundamseeddestiny/episodes/15-3.jpg)
-
-
-[Lire le résumé](ce/gundam-seed-destiny/15-senjou-he-no-kikan.html)
 
 
 ### 15.5 - Special Plus : Destiny

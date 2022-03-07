@@ -63,7 +63,7 @@ Equipement supplémentaire pour le Gundam AGE-2, il oriente la machine vers un p
 Base Technologique
 
 
-![age2.png](/images/stories/saga/gundamage/mechas/mini/age2.png)
+
 [AGE-2 Gundam AGE-2](ag/gundam-age/age-2-gundam-age-2.html)
 Ajout d'Equipement
 

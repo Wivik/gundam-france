@@ -5,7 +5,7 @@ title: Eternal
 Eternal
 -------
 
-![eternal](/images/stories/saga/gundamseed/mechas/zaft/eternal.png)
+
 
 
 Eternal

@@ -6,7 +6,7 @@ Hilda Bidan
 -----------
 
 
-![Hilda Bidan](/images/stories/saga/zetagundam/persos/hilda-bidan.png)
+
 
 
 * Origine : Terre

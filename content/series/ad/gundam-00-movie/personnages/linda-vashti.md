@@ -5,7 +5,7 @@ title: "Linda Vashti"
 Linda Vashti
 ------------
 
-![linda](/images/stories/saga/gundam00film/persos/celestialbeing/linda.jpg)
+
 - Age : 34 ans  
 - Rôle : Ingénieur de Celestial Being, épouse de Ian Vashti  
 - Voix japonaise : Risa Hayamizu

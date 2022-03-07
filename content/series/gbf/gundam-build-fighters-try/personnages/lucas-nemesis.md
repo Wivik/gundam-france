@@ -6,7 +6,7 @@ Lucas Nemesis
 -------------
 
 
-![Lucas Nemesis](/images/stories/saga/gundambftry/persos/lucas-nemesis.png)
+
 
 
 * Origine : Finlande

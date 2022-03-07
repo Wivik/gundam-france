@@ -9,7 +9,7 @@ Ramba Ral
 
 
 
-![Ramba Ral](/images/stories/saga/origin/persos/ramba-ral.png)
+
 * [Ramba Ral](javascript:change_image_m('images/stories/saga/origin/persos/ramba-ral.png');)
 * [Ramba Ral en UC 0071](javascript:change_image_m('images/stories/saga/origin/persos/ramba-ral-uc-0071.png');)
 * [Ramba Ral en UC 0079](javascript:change_image_m('images/stories/saga/msgundam/images/zeon/ramba.jpg');)

@@ -6,7 +6,7 @@ Monta Gonda
 -----------
 
 
-![Monta Gonda](/images/stories/saga/gundambf/persos/monta.png)
+
 
 
 

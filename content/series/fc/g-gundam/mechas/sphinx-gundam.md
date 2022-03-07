@@ -5,7 +5,7 @@ title: Sphinx Gundam
 Sphinx Gundam
 -------------
 
-![sphinxgundam](/images/stories/saga/ggundam/mechas/divers/sphinxgundam.jpg)
+
 
 
 Sphinx Gundam   

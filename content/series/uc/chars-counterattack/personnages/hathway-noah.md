@@ -6,7 +6,7 @@ Hathaway Noah
 -------------
 
 
-![hathaway.jpg](/images/stories/saga/charcontreattaque/persos/hathaway.jpg)
+
 
 
 Age : ?? ans  

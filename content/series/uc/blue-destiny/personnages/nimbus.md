@@ -6,7 +6,7 @@ Nimbus Schtazen
 ---------------
 
 
-![nimbus.jpg](/images/stories/saga/bluedestiny/persos/nimbus.jpg)
+
   
 Commandant en chef d'un escadron terrestre de Zeon, il cherche à détruire le Blue Destiny.
   

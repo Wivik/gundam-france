@@ -8,7 +8,7 @@ Les Inclassables
 
 
 
-![uc](/images/stories/saga/gundamevolve/images/evolve5/01.jpg)
+
 
 Gundam Evolve, une série unique qui a expérimenté diverses techniques d'animation 3D.
 

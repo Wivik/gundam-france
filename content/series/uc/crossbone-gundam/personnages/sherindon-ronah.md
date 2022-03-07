@@ -5,7 +5,7 @@ title: Sherindon Ronah
 Sherindon Ronah
 ---------------
 
-![sherindon](/images/stories/manga/crossbone/persos/sherindon.jpg)
+
 - Age : ??  
 - Rôle : Aristocrate, cousine de Vera Ronah
 

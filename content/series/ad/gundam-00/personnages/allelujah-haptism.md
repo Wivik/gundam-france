@@ -7,7 +7,7 @@ Allelujah Haptism
 
 
 
-![alleluja](/images/stories/saga/gundam00/persos/alleluja.jpg)
+
 - Nom de code : Allelujah Haptism  
 
 - Nom véritable : Allelujah Haptism  

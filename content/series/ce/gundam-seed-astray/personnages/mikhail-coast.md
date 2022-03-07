@@ -6,7 +6,7 @@ Mikhail Coast
 -------------
 
 
-![Mikhail Coast](/images/stories/manga/astray/persos/Coast.png)
+
 * Rôle : Pilote
 * Origines : PLANT
 

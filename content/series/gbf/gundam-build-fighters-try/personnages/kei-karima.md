@@ -6,7 +6,7 @@ Kei Karima
 ----------
 
 
-![Kei Karima](/images/stories/saga/gundambftry/persos/kei-karima.png)
+
 
 
 

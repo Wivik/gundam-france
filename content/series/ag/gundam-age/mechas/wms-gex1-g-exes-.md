@@ -5,7 +5,7 @@ title: "WMS-GEX1 G-EXES"
 WMS-GEX1 G-EXES
 ---------------
 
- ![gexes](/images/stories/saga/gundamage/mechas/gexes.png)
+ 
 
 
 ### Fiche Technique

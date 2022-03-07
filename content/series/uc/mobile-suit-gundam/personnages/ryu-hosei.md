@@ -9,7 +9,7 @@ Ryu Hosei
 
 
 
-![Ryu Hosei](/images/stories/saga/msgundam/persos/ryu-hosei.png)
+
 
 
 * Age : 18

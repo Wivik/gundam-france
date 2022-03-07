@@ -5,7 +5,7 @@ title: Zabiné Chareux
 Zabiné Chareux
 --------------
 
-![zabine](/images/stories/manga/crossbone/persos/zabine.jpg)
+
 - Age : 35 ans   
 - Origines : Cosmo Babylone  
 - Rôle : Pilote du Crossbone X2  

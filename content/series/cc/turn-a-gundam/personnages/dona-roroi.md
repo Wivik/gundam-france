@@ -6,7 +6,7 @@ Dona Roroi
 ----------
 
 
-![Dona Roroi](/images/stories/saga/turnagundam/persos/divers/dona.jpg)
+
 * Rôle : Pecheuse
 * Origines : Lune
 * Voix Japonaise : Fumiko Orikasa

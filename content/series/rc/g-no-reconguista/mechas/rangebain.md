@@ -6,7 +6,7 @@ Rangebain
 ---------
 
 
-![Rangebain](/images/stories/saga/gnoreconguista/mechas/rangebain.png)
+
 
 
 ### Fiche Technique

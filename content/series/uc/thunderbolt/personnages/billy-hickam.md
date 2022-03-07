@@ -6,7 +6,7 @@ Billy Hickam
 ------------
 
 
-![Billy Hickam](/images/stories/saga/thunderbolt/persos/billy-hickam.png)
+
 
 
 * Origine : Zeon

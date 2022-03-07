@@ -5,7 +5,7 @@ title: "Macil et Shawee"
 Macil et Shawee
 ---------------
 
-![macil](/images/stories/saga/gundamage/persos/macilshawee.png)
+
 - Rôle : Etudiants  
 - Origines : Colonie Tordia  
 - Voix Japonaise : Yuuki Kaji (Macil)  

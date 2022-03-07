@@ -5,7 +5,7 @@ title: MS-08TX/S Efreet Schneid
 MS-08TX/S Efreet Schneid
 ------------------------
 
-![efreet](/images/stories/saga/unicorn/mechas/zeon/efreet.png) 
+ 
 
 
 ### Fiche Technique

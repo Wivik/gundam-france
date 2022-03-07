@@ -9,7 +9,7 @@ Matilda Ajan
 
 
 
-![Matilda Ajan](/images/stories/saga/msgundam/persos/matilda-ajan.png)
+
 
 
 * Fonction : Officier de ravitaillement

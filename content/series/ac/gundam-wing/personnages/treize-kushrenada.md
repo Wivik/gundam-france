@@ -5,7 +5,7 @@ title: Treize Kushrenada
 Treize Kushrenada
 -----------------
 
-![treize](/images/stories/saga/gundamwing/persos/treize.jpg)Treize Kushrenada  
+Treize Kushrenada  
   
 Age : 24  
 Couleur de cheveux : Blond  

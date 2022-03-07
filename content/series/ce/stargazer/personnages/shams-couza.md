@@ -6,7 +6,7 @@ Shams Couza
 -----------
 
 
-![Shams Couza](/images/stories/saga/stargazer/persos/shams.jpg)
+
 * Age : 19
 * Rôle : Pilote du Verde Buster
 * Origines : Alliance Terrestre

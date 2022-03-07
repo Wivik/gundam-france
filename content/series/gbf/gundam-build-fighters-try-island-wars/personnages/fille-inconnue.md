@@ -6,7 +6,7 @@ Fille Inconnue
 --------------
 
 
-![Fille Inconnue](/images/stories/saga/gundambftiw/persos/fille-inconnue.png)
+
 
 
 * Voix Japonaise : Ayane Sakura

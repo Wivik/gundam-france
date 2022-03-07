@@ -5,7 +5,7 @@ title: Cardeas Vist
 Cardeas Vist
 ------------
 
-![cardeas](/images/stories/saga/unicorn/persos/vist/cardeas.jpg)
+
 - Age : 60 ans  
 - Rôle : Dirigeant de la Fondation Vist  
 - Voix Japonaise : Takayuki Sugo

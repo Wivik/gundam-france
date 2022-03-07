@@ -5,7 +5,7 @@ title: Mirai Yashima
 Mirai Yashima
 -------------
 
-![mirai.jpg](/images/stories/saga/charcontreattaque/persos/mirai.jpg)
+
 Age : ?? ans  
 Rôle : Epouse de Bright Noa  
   

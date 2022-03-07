@@ -6,7 +6,7 @@ Courtney Hieronimus
 -------------------
 
 
-![Courtney Hieronimus](/images/stories/manga/astray/persos/CHGS.jpg)
+
 
 Détaché auprès de ZAFT, ce pilote d'essai plutôt taciturne de la Verne Experimental Corporation a testé voire piloté en combat réel une impressionnante liste de prototypes, depuis ceux du GINN et du CGUE en CE 69 jusqu'au Destiny Impulse.
 

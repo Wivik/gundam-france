@@ -6,7 +6,7 @@ Lily Thevalley
 --------------
 
 
-![Lily Thevalley](/images/stories/manga/astray/persos/Lily.png)
+
 
 Fait exceptionnel, cette jeune fille est un clone Carbono-humain créé ex-nihilo, sans humain de référence. Incroyablement douée au pilotage de MS, son inexpérience compensée par un entraînement et un conditionnement spéciaux, son jeune âge lui donne cependant un comportement puéril et parfois instable, passant de la froideur à l'hystérie destructrice. Sous les ordres directs du Librarien Suprême, elle pilote le LN-GAT-X207 Nebula Blitz, un MS dont elle est la seule à pouvoir utiliser la capacité de télétransportation.
 

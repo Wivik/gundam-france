@@ -6,7 +6,7 @@ Ladderrum Kune
 --------------
 
 
-![Ladderrum Kune](/images/stories/saga/turnagundam/persos/terriens/Ladderrum.jpg)
+
 * Rôle : Mécanicien
 * Origines : Terre
 * Voix Japonaise : Ikuya Sawaki

@@ -75,7 +75,7 @@ Le ZM-S21G Brucknerg est une unité alliant la mobilité et la défense. Il a é
 
 
 
-![Beam Rifle](/images/stories/saga/vgundam/mechas/zm-s21g-beamrifle.jpg)
+
 
 [Beam Rifle](javascript:accessoires_m('images/stories/saga/vgundam/mechas/zm-s21g-beamrifle.jpg');)
 [Lance missiles](javascript:accessoires_m('images/stories/saga/vgundam/mechas/zm-s21g-missilepods.jpg');)

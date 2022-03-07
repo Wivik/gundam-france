@@ -11,5 +11,5 @@ Le Système AGE est une machine mise au point par Flit qui est capable de tirer 
 La première création du Système AGE sera le DODS Rifle, un Beam Rifle tirant une décharge transperçant les blindages grâce à un tir rotatif. La machine de construction est appelée AGE Builder.
 
 
-![systemage](/images/stories/saga/gundamage/tech/systemage.jpg) ![systemage3](/images/stories/saga/gundamage/tech/systemage3.jpg) ![systemage2](/images/stories/saga/gundamage/tech/systemage2.jpg) ![systemage4](/images/stories/saga/gundamage/tech/systemage4.jpg)
+
 

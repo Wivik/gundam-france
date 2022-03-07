@@ -7,7 +7,7 @@ ZZ II
 
 
 
-![ZZ II](/images/stories/saga/gundambftiw/mechas/zz-ii.png)
+
 
 [ZZ II](javascript:change_image_m('images/stories/saga/gundambftiw/mechas/zz-ii.png');)
 [Vue de dos](javascript:change_image_m('images/stories/saga/gundambftiw/mechas/zz-ii-dos.png');)

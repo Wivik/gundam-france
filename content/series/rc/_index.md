@@ -7,7 +7,7 @@ Regild Century
 --------------
 
 
-![uc](/images/stories/saga/gnoreconguista/201410122041230e2.jpg)
+
 
 La carte terrestre du Regild Century
 

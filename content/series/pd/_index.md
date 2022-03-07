@@ -8,7 +8,7 @@ Post Disaster
 
 
 
-![uc](/images/stories/saga/g-tekketsu/lexique/carte-post-disaster.jpg)
+
 
 La carte de la Terre en PD 323
 

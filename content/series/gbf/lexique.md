@@ -62,7 +62,7 @@ Il s'agit du simulateur qui émet les particules Plavsky permettant de générer
 La forme en alvéole de la borne permet d'en coller plusieurs l'une à côté de l'autre pour agrandir le terrain.
 
 
-![Borne Gunpla](/images/stories/saga/gundambf/lexique/borne-gunpla.png)
+
 ### GP-Base
 
 
@@ -99,7 +99,7 @@ Plavsky Particle System Engineering. Il s'agit de la société qui possède l'ex
 Lors des tournois mondiaux, la PPSE invite en tant qu'organisateur un participant spécial : Meijin Kawaguchi, un membre du staff de la société qui est reconnu comme étant le "Maitre" ("Meijin") et qui affronte les autres Builders qui se sont qualifiés dans les tournois régionaux. 
 
 
-![Le bâtiment de la PPSE](/images/stories/saga/gundambf/lexique/ppse.jpg)
+
 ### Système Embody
 
 
@@ -108,4 +108,4 @@ Combinaison développée par l'institut Flana qui a pour but d'étendre les capa
 Potentiellement considéré comme tricherie, le système Embody est resté secret et la combinaison est officiellement considérée comme un cosplay.
 
 
-![Combinaison Embody](/images/stories/saga/gundambf/lexique/embody.jpg)
+

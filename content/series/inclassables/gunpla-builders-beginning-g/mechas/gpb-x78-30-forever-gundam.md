@@ -5,7 +5,7 @@ title: "GPB-X78-30 Forever Gundam"
 GPB-X78-30 Forever Gundam
 -------------------------
 
-![forevergundam](/images/stories/saga/gunplabuilders/mechas/forevergundam.png)
+
 
 
 GPB-X78-30 Forever Gundam

@@ -7,7 +7,7 @@ Lightning Gundam Strider
 
 
 
-![Lightning Gundam Strider](/images/stories/saga/gundambftiw/mechas/lightning-gundam-strider.png)
+
 
 [Lightning Gundam Strider](javascript:change_image_m('images/stories/saga/gundambftiw/mechas/lightning-gundam-strider.png');)
 [Vue de dos](javascript:change_image_m('images/stories/saga/gundambftiw/mechas/lightning-gundam-strider-dos.png');)

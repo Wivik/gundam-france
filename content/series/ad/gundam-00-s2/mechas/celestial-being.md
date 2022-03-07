@@ -5,7 +5,7 @@ title: "Celestial Being"
 Celestial Being
 ---------------
 
-![celestialbeing](/images/stories/saga/gundam00/mechas/s2/innovators/celestialbeing.jpg)
+
 
 
 Celestial Being

@@ -5,7 +5,7 @@ title: Sochie Heim
 Sochie Heim
 -----------
 
-![sochie](/images/stories/saga/turnagundam/persos/terriens/sochie.jpg)Sochie Heim
+Sochie Heim
 
 
 - Age : 15 ans  

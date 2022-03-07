@@ -3,8 +3,8 @@ title: Mobile Suit Gundam SEED
 weight: 10
 ---
 
-![layer dossiers](/images/stories/saga/gundamseed/layer_dossiers.jpg)
-![alt](/images/stories/saga/gundamseed/index2.jpg)
+
+
 
 
 Quand l'Homme se créé un ennemi...
@@ -34,11 +34,11 @@ En effet, l'Alliance a développé dessus les prototypes d'une nouvelle généra
 Après leur fuite, un combat s'en suit où Kira se mettra à piloter le Gundam dans le but de protéger ses amis... Mais un autre conflit éclate plus tard, et Heliopolis se retrouve anéantie ... Ils errèrent désormais jusqu'à la Terre à bord de l'Archangel, vaisseau des forces Terriennes que Kira devra défendre après avoir montré qu'il était un Coordinator...
 
 
-![Strike Gundam](/images/stories/saga/gundamseed/img1.jpg)![Le Phase Shift en activation](/images/stories/saga/gundamseed/img2.jpg)![Kira prend les commandes du Strike](/images/stories/saga/gundamseed/img3.jpg)
+
 ### Aperçu
 
 
-![alt](/images/stories/saga/gundamseed/intro.jpg)Voilà en assez détaillé le début de l'intrigue de Gundam SEED. Mais derrière cette histoire qui nous semble assez banale se cache un scénario intéressant. Nous avons déjà la relation entre Kira et Athrun. Ils sont les meilleurs amis du monde, et maintenant ils sont devenus ennemis. Classique, mais c'est toujours passionnant... Kira se retrouve forcé à combattre son ancien meilleur ami afin de sauver ses autres copains qui se trouvent avec les réfugiés d'Heliopolis à bord de l'Archangel. Personnage assez introverti, il est difficile pour lui de prendre une décision tellement les responsabilités sont lourdes.
+Voilà en assez détaillé le début de l'intrigue de Gundam SEED. Mais derrière cette histoire qui nous semble assez banale se cache un scénario intéressant. Nous avons déjà la relation entre Kira et Athrun. Ils sont les meilleurs amis du monde, et maintenant ils sont devenus ennemis. Classique, mais c'est toujours passionnant... Kira se retrouve forcé à combattre son ancien meilleur ami afin de sauver ses autres copains qui se trouvent avec les réfugiés d'Heliopolis à bord de l'Archangel. Personnage assez introverti, il est difficile pour lui de prendre une décision tellement les responsabilités sont lourdes.
 
 
 Athrun est plus déterminé, il ne souhaite pas combattre Kira, mais il se retrouve obligé de le faire malgrè lui. Ensuite, le conflit avec les Coordinators nous permet de nous poser des questions. L'Homme a-t-il créé son nouvel ennemi ? La naissance des Coordinators partait sur une bonne intention, mais le public n'accepta pas l'idée de se voir manipulé génétiquement. La Guerre éclata donc. Notez aussi une certaine ressemblance avec MS Gundam ou Zeta Gundam pour le début de l'intrigue... En effet, Gundam SEED puise sont inspiration dans l'UC. Stupide repompe, excellente réadaptation, les avis sont partagés. Néanmoins, l'orientation de la série devient plus indépendante sur sa deuxième moitié.
@@ -59,7 +59,7 @@ Tournons-nous vers la réalisation musicale. Les musiques sont magnifiques, la t
 Invoke, interprété par T.M. Revolution, est une chanson entraînante qui nous met tout de suite à fond dans le bain. Anna Ni Ishoudatta No Ni, remarquablement chantée par See Saw, une artiste à la voix douce et mélodieuse. Gundam SEED se contente de 4 opening et 3 ending. D'ordre général ce sont des bonnes chansons. N'oublions pas de citer non plus les chansons de Lacus Clyne, chantées par Tanake Rie. La chanteuse possède une voix magnifique et douce. La bande sonore est décidément un régal auditif. Les musiques d'ambiance de la série collent parfaitement aux évènements. Et beaucoup de musiques donnent une sensation de mystère.
 
 
-![banniere](/images/stories/saga/gundamseed/banniere.jpg)
+
 ### Conclusion
 
 

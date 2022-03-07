@@ -6,7 +6,7 @@ Yoshiki Uzuki
 -------------
 
 
-![Yoshiki Uzuki](/images/stories/saga/gundambftry/persos/yoshiki-uzuki.png)
+
 
 
 * Fonction : Membre de l'équipe White Wolf

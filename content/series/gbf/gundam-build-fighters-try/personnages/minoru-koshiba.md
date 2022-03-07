@@ -6,7 +6,7 @@ Minoru Koshiba
 --------------
 
 
-![Minoru Koshiba](/images/stories/saga/gundambftry/persos/minoru-koshiba.png)
+
 
 
 * Fonction : Membre de l'équipe White Wolf

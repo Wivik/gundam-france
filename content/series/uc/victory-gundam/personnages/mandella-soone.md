@@ -6,7 +6,7 @@ Mandella Soone
 --------------
 
 
-![Mandella Soone](/images/stories/saga/vgundam/persos/mandella-soone.png)
+
 * Rôle : Gestionnaire de la Compagnie de Transport Spatial
 * Voix Japonaise : Jouji Nakata
 

@@ -45,7 +45,7 @@ Insert Song
 ### Mobile Suit Gundam 00 Original Soundtrack I
 
 
-![alt](/images/stories/saga/gundam00/ost/Case Cover Front.jpg)
+
 
 
 * Référence : VTCL-60014
@@ -84,7 +84,7 @@ Insert Song
 ### Mobile Suit Gundam 00 Original Soundtrack II
 
 
-![alt](/images/stories/saga/gundam00/ost/gundam_00_ost_02.jpg)
+
 
 
 * Référence : VTCL-60022
@@ -179,7 +179,7 @@ Insert Song
 ### Mobile Suit Gundam 00 Original Soundtrack IV
 
 
-![ost4](/images/stories/saga/gundam00/ost/ost4.jpg)
+
 
 
  
@@ -244,7 +244,7 @@ Liste des Singles
 ### Daybreak's Bell
 
 
-![alt](/images/stories/saga/gundam00/ost/daybreak.jpg)
+
 
 
 * Référence : KSCL-1200
@@ -265,7 +265,7 @@ Liste des Singles
 ### Ask Like Snow
 
 
-![alt](/images/stories/saga/gundam00/ost/asklikesnow.jpg)
+
 
 
 * Référence : DFCL-1438 (Edition limitée) / DFCL-1440 (Edition Standard)
@@ -282,7 +282,7 @@ Liste des Singles
 ### Wanna
 
 
-![alt](/images/stories/saga/gundam00/ost/wana.jpg)
+
 
 
 * Référence : VICL-36361 (Edition Limitée) / VICL-36362 (Edition Standard)
@@ -303,7 +303,7 @@ Liste des Singles
 ### Friends
 
 
-![alt](/images/stories/saga/gundam00/ost/friends_stephenie.jpg)
+
 
 
 * Référence : SECL-594
@@ -323,7 +323,7 @@ Liste des Singles
 ### Love Today
 
 
-![alt](/images/stories/saga/gundam00/ost/200px-taja_-_love_today.jpg)
+
 
 
 * Référence : VTCL-35023
@@ -450,7 +450,7 @@ Liste des Singles
 1. 
 
 
-![alt](/images/stories/saga/gundam00/ost/g00_voice_actor_single_1.jpg)
+
 
 
 * Référence : VTCL-35030
@@ -477,7 +477,7 @@ Drama CD
 ### Mobile Suit Gundam 00 Another Story [Mission-2306]
 
 
-![alt](/images/stories/saga/gundam00/ost/g00-mission2306-dramacd.jpg)
+
 
 
 * Référence : VTCL-60063

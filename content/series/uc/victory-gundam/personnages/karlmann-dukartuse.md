@@ -6,7 +6,7 @@ Karlmann Dukartuse
 ------------------
 
 
-![Karlmann Dukartuse](/images/stories/saga/vgundam/persos/karlmann-dukartuse.png)
+
 * Age : 1 an
 * Origines : Wooving
 * Voix Japonaise : Satomi Cricket

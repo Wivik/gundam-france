@@ -5,7 +5,7 @@ title: Meitza Ronah
 Meitza Ronah
 ------------
 
-![meitzer](/images/stories/saga/F91/persos/crossbone/meitzer.jpg)Meitza Ronah  
+Meitza Ronah  
 - Age : 69 ans  
 - Rôle : Leader du Crossbone Vanguard  
 - Voix japonaise : Teppei Takasugi

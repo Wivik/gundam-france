@@ -7,7 +7,7 @@ LM314V21 Victory 2 Gundam
 
 
 
-![LM314V21 Victory 2 Gundam](/images/stories/saga/vgundam/mechas/ligue/lm314v21.png)
+
 
 [LM314V21 Victory 2 Gundam](javascript:change_image_m('images/stories/saga/vgundam/mechas/ligue/lm314v21.png');)
 [V2 Buster Gundam](javascript:change_image_m('images/stories/saga/vgundam/mechas/ligue/lm314v23.png');)
@@ -87,7 +87,7 @@ Le Minovsky Drive permet non seulement au V2 Gundam de flotter dans l'atmosphèr
 
 
 
-![Core Fighter](/images/stories/saga/vgundam/mechas/ligue/lm314v21-corefighter.png)
+
 
 [Core Fighter](javascript:accessoires_m('images/stories/saga/vgundam/mechas/ligue/lm314v21-corefighter.png');)
 [Top Fighter](javascript:accessoires_m('images/stories/saga/vgundam/mechas/ligue/lm314v21-topfighter.png');)

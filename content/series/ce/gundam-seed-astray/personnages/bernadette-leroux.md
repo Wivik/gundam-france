@@ -6,7 +6,7 @@ Bernadette Leroux
 -----------------
 
 
-![Bernadette Leroux](/images/stories/manga/astray/persos/Bernadette-gsda.jpg)
+
 
 Cette jeune journaliste de l'agence de presse officielle des PLANT dirige sa propre équipe de terrain. Connue du grand public pour sa série d'interviews d'Edward Harrelson lors de la guerre d'Indépendance des USSA en CE 72, reportages qui joueront leur rôle dans la stratégie sud-américaine. Éprise de justice et adepte d'un journalisme de témoignage, elle refuse de s'impliquer plus que de raison dans les conflits, de peur de mettre à mal son objectivité. Cette attitude la mettra régulièrement en opposition frontale avec Jess Rabble, qui lui n'hésite pas à prendre parti.
 

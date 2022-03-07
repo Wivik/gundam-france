@@ -21,9 +21,9 @@ Suite aux événements d'Arbrau, Tekkadan est devenu une entreprise florissante 
 
 
 
-![Atarashi Chi](/images/stories/saga/g-tekketsu-s2/episodes/26-1.jpg)
-![Atarashi Chi](/images/stories/saga/g-tekketsu-s2/episodes/26-2.jpg)
-![Atarashi Chi](/images/stories/saga/g-tekketsu-s2/episodes/26-3.jpg)
+
+
+
 
 
 
@@ -39,9 +39,9 @@ Les Tekkadan ont réussi à repousser l'attaque du Dawn Horizon Corps, mais il s
 
 
 
-![Shishin no Kachuu de](/images/stories/saga/g-tekketsu-s2/episodes/27-1.jpg)
-![Shishin no Kachuu de](/images/stories/saga/g-tekketsu-s2/episodes/27-2.jpg)
-![Shishin no Kachuu de](/images/stories/saga/g-tekketsu-s2/episodes/27-3.jpg)
+
+
+
 
 
 
@@ -57,9 +57,9 @@ Tekkadan lance un assaut contre les pirates du Dawn Horizon pour capturer leur c
 
 
 
-![Yoake mae no Tatakai](/images/stories/saga/g-tekketsu-s2/episodes/28-1.jpg)
-![Yoake mae no Tatakai](/images/stories/saga/g-tekketsu-s2/episodes/28-2.jpg)
-![Yoake mae no Tatakai](/images/stories/saga/g-tekketsu-s2/episodes/28-3.jpg)
+
+
+
 
 
 
@@ -75,9 +75,9 @@ La capture du chef des Dawn Horizon vaut aux Tekkadan d'atteindre un nouveau pal
 
 
 
-![Shusse no Hikigane](/images/stories/saga/g-tekketsu-s2/episodes/29-1.jpg)
-![Shusse no Hikigane](/images/stories/saga/g-tekketsu-s2/episodes/29-2.jpg)
-![Shusse no Hikigane](/images/stories/saga/g-tekketsu-s2/episodes/29-3.jpg)
+
+
+
 
 
 
@@ -111,9 +111,9 @@ Arbrau et SAU se livrent une guerre d'épuisement depuis plusieurs semaines à l
 
 
 
-![Muon no Sensou](/images/stories/saga/g-tekketsu-s2/episodes/31-1.jpg)
-![Muon no Sensou](/images/stories/saga/g-tekketsu-s2/episodes/31-2.jpg)
-![Muon no Sensou](/images/stories/saga/g-tekketsu-s2/episodes/31-3.jpg)
+
+
+
 
 
 
@@ -129,9 +129,9 @@ Le Gjallarhorn a reçu une demande d'arbitrage de SAU pour le conflit en cours e
 
 
 
-![Tomo yo](/images/stories/saga/g-tekketsu-s2/episodes/32-1.jpg)
-![Tomo yo](/images/stories/saga/g-tekketsu-s2/episodes/32-2.jpg)
-![Tomo yo](/images/stories/saga/g-tekketsu-s2/episodes/32-3.jpg)
+
+
+
 
 
 
@@ -147,9 +147,9 @@ Un mois après le conflit qui a opposé le SAU et les Forces d'auto défense d'A
 
 
 
-![Kasei no Ō](/images/stories/saga/g-tekketsu-s2/episodes/33-1.jpg)
-![Kasei no Ō](/images/stories/saga/g-tekketsu-s2/episodes/33-2.jpg)
-![Kasei no Ō](/images/stories/saga/g-tekketsu-s2/episodes/33-3.jpg)
+
+
+
 
 
 
@@ -165,9 +165,9 @@ Les liens entre Tekkadan et le Gjallahorn grandissent tout en inquiétant Teiwaz
 
 
 
-![Vidar Tatsu](/images/stories/saga/g-tekketsu-s2/episodes/34-1.jpg)
-![Vidar Tatsu](/images/stories/saga/g-tekketsu-s2/episodes/34-2.jpg)
-![Vidar Tatsu](/images/stories/saga/g-tekketsu-s2/episodes/34-3.jpg)
+
+
+
 
 
 
@@ -183,9 +183,9 @@ Suite à la découverte d'un Gundam Frame et de machines non identifiées, les �
 
 
 
-![Mezameshi Hakusai](/images/stories/saga/g-tekketsu-s2/episodes/35-1.jpg)
-![Mezameshi Hakusai](/images/stories/saga/g-tekketsu-s2/episodes/35-2.jpg)
-![Mezameshi Hakusai](/images/stories/saga/g-tekketsu-s2/episodes/35-3.jpg)
+
+
+
 
 
 
@@ -201,9 +201,9 @@ La découverte et l'éveil d'un Mobile Armor, engin autonome programmé pour le 
 
 
 
-![Kegareta Tsubasa](/images/stories/saga/g-tekketsu-s2/episodes/36-1.jpg)
-![Kegareta Tsubasa](/images/stories/saga/g-tekketsu-s2/episodes/36-2.jpg)
-![Kegareta Tsubasa](/images/stories/saga/g-tekketsu-s2/episodes/36-3.jpg)
+
+
+
 
 
 
@@ -239,9 +239,9 @@ Mikazuki se lance contre le Mobile Armor dans un combat d'une violence et brutal
 
 
 
-![Tenshi wo Karu Mono](/images/stories/saga/g-tekketsu-s2/episodes/38-1.jpg)
-![Tenshi wo Karu Mono](/images/stories/saga/g-tekketsu-s2/episodes/38-2.jpg)
-![Tenshi wo Karu Mono](/images/stories/saga/g-tekketsu-s2/episodes/38-3.jpg)
+
+
+
 
 
 
@@ -257,9 +257,9 @@ Lafter et ses équipières ont terminé leur collaboration avec Tekkadan et s'en
 
 
 
-![Jogen](/images/stories/saga/g-tekketsu-s2/episodes/39-1.jpg)
-![Jogen](/images/stories/saga/g-tekketsu-s2/episodes/39-2.jpg)
-![Jogen](/images/stories/saga/g-tekketsu-s2/episodes/39-3.jpg)
+
+
+
 
 
 
@@ -275,9 +275,9 @@ Les Turbines se retrouvent seuls faces au Gjallahorn, Teiwaz et Naze ayant expli
 
 
 
-![Moyuru Taiyō ni Terasarete](/images/stories/saga/g-tekketsu-s2/episodes/40-1.jpg)
-![Moyuru Taiyō ni Terasarete](/images/stories/saga/g-tekketsu-s2/episodes/40-2.jpg)
-![Moyuru Taiyō ni Terasarete](/images/stories/saga/g-tekketsu-s2/episodes/40-3.jpg)
+
+
+
 
 
 
@@ -293,9 +293,9 @@ Après les événements impliquant les Turbines, Jasley ne s'arrête pas là et 
 
 
 
-![Hito to Shite Atarimae no](/images/stories/saga/g-tekketsu-s2/episodes/41-1.jpg)
-![Hito to Shite Atarimae no](/images/stories/saga/g-tekketsu-s2/episodes/41-2.jpg)
-![Hito to Shite Atarimae no](/images/stories/saga/g-tekketsu-s2/episodes/41-3.jpg)
+
+
+
 
 
 
@@ -311,9 +311,9 @@ Maintenant qu'ils ont recouvré toutes leurs forces avec le Barbatos réparé, l
 
 
 
-![Otoshimae](/images/stories/saga/g-tekketsu-s2/episodes/42-1.jpg)
-![Otoshimae](/images/stories/saga/g-tekketsu-s2/episodes/42-2.jpg)
-![Otoshimae](/images/stories/saga/g-tekketsu-s2/episodes/42-3.jpg)
+
+
+
 
 
 
@@ -347,9 +347,9 @@ La flotte Arianrhod s'oppose au Coup d'Etat de McGillis et se dresse contre lui.
 
 
 
-![Tamashii wo Te ni Shita Otoko](/images/stories/saga/g-tekketsu-s2/episodes/44-1.jpg)
-![Tamashii wo Te ni Shita Otoko](/images/stories/saga/g-tekketsu-s2/episodes/44-2.jpg)
-![Tamashii wo Te ni Shita Otoko](/images/stories/saga/g-tekketsu-s2/episodes/44-3.jpg)
+
+
+
 
 
 
@@ -365,9 +365,9 @@ Tekkadan a rejoint la flotte révolutionnaire du Gjallahorn dirigée par Liza En
 
 
 
-![Kora ga saigo da](/images/stories/saga/g-tekketsu-s2/episodes/45-1.jpg)
-![Kora ga saigo da](/images/stories/saga/g-tekketsu-s2/episodes/45-2.jpg)
-![Kora ga saigo da](/images/stories/saga/g-tekketsu-s2/episodes/45-3.jpg)
+
+
+
 
 
 
@@ -383,9 +383,9 @@ Tekkadan parvient à se désengager du combat et lancer sa manœuvre de repli. P
 
 
 
-![Dare ga Tame](/images/stories/saga/g-tekketsu-s2/episodes/46-1.jpg)
-![Dare ga Tame](/images/stories/saga/g-tekketsu-s2/episodes/46-2.jpg)
-![Dare ga Tame](/images/stories/saga/g-tekketsu-s2/episodes/46-3.jpg)
+
+
+
 
 
 
@@ -401,9 +401,9 @@ Les Tekkadans sont de retour sur Mars et tentent de rebondir sur les derniers é
 
 
 
-![Ikenie](/images/stories/saga/g-tekketsu-s2/episodes/47-1.jpg)
-![Ikenie](/images/stories/saga/g-tekketsu-s2/episodes/47-2.jpg)
-![Ikenie](/images/stories/saga/g-tekketsu-s2/episodes/47-3.jpg)
+
+
+
 
 
 
@@ -419,9 +419,9 @@ Tekkadan est assiégé par Gjallahorn qui leur a coupé tout moyen de communique
 
 
 
-![Yakusoku](/images/stories/saga/g-tekketsu-s2/episodes/48-1.jpg)
-![Yakusoku](/images/stories/saga/g-tekketsu-s2/episodes/48-2.jpg)
-![Yakusoku](/images/stories/saga/g-tekketsu-s2/episodes/48-3.jpg)
+
+
+
 
 
 
@@ -436,9 +436,9 @@ Le Gjallahorn est sur le point de lancer son opération d'attaque contre la base
 
 
 
-![McGillis Fareed](/images/stories/saga/g-tekketsu-s2/episodes/49-1.jpg)
-![McGillis Fareed](/images/stories/saga/g-tekketsu-s2/episodes/49-2.jpg)
-![McGillis Fareed](/images/stories/saga/g-tekketsu-s2/episodes/49-3.jpg)
+
+
+
 
 
 
@@ -454,9 +454,9 @@ Le Gjallahorn a lancé son assaut contre Tekkadan qui fait alors face à son des
 
 
 
-![Karera no Ibasho](/images/stories/saga/g-tekketsu-s2/episodes/50-1.jpg)
-![Karera no Ibasho](/images/stories/saga/g-tekketsu-s2/episodes/50-2.jpg)
-![Karera no Ibasho](/images/stories/saga/g-tekketsu-s2/episodes/50-3.jpg)
+
+
+
 
 
 

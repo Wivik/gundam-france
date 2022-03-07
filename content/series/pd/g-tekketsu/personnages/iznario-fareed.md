@@ -6,7 +6,7 @@ Iznario Fareed
 --------------
 
 
-![Iznario Fareed](/images/stories/saga/g-tekketsu/persos/iznario-fareed.png)
+
 
 
 * Voix Japonaise : Sho Hayami

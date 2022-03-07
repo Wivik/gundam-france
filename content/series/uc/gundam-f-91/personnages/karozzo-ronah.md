@@ -5,7 +5,7 @@ title: Karozzo Ronah
 Karozzo Ronah
 -------------
 
-![ironmask](/images/stories/saga/F91/persos/crossbone/ironmask.jpg)Karozzo Ronah / Masque de Fer  
+Karozzo Ronah / Masque de Fer  
 - Age : 45 ans  
 - Rôle : Chef des armées du Crossbone Vanguard  
 - Voix japonaise : Masaki Maeda

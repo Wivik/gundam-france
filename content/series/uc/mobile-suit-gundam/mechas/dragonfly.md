@@ -6,7 +6,7 @@ Dragonfly
 ---------
 
 
-![dragonfly](/images/stories/saga/msgundam/mechas/dragonfly.png)
+
 
 
 - Type : Avion.   

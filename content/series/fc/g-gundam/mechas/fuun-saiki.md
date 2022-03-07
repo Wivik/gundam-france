@@ -8,7 +8,7 @@ Fuun Saiki
  
 
 
-![fuunsaiki.png](/images/stories/saga/ggundam/mechas/deatharmy/fuunsaiki.png)
+
 
 
 Fiche Technique   

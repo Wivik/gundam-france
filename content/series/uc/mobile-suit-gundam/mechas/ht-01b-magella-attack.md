@@ -6,7 +6,7 @@ HT-01B Magella Attack
 ---------------------
 
 
-[Magella Attack](javascript:change_image_m('images/stories/saga/msgundam/mechas/ht-01b.png');) [Version 08th MS Team](javascript:change_image_m('images/stories/saga/msgundam/mechas/ht-01b08th.png');)      ![Magella Attack](/images/stories/saga/msgundam/mechas/ht-01b.png)    
+[Magella Attack](javascript:change_image_m('images/stories/saga/msgundam/mechas/ht-01b.png');) [Version 08th MS Team](javascript:change_image_m('images/stories/saga/msgundam/mechas/ht-01b08th.png');)          
 
 
 ### Fiche Technique

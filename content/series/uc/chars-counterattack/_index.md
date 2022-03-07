@@ -7,7 +7,7 @@ La Contre-attaque de Char
 -------------------------
 
 
-![index](/images/stories/saga/charcontreattaque/index.jpg)
+
 
 
 La Contre-attaque de Char est la conclusion vu conflit Fédération contre Zeon. Ce film est l'un des plus réussis en terme de réalisation pour l'époque (au même titre que "Macross : Do You Remember Love ?"). Il se caractérise surtout par une très bonne réalisation, une histoire passionnante, des combats épiques, des scènes dramatiques, et des mechas réussis. Char's Counterattack ramène d'anciens protagonistes précédemment passés au rôle de secondaire pour la plupart dans Zeta ou ZZ, mais aussi de nouveaux personnages qui cherchent à comprendre le pourquoi de la guerre.
@@ -22,11 +22,11 @@ UC 0093, Neo Zeon dirigée par l'ancienne Comète Rouge de Zeon, Char Aznable en
 Char tente de prendre possession de l'astéroïde Luna 5 durant la première bataille. Mission réussie, il parvient à le faire lancer sur Lhassa, au Tibet, là où se trouvait le nouveau QG de la Fédération. Adenauer Paraya, un politicien envoyé par la Fédération, a pour mission de négocier secrètement avec Char Aznable afin qu'il n'y ait plus de conflit. La négociation tourne à l'avantage de Char qui rachète l'astéroïde Axis à l'aide d'une très forte somme en or. Son plan, projeter Axis sur Terre pour anéantir toute vie dessus et accélérer l'évolution de l'humanité en NewTypes. Bright Noa, Amuro Ray, et tous les membres de Londo Bell devront alors tout faire pour empêcher cette catastrophe...
 
 
-![Le RX-93 Nu Gundam dans les usines d'Anaheim](/images/mini/images-stories-saga-charcontreattaque-_tb_x120_img1.jpg)![Une rivalité qui n'en finira jamais.](/images/mini/images-stories-saga-charcontreattaque-_tb_x120_img2.jpg)![Le Sazabi de Char Aznable](/images/mini/images-stories-saga-charcontreattaque-_tb_x120_img3.jpg)
+![Le RX-93 Nu Gundam dans les usines d'Anaheim](/images/mini/images-stories-saga-charcontreattaque-_tb_x120_img1.jpg)![Une rivalité qui n'en finira jamais.](/images/mini/images-stories-saga-charcontreattaque-_tb_x120_img2.jpg)
 ### Aperçu
 
 
-![intro](/images/stories/saga/charcontreattaque/intro.jpg)L'histoire de Char's Counterattack est très axée sur les personnages. On y retrouve les raisons du conflit entre Char et Amuro. Ces derniers n'ont jamais pu oublier la mort de [Lalah Sune](uc/mobile-suit-gundam/lalah-sun.html) qui les hante toujours. On découvre de nouveaux personnages, comme Gyunei Guss, Quess Paraya ou Chan Agi, qui joueront des rôles importants.
+L'histoire de Char's Counterattack est très axée sur les personnages. On y retrouve les raisons du conflit entre Char et Amuro. Ces derniers n'ont jamais pu oublier la mort de [Lalah Sune](uc/mobile-suit-gundam/lalah-sun.html) qui les hante toujours. On découvre de nouveaux personnages, comme Gyunei Guss, Quess Paraya ou Chan Agi, qui joueront des rôles importants.
 
 
 On regrette cependant certains personnages qui brillent par leur absence, en particulier [Sayla Mass](uc/mobile-suit-gundam/sayla-mass.html) qui aurait pu tenir un rôle assez important (tenter de convaincre son frère de ne pas mener à bien son plan). Il est dommage de voir Char aussi extrémiste, là où il avait joué un rôle beaucoup plus humain dans Zeta Gundam, il est relayé au rang de "méchant". Néanmoins, on nous donne tout au long du film un portrait intéressant de Char comme par exemple quand il explique qu'il sera difficile pour lui de reprendre le nom de Zeon.

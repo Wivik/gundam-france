@@ -6,7 +6,7 @@ Luin Lee
 --------
 
 
-![Luin Li](/images/stories/saga/gnoreconguista/persos/luin-li.png)
+
 
 
 * Rôle : Etudiant des Gardes

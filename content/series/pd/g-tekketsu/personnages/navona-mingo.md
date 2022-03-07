@@ -6,7 +6,7 @@ Navona Mingo
 ------------
 
 
-![Navona Mingo](/images/stories/saga/g-tekketsu/persos/navona-mingo.png)
+
 
 
 * Rôle : Ouvrier

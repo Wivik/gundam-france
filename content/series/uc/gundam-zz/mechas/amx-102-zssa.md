@@ -6,7 +6,7 @@ AMX-102 Zssa
 ------------
 
 
-[Zssa](javascript:change_image_m('images/stories/saga/gundamzz/mechas/neozeon/amx-102-msonly.png');) [Avec Lance-missiles](javascript:change_image_m('images/stories/saga/gundamzz/mechas/neozeon/amx-102.png');) [Unité booster](javascript:change_image_m('images/stories/saga/gundamzz/mechas/neozeon/amx-102-ma-booster.png');) [Couleurs Manchettes](javascript:change_image_m('images/stories/saga/unicorn/mechas/neozeon/amx-102-zssa.png');)      ![Zssa](/images/stories/saga/gundamzz/mechas/neozeon/amx-102-msonly.png)    
+[Zssa](javascript:change_image_m('images/stories/saga/gundamzz/mechas/neozeon/amx-102-msonly.png');) [Avec Lance-missiles](javascript:change_image_m('images/stories/saga/gundamzz/mechas/neozeon/amx-102.png');) [Unité booster](javascript:change_image_m('images/stories/saga/gundamzz/mechas/neozeon/amx-102-ma-booster.png');) [Couleurs Manchettes](javascript:change_image_m('images/stories/saga/unicorn/mechas/neozeon/amx-102-zssa.png');)          
 
 
 ### Fiche Technique

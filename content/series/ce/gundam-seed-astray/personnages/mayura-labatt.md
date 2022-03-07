@@ -6,7 +6,7 @@ Mayura Labatt
 -------------
 
 
-![Mayura Labatt](/images/stories/manga/astray/persos/Mayura_Labatt.png)
+
 * Voix Japonaise : Masayo Kurata
 
 Née en CE55, employée par Morgenroete, elle se distingue par son caractère assez "garçon manqué". En tant qu'ingénieur puis pilote d'essai, Mayura participe dès l'origine au programme de R&D lié à la création des MBF-M1 Astray.

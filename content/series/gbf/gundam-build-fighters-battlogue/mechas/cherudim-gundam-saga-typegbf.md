@@ -7,7 +7,7 @@ Cherudim Gundam SAGA Type.GBF
 
 
 
-![Cherudim Gundam SAGA Type.GBF](/images/stories/saga/gundambfblg/mechas/cherudim-gundam-saga-typegbf.png)
+
 
 [Cherudim Gundam SAGA Type.GBF](javascript:change_image_m('images/stories/saga/gundambfblg/mechas/cherudim-gundam-saga-typegbf.png');)
 

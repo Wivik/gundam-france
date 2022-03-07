@@ -5,7 +5,7 @@ title: "AGE-1G Gundam AGE1 Gransa"
 AGE-1G Gundam AGE1 Gransa
 -------------------------
 
-![age1glance](/images/stories/saga/gundamage/mechas/age1glance.png) 
+ 
 
 
 ### Fiche Technique
@@ -64,6 +64,6 @@ Retrait Système AGE
 Ajout d'Equipement
 
 
-![age1glance.png](/images/stories/saga/gundamage/mechas/mini/age1glance.png)
+
 [AGE-1G Gundam AGE-1 Gransa](ag/gundam-age/age-1g-gundam-age-1-gransa.html)
 

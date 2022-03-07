@@ -5,7 +5,7 @@ title: Zondo Gei
 Zondo Gei
 ---------
 
- ![zondogei](/images/stories/manga/crossbone/ms/zondogei.jpg)
+ 
 
 
 ### Fiche Technique

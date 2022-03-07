@@ -5,7 +5,7 @@ title: "Grodek Ainoa"
 Grodek Ainoa
 ------------
 
-![grudek](/images/stories/saga/gundamage/persos/grodek.png)
+
 - Age :   
 - Rôle : Commandant du vaisseau Diva  
 - Voix japonaise : Hiroki Touchi

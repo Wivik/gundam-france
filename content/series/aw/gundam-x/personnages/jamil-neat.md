@@ -5,7 +5,7 @@ title: Jamil Neat
 Jamil Neat
 ----------
 
-![jammil3.jpg](/images/mini/images-stories-saga-gundamx-images-jamil-_tb_200x_jammil3.jpg)Jamil Neat  
+Jamil Neat  
 - Age : 30 ans  
 - Couleur de cheveux : marrons  
 - Fonction : Capitaine du Freeden, ancien Newtype  

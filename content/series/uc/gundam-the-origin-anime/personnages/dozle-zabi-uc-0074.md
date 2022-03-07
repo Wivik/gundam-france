@@ -6,7 +6,7 @@ Dozle Zabi
 ----------
 
 
-![Dozle Zabi](/images/stories/saga/origin/persos/dozle-zabi-uc-0074.png)
+
 
 
 * Rôle : Dirigeant de l'Académie Militaire de Zeon

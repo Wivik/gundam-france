@@ -6,7 +6,7 @@ Med
 ---
 
 
-![med](/images/stories/saga/charcontreattaque/ms/med.png)
+
 
 
 ### Fiche Technique

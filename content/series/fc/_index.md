@@ -7,7 +7,7 @@ Future Century
 --------------
 
 
-![uc](/images/mini/fc-_tb_400x_univers.jpg)
+
 
 
 Le Future Century (未来世紀, Mirai Seiki en japonais) est le premier univers alternatif au [Siècle Universel](uc/index.html), créé en 1995 avec la série Mobile Fighter G Gundam.

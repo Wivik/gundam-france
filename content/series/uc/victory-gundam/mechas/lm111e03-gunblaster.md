@@ -7,7 +7,7 @@ LM111E03 Gunblaster
 
 
 
-![LM111E03 Gunblaster](/images/stories/saga/vgundam/mechas/ligue/lm111e03.png)
+
 
 [LM111E03 Gunblaster](javascript:change_image_m('images/stories/saga/vgundam/mechas/ligue/lm111e03.png');)
 

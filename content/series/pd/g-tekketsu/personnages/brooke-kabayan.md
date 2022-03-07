@@ -6,7 +6,7 @@ Brooke Kabayan
 --------------
 
 
-![Brooke Kabayan](/images/stories/saga/g-tekketsu/persos/brooke-kabayan.png)
+
 * Rôle : Leader des Brewers
 * Voix Japonaise : Taketora
 

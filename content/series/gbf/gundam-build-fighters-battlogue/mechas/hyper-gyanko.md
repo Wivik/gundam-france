@@ -7,7 +7,7 @@ Hyper Gyanko
 
 
 
-![Hyper Gyanko](/images/stories/saga/gundambfblg/mechas/hyper-gyanko.png)
+
 
 [Hyper Gyanko](javascript:change_image_m('images/stories/saga/gundambfblg/mechas/hyper-gyanko.png');)
 

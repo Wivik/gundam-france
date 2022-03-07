@@ -9,7 +9,7 @@ Les numéros de série
 Quelles sont les significations de toutes ces séries de chiffres et de nombres qui constituent l'immatriculation d'un MS ? Que se cache-t-il derrière ces termes barbares ? De nombreux numéros vous seront expliqués dans ce dossier.
 
 
-![alt](/images/stories/dossiers/num_series/series.jpg)**Avant propos sur les généralités.**
+**Avant propos sur les généralités.**
 
 
 L'immatriculation d'un MS est généralement constituée de lettres, suivies d'un nombre, et par moment d'autres lettres.

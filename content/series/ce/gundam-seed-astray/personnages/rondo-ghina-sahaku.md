@@ -6,7 +6,7 @@ Rondo Ghina Sahaku
 ------------------
 
 
-![Rondo Ghina Sahaku](/images/stories/manga/astray/persos/Rondo-ghina-design-file.jpg)
+
 * Voix Japonaise : Nobuo Tobita
 
 Coordinateur, il est l'une des deux têtes de la famille Sahaku avec sa soeur jumelle Mina. S'ils partagent l'ambition de voir Orb prendre une place de premier plan, Gina, lui, n'hésite pas à utiliser pour celà les moyens les plus durs : assassinat, terrorisme et sabotage ne l'effraient pas, tant que les pions dansent dans la paume de sa main, au bon plaisir de son agressivité maladive. 

@@ -6,7 +6,7 @@ Micott Bartsch
 --------------
 
 
-![micott](/images/stories/saga/unicorn/persos/civils/micott.jpg)- Age : 16 ans  
+- Age : 16 ans  
  - Voix Japonaise : Haruka Tomatsu
 
 

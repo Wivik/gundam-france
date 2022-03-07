@@ -5,7 +5,7 @@ title: JMA27T Fantoma
 JMA27T Fantoma
 --------------
 
-![jma27t](/images/stories/saga/ggundam/mechas/neojapan/jma27t.png)
+
 
 
 JMA27T Fantoma   

@@ -6,7 +6,7 @@ Lafter Frankland
 ----------------
 
 
-![Lafter Frankland](/images/stories/saga/g-tekketsu/persos/lafter-frankland.png)
+
 
 
 * Rôle : Membre de Teiwaz

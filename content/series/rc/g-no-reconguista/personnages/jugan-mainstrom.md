@@ -6,7 +6,7 @@ Jugan Mainstrom
 ---------------
 
 
-![Jugan Mainstrom](/images/stories/saga/gnoreconguista/persos/Jugan-mainstrom.png)
+
 
 
 * Rôle : Commandant de Capital Army

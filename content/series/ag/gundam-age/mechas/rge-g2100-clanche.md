@@ -58,11 +58,11 @@ Clanche](/images/stories/saga/gundamage/mechas/clanche.png 
 
 
 
-![age2.png](/images/stories/saga/gundamage/mechas/mini/age2.png)
+
 [AGE-2 Gundam AGE-2](ag/gundam-age/age-2-gundam-age-2.html)
 Base Technologique
 
 
-![clanche.png](/images/stories/saga/gundamage/mechas/mini/clanche.png)
+
 [RGE-G2100 Clanche](ag/gundam-age/rge-g2100-clanche)
 

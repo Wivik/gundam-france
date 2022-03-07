@@ -5,7 +5,7 @@ title: "Magicians 8"
 Magicians 8
 -----------
 
-![magician8](/images/stories/saga/gundamage/persos/magician8.png)
+
 Les Magicians 8 sont un groupe d'élite des Veigans composés de huit membres, tous X-Rounders. De gauche à droite : 
 
 

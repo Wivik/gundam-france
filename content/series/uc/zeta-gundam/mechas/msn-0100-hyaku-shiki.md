@@ -9,7 +9,7 @@ MSN-00100 Hyaku Shiki
  
 
 
-![hyakushiki.jpg](/images/stories/saga/zetagundam/images/aeug/hyakushiki.jpg)
+
 
 
 ### Fiche Technique

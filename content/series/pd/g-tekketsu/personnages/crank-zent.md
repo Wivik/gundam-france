@@ -6,7 +6,7 @@ Crank Zent
 ----------
 
 
-![Crank Zent](/images/stories/saga/g-tekketsu/persos/crank-zent.png)
+
 
 
 * Rôle : Pilote de Mobile Suit

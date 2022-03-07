@@ -5,7 +5,7 @@ title: "XVV-XCR Zedas R"
 XVV-XCR Zedas R
 ---------------
 
-![zedasr](/images/stories/saga/gundamage/mechas/zedasr.png)  
+  
 
 
 ### Fiche Technique

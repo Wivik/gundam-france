@@ -7,7 +7,7 @@ Gundam X Jumaoh
 
 
 
-![Gundam X Jumaoh](/images/stories/saga/gundambfgmc/mechas/gundam-x-jumaoh.png)
+
 
 [Gundam X Jumaoh](javascript:change_image_m('images/stories/saga/gundambfgmc/mechas/gundam-x-jumaoh.png');)
 

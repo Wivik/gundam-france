@@ -43,7 +43,7 @@ C'est souvent la première chose qui vient à l'esprit quand on pense Gundam, ma
 Soit finalement une minorité dans un univers qui en compte une vingtaine, et encore les trois premiers ne sont  ils qu'une variante car ne portant que de "simples" grosses lunettes, mais de façon quasi  permanente. De plus, les motivations diffèrent d'une série à l'autre. S'il s'agit le plus souvent de cacher l'identité du personnage, des considérations techniques ou psychologiques entrent parfois en jeu. Le masque de Carozzo Ronah (F91) sert de relais psycommu pour son Mobile Armor personnel ; Harry Ord (Turn A) veut cacher ses sentiments à Diana Sorel ; Jamil Neate (Gundam X) n'assume pas son passé guerrier, ... Une observation attentive montre de toute façon qu'il ne s'agit que d'un trait apparent mais pas fondamental de l'univers Gundam (d'autres animes/manga utilisent cet artifice). Nombre de séries et mangas jouent sur un ou plusieurs personnages masqués, élément scénaristique à suspense facile. Malgré leur impact visuel fort, l'originalité réelle se trouve dans d'autres caractéristiques, que nous verrons dans la suite de cet article.
 
 
-![](/images/stories/dossiers/recurrences/char.jpg)![](/images/stories/dossiers/recurrences/klueze.jpg)![bushido](/images/stories/saga/gundam00/persos/s2/bushido.jpg)
+![](/images/stories/dossiers/recurrences/char.jpg)![](/images/stories/dossiers/recurrences/klueze.jpg)
 
 
 ### Le Gundam, simple variante du robot "divin" type Goldorak.
@@ -52,7 +52,7 @@ Soit finalement une minorité dans un univers qui en compte une vingtaine, et en
 Dans le monde de l'animation japonaise, Gundam est officiellement considéré comme une révolution en soi pour diverses raisons, la première étant que le robot (dit ici Mobile Suit) y est un simple outil et/ou arme, au même titre que n'importe quel char ou avion, intégré dans un univers cohérent où l'aspect science  fiction n'est que l'habillage d'une tragédie humaine porteuse d'un message pacifiste fort. A contrario, les animes fondateurs du genre exploitaient pour la plupart un principe de robot "divin", luttant seul contre un envahisseur souvent extra  terrestre, et jamais vraiment mis en difficulté.
 
 
-![gundamdivin](/images/stories/dossiers/recurrences/gundamdivin.jpg)
+
 
 
 Sauf que ... force est de reconnaître que dans quasiment TOUTES les séries Gundam, le MS nommé Gundam est systématiquement d'une telle avance technologique qu'il vainc parfois même une armée à lui tout seul (Gundam SEED, Gundam 00, ...), marqué visuellement par des détails de mechadesign récurrents (couleurs, antennes en V, allure générale,...), d'autant plus que son pilote est souvent au minimum un génie précoce du pilotage, plutôt asocial et complexé, voire carrément un Newtype ou assimilé exceptionnellement puissant.
@@ -73,7 +73,7 @@ Un détail de mechadesign : chaque camps développant son propre matériel, les 
 Pour le coup, il s'agit là de l'élément le plus systématique de l'univers Gundam, lié à son postulat basique de société futuriste où l'humanité a entamé une colonisation massive de sa proche banlieue spatiale, dans les limites d'une extension "raisonnable" de la science actuelle. Les colonies y ont pris un poids suffisant pour créer des entités politiques et forces militaires importantes au point de constituer des États spatiaux, certains intégrés à la Fédération Terrestre, les autres neutres ou en rébellion ouverte. Détail amusant : Zeon, Zanscare, Oz, Zaft,... les "opposants" à la Fédération ont d'ailleurs presque toujours un nom utilisant un Z.
 
 
-![colonieguerre](/images/stories/dossiers/recurrences/colonieguerre.jpg)Ceci posé, la thématique de l'opposition Fédération terrienne - colonies spatiale n'est pas une invention de Tomino : c'est la base de tout un courant "classique" de la SF jouant sur ces oppositions et une bonne part de la littérature a été produite sur les thématiques induites par ce concept scénaristique (USA - URSS, communisme - individualisme, centre-ville - banlieue, etc..).
+Ceci posé, la thématique de l'opposition Fédération terrienne - colonies spatiale n'est pas une invention de Tomino : c'est la base de tout un courant "classique" de la SF jouant sur ces oppositions et une bonne part de la littérature a été produite sur les thématiques induites par ce concept scénaristique (USA - URSS, communisme - individualisme, centre-ville - banlieue, etc..).
 
 
 Dans ce système bipolaire, la Terre est généralement, pour des raisons évidentes, le point de départ de l'expansion spatio  coloniale, et a du pour ce faire procéder à une unification globale, qui varie dans sa forme d'un univers à l'autre. Il suffit de voir les effets de ce genre de processus dans l'Histoire pour comprendre les problèmes posés par le mastodonte administratif nécessaire à la gestion d'un ensemble aussi énorme. La première conséquence de cet état est une forme de lenteur de réaction à certaines situations, parfois prise à tort pour de l'impotence, une autre est l'augmentation de la corruption dans le système. Cette lenteur de réaction a des conséquences dramatiques puisqu'elle donne un avantage a priori écrasant à tout ennemi, intérieur ou extérieur, suffisamment rapide pour en profiter. En outre, cet état de fait se trouve aggravé par le caractère unique et solitaire de la Fédération : représentant l'ensemble de l'Humanité, détentrice unique de toutes les forces armées et politiques, ses capacités à se remettre en cause et donc imaginer et anticiper une menace s'émoussent, laissant d'autant plus de marge de manoeuvre à ses ennemis. Quant à la corruption, elle est souvent le premier motif de mécontentement et de soulèvement des rebelles, lassés de voir grandir des inégalités de traitement entre les uns (souvent les Spacenoïds) et les autres (les Terriens et leurs alliés).
@@ -85,7 +85,7 @@ Un dernier détail attire l'attention : la faction créant et utilisant le Gunda
 ### L'amorce scénaristique du "GundamJack".
 
 
-![gundamjack](/images/stories/dossiers/recurrences/gundamjack.jpg)Vu seulement dans 0083, Zeta et ZZ (tentative), SEED et SEED Destiny, le schéma du vol de prototype à des fins de "reverse engineering" n'est pas lui non plus si récurrent qu'il en à l'air, mais le chaos qu'il génère donne souvent de bonnes bases de départ au scénario. Même si sa forme reste spécifique à Gundam, il faut se souvenir que d'autre séries l'utilisent : après tout, Goldorak aussi fut volé par Actarus.
+Vu seulement dans 0083, Zeta et ZZ (tentative), SEED et SEED Destiny, le schéma du vol de prototype à des fins de "reverse engineering" n'est pas lui non plus si récurrent qu'il en à l'air, mais le chaos qu'il génère donne souvent de bonnes bases de départ au scénario. Même si sa forme reste spécifique à Gundam, il faut se souvenir que d'autre séries l'utilisent : après tout, Goldorak aussi fut volé par Actarus.
 
 
 ### Le voyage initiatique Espace (Colonie, poursuite)  Terre (récupération par les alliés)  Espace (bataille finale).
@@ -107,7 +107,7 @@ Ceci posé, toutes les séries Gundam ne voient pas mourir le quart de l'humanit
  
 
 
-![msg_13](/images/stories/dossiers/recurrences/msg_13.jpg)Certes, on retrouve souvent des personnages très jeunes dans Gundam, parfois inscrits dans des cadres étranges compte tenu de leur âge : Amuro Ray (17 ans) pilote d'un prototype militaire révolutionnaire et ultrasecret, Bright Noah commandant du dernier  né des vaisseaux de ligne de la Fédération quand il n'est que lieutenant, des enfants en bas âge vagabondant dans ledit vaisseau, Camille Bidan, Elpeh Puru, ...   
+Certes, on retrouve souvent des personnages très jeunes dans Gundam, parfois inscrits dans des cadres étranges compte tenu de leur âge : Amuro Ray (17 ans) pilote d'un prototype militaire révolutionnaire et ultrasecret, Bright Noah commandant du dernier  né des vaisseaux de ligne de la Fédération quand il n'est que lieutenant, des enfants en bas âge vagabondant dans ledit vaisseau, Camille Bidan, Elpeh Puru, ...   
 Il y a là sans doute le résultat d'une contrainte de production : on s'adresse à un public jeune, donc il faut des personnages proches de lui, donc jeunes eux aussi. De plus, un personnage adolescent sera émotionnellement plus expressif qu'un adulte, plus visiblement réactif aux évènements, moins capable de mise à distance, donc au final plus à même de générer des émotions chez le spectateur. Cependant on notera que :
 
 
@@ -122,7 +122,7 @@ Bien qu'anecdotique, ce point se retrouve régulièrement dans les différents s
 On notera cependant une constante dans le sens donné à ces situations dans les univers Gundam, à rapprocher de la "surmortalité" évoquée plus haut : la dénonciation des ravages de la guerre et de l'incompréhension. Le héros (s'il survit) ne perd pas seulement son beau mécha au design si avantageux, mais aussi ce à quoi il tient le plus, amour compris.
 
 
-![ban](/images/stories/saga/zetagundam/ban.jpg)
+
 
 
 ### L'interface de pilotage, à base de siège et de grosses manettes.
@@ -131,7 +131,7 @@ On notera cependant une constante dans le sens donné à ces situations dans les
  
 
 
-![pilotage](/images/stories/dossiers/recurrences/pilotage.jpg)Depuis l'émergence des robots pilotés et autres exosquelettes dans la science  fiction, l'interface de pilotage de ces machines a été particulièrement explorée, depuis les gros leviers de Goldorak, aux commandes mentales de Macross Plus, en passant par le "motion capture" de Gunbuster et Full Métal Panic, la fusion psycho  physique de Neon Genesis Evangelion ou les exo-squelettes polymorphes et "conscients" de Bubblegum Crisis. Mobile Suit Gundam datant de 1979, il semble encore compréhensible d'y voir des robots pilotés avec des manettes et des pédaliers. Cependant, la définition du concept de "Newtype" y amène rapidement l'apparition d'interfaces mentaliques (psycommu, etc,...). Il reste vrai que celles  ci ne sont pas généralisées, quelque soit l'univers Gundam exploré (sont invoqués le coût, la compatibilité nécessaire avec le pilote,...), même si on les retrouve dans les plus récentes séries alternatives.   
+Depuis l'émergence des robots pilotés et autres exosquelettes dans la science  fiction, l'interface de pilotage de ces machines a été particulièrement explorée, depuis les gros leviers de Goldorak, aux commandes mentales de Macross Plus, en passant par le "motion capture" de Gunbuster et Full Métal Panic, la fusion psycho  physique de Neon Genesis Evangelion ou les exo-squelettes polymorphes et "conscients" de Bubblegum Crisis. Mobile Suit Gundam datant de 1979, il semble encore compréhensible d'y voir des robots pilotés avec des manettes et des pédaliers. Cependant, la définition du concept de "Newtype" y amène rapidement l'apparition d'interfaces mentaliques (psycommu, etc,...). Il reste vrai que celles  ci ne sont pas généralisées, quelque soit l'univers Gundam exploré (sont invoqués le coût, la compatibilité nécessaire avec le pilote,...), même si on les retrouve dans les plus récentes séries alternatives.   
 Malgré cela, l'interface de pilotage "basique" d'un Mobile Suit reste constituée de grosses manettes et pédaliers, gérant des mouvements assistés par ordinateur, un peu comme aujourd'hui un amateur de jeu vidéo contrôle les mouvements complexes d'un personnage avec une interface souris  clavier ou une manette. Marque de fabrique? Élément identitaire? Si quelques variations mineures sont observées dans Char contre  attaque, la seule exception vraiment marquante est Kido Butoden G-Gundam, où l'on voit une sorte d'interface type "motion capture" à la façon de Gunbuster. Si l'on veut les considérer comme élément identitaire récurrent, ce sera au même titre que l'homme masqué ou la "copine malchanceuse" : fréquemment utilisés mais anecdotiques.
 
 

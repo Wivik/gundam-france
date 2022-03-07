@@ -15,7 +15,7 @@ Devant le succès auprès du public qu'ont eu les premiers épisodes, Sunrise co
 "L'incident de la Colonie tournante". Une colonie accueille un très grand cabaret et tout le gratin s'y réunit pour assister au spectacle des nombreuses chanteuses qui y participent. Mais le public aussi bien constitué d'humains que de MS ne peut se contenir et la soirée tourne au désastre...
 
 
-![L'entrée du cabaret branché](/images/stories/saga/sdgundam/mk2-1-1.jpg) ![Des chanteuses toutes aussi mignonnes les unes que les autres](/images/stories/saga/sdgundam/mk2-1-2.jpg)![Scirocco dans sa brouette spatiale...](/images/stories/saga/sdgundam/mk2-1-3.jpg)
+![L'entrée du cabaret branché](/images/stories/saga/sdgundam/mk2-1-1.jpg) 
 ### Partie 2 : Ganso Gundam Meijou Menshuu
 
 
@@ -28,7 +28,7 @@ Devant le succès auprès du public qu'ont eu les premiers épisodes, Sunrise co
 "La Légende de Gundam", une parodie des RPG à la Final Fantasy de l'époque sur fond de Gundam. La princesse du royaume Zeta a été kidnappée par le Grand Maléfique Char (**DAI** Mahou Char !). Le roi Degwin envoie alors trois courageux héros, le guerrier Amuro, le mage Kamille et le voleur Judau, pour la délivrer. Avec eux ils auront le soutien de trois gardiens sacrés qui les aideront dans leur mission.
 
 
-![Nos héros découvrant la boite des Dieux Protecteurs](/images/stories/saga/sdgundam/mk2-2-1.jpg) ![Un ennemi en moins !](/images/stories/saga/sdgundam/mk2-2-2.jpg)![](/images/stories/saga/sdgundam/mk2-2-3.jpg)
+
 
 
 ---

@@ -7,7 +7,7 @@ MW544B Sandhoge
 
 
 
-![MW544B Sandhoge](/images/stories/saga/vgundam/mechas/mw544b.png)
+
 
 [MW544B Sandhoge](javascript:change_image_m('images/stories/saga/vgundam/mechas/mw544b.png');)
 

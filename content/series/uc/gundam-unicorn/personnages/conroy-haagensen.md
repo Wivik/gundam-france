@@ -5,7 +5,7 @@ title: Conroy Haagensen
 Conroy Haagensen
 ----------------
 
-![conroy](/images/stories/saga/unicorn/persos/fed/conroy.jpg)
+
 - Age : 35 ans  
 - Rôle : Commandant en second d'ECOAS 920  
 - Voix Japonaise : Kenta Miyake

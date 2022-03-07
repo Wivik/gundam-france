@@ -5,7 +5,7 @@ title: "CMS-223Z Zila"
 CMS-223Z Zila
 -------------
 
-![zila](/images/stories/saga/gundamage/mechas/zila.png) 
+ 
 ### Fiche Technique
 
 

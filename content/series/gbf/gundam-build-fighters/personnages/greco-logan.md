@@ -6,7 +6,7 @@ Greco Logan
 -----------
 
 
-![Greco Logan](/images/stories/saga/gundambf/persos/grek.png)
+
 
 
 * Origine : USA

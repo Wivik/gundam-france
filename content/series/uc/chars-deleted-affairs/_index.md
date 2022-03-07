@@ -7,7 +7,7 @@ Char's Deleted Affair - Portrait de la Jeune Comète
 ---------------------------------------------------
 
 
-![alt](/images/stories/manga/charsdeletedaffair/images/index.jpg)
+
 
 
 Char's Deleted Affair couvre les aventures de Char Aznable sur Axis, entre la fin de la Guerre d'Un An et UC 0084, date à laquelle il reviendra sur Terre. Prépublié dans le magazine Gundam Ace, il est édité par les éditions Kadokawa en volumes à partir de novembre 2002, le 14ème et dernier est sortie le 26 mars 2010.
@@ -16,7 +16,7 @@ Char's Deleted Affair couvre les aventures de Char Aznable sur Axis, entre la fi
 Le manga, dessiné par Hiroyuki Kitazume, commence précisément là où nous avions laissé Char à la fin du 3ème film, sur A Baoa Qu, juste après qu'il ait assassiné Kycillia Zabi. Il détaille la fuite des derniers survivants des forces de Zeon pour l'astéroïde Axis avant de développer ce qui se passera au cours de leur exil.
 
 
-Char's Deleted Affair éclairci plusieurs points qui étaient restés dans l'ombre auparavant, ou qui n'avaient été que suggérées, notamment les relations que Char aurait eu avec Haman Karn lorsqu'il était sur Axis (cf. : Zeta Gundam). Pour tous les fans du beau blond masqué, ce manga constituera un ravissement qui développe encore un peu plus loin l'histoire de la Comète Rouge.![alt](/images/stories/manga/charsdeletedaffair/images/intro.jpg)
+Char's Deleted Affair éclairci plusieurs points qui étaient restés dans l'ombre auparavant, ou qui n'avaient été que suggérées, notamment les relations que Char aurait eu avec Haman Karn lorsqu'il était sur Axis (cf. : Zeta Gundam). Pour tous les fans du beau blond masqué, ce manga constituera un ravissement qui développe encore un peu plus loin l'histoire de la Comète Rouge.
 
 
 Graphiquement, le manga souffre du style actuel de Kitazume, qui est fort éloigné de ce qu'il dessinait à l'époque de Z-Gundam ou Char's counter attack. Le choix du design pour certains personnages est parfois fort curieux, notamment celui de Haman, qui se rapproche plus de celui de Quess Paraya que de la Haman qu'on connait dans Z/ZZ.

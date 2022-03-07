@@ -18,7 +18,7 @@ Ce dossier vous présentera les différents mecha designers qui ont travaillé s
 ### Kunio Okawara
 
 
-![okawara](/images/stories/Encyclopedie/biographies/okawara.jpg)La carrière d'Okawara est longue et son palmarès de créations très impressionnant. Il fut le premier à être crédité en tant que Mecha Designer dans l'animation japonaise sur Gatchaman du studio Tatsunoko, son premier employeur dans le domaine. Par la suite, Okawara travaillera avec la Sunrise et signera plusieurs séries de Super Robot avec Yoshiyuki Tomino, puis finalement fera partie des précurseurs avec les robots de Gundam dont il concevra tous les mechas. Okawara continue d'oeuvrer dans la Saga en signant régulièrement des Mobile Suits Variants dans Gundam ACE ou encore sur des séries Gundam récentes.
+La carrière d'Okawara est longue et son palmarès de créations très impressionnant. Il fut le premier à être crédité en tant que Mecha Designer dans l'animation japonaise sur Gatchaman du studio Tatsunoko, son premier employeur dans le domaine. Par la suite, Okawara travaillera avec la Sunrise et signera plusieurs séries de Super Robot avec Yoshiyuki Tomino, puis finalement fera partie des précurseurs avec les robots de Gundam dont il concevra tous les mechas. Okawara continue d'oeuvrer dans la Saga en signant régulièrement des Mobile Suits Variants dans Gundam ACE ou encore sur des séries Gundam récentes.
 
 
 * Designs notables sur Gundam : RX-78-2 Gundam:uc/mobile-suit-gundam/rx-78-2-gundam.html:lien}, {lien:db:1303:MS-06F Zaku II * Travaux notables : GaoGaiGar, Dragonar, Votoms, Gravion...
@@ -37,7 +37,7 @@ Fujita a travaillé avec Okawara sur le design de plusieurs MS de [Zêta Gundam]
 ### Makoto Kobayashi
 
 
-![kobayashi](/images/stories/Encyclopedie/designers/kobayashi.jpg)Kobayashi a travaillé en coopération sur [Zêta Gundam](uc/zeta-gundam/mobile-suit-zeta-gundam.html) puis sur [Gundam ZZ](uc/gundam-zz/gundam-zz.html). Son travail est très détaillé et sa conception mécanique poussée, élaborant les moindres détails de ses réalisations. Il est également modéliste professionnel, de nombreux diorama ou maquettes qu'il a construit ont été publiés dans Hobby Japan.
+Kobayashi a travaillé en coopération sur [Zêta Gundam](uc/zeta-gundam/mobile-suit-zeta-gundam.html) puis sur [Gundam ZZ](uc/gundam-zz/gundam-zz.html). Son travail est très détaillé et sa conception mécanique poussée, élaborant les moindres détails de ses réalisations. Il est également modéliste professionnel, de nombreux diorama ou maquettes qu'il a construit ont été publiés dans Hobby Japan.
 
 
 * Designs notables sur Gundam : PMX-003 The O:uc/zeta-gundam/pmx-003-the-o.html:lien}, {lien:db:621:MSZ-010 ZZ Gundam * Travaux notables : Giant Robo (Design conceptuel), Gravion (production), Space Battleship Yamato Resurrection, Venus Wars...
@@ -46,7 +46,7 @@ Fujita a travaillé avec Okawara sur le design de plusieurs MS de [Zêta Gundam]
 ### Mamoru Nagano
 
 
-![nagano](/images/stories/Encyclopedie/designers/nagano.jpg)Nagano est un des premiers designers à avoir réalisé des mechas qui laissent apparaître un squelette interne sous leur armure, ajoutant un nouvel aspect dans le détail des créations qu'il a introduit avec son travail sur Heavy Metal L-Gaim. Nagano est également l'auteur du manga Five Stars Stories où l'on découvre son imagination sans limites dans la réalisation de machines impressionnantes.
+Nagano est un des premiers designers à avoir réalisé des mechas qui laissent apparaître un squelette interne sous leur armure, ajoutant un nouvel aspect dans le détail des créations qu'il a introduit avec son travail sur Heavy Metal L-Gaim. Nagano est également l'auteur du manga Five Stars Stories où l'on découvre son imagination sans limites dans la réalisation de machines impressionnantes.
 
 
 * Designs notables sur Gundam : RMS-099 Rick Dias:uc/zeta-gundam/rms-099-rick-dias.html:lien}, {lien:db:241:MSN-00100 Hyaku Shiki * Travaux notables : Brain Powerd (mecha et charac design), Five Star Stories (histoire), L-Gaim
@@ -55,7 +55,7 @@ Fujita a travaillé avec Okawara sur le design de plusieurs MS de [Zêta Gundam]
 ### Mika Akitaka
 
 
-![akitaka](/images/stories/Encyclopedie/designers/akitaka.jpg)Akitaka est un designer connu pour avoir beaucoup travaillé sur la série [Gundam ZZ](uc/gundam-zz/gundam-zz.html) et également sur [Gundam 0080](uc/gundam-0080/gundam-0080.html). Il a également réalisé plusieurs illustrations de MS Girls mettant en scène des jeunes filles avec pour vêtements des parties d'armures de MS. Il a également travaillé sur l'OVA [Gundam 0083](uc/gundam-0083/gundam-0083.html) où il a signé le Gerbera Tetra et le Neue Ziel. Parmi ses autres travaux, il a fait le mecha design de Nadescico, et Super Robot Taisen OG : The Inspector.
+Akitaka est un designer connu pour avoir beaucoup travaillé sur la série [Gundam ZZ](uc/gundam-zz/gundam-zz.html) et également sur [Gundam 0080](uc/gundam-0080/gundam-0080.html). Il a également réalisé plusieurs illustrations de MS Girls mettant en scène des jeunes filles avec pour vêtements des parties d'armures de MS. Il a également travaillé sur l'OVA [Gundam 0083](uc/gundam-0083/gundam-0083.html) où il a signé le Gerbera Tetra et le Neue Ziel. Parmi ses autres travaux, il a fait le mecha design de Nadescico, et Super Robot Taisen OG : The Inspector.
 
 
 * Designs notables sur Gundam : {lien:db:154:AGX-04 Gerbera Tetra}, {lien:db:153:AMX-002 (AMA-X2) Neue Ziel}, {lien:db:151:MS-14F Gelgoog Marine}, Transformation du ZZ Gundam.
@@ -65,7 +65,7 @@ Fujita a travaillé avec Okawara sur le design de plusieurs MS de [Zêta Gundam]
 ### Yutaka Izubuchi
 
 
-![izubuchi](/images/stories/Encyclopedie/designers/izubuchi.jpg)Izubuchi est multi-casquettes. Il a fait aussi bien du design de personnages que de mechas ou encore des décors. Sa première incursion dans la Saga est une coopération sur les designs de [Gundam ZZ](uc/gundam-zz/gundam-zz.html). Il signera par la suite le Gundam star du film [Char Contre-attaque](uc/chars-counterattack/chars-counterattack.html), le RX-93 *v* Gundam et aussi les designs rétros de l'OVA [Gundam 0080](uc/gundam-0080/gundam-0080.html). Izubuchi porte également la casquette de réalisateur avec la série RahXephon entre autres.
+Izubuchi est multi-casquettes. Il a fait aussi bien du design de personnages que de mechas ou encore des décors. Sa première incursion dans la Saga est une coopération sur les designs de [Gundam ZZ](uc/gundam-zz/gundam-zz.html). Il signera par la suite le Gundam star du film [Char Contre-attaque](uc/chars-counterattack/chars-counterattack.html), le RX-93 *v* Gundam et aussi les designs rétros de l'OVA [Gundam 0080](uc/gundam-0080/gundam-0080.html). Izubuchi porte également la casquette de réalisateur avec la série RahXephon entre autres.
 
 
 * Designs notables sur Gundam : {lien:db:622:RX-93 v Gundam}, {lien:db:174:RX-78NT-1 Gundam Alex}
@@ -95,7 +95,7 @@ Sayama est arrivé dans la Saga sur le film [Char Contre-attaque](uc/chars-count
 ### Hajime Katoki
 
 
-![katoki2](/images/stories/Encyclopedie/designers/katoki2.jpg)Prolifique designer pour la Saga Gundam, Hajime Katoki a fait ses débuts en signant le mecha design du roman Gundam Sentinel pour le magazine Model Graphix qui donna vie à ses créations, dont le très imposant EX-S Gundam. Son trait est très vite reconnaissable par de nombreux détails et des proportions qui donnent à ses créations un style particulier et aisément reconnaissable, bien qu'il soit souvent [contesté](/images/stories/Encyclopedie/designers/katokied.jpg "<br />Les critiques fréquentes à l'égard du style d'Hajime Katoki."). Au niveau de l'animation, son premier travail sur Gundam est l'OVA [Gundam 0083](uc/gundam-0083/gundam-0083.html) où il a notamment fait beaucoup de redesign, mais aussi créé l'immense RX-78GP03 Gundam Dendrobium. Il a également travaillé sur la série TV [Victory Gundam](uc/victory-gundam/victory-gundam.html) où il a réalisé les MS de la Ligue Militaire. Il est également connu pour ses nombreux redesigns dans le domaine du produit dérivé (et pas que Gundam) appelés "Ver. Ka". Katoki continue de travailler régulièrement pour Gundam avec en particulier l'OVA [Gundam Unicorn](uc/gundam-unicorn/mobile-suit-gundam-uc-unicorn-.html) dont il a déjà signé les illustrations du roman.
+Prolifique designer pour la Saga Gundam, Hajime Katoki a fait ses débuts en signant le mecha design du roman Gundam Sentinel pour le magazine Model Graphix qui donna vie à ses créations, dont le très imposant EX-S Gundam. Son trait est très vite reconnaissable par de nombreux détails et des proportions qui donnent à ses créations un style particulier et aisément reconnaissable, bien qu'il soit souvent [contesté](/images/stories/Encyclopedie/designers/katokied.jpg "<br />Les critiques fréquentes à l'égard du style d'Hajime Katoki."). Au niveau de l'animation, son premier travail sur Gundam est l'OVA [Gundam 0083](uc/gundam-0083/gundam-0083.html) où il a notamment fait beaucoup de redesign, mais aussi créé l'immense RX-78GP03 Gundam Dendrobium. Il a également travaillé sur la série TV [Victory Gundam](uc/victory-gundam/victory-gundam.html) où il a réalisé les MS de la Ligue Militaire. Il est également connu pour ses nombreux redesigns dans le domaine du produit dérivé (et pas que Gundam) appelés "Ver. Ka". Katoki continue de travailler régulièrement pour Gundam avec en particulier l'OVA [Gundam Unicorn](uc/gundam-unicorn/mobile-suit-gundam-uc-unicorn-.html) dont il a déjà signé les illustrations du roman.
 
 
 * Designs notables sur Gundam : RX-78GP03 Gundam Dendrobium Orchis}, {lien:db:624:XXXG-00W0 Wing Gundam Zero}, {lien:db:234:RX-0 Gundam Unicorn}, {lien:db:712:MSA-0011 Superior Gundam * Travaux notables : Super Robot Taisen OG, Patlabor 2, Cyber Trooper Virtual On
@@ -104,7 +104,7 @@ Sayama est arrivé dans la Saga sur le film [Char Contre-attaque](uc/chars-count
 ### Junya Ishigaki
 
 
-![ishigaki](/images/stories/Encyclopedie/designers/junyaishigaki.jpg)Ishigaki a commencé le mecha design sur Exkaiser en 1990. Il est arrivé sur Gundam pour la série [Victory Gundam](uc/victory-gundam/victory-gundam.html) dans laquelle il a designé de nombreux MS du camp antagoniste, Zanscare, puis il revient plus tard sur [Gundam Wing](ac/gundam-wing/new-mobile-report-gundam-wing.html), [Gundam X](aw/gundam-x/gundam-x.html), [Gundam Unicorn](uc/gundam-unicorn/mobile-suit-gundam-uc-unicorn-.html) et [Gundam AGE](ag/gundam-age/mobile-suit-gundam-age.html) (MS Veigan). Du côté de ses autres travaux, il a notamment signé le mecha design des jeux vidéo de Xenosaga, mais aussi une partie sur Macross Zero, Escaflowne, Gunbuster 2. Il est aussi créateur de monstres pour Fullmetal Alchemist, Tales of the Abyss, etc.
+Ishigaki a commencé le mecha design sur Exkaiser en 1990. Il est arrivé sur Gundam pour la série [Victory Gundam](uc/victory-gundam/victory-gundam.html) dans laquelle il a designé de nombreux MS du camp antagoniste, Zanscare, puis il revient plus tard sur [Gundam Wing](ac/gundam-wing/new-mobile-report-gundam-wing.html), [Gundam X](aw/gundam-x/gundam-x.html), [Gundam Unicorn](uc/gundam-unicorn/mobile-suit-gundam-uc-unicorn-.html) et [Gundam AGE](ag/gundam-age/mobile-suit-gundam-age.html) (MS Veigan). Du côté de ses autres travaux, il a notamment signé le mecha design des jeux vidéo de Xenosaga, mais aussi une partie sur Macross Zero, Escaflowne, Gunbuster 2. Il est aussi créateur de monstres pour Fullmetal Alchemist, Tales of the Abyss, etc.
 
 
 * Designs notables sur Gundam : {lien:db:625:WMS-03 Maganac}, Différents MS de série de Gundam X, {lien:db:128:XVM-FCZ Gundam Legilis}

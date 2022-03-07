@@ -6,7 +6,7 @@ Mineva Lao Zabi
 ---------------
 
 
-![Mineva Lao Zabi](/images/stories/saga/zetagundam/persos/mineva-lao-zabi.png)
+
 
 
 * Age : 8

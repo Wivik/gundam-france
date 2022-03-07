@@ -9,7 +9,7 @@ Seravee Gundam Sheherazade
 
 
 
-![Seravee Gundam Sheherazade](/images/stories/saga/gundambd/mechas/seravee-gundam-sheherazade.png)
+
 * [Seravee Gundam Sheherazade](javascript:change_image_m('images/stories/saga/gundambd/mechas/seravee-gundam-sheherazade.png');)
 * [Vue de dos](javascript:change_image_m('images/stories/saga/gundambd/mechas/seravee-gundam-sheherazade-dos.png');)
 

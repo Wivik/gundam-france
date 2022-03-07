@@ -6,7 +6,7 @@ Try Build Burning Gundam
 ------------------------
 
 
-![Try Build Burning Gundam](/images/stories/saga/gundambftry/mechas/try-build-burning-gundam.png)
+
 
 
 ### Fiche Technique

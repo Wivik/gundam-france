@@ -6,7 +6,7 @@ Ergnes Brahe
 ------------
 
 
-![Ergnes Brahe](/images/stories/manga/astray/persos/ergnes.jpg)
+
 
 Aux commandes de l'Acidalium, un jeune homme né en CE57, pilote du GSF-YAM01 Δ Astray (Delta Astray, un MS entièrement construit par Lowe Guele lors de son séjour martien) : Ergnes Brahe. Très impulsif, voire même violent (Isaac Mau le compare à Yzak Joule), Ergnes admire le Président des PLANT, Gilbert Durandal et n'hésite pas à protéger les PLANT quand l'occasion se présente.
 

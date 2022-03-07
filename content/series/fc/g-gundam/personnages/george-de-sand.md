@@ -5,7 +5,7 @@ title: George de Sand
 George de Sand
 --------------
 
-![georgedesand_1.jpg](/images/stories/saga/ggundam/images/persos/georgedesand_1.jpg)George de Sand   
+George de Sand   
 - Age : 20 ans   
 - Rôle : Réprésentant de Neo-France   
 - Mobile Fighter : Gundam Rose   

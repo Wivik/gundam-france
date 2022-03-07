@@ -6,7 +6,7 @@ Nahe Herschel
 -------------
 
 
-![Nahe Herschel](/images/stories/manga/astray/persos/Nahe-herschel.jpg)
+
 
 Né en CE 54, Nahe est le second d'Ergnes et pilote le Guardshell, un MA transformable. D'un tempérament calme et réfléchi, il offre un agréable contrepoint à la personnalité impétueuse de son commandant.
 

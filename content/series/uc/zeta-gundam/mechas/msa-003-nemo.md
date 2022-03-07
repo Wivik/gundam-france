@@ -6,7 +6,7 @@ MSA-003 Nemo
 ------------
 
 
-![nemo](/images/stories/saga/zetagundam/mechas/aeug/nemo.png)
+
 
 
 ### Fiche Technique

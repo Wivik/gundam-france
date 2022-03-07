@@ -6,7 +6,7 @@ Arbeo Pippiniden
 ----------------
 
 
-![Arbeo Pippiniden](/images/stories/saga/vgundam/persos/arbeo-pippiniden.png)
+
 * Rôle : Pilote et commandant de flotte
 * Origines : Zanscare
 * Voix Japonaise : Junji Kitajima

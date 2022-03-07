@@ -6,7 +6,7 @@ Kisato Yamabuki
 ---------------
 
 
-![Kisato Yamabuki](/images/stories/manga/astray/persos/Kisato_Yamabuki_Frame.jpg)
+
 * Voix Japonaise : Masayo Kurata
 
 Née en CE 55, Naturelle maladroite, peureuse et pleurnicharde, amoureuse de Lowe mais manquant de confiance en elle-même, elle n'hésitera pourtant pas à mette sa vie en jeu pour tenter de le sauver dans des situations critiques.

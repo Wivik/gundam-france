@@ -6,7 +6,7 @@ Bright Noa
 ----------
 
 
-![Bright Noa](/images/stories/saga/zetagundam/persos/bright-noa.png)
+
 
 
 * Age : 27

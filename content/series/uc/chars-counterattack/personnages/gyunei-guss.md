@@ -6,7 +6,7 @@ Gyunei Guss
 -----------
 
 
-![gyunei.jpg](/images/stories/saga/charcontreattaque/persos/gyunei.jpg)
+
 
 
 Age : ?? ans  

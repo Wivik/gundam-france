@@ -6,7 +6,7 @@ Sid Munzer
 ----------
 
 
-![Sid Munzer](/images/stories/saga/turnagundam/persos/divers/sid.jpg)
+
 * Rôle : Archéologue
 * Origines : Terre
 * Voix Japonaise : Akio Nojima

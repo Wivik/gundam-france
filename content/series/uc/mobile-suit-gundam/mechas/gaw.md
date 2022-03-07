@@ -6,7 +6,7 @@ Gaw
 ---
 
 
-![gaw](/images/stories/saga/msgundam/mechas/gaw.png)
+
 
 
 ### Fiche Technique
