@@ -6,9 +6,6 @@ AMS-119 Geara Doga
 ------------------
 
 
-[Geara Doga](javascript:change_image_m('images/stories/saga/charcontreattaque/ms/ams-119.png');) [Couleurs de Rezin Schnyder](javascript:change_image_m('images/stories/saga/charcontreattaque/ms/ams-119-rezun.png');) [Couleurs des "Manchettes"](javascript:change_image_m('images/stories/saga/unicorn/mechas/neozeon/gearauc0096.png');)      ![Geara Doga](/images/stories/saga/charcontreattaque/ms/ams-119.png)    
-
-
 ### Fiche Technique
 
 
