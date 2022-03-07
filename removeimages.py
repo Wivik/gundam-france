@@ -7,13 +7,15 @@ from pathlib import Path
 
 for fullpath in Path('content').rglob('*.md'):
     print(fullpath)
-    with open(fullpath, 'w') as file:
+    with open(fullpath, 'r') as file:
         content = file.read()
         image_removed = re.sub("!\[([\w\d\.\s]+)\]\(/images/(.*)\.(jpg|png|gif)\)", "", content)
-
-        file.write(content)
-
         file.close()
+    with open(fullpath, 'w') as file:
+        print(image_removed)
+        file.write(image_removed)
+
+
 
 
 
