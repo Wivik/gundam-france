@@ -12,10 +12,9 @@ Mobile Suit Gundam : The 08th MS Team - "La bataille contre les 3 dimensions" es
 ### Histoire
 
 
-Le huitième escadron mobile traverse la jungle dans le cadre d'une de leurs missions et ils se retrouvent soudainement attaqués par Zeon. L'unité de [Karen Joshua](uc/08th-ms-team/karen-joshua.html) est mise à terre par un tir de canon longue portée et [Shiro Amada](uc/08th-ms-team/shiro-amada.html) devient le seul en mesure de défendre son unité. Il va devoir gérer une bataille sur trois plans : longue portée, aérien, et aquatique avec face à lui un adversaire dans un redoutable [MS-07H8 Gouf Flight Type](uc/08th-ms-team/ms-07h8-gouf-flight-type.html)... 
+Le huitième escadron mobile traverse la jungle dans le cadre d'une de leurs missions et ils se retrouvent soudainement attaqués par Zeon. L'unité de Karen Joshua est mise à terre par un tir de canon longue portée et Shiro Amada devient le seul en mesure de défendre son unité. Il va devoir gérer une bataille sur trois plans : longue portée, aérien, et aquatique avec face à lui un adversaire dans un redoutable MS-07H8 Gouf Flight Type... 
 
 
-![3db-1.jpg](/images/mini/images-stories-saga-08thmsteam-_tb_x100_3db-1.jpg) ![3db-2.jpg](/images/mini/images-stories-saga-08thmsteam-_tb_x100_3db-2.jpg) ![3db-3.jpg](/images/mini/images-stories-saga-08thmsteam-_tb_x100_3db-3.jpg)
 
 
 ### Aperçu
@@ -27,7 +26,6 @@ Dotée d'une très bonne réalisation moderne, ce court métrage est en grande p
 L'épisode se termine avec le générique de fin de la série, "10 Years After". 
 
 
-![bataille3d.jpg](/images/stories/saga/08thmsteam/bataille3d.jpg)
 
 
 

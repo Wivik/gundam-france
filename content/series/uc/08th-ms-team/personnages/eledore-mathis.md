@@ -10,7 +10,6 @@ Eledore Mathis
 
 
 
-![Eledore Mathis](/images/stories/saga/08thmsteam/persos/eledore-mathis.png)
 
 
 * Age : 22

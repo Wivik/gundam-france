@@ -7,7 +7,6 @@ Mobile Suit Gundam : The 08th MS Team
 -------------------------------------
 
 
-![index.jpg](/images/stories/saga/08thmsteam/index.jpg)
 C'est en 1996 que cette petite OVA voit le jour. 08th MS Team se déroule sur 11 épisodes plus un épilogue (donc au total 12 épisodes) intitulé Last Resort. Elle fut suivi en 1998 de 08th MS Team : Miller's Report, un film résumant l'histoire sous forme d'un rapport sur l'acte présumé de trahison de Shiro Amada. 08th MS Team est une histoire qui se place en deuxième position dans la chronologie de l'Universal Century. Cette série sortit plus tard que prévu à cause de la mort tragique du premier réalisateur, Tateyuki Kanda, dans un accident de voiture. Il fut remplacé par Umanosuke Iida qui permit d'achever l'OVA.
 
 
@@ -26,11 +25,10 @@ En chemin vers la Terre, sa navette croise une bataille entre un GM et un Zaku. 
 Sur Terre, Shiro arrive sur la base où se trouve le 8ème bataillon. Constitué de 3 RX-79[G] Gundam et d'un véhicule de surveillance, leur équipe devra faire face à de nombreuses batailles pour assurer leur survie dans ce territoire hostile entre la guerre contre Zeon, l'alliance avec les guérillas locales, et surtout, la découverte de la liaison que Shira et Inah auront suite à un affrontement...
 
 
-![Duel entre un Zaku de test et un Ball](/images/mini/images-stories-saga-08thmsteam-_tb_x120_img1.jpg)![Shiro et Inah envoient un signal à leur armée respective](/images/mini/images-stories-saga-08thmsteam-_tb_x120_img2.jpg)![Le RX-79[G], Mobile Suit du 8ème escadron](/images/mini/images-stories-saga-08thmsteam-_tb_x120_img3.jpg)
 ### Aperçu
 
 
-![08th_17_n.jpg](/images/stories/saga/08thmsteam/08th_17_n.jpg)
+
 08th MS Team nous offre un autre point de vue sur la Guerre d'Un An. En effet, la plupart des séries de l'UC se déroulant dans l'Espace, nous avons par conséquent peu d'échos sur ce qu'il se passe sur Terre... 08th MS Team raconte donc la Guerre sur Terre. Entre trahisons, histoire d'amour et guérillas, nous avons une histoire des plus intéressantes.
 
 
@@ -46,7 +44,7 @@ Au niveau des personnages, les dessins sont variés et les caractères différen
 D'un point de vue musical, l'ambiance sonore est très bonne. Les thèmes sont assez variés et peu répétitifs. Une bonne mention aux génériques qui donnent de la saveur à l'image !
 
 
-![banniere](/images/stories/saga/08thmsteam/banniere.jpg)
+
 ### Conclusion
 
 

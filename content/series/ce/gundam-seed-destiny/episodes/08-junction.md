@@ -10,7 +10,7 @@ title: 08 - Junction
 * 4 décembre 2004
 
 
-![](/images/stories/saga/seedd/images/resumes/08-1.jpg) ![](/images/stories/saga/seedd/images/resumes/08-2.jpg)![](/images/stories/saga/seedd/images/resumes/08-3.jpg)
+![](/images/stories/saga/gundamseeddestiny/images/resumes/08-1.jpg) ![](/images/stories/saga/gundamseeddestiny/images/resumes/08-2.jpg)![](/images/stories/saga/gundamseeddestiny/images/resumes/08-3.jpg)
  
 
 

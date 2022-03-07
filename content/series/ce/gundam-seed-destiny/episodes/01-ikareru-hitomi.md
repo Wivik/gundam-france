@@ -13,7 +13,7 @@ title: 01 - Ikareru Hitomi
 Deux ans après la Guerre de la Saint Valentin Sanglante, Cagalli Yula Athha se rend sur PLANT pour rencontrer le nouveau chancelier Gilbert Durandal pour discuter d'affaires importantes. A ce moment-là, des soldats de l'Alliance infiltrent la base militaire pour voler trois prototypes de Mobile Suits secrets.
 
 
-![](/images/stories/saga/seedd/images/resumes/01-1.jpg) ![](/images/stories/saga/seedd/images/resumes/01-2.jpg)![](/images/stories/saga/seedd/images/resumes/01-3.jpg)
+![](/images/stories/saga/gundamseeddestiny/images/resumes/01-1.jpg) ![](/images/stories/saga/gundamseeddestiny/images/resumes/01-2.jpg)![](/images/stories/saga/gundamseeddestiny/images/resumes/01-3.jpg)
  
 
 

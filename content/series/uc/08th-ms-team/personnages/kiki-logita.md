@@ -10,7 +10,6 @@ Kiki Logita
 
 
 
-![Kiki Logita](/images/stories/saga/08thmsteam/persos/kiki-logita.png)
 
 
 * Age : 17

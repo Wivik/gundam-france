@@ -10,8 +10,6 @@ Shiro Amada
 
 
 
-![Shiro Amada](/images/stories/saga/08thmsteam/persos/shiro-amada.png)
-
 
 * Age : 23
 * Fonction : Responsable d'équipe du 8ème bataillon Mobile

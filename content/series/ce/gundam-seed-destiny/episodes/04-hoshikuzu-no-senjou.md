@@ -10,7 +10,7 @@ title: 04 - Hoshikuzu no Senjou
 * 6 novembre 2004
 
 
-![](/images/stories/saga/seedd/images/resumes/04-1.jpg) ![](/images/stories/saga/seedd/images/resumes/04-2.jpg)![](/images/stories/saga/seedd/images/resumes/04-3.jpg)
+![](/images/stories/saga/gundamseeddestiny/images/resumes/04-1.jpg) ![](/images/stories/saga/gundamseeddestiny/images/resumes/04-2.jpg)![](/images/stories/saga/gundamseeddestiny/images/resumes/04-3.jpg)
  
 
 

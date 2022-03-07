@@ -8,7 +8,7 @@ Exus
  
 
 
-![](/images/stories/saga/seedd/images/terre/exus.jpg)
+![](/images/stories/saga/gundamseeddestiny/images/terre/exus.jpg)
 
 
 Exus  

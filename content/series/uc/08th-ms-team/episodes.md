@@ -17,9 +17,7 @@ La traduction des titres n'est pas officielle.
 
 
 
-![Futari Dake no Sensou](/images/mini/images-stories-saga-08thmsteam-episodes-_tb_x100_01-1.jpg)
-![Futari Dake no Sensou](/images/mini/images-stories-saga-08thmsteam-episodes-_tb_x100_01-2.jpg)
-![Futari Dake no Sensou](/images/mini/images-stories-saga-08thmsteam-episodes-_tb_x100_01-3.jpg)
+
 
 
 
@@ -31,9 +29,7 @@ La traduction des titres n'est pas officielle.
 
 
 
-![Mitsurin no Gundam](/images/mini/images-stories-saga-08thmsteam-episodes-_tb_x100_02-1.jpg)
-![Mitsurin no Gundam](/images/mini/images-stories-saga-08thmsteam-episodes-_tb_x100_02-2.jpg)
-![Mitsurin no Gundam](/images/mini/images-stories-saga-08thmsteam-episodes-_tb_x100_02-3.jpg)
+
 
 
 
@@ -45,9 +41,7 @@ La traduction des titres n'est pas officielle.
 
 
 
-![Shinrai he ni Genkai Jikan](/images/mini/images-stories-saga-08thmsteam-episodes-_tb_x100_03-1.jpg)
-![Shinrai he ni Genkai Jikan](/images/mini/images-stories-saga-08thmsteam-episodes-_tb_x100_03-2.jpg)
-![Shinrai he ni Genkai Jikan](/images/mini/images-stories-saga-08thmsteam-episodes-_tb_x100_03-3.jpg)
+
 
 
 
@@ -59,9 +53,7 @@ La traduction des titres n'est pas officielle.
 
 
 
-![Zujou no Akuma](/images/mini/images-stories-saga-08thmsteam-episodes-_tb_x100_04-1.jpg)
-![Zujou no Akuma](/images/mini/images-stories-saga-08thmsteam-episodes-_tb_x100_04-2.jpg)
-![Zujou no Akuma](/images/mini/images-stories-saga-08thmsteam-episodes-_tb_x100_04-3.jpg)
+
 
 
 
@@ -73,9 +65,7 @@ La traduction des titres n'est pas officielle.
 
 
 
-![Yabureta Taiki Merei](/images/mini/images-stories-saga-08thmsteam-episodes-_tb_x100_05-1.jpg)
-![Yabureta Taiki Merei](/images/mini/images-stories-saga-08thmsteam-episodes-_tb_x100_05-2.jpg)
-![Yabureta Taiki Merei](/images/mini/images-stories-saga-08thmsteam-episodes-_tb_x100_05-3.jpg)
+
 
 
 
@@ -87,9 +77,7 @@ La traduction des titres n'est pas officielle.
 
 
 
-![Nessa Sensen](/images/mini/images-stories-saga-08thmsteam-episodes-_tb_x100_06-1.jpg)
-![Nessa Sensen](/images/mini/images-stories-saga-08thmsteam-episodes-_tb_x100_06-2.jpg)
-![Nessa Sensen](/images/mini/images-stories-saga-08thmsteam-episodes-_tb_x100_06-3.jpg)
+
 
 
 
@@ -101,9 +89,7 @@ La traduction des titres n'est pas officielle.
 
 
 
-![Saikai](/images/mini/images-stories-saga-08thmsteam-episodes-_tb_x100_07-1.jpg)
-![Saikai](/images/mini/images-stories-saga-08thmsteam-episodes-_tb_x100_07-2.jpg)
-![Saikai](/images/mini/images-stories-saga-08thmsteam-episodes-_tb_x100_07-3.jpg)
+
 
 
 
@@ -115,9 +101,7 @@ La traduction des titres n'est pas officielle.
 
 
 
-![Gunmu to Risou](/images/mini/images-stories-saga-08thmsteam-episodes-_tb_x100_08-1.jpg)
-![Gunmu to Risou](/images/mini/images-stories-saga-08thmsteam-episodes-_tb_x100_08-2.jpg)
-![Gunmu to Risou](/images/mini/images-stories-saga-08thmsteam-episodes-_tb_x100_08-3.jpg)
+
 
 
 
@@ -129,9 +113,7 @@ La traduction des titres n'est pas officielle.
 
 
 
-![Saizensen](/images/mini/images-stories-saga-08thmsteam-episodes-_tb_x100_09-1.jpg)
-![Saizensen](/images/mini/images-stories-saga-08thmsteam-episodes-_tb_x100_09-2.jpg)
-![Saizensen](/images/mini/images-stories-saga-08thmsteam-episodes-_tb_x100_09-3.jpg)
+
 
 
 
@@ -143,9 +125,7 @@ La traduction des titres n'est pas officielle.
 
 
 
-![Furueru Yama (Zenpen)](/images/mini/images-stories-saga-08thmsteam-episodes-_tb_x100_10-1.jpg)
-![Furueru Yama (Zenpen)](/images/mini/images-stories-saga-08thmsteam-episodes-_tb_x100_10-2.jpg)
-![Furueru Yama (Zenpen)](/images/mini/images-stories-saga-08thmsteam-episodes-_tb_x100_10-3.jpg)
+
 
 
 
@@ -157,10 +137,6 @@ La traduction des titres n'est pas officielle.
 
 
 
-![Furueru Yama (Kouhen)](/images/mini/images-stories-saga-08thmsteam-episodes-_tb_x100_11-1.jpg)
-![Furueru Yama (Kouhen)](/images/mini/images-stories-saga-08thmsteam-episodes-_tb_x100_11-2.jpg)
-![Furueru Yama (Kouhen)](/images/mini/images-stories-saga-08thmsteam-episodes-_tb_x100_11-3.jpg)
-
 
 
 ### 12 - Last Resort
@@ -170,10 +146,6 @@ La traduction des titres n'est pas officielle.
 * Date de première diffusion Japon : 25 juillet 1999
 
 
-
-![Last Resort](/images/mini/images-stories-saga-08thmsteam-episodes-_tb_x100_12-1.jpg)
-![Last Resort](/images/mini/images-stories-saga-08thmsteam-episodes-_tb_x100_12-2.jpg)
-![Last Resort](/images/mini/images-stories-saga-08thmsteam-episodes-_tb_x100_12-3.jpg)
 
 
 

@@ -6,24 +6,6 @@ Volumes
 -------
 
 
-![01](/images/mini/images-stories-manga-origin-volumes-_tb_109x150_01.jpg) ![02](/images/mini/images-stories-manga-origin-volumes-_tb_108x150_02.jpg)![03](/images/mini/images-stories-manga-origin-volumes-_tb_105x150_03.jpg)![04](/images/mini/images-stories-manga-origin-volumes-_tb_106x150_04.jpg)
-
-
-![05](/images/mini/images-stories-manga-origin-volumes-_tb_106x150_05.jpg) ![06](/images/mini/images-stories-manga-origin-volumes-_tb_108x150_06.jpg)![07](/images/mini/images-stories-manga-origin-volumes-_tb_109x150_07.jpg)![08](/images/mini/images-stories-manga-origin-volumes-_tb_105x150_08.jpg)
-
-
-![09](/images/mini/images-stories-manga-origin-volumes-_tb_109x150_09.jpg) ![10](/images/mini/images-stories-manga-origin-volumes-_tb_109x150_10.jpg)![11](/images/mini/images-stories-manga-origin-volumes-_tb_113x150_11.jpg)![12](/images/mini/images-stories-manga-origin-volumes-_tb_107x150_12.jpg)
-
-
-![13](/images/mini/images-stories-manga-origin-volumes-_tb_108x150_13.jpg) ![14](/images/mini/images-stories-manga-origin-volumes-_tb_101x150_14.jpg)![15](/images/mini/images-stories-manga-origin-volumes-_tb_105x150_15.jpg)![16](/images/mini/images-stories-manga-origin-volumes-_tb_109x150_16.jpg)
-
-
-![17](/images/mini/images-stories-manga-origin-volumes-_tb_106x150_17.jpg) ![18](/images/mini/images-stories-manga-origin-volumes-_tb_107x150_18.jpg)![19](/images/mini/images-stories-manga-origin-volumes-_tb_105x150_19.jpg)![20](/images/mini/images-stories-manga-origin-volumes-_tb_105x150_20.jpg)
-
-
-![21](/images/mini/images-stories-manga-origin-volumes-_tb_x150_21.jpg) ![22](/images/mini/images-stories-manga-origin-volumes-_tb_106x150_22.jpg)
-
-
 ### Dates de parution
 
 

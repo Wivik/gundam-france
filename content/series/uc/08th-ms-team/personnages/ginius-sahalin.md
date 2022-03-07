@@ -10,10 +10,6 @@ Ginius Sahalin
 
 
 
-![Ginius Sahalin](/images/stories/saga/08thmsteam/persos/ginius-sahalin.png)
-* [Ginius Sahalin](javascript:change_image_m('images/stories/saga/08thmsteam/persos/ginius-sahalin.png');)
-* [Normal Suit](javascript:change_image_m('images/stories/saga/08thmsteam/persos/ginius-sahalin-normal-suit.png');)
-
 
 
 

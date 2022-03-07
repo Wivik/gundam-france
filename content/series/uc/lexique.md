@@ -283,7 +283,6 @@ Petit drône téléguidé par le Psycommu, armé de beam canon et qui mesure en 
 
 Conflit ayant opposé la Fédération Terrienne et le Duché de Zeon (Side-3) du 3 janvier 0079 au 31 décembre 0079.   
 
-Voir le dossier : [La Guerre d'Un An](uc/mobile-suit-gundam/la-guerre-dun-an.html)
 
 
 ### Gundalium
@@ -530,8 +529,6 @@ Réacteur nucléaire extrêmement compact développé grâce à la physique des 
 Grâce à cette miniaturisation, les Mobile Suits ont pu être équipés de ces réacteurs qui, à puissance égale, sont trois fois plus petits que les réacteurs Minovsky-Ionesco. Ce réacteur presque auto suffisant est capable d'alimenter en électricité un Mobile Suit quasi indéfiniment. 
 
 
-
-![reacteur-minvosky.jpg](/images/mini/images-stories-saga-origin-lexique-_tb_x100_reacteur-minvosky.jpg)
 
 
 

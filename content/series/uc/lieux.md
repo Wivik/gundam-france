@@ -87,8 +87,6 @@ Aires City cachait également un antique Mass Driver utilisé à l'époque de la
 
 
 
-![aires_city.jpg](/images/mini/images-stories-saga-sentinel-lieux-_tb_x100_aires_city.jpg)
-
 
 
 ### Amman
@@ -123,12 +121,6 @@ Base Fédérale, elle est utilisée pour les pilotes d'essais des Mobile Suit et
 C'est là que l'Albion a été pour effectuer les tests en conditions Terrestres des Gundam GP01 et GP02A. Néanmoins, des ressortissants de Zeon attaqueront la base et parviendront à voler le GP02A.   
 
 La base sera partiellement détruite sous les tirs des missiles ennemis. Une des raisons pour lesquelles cette base a été choisie pour les tests, c'est qu'elle abrite un stock d'armes nucléaires scellé.
-
-
-
-![01.jpg](/images/mini/images-stories-Encyclopedie-images-lieux-torrington-_tb_x100_01.jpg)
-![03.jpg](/images/mini/images-stories-Encyclopedie-images-lieux-torrington-_tb_x100_03.jpg)
-![04.jpg](/images/mini/images-stories-Encyclopedie-images-lieux-torrington-_tb_x100_04.jpg)
 
 
 
@@ -265,7 +257,6 @@ Le 4 avril UC 0088, les survivants du New Desides en prendront le contrôle afin
 
 
 
-![penta.jpg](/images/mini/images-stories-saga-sentinel-chrono-_tb_x100_penta.jpg)
 
 
 
@@ -327,11 +318,6 @@ Von Braun se présente en une cité à plusieurs étages. Au sommet se trouve de
 
 
 
-
-![01.jpg](/images/mini/images-stories-Encyclopedie-images-lieux-vonbraun-_tb_x100_01.jpg)
-![02.jpg](/images/mini/images-stories-Encyclopedie-images-lieux-vonbraun-_tb_x100_02.jpg)
-![03.jpg](/images/mini/images-stories-Encyclopedie-images-lieux-vonbraun-_tb_x100_03.jpg)
-![09.jpg](/images/mini/images-stories-Encyclopedie-images-lieux-vonbraun-_tb_x100_09.jpg)
 
 
 

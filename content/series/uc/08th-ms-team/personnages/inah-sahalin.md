@@ -10,9 +10,6 @@ Inah Sahalin
 
 
 
-![Inah Sahalin](/images/stories/saga/08thmsteam/persos/inah-sahalin.png)
-* [Inah Sahalin](javascript:change_image_m('images/stories/saga/08thmsteam/persos/inah-sahalin.png');)
-* [Robe de soirée](javascript:change_image_m('images/stories/saga/08thmsteam/persos/inah-sakhalin-dress.png');)
 
 
 

@@ -10,8 +10,6 @@ Karen Joshua
 
 
 
-![Karen Joshua](/images/stories/saga/08thmsteam/persos/karen-joshua.png)
-
 
 * Age : 26
 * Fonction : Commandant en second

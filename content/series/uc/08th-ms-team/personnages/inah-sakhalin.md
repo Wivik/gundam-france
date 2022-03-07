@@ -6,7 +6,6 @@ Inah Sakhalin
 -------------
 
 
-![inah](/images/stories/saga/08thmsteam/persos/zeon/inah.jpg)
 
 
 - Age : 20 ans  

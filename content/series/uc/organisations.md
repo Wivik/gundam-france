@@ -193,10 +193,6 @@ Note de culture générale : La tapisserie exposée dans le château de la Fonda
 
 
 
-![the-vist-foundation-logo.jpg](/images/mini/images-stories-saga-unicorn-encyclo-_tb_x100_the-vist-foundation-logo.jpg)
-![tapisserie.jpg](/images/mini/images-stories-saga-unicorn-encyclo-_tb_x100_tapisserie.jpg)
-
-
 
 ### Forces Fédérales
 

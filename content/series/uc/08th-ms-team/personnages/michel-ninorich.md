@@ -10,8 +10,6 @@ Michel Ninorich
 
 
 
-![Michel Ninorich](/images/stories/saga/08thmsteam/persos/michel-ninorich.png)
-
 
 * Age : 18
 * Fonction : Navigateur et artilleur

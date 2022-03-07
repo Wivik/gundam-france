@@ -13,7 +13,7 @@ title: 02 - Tatakai wo Yonu Mono
 La bataille sur Armory One continue, et les renforts des envahisseurs arrivent pour aider leurs soldats tandis qu'Athrun Zala prend un Zaku Warrior afin d'aider à la récupération des Gundam volés.
 
 
-![](/images/stories/saga/seedd/images/resumes/02-1.jpg) ![](/images/stories/saga/seedd/images/resumes/02-2.jpg)![](/images/stories/saga/seedd/images/resumes/02-3.jpg)
+![](/images/stories/saga/gundamseeddestiny/images/resumes/02-1.jpg) ![](/images/stories/saga/gundamseeddestiny/images/resumes/02-2.jpg)![](/images/stories/saga/gundamseeddestiny/images/resumes/02-3.jpg)
  
 
 

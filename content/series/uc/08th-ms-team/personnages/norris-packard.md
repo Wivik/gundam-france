@@ -10,10 +10,6 @@ Norris Packard
 
 
 
-![Norris Packard](/images/stories/saga/08thmsteam/persos/norris-packard.png)
-* [Norris Packard](javascript:change_image_m('images/stories/saga/08thmsteam/persos/norris-packard.png');)
-* [Normal Suit](javascript:change_image_m('images/stories/saga/08thmsteam/persos/norris-packard-normal-suit.png');)
-
 
 
 

@@ -7,7 +7,7 @@ Mobile Suit Gundam SEED DESTINY
 -------------------------------
 
 
-![](/images/stories/saga/seedd/images/index.jpg)
+![](/images/stories/saga/gundamgundamseeddestinyestiny/images/index.jpg)
 
 Fort du succès de Gundam SEED, après un an de rumeur et autres spéculations, l'annonce officielle en juillet 2004 d'une suite pour la série a été reçue avec grande attention par les fans de la Saga Gundam. C'est ainsi que le 9 octobre 2004, la très attendue suite commença sa diffusion sur la même chaine que son précédent opus. Cependant, Gundam SEED Destiny a divisé les fans entre ceux qui ont été satisfaits, et les déçus. Réalisée par le même staff que Gundam SEED, cette nouvelle série se passe 2 ans après les évènements de la précédente histoire du Cosmic Era.   
 Quel nouveau conflit va enflammer la paix fragile qui s'était établi entre les Naturals et les Coordinators ?
@@ -34,14 +34,14 @@ CE 72, la guerre entre ZAFT et l'Alliance s'est achevée après la meurtrière b
 Mais pendant ce temps, on note aussi un déplacement inhabituellement inquiétant des ruines de Junius 7 vers la Terre, le monde est sur le point de connaître à nouveau le chaos et la guerre...
 
 
-![](/images/stories/saga/seedd/images/intro01.jpg)![](/images/stories/saga/seedd/images/intro02.jpg)![](/images/stories/saga/seedd/images/intro05.jpg)
+![](/images/stories/saga/gundamseeddestiny/images/intro01.jpg)![](/images/stories/saga/gundamseeddestiny/images/intro02.jpg)![](/images/stories/saga/gundamseeddestiny/images/intro05.jpg)
 ### Aperçu
 
 
 Gundam SEED Destiny débute son histoire sur les mêmes bases que son aînée, à savoir le vol de Gundam secrètement construits par une faction. Ce qui pouvait inquiéter par un début assez bateau remonte le niveau lorsqu'arrive la catastrophe de la chute des ruines de Junius 7 sur Terre avec le chaos qui s'en suit. Globalement, Gundam SEED Destiny présente une trame plus dure et violente que la précédente histoire du Cosmic-Era. Cependant, il semble aussi que la série soit ternie par une narration peu cohérente en rapport avec sa trame, misant plus sur l'effet de puissance et les combats de personnages principaux que le développement d'une histoire concise. Un des points marquants du dénouement de la série restera l'éviction des nouveaux personnages au profit des anciens tels que Kira et Lacus.
 
 
-![](/images/stories/saga/seedd/images/intro6.jpg)Nous avons regretté à la sortie de Gundam SEED Destiny un arrière-goût de série bâclée. En effet, la qualité de réalisation est un cran en dessous de sa préquelle, l'animation est parfois hésitante, la reprise de scènes de combat ou de dialogues est plus nombreuse qu'avant, seule les animations 3D n'ont pas changé. A côté de ça, nous avons également eu un point négatif concernant l'abus de reprises des premières séries de Gundam : les designs de plusieurs Mobiles Suits avec leur nom (Zaku, Gouf...) marquent le manque de créativité de l'équipe directrice de la série, sans compter parfois des erreurs de montage en reprenant des scènes issues de Gundam SEED.
+![](/images/stories/saga/gundamseeddestiny/images/intro6.jpg)Nous avons regretté à la sortie de Gundam SEED Destiny un arrière-goût de série bâclée. En effet, la qualité de réalisation est un cran en dessous de sa préquelle, l'animation est parfois hésitante, la reprise de scènes de combat ou de dialogues est plus nombreuse qu'avant, seule les animations 3D n'ont pas changé. A côté de ça, nous avons également eu un point négatif concernant l'abus de reprises des premières séries de Gundam : les designs de plusieurs Mobiles Suits avec leur nom (Zaku, Gouf...) marquent le manque de créativité de l'équipe directrice de la série, sans compter parfois des erreurs de montage en reprenant des scènes issues de Gundam SEED.
 
 
 Nous passons maintenant du côté des personnages, il ne va pas sans dire qu'on reconnaît directement le trait d'Hisaishi Hirai. Bien qu'il soit bon designer au niveau du dessin, on constatera encore une fois son défaut à ne pas savoir renouveler son style. Certes, il applique ainsi une marque de fabrique qui lui permet de se démarquer, mais cette absence de différences majeures entre les protagonistes n'est pas pour améliorer le style graphique de la série. Concernant le développement des personnages, ici encore on regrettera que celui qui fut présenté comme le héro de la série à l'époque de sa sortie, Shinn Asuka, n'évolue quasiment pas d'un trait ! Il reste ce gamin borné et colérique qui n'a que haine et vengeance dans ses yeux, et rien pour le faire progresser vers un état d'esprit plus serein. Les autres nouveaux personnages sont également relativement peu développés, certains ne cachent que peu de secrets car ils ont le même stéréotype qu'un de la précédente série, ou alors pire, des résurrections miraculeuses ? Relativement dommage.
@@ -53,7 +53,7 @@ L'aspect mecha-design de la série est quant à lui assez déroutant. Outre la r
 Côté musiques, les bandes originales de la série sont composées à nouveau par Toshihiko Sahashi, qui reste dans la même qualité de travail qu'il a fourni pour Gundam SEED. On notera un aspect bien plus tourné vers le mystère et le mélancolisme dans les musiques que celles de son aînée, mais également des pistes épiques lors de certaines scènes de combat qui donnent une dimension bien plus agréable à la série. Les génériques de la série sont cette fois au nombre de 4 ouvertures et 4 fermetures. Différents artistes de la scène J-POP sont encore une fois à l'honneur pour ces chansons, avec à nouveau TM Revolution ou encore Tanaka Rie qu'on a déjà entendus. On regrettera certaines chansons hautement criardes (3ème générique) ou alors hors contexte par leur style musicale (4ème générique) qui donnent plus envie de zapper le générique que de l'apprécier. Au niveau des chansons d'ambiance de la série, Nishikawa signe également Vestige, et Fiction Juncton Feat Yuuka nous gratifie d'un autre titre de grande beauté. Dans la catégorie "erreur de casting", on gardera en mémoire la version Pop de "Shizukana Yoru Ni" qui dénature sa version originale, mais correspondant au personnage qui la chante dans la série.
 
 
-![banniere](/images/stories/saga/gundamseeddestiny/banniere.jpg)
+![banniere](/images/stories/saga/gundamgundamseeddestinyestiny/banniere.jpg)
 ### Conclusion
 
 

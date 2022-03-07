@@ -10,7 +10,7 @@ title: 05 - Ienu Kizuato
 * 13 novembre 2004
 
 
-![](/images/stories/saga/seedd/images/resumes/05-1.jpg) ![](/images/stories/saga/seedd/images/resumes/05-2.jpg)![](/images/stories/saga/seedd/images/resumes/05-3.jpg)
+![](/images/stories/saga/gundamseeddestiny/images/resumes/05-1.jpg) ![](/images/stories/saga/gundamseeddestiny/images/resumes/05-2.jpg)![](/images/stories/saga/gundamseeddestiny/images/resumes/05-3.jpg)
  
 
 

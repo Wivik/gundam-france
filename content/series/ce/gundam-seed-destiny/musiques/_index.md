@@ -28,7 +28,7 @@ Génériques
 ### OST
 
 
-![](/images/stories/saga/seedd/images/cd/ost1.jpg)
+![](/images/stories/saga/gundamseeddestiny/images/cd/ost1.jpg)
 
 
 Gundam SEED DESTINY OST 1  
@@ -71,7 +71,7 @@ Liste des pistes :
 30. Asu he no Hashi / Un pont vers le lendemain.
 
 
-![](/images/stories/saga/seedd/images/cd/ost2.jpg)
+![](/images/stories/saga/gundamseeddestiny/images/cd/ost2.jpg)
 
 
 Gundam SEED DESTINY OST 2  
@@ -110,7 +110,7 @@ Gundam SEED DESTINY OST 2
 27. Shinkai no Kodoku / La solitude de l'océan  
   
    
-![](/images/stories/saga/seedd/images/cd/suit6.jpg)   
+![](/images/stories/saga/gundamseeddestiny/images/cd/suit6.jpg)   
   
   
 Gundam SEED DESTINY Suit CD 6 Shinn Asuka x Destiny  
@@ -128,7 +128,7 @@ Gundam SEED DESTINY Suit CD 6 Shinn Asuka x Destiny
 6. Primal Innocence (instrumentale)  
   
    
- ![](/images/stories/saga/seedd/images/cd/suit7.jpg)  
+ ![](/images/stories/saga/gundamseeddestiny/images/cd/suit7.jpg)  
   
   
 Gundam SEED DESTINY Suit CD 7 Auel Nieder x Sting Oakley  

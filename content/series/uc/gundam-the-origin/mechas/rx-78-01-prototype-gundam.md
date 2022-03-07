@@ -5,8 +5,6 @@ title: RX-78-01 Prototype Gundam
 RX-78-01 Prototype Gundam
 -------------------------
 
-![rx-78-01](/images/stories/manga/origin/mechas/rx-78-01.png)
-
 
 RX-78-01 Prototype Gundam   
   

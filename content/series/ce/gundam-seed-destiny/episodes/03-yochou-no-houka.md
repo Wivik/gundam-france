@@ -13,7 +13,7 @@ title: 03 - Yochou no Houka
 Le Minerva continue sa poursuite contre le Girty Lue. Pendant ce temps, à bord du vaisseau de ZAFT, Cagalli rencontre Shinn Asuka qui n'hésite pas une seule seconde à lui faire part de son mépris contre sa nation d'origine.
 
 
-![](/images/stories/saga/seedd/images/resumes/03-2.jpg) ![](/images/stories/saga/seedd/images/resumes/03-1.jpg)![](/images/stories/saga/seedd/images/resumes/03-3.jpg)
+![](/images/stories/saga/gundamseeddestiny/images/resumes/03-2.jpg) ![](/images/stories/saga/gundamseeddestiny/images/resumes/03-1.jpg)![](/images/stories/saga/gundamseeddestiny/images/resumes/03-3.jpg)
  
 
 

@@ -6,8 +6,6 @@ Ginius Sahalim
 --------------
 
 
-![ginius](/images/stories/saga/08thmsteam/persos/zeon/ginius.jpg)
-
 
 - Age : 27 ans  
 - Rôle : Ingénieur pour Zeon  

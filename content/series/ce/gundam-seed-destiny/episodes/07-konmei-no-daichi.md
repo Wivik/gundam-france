@@ -10,7 +10,7 @@ title: 07 - Konmei no Daichi
 * 27 novembre 2004
 
 
-![](/images/stories/saga/seedd/images/resumes/07-1.jpg) ![](/images/stories/saga/seedd/images/resumes/07-2.jpg)![](/images/stories/saga/seedd/images/resumes/07-3.jpg)
+![](/images/stories/saga/gundamseeddestiny/images/resumes/07-1.jpg) ![](/images/stories/saga/gundamseeddestiny/images/resumes/07-2.jpg)![](/images/stories/saga/gundamseeddestiny/images/resumes/07-3.jpg)
  
 
 

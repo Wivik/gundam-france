@@ -8,7 +8,7 @@ Girty Lue
  
 
 
-![](/images/stories/saga/seedd/images/vaisseaux/gardi_ruu.jpg)
+![](/images/stories/saga/gundamseeddestiny/images/vaisseaux/gardi_ruu.jpg)
 
 
 Girty Lue  

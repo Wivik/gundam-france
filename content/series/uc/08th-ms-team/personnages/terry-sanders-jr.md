@@ -10,7 +10,6 @@ Terry Sanders Jr.
 
 
 
-![Terry Sanders Jr.](/images/stories/saga/08thmsteam/persos/terry-sanders-jr.png)
 
 
 * Age : 29

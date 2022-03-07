@@ -6,7 +6,9 @@ weight: 1120
 MS IGLOO
 --------
 
-![alt](/images/stories/saga/msigloo/images/index.jpg)MS IGLOO nous plonge dans la génèse de la Guerre d'Un An. Entièrement réalisée en 3D, cette série OVA a été produite pour le Bandai Museum, elle a été diffusée dans ses salles de cinéma. Suite à la fermeture de ce musée, les autres épisodes sont directement sortis en DVD. La particularité de MS IGLOO est qu'elle est découpée en deux séries distinctes, bien que mettant en scène les même protagonistes.
+
+
+MS IGLOO nous plonge dans la génèse de la Guerre d'Un An. Entièrement réalisée en 3D, cette série OVA a été produite pour le Bandai Museum, elle a été diffusée dans ses salles de cinéma. Suite à la fermeture de ce musée, les autres épisodes sont directement sortis en DVD. La particularité de MS IGLOO est qu'elle est découpée en deux séries distinctes, bien que mettant en scène les même protagonistes.
 
 
 Ces OVA bénéficient d'une très bonne réalisation produite par un staff exemplaire. En effet, nous retrouvons Takashi Imanishi (0083, Gundam Evolve), Katoki, Yamane, Izubuchi, etc, au mecha-design.
@@ -18,7 +20,8 @@ Pour les fans, nous revoyons également de célèbres personnages, comme la lég
 La première chose qui surprendra le fan avisé est que MS IGLOO est principalement orienté Zeon. En effet, nous suivons le début de la guerre sur le point de vue d'un jeune ingénieur, Oliver May, nous découvrons alors les différents grands chapitres de la Guerre d'Un An, vus par un officier de Zeon. Rares sont les histoires qui nous présentent les membres de Zeon comme de véritables humains, la plupart étant plutôt caricaturales
 
 
-![alt](/images/stories/saga/msigloo/images/intro.jpg)Les personnages ont un charac design du type réaliste. Les proportions et la modélisation sont de qualité. Les mouvements fluides et réalistes. Néanmoins, nous avons quand même cette impression de personnages en plastique propre à la 3D.
+
+Les personnages ont un charac design du type réaliste. Les proportions et la modélisation sont de qualité. Les mouvements fluides et réalistes. Néanmoins, nous avons quand même cette impression de personnages en plastique propre à la 3D.
 
 
 Le mecha design est comme dit plus haut, réalisé par un staff de renom. De leur côté, les MS sont superbement bien rendus. Les scènes d'action et de combat sont épatantes, dans une salle de cinéma ça doit avoir un effet spectaculaire. Les combats sont bien rendus et bien calculés. En effet, nous pouvons voir également une chose qui n'est que très rarement prise en compte dans Gundam (voir jamais ?), à savoir le recul suite à une attaque. Effectivement, dans Gundam nous voyons les MS propulsés en arrière par un tir puissant, mais les vaisseaux semblent toujours immobiles. Ici, lorsqu'un vaisseau se prend un tir de Mega Canon à Particules, on sent vraiment la puissance de l'impact avec le recul. Il y a également le mouvement de caméra qui peut donner cette impression.
@@ -27,7 +30,6 @@ Le mecha design est comme dit plus haut, réalisé par un staff de renom. De leu
 Musicalement, c'est beau. Bien que les musiques soient classiques qui peuvent se perdre dans toute la discographie Gundam par leur banalité, l'ambiance est néanmoins agréable et elles donnent plus de vivant aux scènes. Les génériques quand à eux sont sublimes. Belle chanson pour l'ouverture accompagnée de séquences animées au style "dans les flammes".
 
 
-![banniere](/images/stories/saga/msigloo/banniere.jpg)
   
 MS IGLOO est donc une OVA qui donne envie. Espérons la voir un jour débarquer chez nous...   
   

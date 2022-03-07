@@ -10,7 +10,7 @@ title: 10 - Chichi no Jubaku
 * 18 décembre 2004
 
 
-![](/images/stories/saga/seedd/images/resumes/10-1.jpg)![](/images/stories/saga/seedd/images/resumes/10-2.jpg)![](/images/stories/saga/seedd/images/resumes/10-3.jpg)
+![](/images/stories/saga/gundamseeddestiny/images/resumes/10-1.jpg)![](/images/stories/saga/gundamseeddestiny/images/resumes/10-2.jpg)![](/images/stories/saga/gundamseeddestiny/images/resumes/10-3.jpg)
 
 
  

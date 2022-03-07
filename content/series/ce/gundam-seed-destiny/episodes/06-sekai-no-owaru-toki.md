@@ -10,7 +10,7 @@ title: 06 - Sekai no Owaru Toki
 * 20 novembre 2004
 
 
-![](/images/stories/saga/seedd/images/resumes/06-1.jpg) ![](/images/stories/saga/seedd/images/resumes/06-2.jpg)![](/images/stories/saga/seedd/images/resumes/06-3.jpg)
+![](/images/stories/saga/gundamseeddestiny/images/resumes/06-1.jpg) ![](/images/stories/saga/gundamseeddestiny/images/resumes/06-2.jpg)![](/images/stories/saga/gundamseeddestiny/images/resumes/06-3.jpg)
  
 
 

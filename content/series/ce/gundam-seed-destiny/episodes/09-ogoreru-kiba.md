@@ -10,7 +10,7 @@ title: 09 - Ogoreru Kiba
 * 11 décembre 2004
 
 
-![](/images/stories/saga/seedd/images/resumes/09-1.jpg)![](/images/stories/saga/seedd/images/resumes/09-2.jpg)![](/images/stories/saga/seedd/images/resumes/09-3.jpg)
+![](/images/stories/saga/gundamseeddestiny/images/resumes/09-1.jpg)![](/images/stories/saga/gundamseeddestiny/images/resumes/09-2.jpg)![](/images/stories/saga/gundamseeddestiny/images/resumes/09-3.jpg)
 Base lunaire de la Fédération Atlantique, les opérations pour l'attaque contre PLANT commencent.
 
 
